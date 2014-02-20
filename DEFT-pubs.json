@@ -1,0 +1,1262 @@
+[
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["LDC"],
+  "Title":"Annotation Trees: LDC's Customizable, Extensible, Scalable Annotation Infrastructure",
+  "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-annotation-trees.pdf",
+  "Authors":["Jonathan Wright","Kira Griffitt","Joe Ellis","Stephanie Strassel","Brendan Callahan"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(Wisc Team) Indiana University"],
+  "Title":"Knowledge Intensive Learning: Combining Qualitative Constraints with Causal Independence for Parameter Learning in Probabilistic Models",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/KIL_ECML13.pdf",
+  "Authors":["Shuo Yang and Sriraam Natarajan"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(Wisc Team) University of Wisconsin-Madison and Indiana University"],
+  "Title":"Guiding Autonomous Agents to Better Behaviors through Human Advice",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/kbirl_ICDM13.pdf",
+  "Authors":["Gautam Kunapuli","Phillip Odom","Jude Shavlik","and Sriraam Natarajan"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(Wisc Team) Wake Forest University","Indiana University","University of Wisconsin-Madison and University of Alberta","Canada"],
+  "Title":"AR-Boost: Reducing Overfitting by a Robust Data-Driven Regularization Strategy",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/AR_Boost.pdf",
+  "Authors":["Baidya Saha","Gautam Kunapuli","Nilanjan Ray","Joseph Maldjian and Sriraam Natarajan"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) Fraunhofer IAIS","TU Dortmund and Indiana University"],
+  "Title":"Lifted Online Training of Relational Models with Stochastic Gradient Methods",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/ahmadi12ecmlpkdd.pdf",
+  "Authors":["Babak Ahmadi","Kristian Kersting and Sriraam Natarajan"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) Fraunhofer IAIS","TU Dortmund and Indiana University"],
+  "Title":"Lifted Parameter Learning in Relational Models",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/lifted_parameter_SRL12.pdf",
+  "Authors":["Babak Ahmadi","Kristian Kersting and Sriraam Natarajan"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) Indiana University","Cycorp","University of Wisconsin-Madison","TU Dormund and Oregon State University"],
+  "Title":"Accelerating Imitation Learning in Relational Domains via Transfer by Initialization",
+  "Link":"Not yet published",
+  "Authors":["Sriraam Natarajan","Phillip Odom","Saket Joshi","Tushar Khot","Kristian Kersting and Prasad Tadepalli"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WIscTeam) Indiana University","Cycorp","University of Wisconsin-Madison","TU Dormund and Oregon State University"],
+  "Title":"Accelerating Imitation Learning in Relational Domains via Transfer by Initialization",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/Imitation_StaRAI12.pdf",
+  "Authors":["Sriraam Natarajan","Phillip Odom","Saket Joshi","Tushar Khot","Kristian Kersting and Prasad Tadepalli"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) Indiana University","Wake Forest University","University of Wisconsin-Madison","Stanford University and TU Dortmund"],
+  "Title":"Using Commonsense Knowledge to Automatically Create (Noisy) Training Examples from Text",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/WS_StaRAI13.pdf",
+  "Authors":["Sriraam Natarajan","Jose Picado","Tushar Khot","Kristian Kersting","Christopher Re and Jude Shavlik"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Indiana University and TU Dormund"],
+  "Title":"Learning Relational Probabilistic Models from Partially Observed Data - Opening the Closed-World Assumption",
+  "Link":"To appear in Inductive Logic Programming (ILP) Conference 2013 proceedings",
+  "Authors":["Tushar Khot","Sriraam Natarajan","Kristian Kersting and Jude Shavlik"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Indiana University and TU Dortmund"],
+  "Title":"Structure Learning with Hidden Data in Relational Domains",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/EM_SRL12.pdf",
+  "Authors":["Tushar Khot","Sriraam Natarajan","Kristian Kersting and Jude Shavlik"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Understanding Tables in Context Using Standard NLP Toolkits",
+  "Link":"http://www.cs.stanford.edu/~chrismre/papers/jointable-acl.pdf",
+  "Authors":["Vidhya Govindaraju","Ce Zhang","and Christopher R"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Towards High-Throughput Gibbs Sampling at Scale: A Study across Storage Managers",
+  "Link":"http://www.cs.stanford.edu/~chrismre/papers/elementary_sigmod.pdf",
+  "Authors":["Ce Zhang and Christopher R"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Scaling Inference for Markov Logic via Dual Decomposition",
+  "Link":"ftp://ftp.cs.wisc.edu/machine-learning/shavlik-group/niu.icdm12.pdf",
+  "Authors":["Feng Niu","Ce Zhang","Christopher R","and Jude Shavlik."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Parallel Stochastic Gradient Algorithms for Large-Scale Matrix Completion",
+  "Link":"http://www.optimization-online.org/DB_FILE/2011/04/3012.pdf",
+  "Authors":["Benjamin Recht and Christopher R"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Hazy: Making it Easier to Build and Maintain Big-data Analytics",
+  "Link":"http://dl.acm.org/citation.cfm?id=2431055",
+  "Authors":["Arun Kumar","Feng Niu","and Christopher R"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Big Data versus the Crowd: Looking for Relationships in All the Right Places",
+  "Link":"http://www.cs.stanford.edu/~chrismre/papers/acl2012.pdf",
+  "Authors":["Ce Zhang","Feng Niu","Christopher R","and Jude Shavlik"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Elementary: Large-scale Knowledge-base Construction via Machine Learning and Statistical Inference",
+  "Link":"http://www.cs.stanford.edu/~chrismre/papers/elementary_journal.pdf",
+  "Authors":["Feng Niu","Ce Zhang","Christopher R","and Jude Shavlik"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"DeepDive: Web-scale Knowledge-base Construction using Statistical Learning and Inference",
+  "Link":"http://www.cs.stanford.edu/~chrismre/papers/deepdive_vlds.pdf",
+  "Authors":["Feng Niu","Ce Zhang","Christopher R","and Jude Shavlik"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Optimizing Statistical Information Extraction Programs Over Evolving Text",
+  "Link":"http://www.cs.stanford.edu/~chrismre/papers/crflex-icde12.pdf",
+  "Authors":["Fei Chen","Xixuan Feng","Christopher R","and Min Wang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Toward a Noncommutative Arithmetic-Geometric Mean Inequality: Conjectures, Case-studies, and Consequences",
+  "Link":"http://www.optimization-online.org/DB_HTML/2012/02/3367.html",
+  "Authors":["Benjamin Recht and Christopher R"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
+  "Title":"Factoring Nonnegative Matrices with Linear Programs",
+  "Link":"http://pages.cs.wisc.edu/~brecht/papers/12.Bit.EtAl.HOTT.pdf",
+  "Authors":["Victor Bittorf","Benjamin Recht","Christopher R","and Joel A. Tropp"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University","and others"],
+  "Title":"Building an Entity-Centric Stream Filtering Test Collection for TREC 2102",
+  "Link":"http://trec.nist.gov/pubs/trec21/papers/KBA.OVERVIEW.pdf",
+  "Authors":["John R. Frank","Max Kleiman-Weiner","Daniel A. Roberts","Feng Niu","Ce Zhang","Christopher R","and Ian Soboroff"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University","University of Washington"],
+  "Title":"Understanding Cardinality Estimation using Entropy Maximization",
+  "Link":"http://www.cs.stanford.edu/~chrismre/papers/TODS_max_ent_models_CRC.pdf",
+  "Authors":["Christopher R and Dan Suciu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) University of Wisconsin-Madison","UC Berkeley and Indiana University"],
+  "Title":"Learning Relational Structure for Temporal Relation Extraction",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/TemporalIE_StaRAI12.pdf",
+  "Authors":["Tushar Khot","Siddharth Srivastava","Sriraam Natarajan and Jude Shavlik"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["(WiscTeam) Wake Forest University","SRI International","Indiana University"],
+  "Title":"Initial Empirical Evaluation of Anytime Lifted Belief Propagation",
+  "Link":"http://homes.soic.indiana.edu/natarasr/Papers/ALBP_StaRAI12.pdf",
+  "Authors":["Richard G. Freedman","Rodrigo de Salvo Braz","Hung Bui and Sriraam Natarajan"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Bar Elan","CUNY"],
+  "Title":"Efficient Implementation of Beam-Search Incremental Parsers",
+  "Link":"http://acl.cs.qc.edu/papers/fastbeam.pdf",
+  "Authors":["Yoav Goldberg","Kai Zhao","and Liang Huang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CMU CS"],
+  "Title":"A Structured Distributional Semantic Model for Event Co-reference",
+  "Link":"http://aclweb.org/anthology/P/P13/P13-2083.pdf",
+  "Authors":["Goyal","K.","S.K. Jauhar","H. Li","M. Sachan","S. Shrivastava","E.H. Hovy"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CMU CS"],
+  "Title":"A Structured Distributional Semantic Model: Integrating Structure with Semantics",
+  "Link":"http://aclweb.org/anthology/W/W13/W13-3203.pdf",
+  "Authors":["Goyal","K.","S.K. Jauhar","H. Li","M. Sachan","S. Shrivastava","E.H. Hovy"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CMU CS"],
+  "Title":"Events are Not Simple: Identity, Non-Identity, and Quasi-Identity",
+  "Link":"http://aclweb.org/anthology/W/W13/W13-1203.pdf",
+  "Authors":["Hovy","E.H.","T. Mitamura","M.F. Verdejo","J. Araki","A. Philpot"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CMU CS"],
+  "Title":"Programming with Personalized PageRank: A Locally Groundable First-Order Probabilistic Logic,",
+  "Link":"http://www.cikm2013.org/",
+  "Authors":["W.Y. Wang","K. Mazaitis","W.W. Cohen"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CMU CS"],
+  "Title":"Programming with Personalized PageRank: A Locally Groundable First-Order Probabilistic Logic",
+  "Link":"http://sites.google.com/site/inferning12/",
+  "Authors":["W.Y. Wang","K. Mazaitis","W.W. Cohen"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CMU CS"],
+  "Title":"Story-Level Inference and Gap Filling to Improve Machine Reading",
+  "Link":"www.isi.edu/%7Ehans/publications/FLAIRS12.pdf",
+  "Authors":["H. Chalupsky"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CMU CS"],
+  "Title":"Abstract Meaning Representation for Sembanking",
+  "Link":"http://www.isi.edu/natural-language/amr/a.pdf",
+  "Authors":["L. Banarescu","C. Bonial","Shu Cai","M.a Georgescu","K. Griffitt","U. Hermjakob","K. Knight","Ph. Koehn","M. Palmer and N. Schneider"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Columbia Dept of CS","Columbia CCLS"],
+  "Title":"Written Dialog and Social Power: Manifestations of Different Types of Power in Dialog Behavior",
+  "Link":"http://aclweb.org/anthology/I/I13/I13-1025.pdf",
+  "Authors":["Vinodkumar Prabhakaran","Owen Rambow"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Columbia Dept of CS","Columbia CCLS"],
+  "Title":"Automatic Extraction of Social Networks from Literary Text: A Case Study on Alice In Wonderland",
+  "Link":"http://www.cs.columbia.edu/~apoorv/Homepage/Publications_files/MAIN.pdf",
+  "Authors":["Apoorv Agarwal","Anup Kotalwar and Owen Rambow"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Columbia Dept of CS","Columbia CCLS"],
+  "Title":"SINNET: Social Network Extractor from Text",
+  "Link":"http://www.aclweb.org/anthology/I/I13/I13-2009.pdf",
+  "Authors":["Apoorv Agarwal","Anup Kotalwar","Jiehan Zheng and Owen Rambow"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Columbia University"],
+  "Title":"Columbia NLP: Sentiment Detection of Subjective Phrases in Social Media",
+  "Link":"http://www.aclweb.org/anthology/S/S13/S13-2079.pdf",
+  "Authors":["Sara Rosenthal and Kathleen McKeown"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Columbia University","Rensselaer Polytechnic institute","George Washington University"],
+  "Title":"Linking Tweets to News: A Framework to Enrich Short Text Data in Social Media",
+  "Link":"http://aclweb.org/anthology/P/P13/P13-1024.pdf",
+  "Authors":["Weiwei Guo","Hao Li","Heng Ji","Mona Diab"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Columbia University","University of the Basque Country","George Washington University"],
+  "Title":"*SEM 2013 shared task: Semantic Textual Similarity",
+  "Link":"http://aclweb.org/anthology/S/S13/S13-1004.pdf",
+  "Authors":["Eneko Agirre","Daniel Cer","Mona Diab","Aitor Gonzalez-Agirre and Weiwei Guo"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CUNY"],
+  "Title":"Minibatch and Parallelization for Online Large Margin Structured Learning",
+  "Link":"http://acl.cs.qc.cuny.edu/~kzhao/papers/minibatch.pdf",
+  "Authors":["Kai Zhao and Liang Huang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CUNY"],
+  "Title":"Joint Event Extraction via Structured Prediction with Global Features",
+  "Link":"http://acl.cs.qc.edu/papers/jointIE.pdf",
+  "Authors":["Qi Li","Heng Ji","and Liang Huang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CUNY"],
+  "Title":"Optimal Incremental Parsing via Best-First Dynamic Programming",
+  "Link":"http://acl.cs.qc.edu/~kzhao/papers/bestfirst_dp.pdf",
+  "Authors":["Kai Zhao","James Cross","and Liang Huang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CUNY"],
+  "Title":"Detecting Laughter and Filled Pauses Using Syllable-based Features",
+  "Link":"http://speech.cs.qc.cuny.edu/pubs/Detecting-Laughter-and-Filled-Pauses-Using-Syllable-based-Features.pdf",
+  "Authors":["David Guy Brizan","Guozhen An","Andrew Rosenberg"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CUNY"],
+  "Title":"Sure, I Did The Right Thing: A System for Sarcasm Detection in Speech",
+  "Link":"http://speech.cs.qc.cuny.edu/pubs/rakov2013sarcasm.pdf",
+  "Authors":["Rachel Rakov","Andrew Rosenberg"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CUNY"],
+  "Title":"Let Me Finish: Automatic Conflict Detection Using Speaker Overlap",
+  "Link":"http://speech.cs.qc.cuny.edu/pubs/LetMeFinish2013Grezes.pdf",
+  "Authors":["Felix Grezes","Justin Richards","Andrew Rosenberg"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["CUNY","Google"],
+  "Title":"Online Learning for Inexact Hypergraph Search",
+  "Link":"http://www.ryanmcd.com/papers/inexactHypergraphEMNLP2013.pdf",
+  "Authors":["Hao Zhang","Liang Huang","Kai Zhao","Ryan McDonald"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["ICT","CUNY","IBM"],
+  "Title":"Max-Violation Perceptron and Forced Decoding for Scalable MT Training",
+  "Link":"http://acl.cs.qc.edu/~lhuang/papers/maxforce.pdf",
+  "Authors":["Heng Yu","Liang Huang","Haitao Mi","and Kai Zhao"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["IHMC"],
+  "Title":"Topical Positioning: A New Method for Predicting Opinion Changes in Conversation.",
+  "Link":"http://www.mpi-sws.org/~cristian/LASM_2013_files/LASM/pdf/LASM05.pdf",
+  "Authors":["Ching-Sheng Lin","Samira Shaikh","Jennifer Stromer-Galley","Jennifer Crowley","Tomek Strzalkowski","Veena Ravishankar"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["IHMC"],
+  "Title":"CASTLE: Crowd-Assisted System for Textual Labeling & Extraction",
+  "Link":"http://www.humancomputation.com/2013/index.html",
+  "Authors":["Sean Goldberg","Daisy Zhe Wang","Tim Kraska"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["JHU/Upenn"],
+  "Title":"PARMA: A Predicate Argument Aligner",
+  "Link":"http://cs.jhu.edu/~vandurme/papers/parma-a-predicate-argument-linker.pdf",
+  "Authors":["Travis Wolfe","Benjamin Van Durme","Mark Dredze","Nicholas Andrews","Charley Beller","Chris Callison-Burch","Jay DeYoung","Justin Snyder","Jonathan Weese","Tan Xu","and Xuchen Yao"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["JHU/Upenn"],
+  "Title":"PPDB: The Paraphrase Database",
+  "Link":"http://cs.jhu.edu/~vandurme/papers/PPDB-The-Paraphrase-Database_NAACL_2013.pdf",
+  "Authors":["Juri Ganitkevitch","Benjamin Van Durme and Chris Callison-Burch"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["LDC"],
+  "Title":"Annotation Trees: LDC's Customizable, Extensible, Scalable Annotation Infrastructure",
+  "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-annotation-trees.pdf",
+  "Authors":["Jonathan Wright","Kira Griffitt","Joe Ellis","Stephanie Strassel","Brendan Callahan"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Oregon State University"],
+  "Title":"Output Space Search for Structured Prediction",
+  "Link":"http://icml.cc/discuss/2012/587.html",
+  "Authors":["Doppa","J.","Fern","A.","Tadepalli","P."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Oregon State University"],
+  "Title":"HC-Search: Learning Heuristics and Cost Functions for Structured Prediction",
+  "Link":"http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6429",
+  "Authors":["Doppa","J.","Fern","A.","Tadepalli","P."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI"],
+  "Title":"Detecting Community Evolution and Leadership Roles during Emergencies",
+  "Link":"",
+  "Authors":["Yulia Tyshchuk","Hao Li","Heng Ji and William Wallace"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI"],
+  "Title":"RPI-BLENDER TAC-KBP2013 Knowledge Base Population System Description",
+  "Link":"",
+  "Authors":["Dian Yu","Haibo Li","Taylor Cassidy","Qi Li","Zheng Chen and Heng Ji"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI"],
+  "Title":"Evolution of Communties on Twitter and the Role of their Leaders during Emergencies",
+  "Link":"http://nlp.cs.rpi.edu/paper/eventsocial.pdf",
+  "Authors":["Yulia Tyshchuk","Hao Li","Heng Ji and William Wallace"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI"],
+  "Title":"Tackling Representation, Annotation and Classification Challenges for Temporal Knowledge Base Population",
+  "Link":"http://link.springer.com/article/10.1007%2Fs10115-013-0675-1",
+  "Authors":["Heng Ji","Taylor Cassidy","Qi Li and Suzanne Tamang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","CUNY"],
+  "Title":"Joint Event Extraction via Structured Prediction with Global Features",
+  "Link":"http://aclweb.org/anthology/P/P13/P13-1008.pdf",
+  "Authors":["Qi Li","Heng Ji and Liang Huang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","Google"],
+  "Title":"Expanding Microblog Context to Enhance Disambiguation to Wikipedia",
+  "Link":"http://aclweb.org/anthology//C/C12/C12-1028.pdf",
+  "Authors":["Taylor Cassidy","Heng Ji","Hongzhao Huang","Lev-Arie Ratinov","Arkaitz Zubiaga"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","IBM","UIUC","NEU"],
+  "Title":"Resolving Entity Morphs in Censored Data",
+  "Link":"http://aclweb.org/anthology/P/P13/P13-1107.pdf",
+  "Authors":["Hongzhao Huang","Zhen Wen","Dian Yu","Heng Ji","Yizhou Sun","Jiawei Han and He Li"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","ISI"],
+  "Title":"Curating and Contextualizing Twitter Stories to Assist with Social Newsgathering",
+  "Link":"http://dl.acm.org/citation.cfm?id=2449424",
+  "Authors":["Arkaitz Zubiaga","Heng Ji and Kevin Knight"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","UIUC"],
+  "Title":"Constructing Topical Hierarchies in Heterogeneous Information Networks",
+  "Link":"http://nlp.cs.rpi.edu/paper/icdm13.pdf",
+  "Authors":["Chi Wang","Marina Danilevsky","Jialu Liu","Nihit Desai","Heng Ji and Jiawei Han"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","UIUC"],
+  "Title":"Exploring and Inferring User-User Pseudo-Friendship for Sentiment Analysis with Heterogeneous Networks",
+  "Link":"n/a",
+  "Authors":["Hongbo Deng","Jiawei Han","Hao Li","Heng Ji","Hongning Wang and Yue Lu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","UIUC"],
+  "Title":"EventCube: Multi-Dimensional Search and Mining of Structured and Text Data",
+  "Link":"http://dl.acm.org/citation.cfm?id=2487575.2487718",
+  "Authors":["Fangbo Tao","Kin Hou Lei","Jiawei Han","Chengxiang Zhai","Xiao Cheng","Marina Danielevsky","Nihit Desai","Bolin Ding","Jing Ge","Heng Ji","Rucha Kanade","Anne Kao","Qi Li","Yanen Li","Cindy Xide Lin","Jialiu Liu","Nikunj Oza","Ashok Srivastava","Rod Tjoelker","Chi Wang","Duo Zhang","Bo Zhao"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","Columbia"],
+  "Title":"Linking Tweets to News: A Framework to Enrich Online Short Text Data",
+  "Link":"http://aclweb.org/anthology/P/P13/P13-1024.pdf",
+  "Authors":["Weiwei Guo","Hao Li","Heng Ji and Mona Diab"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","CUNY"],
+  "Title":"CUNY_BLENDER TAC-KBP2012 Entity Linking System and Slot Filling Validation System",
+  "Link":"http://www.nist.gov/tac/publications/2012/participant.papers/Blender_CUNY.proceedings.pdf",
+  "Authors":["Suzanne Tamang","Zheng Chen and Heng Ji"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","HIT"],
+  "Title":"Combining Social Cognitive Theories with Linguistic Features for Multi-genre Sentiment Analysis",
+  "Link":"http://aclweb.org/anthology/Y/Y12/Y12-1013.pdf",
+  "Authors":["Hao Li","Yu Chen","Heng Ji","Smaranda Muresan and Dequan Zheng"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","SRI"],
+  "Title":"Name-aware Machine Translation",
+  "Link":"http://aclweb.org/anthology//P/P13/P13-1059.pdf",
+  "Authors":["Haibo Li","Jing Zheng","Heng Ji","Qi Li and Wen Wang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","SRI","IBM"],
+  "Title":"Joint Bilingual Name Tagging for Parallel Corpora",
+  "Link":"http://dl.acm.org/citation.cfm?id=2398506",
+  "Authors":["Qi Li","Haibo Li","Heng Ji","Wen Wang","Jing Zheng","Fei Huang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","UIUC"],
+  "Title":"Exploring and Inferring User-User Pseudo-Friendship for Sentiment Analysis with Heterogeneous Networks",
+  "Link":"http://knowledgecenter.siam.org/159SDM/1",
+  "Authors":["Hongbo Deng","Jiawei Han","Hao Li","Heng Ji","Hongning Wang and Yue Lu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["RPI","UIUC","BBN","ARL"],
+  "Title":"Tweet Ranking based on Heterogeneous Networks",
+  "Link":"http://aclweb.org/anthology//C/C12/C12-1076.pdf",
+  "Authors":["Hongzhao Huang","Arkaitz Zubiaga","Heng Ji","Hongbo Deng","Dong Wang","Hieu Khac Le","Tarek Abdelzaher","Jiawei Han","Alice Leung","John Hancock and Clare Voss"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+  "Link":"http://nlp.stanford.edu/pubs/SocherEtAl_EMNLP2013.pdf",
+  "Authors":["Richard Socher","Alex Perelygin","Jean Wu","Jason Chuang","Christopher Manning","Andrew Ng","and Christopher Potts"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Semantic Parsing on Freebase from Question-Answer Pairs",
+  "Link":"http://nlp.stanford.edu/pubs/semparseEMNLP13.pdf",
+  "Authors":["Jonathan Berant","Andrew Chou","Roy Frostig","and Percy Liang"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"These Guys Are Teaching Computers How to Think Like People",
+  "Link":"http://www.wired.com/wiredenterprise/2013/10/nasent-deep-learning/",
+  "Authors":["Daniela Hernandez"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Stanford researchers to open-source model they say has nailed sentiment analysis",
+  "Link":"http://gigaom.com/2013/10/03/stanford-researchers-to-open-source-model-they-say-has-nailed-sentiment-analysis/",
+  "Authors":["Derrick Harris"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Generating Recommendation Dialogs by Extracting Information from User Reviews",
+  "Link":"http://nlp.stanford.edu/pubs/yelp-acl2013.pdf",
+  "Authors":["Kevin Reschke","Adam Vogel","and Dan Jurafsky"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Parsing With Compositional Vector Grammars",
+  "Link":"http://nlp.stanford.edu/pubs/SocherBauerManningNg_ACL2013.pdf",
+  "Authors":["Richard Socher","John Bauer","Christopher Manning","and Andrew Ng"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Better Word Representations with Recursive Neural Networks for Morphology",
+  "Link":"http://nlp.stanford.edu/pubs/conll13_morpho.pdf",
+  "Authors":["Minh-Thang Luong","Richard Socher","and Christopher Manning"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Philosophers are Mortal: Inferring the Truth of Unseen Facts",
+  "Link":"http://nlp.stanford.edu/pubs/angeli2013-conll-truth.pdf",
+  "Authors":["Gabor Angeli and Christopher Manning"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"The Life and Death of Discourse Entities: Identifying Singleton Mentions",
+  "Link":"http://nlp.stanford.edu/pubs/discourse-referent-lifespans.pdf",
+  "Authors":["Marta Recasens","Marie-Catherine de Marneffe","and Christopher Potts"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Same Referent, Different Words: Unsupervised Mining of Opaque Coreferent Mentions",
+  "Link":"http://nlp.stanford.edu/pubs/coref-dictionary.pdf",
+  "Authors":["Marta Recasens","Matthew Can","and Dan Jurafsky."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Learning New Facts From Knowledge Bases With Neural Tensor Networks and Semantic Word Vectors",
+  "Link":"http://nlp.stanford.edu/pubs/ChenSocherManningNg_ICLR2013_DeepKB.pdf",
+  "Authors":["Danqi Chen","Richard Socher","Christopher D. Manning","and Andrew Y. Ng"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Convolutional-Recursive Deep Learning for 3D Object Classification",
+  "Link":"http://nlp.stanford.edu/pubs/SocherHuvalBhatManningNg_NIPS2012.pdf",
+  "Authors":["Richard Socher","Brody Huval","Bharath Bhat","Christopher D. Manning","and Andrew Y. Ng"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Joint Entity and Event Coreference Resolution across Documents",
+  "Link":"http://nlp.stanford.edu/pubs/emnlp2012-coref.pdf",
+  "Authors":["Heeyoung Lee","Marta Recasens","Angel Chang","Mihai Surdeanu","and Dan Jurafsky"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Learning Constraints for Consistent Timeline Extraction",
+  "Link":"http://nlp.stanford.edu/pubs/dmcc-emnlp-2012.pdf",
+  "Authors":["David McClosky and Christopher D. Manning"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Semantic Compositionality Through Recursive Matrix-Vector Spaces",
+  "Link":"http://nlp.stanford.edu/pubs/SocherHuvalManningNg_EMNLP2012.pdf",
+  "Authors":["Richard Socher","Brody Huval","Christopher D. Manning","and Andrew Y. Ng"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Multi-instance Multi-label Learning for Relation Extraction",
+  "Link":"http://nlp.stanford.edu/pubs/emnlp2012-mimlre.pdf",
+  "Authors":["Mihai Surdeanu","Julie Tibshirani","Ramesh Nallapati","and Christopher D. Manning"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Probabilistic Finite State Machines for Regression-based MT Evaluation",
+  "Link":"http://nlp.stanford.edu/pubs/wang-manning-emnlp12.pdf",
+  "Authors":["Mengqiu Wang and Christopher D. Manning"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Improving Word Representations via Global Context and Multiple Word Prototypes",
+  "Link":"http://nlp.stanford.edu/pubs/HuangACL12.pdf",
+  "Authors":["Eric H. Huang","Richard Socher","Christopher D. Manning","and Andrew Y. Ng"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Stanford: Probabilistic Edit Distance Metrics for STS",
+  "Link":"http://nlp.stanford.edu/pubs/wang-cer-sts12.pdf",
+  "Authors":["Mengqiu Wang and Daniel Cer"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"SPEDE: Probabilistic Edit Distance Metrics for MT Evaluation",
+  "Link":"http://nlp.stanford.edu/pubs/wang-manning-wmt12.pdf",
+  "Authors":["Mengqiu Wang and Christopher D. Manning"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"Parsing Time: Learning to Interpret Time Expressions",
+  "Link":"http://nlp.stanford.edu/pubs/2012-naacl-temporal.pdf",
+  "Authors":["Gabor Angeli","Christopher D. Manning","and Daniel Jurafsky"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University"],
+  "Title":"SUTIME: A Library for Recognizing and Normalizing Time Expressions",
+  "Link":"http://nlp.stanford.edu/pubs/lrec2012-sutime.pdf",
+  "Authors":["Angel X. Chang and Christopher D. Manning"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University","Google Research"],
+  "Title":"Breaking Out of Local Optima with Count Transforms and Model Recombination: A Study in Grammar Induction",
+  "Link":"http://nlp.stanford.edu/pubs/ee.pdf",
+  "Authors":["Valentin I. Spitkovsky","Hiyan Alshawi","and Daniel Jurafsky"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University","Google Research"],
+  "Title":"Bootstrapping Dependency Grammar Inducers from Incomplete Sentence Fragments via Austere Models",
+  "Link":"http://nlp.stanford.edu/pubs/wabisabi.pdf",
+  "Authors":["Valentin I. Spitkovsky","Hiyan Alshawi","and Daniel Jurafsky"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University","Google Research"],
+  "Title":"Three Dependency-and-Boundary Models for Grammar Induction",
+  "Link":"http://nlp.stanford.edu/pubs/dbm.pdf",
+  "Authors":["Valentin I. Spitkovsky","Hiyan Alshawi","and Daniel Jurafsky"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University","Google Research"],
+  "Title":"Capitalization Cues Improve Dependency Grammar Induction",
+  "Link":"http://nlp.stanford.edu/pubs/capitalization.pdf",
+  "Authors":["Valentin I. Spitkovsky","Hiyan Alshawi","and Daniel Jurafsky"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University","Harbin Institute of Technology"],
+  "Title":"Effective Bilingual Constraints for Semi-supervised Learning of Named Entity Recognizers",
+  "Link":"http://nlp.stanford.edu/pubs/aaai13-wang.pdf",
+  "Authors":["Mengqiu Wang","Wanxiang Che","and Christopher D. Manning."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University","Harbin Institute of Technology"],
+  "Title":"Named Entity Recognition with Bilingual Constraints",
+  "Link":"http://nlp.stanford.edu/pubs/naacl13-che.pdf",
+  "Authors":["Wanxiang Che","Mengqiu Wang","Christopher D. Manning","and Ting Liu."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University","Harbin Institute of Technology"],
+  "Title":"A Comparison of Chinese Parsers for Stanford Dependencies",
+  "Link":"http://nlp.stanford.edu/pubs/stanford_dependencies_chinese.pdf",
+  "Authors":["Wanxiang Che","Valentin I. Spitkovsky","and Ting Liu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Stanford University","Harbin Institute of Technology"],
+  "Title":"Stanfords System for Parsing the English Web",
+  "Link":"http://nlp.stanford.edu/pubs/mcclosky-sancl-12.pdf",
+  "Authors":["David McClosky","Wanxiang Che","Marta Recasens","Mengqiu Wang","Richard Socher","and Christopher D. Manning"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["The University of Texas at Dallas and University of Washington"],
+  "Title":"Structured Message Passing",
+  "Link":"http://auai.org/uai2013/prints/papers/91.pdf",
+  "Authors":["Vibhav Gogate and Pedro Domingos"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Recognizing Textual Entailment",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/645",
+  "Authors":["M. Sammons and V. Vydiswaran and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"An NLP Curator (or: How I Learned to Stop Worrying and Love NLP Pipelines)",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/703",
+  "Authors":["J. Clarke and V. Srikumar and M. Sammons and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Structured Learning with Constrained Conditional Models",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/698",
+  "Authors":["M. Chang and L. Ratinov and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Unified Expectation Maximization",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/693",
+  "Authors":["R. Samdani and M. Chang and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Illinois-Coref: The UI System in the CoNLL-2012 Shared Task",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/701",
+  "Authors":["K.-W. Chang and R. Samdani and A. Rozovskaya and M. Sammons and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"On Amortizing Inference Cost for Structured Prediction",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/695",
+  "Authors":["V. Srikumar and G. Kundu and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Joint Inference for Event Timeline Construction",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/692",
+  "Authors":["Q. Do and W. Lu and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Efficient Decomposed Learning for Structured Prediction",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/699",
+  "Authors":["R. Samdani and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"A Framework for Tuning Posterior Entropy in Unsupervised Learning",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/700",
+  "Authors":["R. Samdani and M. Chang and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Efficient Pattern-Based Time Series Classification on GPU",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/713",
+  "Authors":["K.-W. Chang and B. Deka and W.-M. W. Hwu and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Modeling Semantic Relations Expressed by Prepositions",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/726",
+  "Authors":["V. Srikumar and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"The University of Illinois System in the CoNLL-2013 Shared Task",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/731",
+  "Authors":["A. Rozovskaya and K.-W. Chang and M. Sammons and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Margin-based Decomposed Amortized Inference",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/729",
+  "Authors":["G. Kundu and V. Srikumar and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Multi-core Structural SVM Training",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/728",
+  "Authors":["K.-W. Chang and V. Srikumar and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Relational Inference for Wikification",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/736",
+  "Authors":["X. Cheng and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"A Constrained Latent Variable Model for Coreference Resolution",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/732",
+  "Authors":["K.-W. Chang and R. Samdani and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"Illinois Cognitive Computation Group UI-CCG TAC 2013 Entity Linking and Slot Filler Validation Systems",
+  "Link":"N/A (to be submitted)",
+  "Authors":["X. Cheng and B. Chen and R. Samdani and K.-W. Chang and Z. Fei and M. Sammons and J. Wieting and S. Roy and C. Wang and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC"],
+  "Title":"ILLINOISNLPCLOUD: Text Analytics Services in the Cloud",
+  "Link":"N/A (in submission)",
+  "Authors":["H. Wu and Z. Fei and A. Dai and M. Sammons and and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC/Bar Ilan U./U. of Rome Tor Vergata"],
+  "Title":"Recognizing Textual Entailment: Models and Applications",
+  "Link":"http://cogcomp.cs.illinois.edu/page/publication_view/730",
+  "Authors":["I. Dagan and D. Roth and M. Sammons and F. Zanzotto"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UIUC/LDC"],
+  "Title":"Annotating Textual Inference",
+  "Link":"N/A (in submission)",
+  "Authors":["A. Morris and X. Ma and M. Sammons and V. Vydiswaran and and D. Roth"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Latent Relation Representations for Universal Schemas",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-947",
+  "Authors":["Riedel","S.","Yao","L. and McCallum","A."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Relation Extraction with Matrix Factorization and Universal Schemas",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-948",
+  "Authors":["Riedel","S.","Yao","L.","McCallum","A. and Marlin","B."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Dynamic Knowledge-Base Alignment for Coreference Resolution",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-954",
+  "Authors":["Zheng","J.","Vilnis","L.","Singh","S.","Choi","J. and McCallum","A."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Unsupervised Relation Discovery with Sense Disambiguation",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-867",
+  "Authors":["Yao","L.","Riedel","S. and McCallum","A."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"A Discriminative Hierarchical Model for Fast Coreference at Large Scale",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-869",
+  "Authors":["Wick","M.","Singh","S. and McCallum","A."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Monte Carlo MCMC: Efficient Inference by Approximate Sampling",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-888",
+  "Authors":["Singh","S.","Wick","M. and McCallum","A."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Monte Carlo MCMC: Efficient Inference by Sampling Factors",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-894",
+  "Authors":["Singh","S.","Wick","M. and McCallum","A."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Probabilistic Databases of Universal Schema",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-896",
+  "Authors":["Yao","L.","Riedel","S. and McCallum","A."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Learning to speed up MAP decoding with column generation",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-897",
+  "Authors":["Belanger","D.","Passos","A.","Riedel","S. and McCallum","A."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Improving NLP through Marginalization of Hidden Syntactic Structure",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-907",
+  "Authors":["Naradowsky","J.","Riedel","S. and Smith","D."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"MAP Inference in Chains using Column Generation",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-915",
+  "Authors":["Belanger","D.","McCallum","A.","Passos","A. and Riedel","S"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Across-Document Neighborhood Expansion: UMass at TAC KBP 2012 Entity Linking",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-917",
+  "Authors":["Dietz","L. and Dalton","J."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Massachusetts Amherst"],
+  "Title":"Relation Extraction with Matrix Factorization and Universal Schemas",
+  "Link":"http://ciir-publications.cs.umass.edu/IR-948",
+  "Authors":["Riedel","S.","Yao","L.","McCallum","A. and Marlin","B."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Texas at Dallas"],
+  "Title":"Fast Joint Compression and Summarization via Graph Cuts",
+  "Link":"",
+  "Authors":["Xian Qian and Yang Liu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Texas at Dallas"],
+  "Title":"Document Summarization via Guided Sentence Compression",
+  "Link":"",
+  "Authors":["Chen Li","Fei Liu","Fuliang Weng","and Yang Liu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Texas at Dallas"],
+  "Title":"Using Denoising Autoencoder for Emotion Recognition",
+  "Link":"",
+  "Authors":["Rui Xia and Yang Liu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Texas at Dallas"],
+  "Title":"A Preliminary Study of Cross-lingual Emotion Recognition from Speech: Automatic Classification versus Human Perception",
+  "Link":"",
+  "Authors":["Je Hun Jeon","Duc Le","Rui Xia","and Yang Liu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Texas at Dallas"],
+  "Title":"Using Supervised Bigram-based ILP for Extractive Summarization",
+  "Link":"",
+  "Authors":["Chen Li","Xian Qian","and Yang Liu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Texas at Dallas"],
+  "Title":"Disfluency Detection Using Multi-step Stacked Learning",
+  "Link":"",
+  "Authors":["Xian Qian and Yang Liu"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"A sequential repetition model for improved disfluency detection",
+  "Link":"http://ssli.ee.washington.edu/tial/papers/disfluencies_2013.pdf",
+  "Authors":["Mari Ostendorf & Sangyun Hahn"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Discriminative Learning of Sum-Product Networks",
+  "Link":"http://books.nips.cc/papers/files/nips25/NIPS2012_1484.pdf",
+  "Authors":["Robert Gens and Pedro Domingos"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Learning the Structure of Sum-Product Networks",
+  "Link":"http://jmlr.org/proceedings/papers/v28/gens13.pdf",
+  "Authors":["Robert Gens and Pedro Domingos"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Tractable Probabilistic Knowledge Bases with Existence Uncertainty",
+  "Link":"http://csweb.cs.wfu.edu/~snataraj/StaRAI/Papers/1.pdf",
+  "Authors":["W. Austin Webb and Pedro Domingos"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Harvesting Parallel News Streams to Generate Paraphrases of Event Relations",
+  "Link":"http://www.cs.washington.edu/ai/clzhang/emnlp2013.pdf",
+  "Authors":["C. Zhang","D.S. Weld"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Joint Coreference Resolution and Named-Entity Linking with Multi-pass Sieves",
+  "Link":"http://homes.cs.washington.edu/~weld/papers/hajishirzi-emnlp13.pdf",
+  "Authors":["H. Hajishirzi","L. Zilles","D.S. Weld","L. Zettlemoyer"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Extracting Meronyms for a Biology Knowledge Base using Distant Supervision",
+  "Link":"http://homes.cs.washington.edu/~weld/papers/ling-akbc13.pdf",
+  "Authors":["X. Ling","P. Clark","D.S. Weld"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Fine-Grained Entity Recognition",
+  "Link":"http://www.cs.washington.edu/ai/pubs/ling-aaai12.pdf",
+  "Authors":["X. Ling","D.S. Weld"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Learning Distributions over Logical Forms for Referring Expression Generation",
+  "Link":"http://homes.cs.washington.edu/~lsz/papers/faz-emnlp13.pdf",
+  "Authors":["Nicholas FitzGerald","Yoav Artzi","and Luke Zettlemoyer"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Scaling Semantic Parsers with On-the-fly Ontology Matching",
+  "Link":"http://homes.cs.washington.edu/~lsz/papers/kcaz-emnlp13.pdf",
+  "Authors":["Tom Kwiatkowski","Eunsol Choi","Yoav Artzi","and Luke Zettlemoyer"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Modeling Missing Data in Distant Supervision for Information Extraction",
+  "Link":"http://homes.cs.washington.edu/~lsz/papers/rzme-tacl13.pdf",
+  "Authors":["Alan Ritter","Luke Zettlemoyer","Mausam","and Oren Etzioni"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions",
+  "Link":"http://homes.cs.washington.edu/~lsz/papers/az-tacl13.pdf",
+  "Authors":["Yoav Artzi and Luke Zettlemoyer."]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Paraphrase-Driven Learning for Open Question Answering",
+  "Link":"http://turing.cs.washington.edu/papers/acl-2013-fader.pdf",
+  "Authors":["Anthony Fader","Luke Zettlemoyer","and Oren Etzioni"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Generating Coherent Event Schemas at Scale",
+  "Link":"http://turing.cs.washington.edu/papers/emnlp-2013-niranjan.pdf",
+  "Authors":["Niranjan Balasubramanian","Stephen Soderland","Mausam","Oren Etzioni"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Towards Coherent Multi-Document Summarization",
+  "Link":"http://turing.cs.washington.edu/papers/naacl-hlt-2013-christensen.pdf",
+  "Authors":["Janara Christensen","Mausam","Stephen Soderland","Oren Etzioni"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Entity Linking at Web Scale",
+  "Link":"http://turing.cs.washington.edu/papers/akbc-wekex12-lin.pdf",
+  "Authors":["Thomas Lin","Mausam","Oren Etzioni"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Rel-grams: A Probabilistic Model of Relations in Text",
+  "Link":"http://turing.cs.washington.edu/papers/akbc-wekex12-balasubramanian.pdf",
+  "Authors":["Niranjan Balasubramanian","Stephen Soderland","Mausam","and Oren Etzioni"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities",
+  "Link":"http://turing.cs.washington.edu/papers/emnlp12-lin.pdf",
+  "Authors":["Thomas Lin","Mausam","Oren Etzioni"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Washington"],
+  "Title":"Open Language Learning for Information Extraction",
+  "Link":"http://turing.cs.washington.edu/papers/emnlp12-mausam.pdf",
+  "Authors":["Mausam","Michael Schmitz","Robert Bart","Stephen Soderland","and Oren Etzioni"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["USC/ISI","LDC","Colorado"],
+  "Title":"Abstract Meaning Representation for Sembanking",
+  "Link":"http://www.isi.edu/natural-language/amr/a.pdf",
+  "Authors":["L. Banarescu","C. Bonial","S. Cai","M. Georgescu","K. Griffitt","U. Hermjakob","K. Knight","P. Koehn","M. Palmer","and N. Schneider"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UT Austin"],
+  "Title":"Learning to",
+  "Link":"http://www.cs.utexas.edu/users/ml/papers/raghavan.acl12.pdf",
+  "Authors":["Sindhu Raghavan and Raymond J. Mooney and Hyeonseo Ku"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UT Austin"],
+  "Title":"Towards a semantics for distributional representations.",
+  "Link":"http://aclweb.org/anthology-new/W/W13/W13-0109.pdf",
+  "Authors":["Katrin Erk"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UT Austin"],
+  "Title":"Intensionality was only alleged: On adjective-noun composition in distributional semantics",
+  "Link":"http://www.newdesign.aclweb.org/anthology/W/W13/W13-0104.pdf",
+  "Authors":["Gemma Boleda","Marco Baroni","The Nghia Pham and Louise McNally"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UT Austin"],
+  "Title":"Montague Meets Markov: Deep Semantics with Probabilistic Logical Form",
+  "Link":"http://www.cs.utexas.edu/users/ml/papers/beltagy.starsem13.pdf",
+  "Authors":["Islam Beltagy","Cuong Chau","Gemma Boleda","Dan Garrette","Katrin Erk","Raymond Mooney"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UT Austin"],
+  "Title":"Online Inference-Rule Learning from Natural-Language Extractions",
+  "Link":"http://www.cs.utexas.edu/users/ml/papers/raghavan.starai13.pdf",
+  "Authors":["Sindhu Raghavan and Raymond J. Mooney"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["UT Austin"],
+  "Title":"A Formal Approach to Linking Logical Form and Vector-Space Lexical Semantics",
+  "Link":"http://www.cs.utexas.edu/users/ml/papers/garrette.compmeaning4.pdf",
+  "Authors":["Dan Garrette","Katrin Erk","Raymond J. Mooney"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of Pittsburgh"],
+  "Title":"Benefactive/Malefactive Event and Writer Attitude Annotation",
+  "Link":"http://aclweb.org/anthology//P/P13/P13-2022.pdf",
+  "Authors":["Lingjia Deng","Janyce Wiebe","Yoonjung Choi"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of North Texas","Cornell University","University of Pittsburgh","Google","LCC"],
+  "Title":"CPN-CORE: A Text Semantic Similarity System Infused with Opinion Knowledge",
+  "Link":"http://aclweb.org/anthology/S/S13/S13-1032.pdf",
+  "Authors":["Carmen Banea","Yoonjung Choi","Lingjia Deng","Samer Hassan","Michael Mohler","Bishan Yang","Claire Cardie","Rada Mihalcea","Janyce Wiebe"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of North Texas"],
+  "Title":"Sentiment Analysis of Online Spoken Reviews",
+  "Link":"http://www.cs.unt.edu/~rada/papers/perezrosas.interspeech.2013.pdf",
+  "Authors":["Veronica-Perez Rosas","Rada Mihalcea"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["University of North Texas","USC/ICT"],
+  "Title":"Utterance-Level Multimodal Sentiment Analysis",
+  "Link":"http://aclweb.org/anthology/P/P13/P13-1096.pdf",
+  "Authors":["Veronica Perez-Rosas","Rada Mihalcea","Louis-Philippe Morency"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Cornell University"],
+  "Title":"Negative Deceptive Opinion Spam",
+  "Link":"http://aclweb.org/anthology//N/N13/N13-1053.pdf",
+  "Authors":["Myle Ott","Claire Cardie","Jeffrey Hancock"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Cornell University"],
+  "Title":"TopicSpam: a Topic-Model-Based Approach for Spam Detection",
+  "Link":"http://aclweb.org/anthology//P/P13/P13-2039.pdf",
+  "Authors":["Jiwei Li","Claire Cardie","Sujian Li"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Cornell University"],
+  "Title":"Joint Inference for Fine-grained Opinion Extraction",
+  "Link":"http://aclweb.org/anthology//P/P13/P13-1161.pdf",
+  "Authors":["Bishan Yang","Claire Cardie"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["Cornell University"],
+  "Title":"Identifying Manipulated Offerings on Review Portals",
+  "Link":"http://aclweb.org/anthology//D/D13/D13-1199.pdf",
+  "Authors":["Jiwei Li","Myle Ott","Claire Cardie"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["JHU/Upenn"],
+  "Title":"PARMA: A Predicate Argument Aligner",
+  "Link":"http://cs.jhu.edu/~vandurme/papers/parma-a-predicate-argument-linker.pdf",
+  "Authors":["Travis Wolfe","Benjamin Van Durme","Mark Dredze","Nicholas Andrews","Charley Beller","Chris Callison-Burch","Jay DeYoung","Justin Snyder","Jonathan Weese","Tan Xu","and Xuchen Yao"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["JHU/Upenn"],
+  "Title":"PPDB: The Paraphrase Database",
+  "Link":"http://cs.jhu.edu/~vandurme/papers/PPDB-The-Paraphrase-Database_NAACL_2013.pdf",
+  "Authors":["Juri Ganitkevitch","Benjamin Van Durme and Chris Callison-Burch"]
+},
+{
+  "DARPA Program":"DEFT",
+  "Program Teams":["JHU"],
+  "Title":"Evaluating Progress in Probabilistic Programming through Topic Models",
+  "Link":"",
+  "Authors":["Francis Ferraro","Benjamin Van Durme","Yanif Ahmed"]
+}
+]

@@ -1,0 +1,1064 @@
+[
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Rogue Networks"],
+  "Software":"Methods for detecting malicious web server traffic",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Monitors HTTP traffic for indications of attempted script injection by monitoring various metadata about HTTP sessions. Also stores malicious activity events in an external IP reputation-based scoring system, allowing member organizations to share threat information.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Immunity Federal Services, LLC"],
+  "Software":"Combining Expert Knowledge and Symbolic",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A system that uses human-assisted automated techniques to accurately and quickly find exploitable vulnerabilities in Windows Drivers using a static code analysis prototype.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Charlie Miller"],
+  "Software":"Risk and Vulnerability Assessment of Near Field Communication in Smartphones",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Risk and Vulnerability Assessment of Near Field Communication (NFC) in Smartphones via an automated test framework.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Secure Ideas, LLC"],
+  "Software":"MobiSec Live Environment Mobile Testing Framework",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A live, Linux-based testing environment that is preconfigured and installed with all the tools and configurations needed to perform security assessments and testing of mobile platforms.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Assured Information Security, Inc."],
+  "Software":"MoRE: Measurement of Dynamic Code: MoRE (Measurement of Running Executable)",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Determines whether an application or system kernel has been modified by an attacker by performing integrity checks of applications executing in memory using a custom Windows Page Fault Handler or VMX hypervisor.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Peak Security, Inc."],
+  "Software":"TinyLANE - Mobile Hardware Endpoint Security for Individuals",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A handheld device which provides secure point-to-point communications and offers the user anonymous Internet access through the TOR framework.",
+  "License":"GPR",
+  "Categories":["Firmware"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Strategic Cyber"],
+  "Software":"Cortana: A Language to Control and Automate Cyber Capabilities",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A domain-specific language that empowers users to automate, customize and extend the Metasploit and Armitage toolset - enabling security evaluation and validation of defensive measures of an organization.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Digital Operatives"],
+  "Software":"Subversive Storage",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A Mass Storage Device (MSD) controller that cannot be imaged via standard forensic techniques, can detect the host Operating System, and alter data in transit to the host.",
+  "License":"GPR",
+  "Categories":["Firmware"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Critical Assets Labs"],
+  "Software":"Proposal for PIN Pad Defender Development",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A device which detects physical skimming attacks on ATM machines through the use of Infrared and HD video and IR sensors",
+  "License":"GPR",
+  "Categories":["Firmware"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Peripety Labs"],
+  "Software":"Securing programs by automated detection and correction of vulnerabilities",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A software tool that  automatically detects and corrects security vulnerabilities in C/C++ programs (especially those that are integer-related).",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Duo Security"],
+  "Software":"Practical Vulnerability Assessment on Consumer Mobile Devices",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A Vulnerability Assessment Framework for smart phones consisting of a mobile application and a cloud service.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Thoughtcrime Labs"],
+  "Software":"Convergence: A secure, agile, distributed replacement for Certificate Authorities",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A secure, agile, distributed replacement for the Certificate Authority system using numerous Notaries to create a configurable quorum, asserting the site's identity",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Galois, Inc."],
+  "Software":"CyberChaff: Using Distraction for Network Protection",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An environment consisting of hundreds of virtual machines that will defend against cyber attacks. Cyberchaff will consist of lightweight virtualized targets that will delay and confuse attackers from their intended target, and act as an Early Detection System  ",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Deja vu Security"],
+  "Software":"Hungarian Ham",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A source code monitoring and filtration system designed to mine source-code commit history and detect malicious code check-ins to source repositories masked as an authorized developer.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Exception Technologies, LLC"],
+  "Software":"Reuse Oriented Obfuscation",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An obfuscation technique based on the concept of gadgets and return-and jump-oriented programming techniques, twarting attempts to reverse engineer applications by transforming them into a series of linked together gadgets executed in a runtime environment.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["GoToTheBoard"],
+  "Software":"GPU Assisted Malware Detection for Mobile Devices",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Leverages the graphics processor unit (GPU) for detecting malicious attacks, and create a GPU-Assisted Malware Detector for Mobile Devices",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Subreption, LLC"],
+  "Software":"Proactive defenses for operating system dynamic memory allocators",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Provides the design and development of a solid set of security mitigations for dynamic memory allocators, applied to protect operating systems and software internals against exploitation of unknown and known vulnerabilities",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Digital Operatives"],
+  "Software":"Process Attribution In Network Traffic (PAINT)",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A network packet analysis capability built upon Wireshark that enables malware threat detection and advanced malware analysis by inking packets sent and received to the source and destination application",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Selective Intellect, LLC"],
+  "Software":"Firecracker: Framework for Vulnerability Assessment of Systems with High End GPUs",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A GPU-based cryptovirus framework that performs attacker- centric threat modeling. ",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["SecureIT Consulting Group, Inc."],
+  "Software":"Needle in a Stack of PINs - An ARM Instrumentation Framework for the Embedded Generation",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An open-source toolkit for leveraging the principles and capabilities of dynamic analysis, including performance monitoring, error diagnosing and stack trace logging. ",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Malice Afterthought"],
+  "Software":"Reticle: Leaderless Command and Control",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A command, control, and communications (C3) platform for very-low-cost computers to receive tasking, exchange data, and change missions on the fly",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Robert Seger"],
+  "Software":"Hatchet",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An easy to use tool that allows for exploration and manipulation of the low level details of an operating system including event handling and kernel interfacig without having specialized knowledge of the operating system",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["ReversingLabs"],
+  "Software":"FDF - File Disinfection Framework",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An advanced virtual machine for polymorphic malware disinfection. It will enable dynamic binary analysis on top of a static analysis framework by giving developers full control over detection, disinfection and repair of affected files.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Dan Farmer"],
+  "Software":"Sealing and Testing Virtual Systems",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"This project will provide an automated security testing sandbox for virtual systems. Target Practice (TP) will integrate and leverage four security tools; NMAP, Nessus, MetaSploit, and Bastille, to provide testing of virtual machines.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Narf Industries, LLC"],
+  "Software":"Private Information Retrieval for Network Monitoring",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A secure network monitoring and alerting system, Enciphered Observation Network (EON), more completely protecting the confidentiality of signatures and the alerts generated on a remote sensor in an untrusted environment",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Bulb Security, LLC"],
+  "Software":"Smartphone Penetration Testing Framework",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A Smartphone Penetration testing framework which will allow users to assess the security of mobile devices. This project offers the development and deployment of agents for post exploitation remote control, information gathering, and privilege escalation.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Pwnie Express"],
+  "Software":"The Power Strip Backdoor",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Testing tool that provides secure remote access to target networks through a variety of covert TCP/IP channels, or via 3G/GSM cellular wherever available",
+  "License":"GPR",
+  "Categories":["Firmware"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Great Scott Gadgets"],
+  "Software":"HackRF: A Low Cost Software Defined Radio Platform",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An open-source low-cost Software Defined Radio (SDR) transceiver platform that allows a single piece of equipment to implement virtually any wireless technology (Wi-Fi, Bluetooth, GSM, ZigBee, etc.) ",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Hidden Layer, LLC"],
+  "Software":"A Machine Learning Approach for Source Code Vulnerability Detection",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An application of supervised machine learning to automatically detect attack surfaces, or vulnerabilities, in source code for C programs",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Five Directions Inc."],
+  "Software":"Semantic Visualization of Security Data",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A semantic ontology, framework, and  browser for managing security data and provide results superior to traditional SIEM and log correlation.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Least Authority Enterprises"],
+  "Software":"Redundant Array of Independent Clouds",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A system for provider-independent security across several commodity cloud data storage services accessible via a common web interface",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Recursion Ventures"],
+  "Software":"Impact of EM Injection on Digital Imaging Technologies",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A study identifying potential vulnerabilities in digital imaging technologies including CCD (charge-coupled device) and APS (active-pixel sensor)",
+  "License":"GPR",
+  "Categories":["Study"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Step Three Research"],
+  "Software":"ASLRx, a Defense Against Remote Code Execution Vulnerabilities",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A prototype ASLRx, an OS-patch extension of ASLR to defend against all types of remote code execution vulnerabilities.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["RST Professional Services, LLC"],
+  "Software":"Defensive Live-Response Capabilities with MetaSploit",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Leverages tools often used by attackers, such as Metasploit, for rapid file-system analysis in support of discovering and understanding unknown malicious code.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Stealth Software Technologies, Inc."],
+  "Software":"Secure Two-Party Satellite Collisions Checking (SETSAT).",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A design for the implementation, testing, and demonstration of a secure two-party satellite collision checking system. ",
+  "License":"GPR",
+  "Categories":["Firmware"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Digital Forenics Solutions"],
+  "Software":"Forensic Capabilities for Embedded Files Systems",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Forensic tool which explores properties of flash file systems to determine  which artifacts correlate to file system activities and how long deleted data stays present in these file systems. Includes a library which can be easily integrated into currently existing tools.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["HellaSec, LLC"],
+  "Software":"Beer Garden: Reversing the Asymmetry of High-Density Attacks",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Defends net-centric web applications from zero-day high-density attacks through the use of admission control and worker process management.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["The Honeynet Project"],
+  "Software":"Web Application Honeypot",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Generates an extensible attack surface to adversaries who are attempting to gain unauthorized access to computer systems and data that allows the defender to identify malicious requests and gather and report detailed information of possible threats.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Microtask, Ltd."],
+  "Software":"Proposal to Develop Split Field Processing Technology",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A new type of document data protection that captures sensitive data from documents and separates individual fields of information into fragments that are transmitted securely - greatly reduced risk of compromise.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Cody Nicewanner"],
+  "Software":"Censoring the Pointer: CTP is designed to target zero-day threats by nullifying an",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Targets zero-day threats by nullifying an exploit's ability to execute its shell code. It fills the gap between ASLR and DEP by preventing non-executable scripts from dynamically locating system structures which are needed to properly execute an exploit.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Trail of Bits"],
+  "Software":"Using Concolic Execution To Measure A Program's Susceptibility to Code-Reuse Attacks",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Develops a system to measure a program's susceptibility to code-reuse ROP exploits. The system accepts a collection of program modules as input and presents a score of the re-usability of that set of modules as output",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Red Balloon Security"],
+  "Software":"FRAK: Firmware Reverse Analysis Konsole (FRAK)",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"General framework for unpacking, analyzing, modifying, and repacking the firmware images of arbitrary proprietary embedded devices.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Digital Forensics Solutions, LLC"],
+  "Software":"Automatically Generated Regular Expression- Based Signatures for File Carving",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"File carving is used to recover files which are no longer accessible, whether due to deletion, file system corruption, or drive re-formatting. This project proposes a new method of file carving to mitigate the inherent limitations of existing tools.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Armatum Networks"],
+  "Software":"Full Spectrum Intrusion Detection",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Analysis and visualization of HTTP and HTTPS traffic at the network perimeter to identify traffic consistent with malware Command and Control (C2) channel characteristics.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Capitol Hill Consultants, LLC"],
+  "Software":"M2M Risk Assessment Project (MRAP)",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Evaluates the current M2M threat surface and identifying common security weaknesses that may lead to unacceptable risks in embedded systems and critical infrastructure.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Security Works, LLC"],
+  "Software":"Defending the Hypervisor",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Provides a framework for testing the various interfaces between Virtual Machines (VM) and the underlying virtualization layer (i.e., Hypervisor) on the physical host.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["SecureIT Consulting Group, Inc."],
+  "Software":"Poor Man's Control Flow Integrity (PMCFI)",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Establishes legitimate execution paths at the function level and aborts execution if atempts are made to modify flow",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Safely, Inc."],
+  "Software":"Secure Surrogate Cloud Browsing",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"This project provides a system that offloads vulnerability prone operations, such as JavaScript execution and image parsing, from client browsers to surrogate browsers running in the cloud.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["215LAB LLC"],
+  "Software":"Netoko",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"This is a a Cloud-based Ecosystem for Developing Network Security Applications",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Secure Ideas, LLC"],
+  "Software":"Securing HTML5 Assessment Resource Kit (SHARK)",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Researches and identifies potentially vulnerable HTML5 features and develops filtering rules that can be used by open source security products as an effective countermeasure against browser attacks.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["AcceSys Technology"],
+  "Software":"SCATEboard - Side Channel Attack Test Evaluation Board",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Provides a hardware platform to evaluate cryptographic algorithm exposures in embedded systemsto Side Channel Attacks (SCAs).",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Bitlackeys Security"],
+  "Software":"Linux VMA Monitor (LVM)",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Detects user space memory infections in a Linux environment. Its unique heuristics analyzer identifies complex and atypical infections and produces an unpacked executable version for analysis.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Bunnie Studios LLC"],
+  "Software":"Enabling Distributed Network Protocols",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Creates a high-performance, low-cost device that is based on infrastructure descended from mobile phone lineage and optimized for use in secure distributed networks.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["KoreLogic, Inc."],
+  "Software":"MASTIFF",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"This automated plug-in-based framework makes this process more efficient and encourages the development of new analysis techniques.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Sutajio Ko-Usagi Pte Ltd."],
+  "Software":"Know Thy Media",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Investigates the embedded microcontrollers in Secure Digitial (SD) cards, develops a hardware/software protocol analysis tool which logs raw transactions to the NAND device and compares them against commands issued by the SD interface",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["GoToTheBoard"],
+  "Software":"Taking it From the Source - Integrating Dynamic Security",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Couples static and dynamic analysis tasks into a set of tools that heightens a mainstream developer's awareness of code vulnerabilities and security issues in his or her day-to-day-programming.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Island Peak Software"],
+  "Software":"Submarine: Capturing the Unencrypted BIOS",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Uses virtual machine logging, together with a virtualized BIOS device, to capture the unencrypted, uncompressed machine code of any Basic Input/Output System (BIOS).",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Deja vu Security"],
+  "Software":"G?del's Gourd: Next Generation Fuzzer",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Creates an automated testing framework that triggers and detects logical constraint violations that are undetectable with current fuzzing technology",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Galois, Inc."],
+  "Software":"Ditto: A Tunable Network Stack for Confounding the Enemy",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Creates a network stack that can be tuned by the system administrator to emulate whatever operating system the administrator chooses, complicating the adversary's decision process and decreases the effectiveness of available adversary attack tools.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Digital Operatives"],
+  "Software":"HAVOC - Halting Attacks Via Obstructing Configurations",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Explores configuration changes that impact the performance of malware components, developing tools for randomly changing those configuration parameters to exploit weaknesses in malware.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Subreption, LLC"],
+  "Software":"SAFEDROID: High Assurance Computing for Mobile Devices",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Enforces memory protections and reducing system predictability,  altering core components of the operating system (OS), providing a defensive in-depth solution against zero-day attacks.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Digital Operatives"],
+  "Software":"AERIAL - Automatic Entity Recognition Identifying Antennas Locally",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Uses automatic visual recognition on mobile phones to detect and classify antennas used in communications networks even in the absence of Radio Frequency emissions.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Dan Farmer"],
+  "Software":"IPMI: Underbelly of Servers",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Offers a collection of simple tools to address the security concerns inherent with IPMI technology, raiseing awareness of IPMI's security weaknesses, identifies configuration errors on IPMI clients, and proposes a threshold for acceptability",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["University of Tulsa"],
+  "Software":"Heavy Truck Electronic Network Security Analysis Framework (Truck-In-A-Box)",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An inexpensive and lightweight hardware framework for analysis of heavy truck engine control modules, evaluating attack surfaces and demonstrate security vulnerabilities on commercial vehicles at a reduced cost.",
+  "License":"GPR",
+  "Categories":["Firmware"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["SecureIT Consulting Group, Inc."],
+  "Software":"ProcessGossip: A Side Channel Information Fusion Framework",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Detects information leaks and identifies side channel vulnerabilities in the Android Operating System. Whole classes of exploits that previously relied on privilege escalation to capture secrets can potentially operate by simply listening to unprivileged information.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["VULNEX"],
+  "Software":"Compiler Security and Binary Defenses Breakdown",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Provides resources that simplify the process of building secure software and assists developers in using the security settings offered by compilers and provides analysts with a tool for scanning binaries for vulnerabilities caused by insufficient compiler security configuration.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Narf Industries, LLC"],
+  "Software":"Kensa: An Anti-Reverse Engineering System",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Kensa provides alerting mechanisms for tamper detection, encrypted patching, and reverse engineering mitigation. The system protects proprietary-critical binaries against the efforts of adversaries by thwarting and reporting reverse engineering attempts.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Charlie Miller"],
+  "Software":"A Framework for Automotive Computing Systems",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Provides a framework for programmers to develop and execute code to monitor and control the various embedded systems in computerized automobiles",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Upstanding Hackers, LLC"],
+  "Software":"Hammer: The Science of Insecurity - Source Development Recognizers and Validators",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Facilitates the secure creation of input recognizers, or validators, that use mathematical proofs and verify correct code operation with minimum impact on development time and effort. ",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Zentific, LLC"],
+  "Software":"Zazen: Virtual Machine Introspection to Detect and Protect",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Intrusion detection and prevention system that monitors and protects virtual machines from an external perspective. This tool repairs malicious modifications designed to hijack normal kernel and program opera?on when possible",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Selective Intellect"],
+  "Software":"Bootjack: BIOS Implant Detection",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Bootjack is a configurable hardware solution that detects compromised BIOS components on Personal Computers. Bootjack scans a system, and within seconds, indicates the presence of a compromised BIOS via an alert on the external device.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raber Hughes Technologies, LLC"],
+  "Software":"Virtual Deobfuscator",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Reverse engineering tool that automates the reverse engineering of obfuscated instructions utilizing loop detection to disclose the underlying malware's original state.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["504ENSICS Labs"],
+  "Software":"Application-Level Memory Forensics For DALVIK",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"This project researches and develops a framework to analyze the application-level memory forensics of Dalvik, the process virtual machine used by the Android operating system.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Quoc Tran"],
+  "Software":"GarbledGrids: Provable and Efficient Distributed Computing Security",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A framework that protects data used in computations distributed across multiple remote machines.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Narf Industries, LLC"],
+  "Software":"Bbemu: A Baseband Emulation Framework for Vulnerability Analysis",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Integrated vulnerability testing environmentfor basebands, providing researchers with a flexible baseband analysis environment at communication devices that handles communication between cellular towers and cellular phones.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["JW Secure, Inc."],
+  "Software":"BHT - BIOS Integrity Measurements Heuristics Tool",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Mitigates BIOS-level threats in an enterprise using TPM in a system of cloud and client components.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Northeast Information Discovery, Inc."],
+  "Software":"SLRFDL - Security Legacy Radio Frequency Data Links",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A passive Radio Frequency network intrusion prevention system for secure legacy RF communication. The system uses RF fingerprint techniques to create a white-list to allow legitimate communications while denying unauthorized devices.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Malice Afterthought, Inc."],
+  "Software":"NOM: Novel Object Mapping Visualization of Security Data",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Provides users with visual tools for examining incoming network/security data in near real-time allowing users to understand past data using computer gaming engines that handle a huge number of data points",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Great Scott Gadgets"],
+  "Software":"Physical Layer Monitoring Platform for Wired Communication Media",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Provides a low-cost, portable device with pluggable capabilities that monitors high and low bandwidth wired communication protocols such as USB and HDMI at the physical layer.",
+  "License":"GPR",
+  "Categories":["Firmware"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["MonkWorks, LLC"],
+  "Software":"NAND-Xplore: Hiding and Finding Data with NAND Flash Error Codes",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Uses on-board NAND controller, logic gates that the flash architecture resembles, or by the host operating system to hide files and programs from users and forensics software",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Trail of Bits"],
+  "Software":"Scalable Graph - Theoretical Analysis for Qualitative Program Security Assessment",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Leverages developments in static analysis and graph theory to build a system that automatically identifies object lifespan vulnerabilities at source code level.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Kyrus Tech, Inc."],
+  "Software":"Dynamic Analysis Toolset for Embedded System Application",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Explores the adaptation of vulnerability research toolsets to embedded systems, providing dynamic analysis capabilities that are currently limited to researchers of non-embedded systems such as personal computers.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["504ENSICS"],
+  "Software":"Forensic Analysis of the OS X Spotlight Search Index",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Provide access to all data stored in Spotlight indexes in an offline manner by reversing the index format, discovering forensically interesting artifacts in the index, recovering deleted versions of indexes, and generating code to automate access to index data",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Reversing Labs International"],
+  "Software":"RDFU - Rootkit Detection Framework for UEFI",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A rootkit/malware scanner designed to detect UEFI rootkits. ",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Red Balloon Security, Inc."],
+  "Software":"Defending Embedded Systems Using Autotomic Binary Structure Randomization",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Independent host-based defense for arbitrary embedded systems using the principals of defense through diversity and attack surface minimization which will include techniques such as binary autotomy and binary structure randomization.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Milcord"],
+  "Software":"VPN Underground Fingerprinter Tool & Guidelines to Limit Identifying VPN Traces",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Identifies  of several encryption algorithms and attempt to discern patterns from the delays caused by packet loss and other artifacts of specific encrypted connections.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Inverse Limit"],
+  "Software":"Project fa840",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Augments the Erlang tool chain with additional languages and tools for building verified Erlang modules and then write software whose modules are a mixture of both traditional and verified Erlang modules.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["MonkWorks, LLC"],
+  "Software":"Clock Locking Beats - Exploring the Android Kernel and Processor Interactions",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Exploration into smartphone processor clocks, speed and voltage manipulation techniques. It catalogues various means to subvert detection of running processes on mobile devices and how to uncover them.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Great Scott Gadgets"],
+  "Software":"Unambiguous Encapsulation in Error Correcting Codes",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Explores longer codes (with codewords of length greater than five bits) that have interesting encapsulation properties, such as 'nestability' useful for unambiguous encapsulation of error control codes",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["GoToTheBoard"],
+  "Software":"Visualization and Analysis of Machine Configuration Space",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A set of tools for visualization and analysis of a program's configuration space by using QEMU and it's emulation capabilities as a means to record the executed instructions from a program",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Strategic Results"],
+  "Software":"Enhancing Email Messaging Security",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Software algorithms for the graphical representation of key fingerprints which will combine effective key visualization methods that are quick, accurate, and extremely difficult to defeat.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Deja vu Security, LLC."],
+  "Software":"Siren's Song",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A system for fuzzing interpreted languages such as Python, Ruby, and JavaScript in a generic way by creating links between grammar, Abstract Syntax Tree (AST), and common metaphors in languages such as instantiating an object, calling a method and setting a property",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Grier Forensics"],
+  "Software":"Sifting Collectors",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A sifting forensic collector which locates forensically relevant data and collects it in a forensically sound way, in a fraction of the time (5-10x current speeds) and space (10-20% the size) required of traditional imaging methods",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Mercury Milestones, LLC"],
+  "Software":"Program Relocator",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Software that can monitor a process and when it detects it system calls indicative of malware moves it to another machine.  Then the process will continue to run on the new machine with no indication that it has been moved. ",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Invincea Labs"],
+  "Software":"CrowdSource",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Open source automatic malware reverse engineering engine by training a machine learning based malware capability detection engine on millions of technical documents from the web",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["KoreLogic, Inc."],
+  "Software":"PathWell",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Enterprise-wide password complexity enforcement that significantly reduces the effectiveness of or renders current topology-based password cracking schemes useless.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Northeast Information Discovery, Inc."],
+  "Software":"A Framework for Component-Level Excitation (FCLE)",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Framework for the application of penetration testing techniques by enabling access to new system interface points by security professionals who may otherwise be unfamiliar with the necessary DSP and RF techniques.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Securisea"],
+  "Software":"Improved Vulnerability Searching in Code",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"System for hybrid analysis security testing which has reduced false negatives when searching for SQLi and XSS vulnerabilities via dataflow taint tracking compared to other existing automated tools today and demonstrate the prototype against real world web applications.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["BlueRISC Inc."],
+  "Software":"Unique Software and Microcontroller on a Whim",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Automated toolkit that creates a unique microcontroller that matches the randomly synthesized encoding by retrofitting a GCC compiler containing back-end support for AVR ISA or OpenCores.org Verilog implementation of an AVR microcontroller",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Inverse Limit, LLC"],
+  "Software":"GLS",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An open source GPU accelerated lattice siever for the NFS that specifically targeting the relation collection step of NFS, which is a combination of sieving and co-factorization to find smooth pairs that satisfy a particular technical property",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["504ENSICS, LLC"],
+  "Software":"A Framework for Differential Analysis of Malware in RAM",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A prototype system that will take two successive memory captures, and execute a set of plugins on them to determine the differences in the captures,  providing the analyst with a browseable view of the analysis performed by the plugins",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Accuvant Federal Solutions Inc."],
+  "Software":"Security Explorer",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Tool to instantiate a platform for developers to ensure their binaries are protected with the latest in exploit mitigation technologies and test their sandbox implementations to quantitatively understand the actions an attacker may perform inside the sandbox",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["_LEAD 82"],
+  "Software":"BootFixer: Semi-automatic aid for Windows malware infections and misconfiguration",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Tool to boot the Microsoft Windows machine into a safe-state, gather and analyze the crucial data and finally find and aid with removal of all potential known and unknown threats (including hidden rootkits). ",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Trail of Bits"],
+  "Software":"MAST: Mobile Application Security Transforms",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Mobile application protection platform to armor iOS mobile applications against reverse engineering",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["The University of Tulsa"],
+  "Software":"Chip-Level Memory Mapping and Forensics for Heavy Truck ECM",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Identifies data-bearing components in heavy truck electronic control modules. It  will allow the repeatable method for imaging these components at the chip level in a forensically verifiable manner, and map the contents of these devices to operational parameters.",
+  "License":"GPR",
+  "Categories":["Firmware"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["MonkWorks, LLC"],
+  "Software":"Project Burner - El telefono inteligente de fuego",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Research to understand what an attacker would have to do to physically destroy or incapacitate a device solely with kinetic software behaviors and  gain a deep understanding of that attack vector and to develop a means of discovery and remediation",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Exception Technologies, LLC"],
+  "Software":"CRUSADE Toward Symbolic Signal Synthesis for Cyber Effects Analysis",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An end-to-end RF vulnerability analysis framework capable of examining hardware and software systems for potential flaws by leveraging existing system level symbolic execution techniques",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Dr. Charlie Miller"],
+  "Software":"A platform for automotive network security research",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Tool that allows users to simulate attacks, look for vulnerabilities, explore how ECU's interact with each other, and design defenses in such a way that the exact same code will work in a real automobile.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Sutajio Ko-Usagi Pte Ltd"],
+  "Software":"EMP",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A mobile, extensible platform for signal measurement and protocol analysis",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Openwall, Inc."],
+  "Software":"Scalable Password Hashing",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"An improvement to PHS and cryptographic KDF, focusing on deliberate uses of large amounts of memory (many gigabytes), which the main PHS or KDF component may treat as read-only (ROM) resulting in reduced efficiency of offline attacks",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["ProvenSecure Solutions, LLC"],
+  "Software":"A Risk Mitigation Metric for Multi-Factor Authentication Systems",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A Risk Mitigation Metric (RMM) tool that will provide continuous-scale quantitative results of representative authentication attempts. ",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["SigBlips DSP engineering"],
+  "Software":"Weak Modulated Signal Correlations",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A real-time weak modulated signal detection system prototype that makes use of novel correlation algorithms that will be implemented on an Intel Xeon Phi coprocessor card for real-time operation.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Mr. Dan Farmer"],
+  "Software":"Fait Accompli",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Software that will enable a modestly technical person to see and understand what happens when a program is executed, and in particular to observe the execution of a software installer",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Grand Idea Studio, Inc."],
+  "Software":"Research and Analysis of PCB Deconstruction Techniques",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A suite of open-source tools and techniques to assist, simplify, and automate the PCB reverse engineering process based on PCB deconstruction",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Hyperion Gray, LLC"],
+  "Software":"Web 3.0: A Distributed Web Application Spider and 3D Visualization Engine With Built-In Continuous Security",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"3D web application visualization engine that creates a landscape view of web applications across a network that is easy to navigate, intuitive, and have real-time web application vulnerability information built into it.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Inverse Limit, LLC"],
+  "Software":"Project MAIM",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A tool chain for the purposes of mining undocumented information from the x86 processor architecture. Additionally an example miner will be produced to exhibit the differences in the underlying micro-architecture of four of the _ve major x86 variants.",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Metrix Create:Space"],
+  "Software":"An inexpensive, practical textile- based computing and communications platform",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"Determines optimal materials and methods for putting low-cost low-power computing platforms into everyday clothing",
+  "License":"GPR",
+  "Categories":["Software"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Ring0 Technologies"],
+  "Software":"PIDS",
+  "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
+  "Description":"A technology that will detect and prevent infiltration of sensitive or classified networks via shared power sources including Modern or recent COTS broadband PLC protocols",
+  "License":" Older COTS protocols &  Non-COTS protocols including both voltage and current mode modulations.",
+  "Categories":["GPR"]
+}
+]

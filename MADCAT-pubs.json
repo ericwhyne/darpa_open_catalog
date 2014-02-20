@@ -1,0 +1,30 @@
+[
+{
+  "DARPA Program":"MADCAT",
+  "Program Teams":["LDC"],
+  "Title":"Annotation Trees: LDC's Customizable, Extensible, Scalable Annotation Infrastructure",
+  "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-annotation-trees.pdf",
+  "Authors":["Jonathan Wright","Kira Griffitt","Joe Ellis","Stephanie Strassel","Brendan Callahan"]
+},
+{
+  "DARPA Program":"MADCAT",
+  "Program Teams":["(Team BBN) Columbia University","Safaba Translation Solutions","GWU"],
+  "Title":"Ensemble Reranking with Linguistic and Semantic Features for Arabic Character Recognition",
+  "Link":"http://aclweb.org/anthology/P/P13/P13-2098.pdf",
+  "Authors":["Nadi Tomeh","Nizar Habash","Ryan Roth","Noura Farra","Pradeep Dasigi and Mona Diab"]
+},
+{
+  "DARPA Program":"MADCAT",
+  "Program Teams":["(Team LDC) University of Maryland"],
+  "Title":"Linguistic Resources for Handwriting Recognition and Translation Evaluation",
+  "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-lr-for-handwriting-recognition.pdf",
+  "Authors":["Zhiyi Song","Safa Ismael","Stephen Grimes","David Doermann","Stephanie Strassel"]
+},
+{
+  "DARPA Program":"MADCAT",
+  "Program Teams":["(Team LDC) University of Maryland"],
+  "Title":"Linguistic Resources for the 2013 NIST Open Handwriting Recognition and Translation Evaluation",
+  "Link":"http://www.nist.gov/itl/iad/mig/upload/OpenHaRT2013_WorkshopPres_LDC.pdf",
+  "Authors":["Zhiyi Song","Stephanie Strassel","David Doermann","Amanda Morris"]
+}
+]

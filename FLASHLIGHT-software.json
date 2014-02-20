@@ -1,0 +1,101 @@
+[
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"Management Console source code and executables",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"Security Account Manager source code and executables",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"Windows cryptographic library files and associated dlls",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"EATER source code and executables",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"Filesystem Filter source code and executables",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"E-mail scanner executable and source code",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"Host Security software agent source code and associated executables",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"Security Account Manager source code and executables",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"PTET source code and executables",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"LEAF source code and executables",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+},
+{
+  "DARPA Program":"CFT",
+  "Program Teams":["Raytheon/BBN"],
+  "Software":"LSP source code and executables",
+  "Public Code Repo":"DARPA on CD Media",
+  "Description":"Computer Network Defense",
+  "License":"Government Purpose Rights (GPR)",
+  "Categories":["Network Defense"]
+}
+]

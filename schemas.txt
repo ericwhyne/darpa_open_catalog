@@ -1,0 +1,31 @@
+Program:
+{
+    "DARPA Program Name": "BOLT",
+    "Program Teams": ["A Team", "Another Team", "B Team", "More People"],
+    "Description": "The Broad Operational Language Translation (BOLT) program is aimed at...",
+    "Link": "http://www.darpa.mil/Our_Work/I2O/Programs/Broad_Operational_Language_Translation_%28BOLT%29.aspx",
+}
+
+Software:
+{
+    "DARPA Program":"XData",
+    "Program Teams":["Kitware, Inc.", "Another Team"]
+    "Software":"Tangelo",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
+    "External Link":"http://kitware.github.io/tangelo/",
+    "Public Code Repo":"https://github.com/Kitware/tangelo.git",
+    "Description":"Tangelo is a flexible HTML5 web server architecture that...",
+    "Internal Code Repo":"tools\\visualizations\\kitware\\tangelo; tools\\visualizations\\kitware\\xdata-apps",
+    "License":"ALv2",
+    "Languages":["Javascript","Python"],
+    "Categories":["Visualization"]
+}
+
+Publication:
+{
+    "DARPA Program":"XData",
+    "Program Teams": ["Stanford University - Boyd","Purdue","PNNL"],
+    "Link": "http://ml.stat.purdue.edu/gaby/BigData.ExploreCleanModel.2013.pdf",
+    "Authors":["Ryan Hafen",  "Tara D. Gibson", "Kerstin Kleese van Dam", "Terence Critchlow"],
+    "Title": "Large-Scale Exploratory Analysis, Cleaning, and Modeling for Event Detection in Real-World Power Systems Data"
+}

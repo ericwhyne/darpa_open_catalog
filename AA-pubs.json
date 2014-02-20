@@ -1,0 +1,218 @@
+[
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Allure Security Technology Inc."],
+  "Title":"Bait and Snitch: Defending Computer Systems with Decoys",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/ssi.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Allure Security Technology Inc."],
+  "Title":"Decoy Document Deployment for Effective Masquerade Attack Detection",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/Dimva_2011_final.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Allure Security Technology Inc."],
+  "Title":"Fog Computing: Mitigating Insider Data Theft Attacks in the Cloud",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/Fog_Computing_Position_Paper_WRIT_2012.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Allure Security Technology Inc."],
+  "Title":"Lost in Translation: Improving Decoy Documents via Automated Translation",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/writ_12_0.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Allure Security Technology Inc."],
+  "Title":"Measuring the Human Factor of Cyber Security",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/metrics_hst.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Allure Security Technology Inc."],
+  "Title":"Modeling User Search Behavior for Masquerade Detection",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/RAID_2011_0.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Allure Security Technology Inc."],
+  "Title":"On the Design and Execution of Cyber-Security User Studies: Methodology",
+  "Link":"Challenges"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Allure Security Technology Inc."],
+  "Title":"Software Decoys for Insider Threat",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/softwaredecoy_0.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Allure Security Technology Inc."],
+  "Title":"System level user behavior biometrics using Fisher features and Gaussian mixture models",
+  "Link":"http://www.ieee-security.org/TC/SPW2013/papers/data/5017a052.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["BAE Systems (developed for our AA phase I proposal)"],
+  "Title":"Keystroke dynamics for user authentication",
+  "Link":"http://www.cs.huji.ac.il/~peleg/CVPR2012/data/papers/workshops/W13_18.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["BAE Systems (developed for our AA phase II proposal)"],
+  "Title":"Mobile Device Based Gait Biometrics",
+  "Link":"In review for IEEE CVPR'14"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["BAE Systems (funded by DARPA MUTE)"],
+  "Title":"Speech recognition for vocalized and subvocal modes of production using surface EMG signals from the neck and face.",
+  "Link":"http://www.bu.edu/nmrc/files/2011/01/c_010.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["BAE Systems (funded by DARPA VIRAT)"],
+  "Title":"Action recognition in spatiotemporal volume",
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5543836&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5543836"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["BAE Systems (used in DARPA URGENT)"],
+  "Title":"Intrinsic shape signatures: A shape descriptor for 3d object recognition",
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5457637&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5457637"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Behaviosec"],
+  "Title":"Behavioral Biometrics for DARPA'S active authentication program",
+  "Link":"http://finovate.com/2013/09/behaviosec-uses-policy-based-behavior-to-authenticate-users.html"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Behaviosec"],
+  "Title":"Behavioral Biometrics for DARPA'S active authentication program",
+  "Link":"http://fg-biosig.gi.de/biosig-2013.html"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Behaviosec"],
+  "Title":"Continuous Authentication Using Behavioral Biometrics",
+  "Link":"http://www.computer.org/csdl/mags/it/2013/04/mit2013040012-abs.html"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Coveros"],
+  "Title":"Inc.",
+  "Link":"Active Authentication Using System Event Monitoring"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Drexel"],
+  "Title":"A Dataset for Active Linguistic Authentication",
+  "Link":"http://www.springer.com/computer/security+and+cryptology/book/978-3-642-41147-2"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Drexel"],
+  "Title":"Active Linguistic Authentication Revisited: Real-Time Stylometric Evaluation towards Multi-Modal Decision Fusion",
+  "Link":"http://www.ifip119.org/Publications/"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Drexel"],
+  "Title":"Classify but Verify: Breaking the Closed-World Assumption in Stylometric Authorship Attribution",
+  "Link":"http://www.ifip119.org/Publications/"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Drexel"],
+  "Title":"Decision Fusion for Multi-Modal Active Authentication",
+  "Link":"http://www.computer.org/csdl/mags/it/2013/04/mit2013040029-abs.html"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Drexel"],
+  "Title":"Keyboard Behavior Based Authentication for Security",
+  "Link":"http://www.computer.org/csdl/mags/it/2013/04/mit2013040008-abs.html"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Drexel"],
+  "Title":"User authentication through biometric sensors and decision fusion",
+  "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6552271"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Iowa State University"],
+  "Title":"Capturing Cognitive Fingerprints from Keystroke Dynamics for Active Authentication",
+  "Link":"http://www.computer.org/csdl/mags/it/2013/04/mit2013040024-abs.html"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Louisiana Tech University"],
+  "Title":"Examining a Large Keystroke Biometrics Dataset for Statistical-Attack Openings",
+  "Link":"http://dl.acm.org/citation.cfm?id=2516960"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Louisiana Tech University"],
+  "Title":"When Kids' Toys Breach Mobile Phone Security",
+  "Link":"http://dl.acm.org/citation.cfm?id=2508859.2516659"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Louisiana Tech University"],
+  "Title":"Which Verifiers Work?: A Benchmark Evaluation of Touch based Authentication Algorithms",
+  "Link":"http://www.btas2013.org/"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Naval Research Laboratory"],
+  "Title":"User Authentication from Web Behavior",
+  "Link":"http://www.flairs-26.info/"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["New York Institute of Technology"],
+  "Title":"On Controlling Genuine Reject Rate in Multistage Biometric Verification",
+  "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6595874"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["New York Institute of Technology"],
+  "Title":"Scan-based Evaluation for Continuous Keystroke Authentication Systems",
+  "Link":"http://www.computer.org/csdl/mags/it/2013/04/mit2013040020-abs.html"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["New York Institute of Technology"],
+  "Title":"Snoop-forge-replay Attacks on Continuous Verification with Keystrokes",
+  "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6425469&tag=1"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["Southwest Research Institute"],
+  "Title":"The Role of Covert Cognitive Games and Associated User Response Patterns in Active Authentication",
+  "Link":"http://www.computer.org/csdl/mags/it/2013/04/mit2013040016-abs.html"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["SRI International"],
+  "Title":"Recent Developments in Voice Biometrics: Robustness and High Accuracy",
+  "Link":"http://www.sri.com/sites/default/files/publications/tech_homeland_security_2013_n_scheffer_paper.pdf"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["University of Maryland"],
+  "Title":"Screen Fingerprints: a Novel Modality for Active Authentication",
+  "Link":"http://www.computer.org/csdl/mags/it/2013/04/mit2013040038-abs.html"
+},
+{
+  "DARPA Program":"AA",
+  "Program Teams":["University of Maryland"],
+  "Title":"Screen-based Active User Authentication",
+  "Link":"http://www.journals.elsevier.com/pattern-recognition-letters/"
+}
+]
