@@ -16,19 +16,16 @@
 {
   "DARPA Program":"BOLT",
   "Program Teams":["BBN"],
-  "Title":"Systematic Comparison of Professional and Crowdsourced
-Reference Translations for Machine Translation",
+  "Title":"Systematic Comparison of Professional and Crowdsourced Reference Translations for Machine Translation",
   "Link":"http://aclweb.org/anthology/N/N13/N13-1069.pdf",
   "Authors":["Rabih Zbib","Gretchen Markiewicz","Spyros Matsoukas","Richard Schwartz and John Makhoul"]
 },
 {
   "DARPA Program":"BOLT",
   "Program Teams":["BBN"],
-  "Title":"Factored Soft Source Syntactic Constraints 
-for Hierarchical Machine Translation",
+  "Title":"Factored Soft Source Syntactic Constraints for Hierarchical Machine Translation",
   "Link":"http://www.aclweb.org/anthology/D/D13/D13-1053.pdf",
-  "Authors":["Zhongqiang Huang","Jacob Devlin
-and Rabih Zbib"]
+  "Authors":["Zhongqiang Huang","Jacob Devlin and Rabih Zbib"]
 },
 {
   "DARPA Program":"BOLT",
@@ -718,15 +715,14 @@ and Rabih Zbib"]
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team IBM) Institute of Computing Tech.
-Chinese Academy of Sciences","Queens College & Grad. Center City University of New York"],
+  "Program Teams":["IBM", "Chinese Academy of Sciences","Queens College & Grad. Center City University of New York"],
   "Title":"Violation-Fixing Perceptron and Forced Decoding for Scalable MT Training",
   "Link":"http://aclweb.org/anthology//D/D13/D13-1112.pdf",
   "Authors":["Heng Yu","Liang Huang and Haitao Mi"]
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team IBM) University of Massachusetts"],
+  "Program Teams":["IBM","University of Massachusetts"],
   "Title":"Incorporating Social Anchors for Ad Hoc Retrieval",
   "Link":"http://ciir-publications.cs.umass.edu/IR-875",
   "Authors":["Lee","C. and Croft","W. B."]
@@ -909,11 +905,9 @@ Chinese Academy of Sciences","Queens College & Grad. Center City University of N
 {
   "DARPA Program":"BOLT",
   "Program Teams":["(Team LDC) Brandeis University"],
-  "Title":"A lattice-based framework for joint Chinese word   
-segmentation, POS-tagging and parsing",
+  "Title":"A lattice-based framework for joint Chinese word segmentation, POS-tagging and parsing",
   "Link":"http://aclweb.org/anthology/P/P13/P13-2110.pdf",
-  "Authors":["Zhiguo Wang","Chengqing Zong 
-and Nianwen Xue"]
+  "Authors":["Zhiguo Wang","Chengqing Zong and Nianwen Xue"]
 },
 {
   "DARPA Program":"BOLT",
