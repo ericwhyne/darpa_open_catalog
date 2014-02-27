@@ -1,5 +1,6 @@
 {
         "DARPA Program Name": "RATS",
+	"Long Name":"Robust Automatic Transcription of Speech",
         "Program Teams": "",
         "Description": "The Robust Automatic Transcription of Speech (RATS) program will create algorithms and software for performing the following tasks on potentially speech-containing signals received over communication channels that are extremely noisy and/or highly distorted: speech activity detection, language identification, speaker identification, and key word spotting.",
 	"Link": ""
