@@ -357,7 +357,7 @@
         "Internal Link": "",
         "External Link": "https://www.deftdocs.bbn.com/Shared Documents/MyHTML5/default.htm - Algorithms/Event Ontology, https://www.deftdocs.bbn.com/Shared Documents/MyHTML5/default.htm#Algorithms/Event Ontology, https://www.deftdocs.bbn.com/Shared Documents/MyHTML5/default.htm -",
         "Public Code Repo": "http://www.deftware.bbn.com:7990/scm/CMUCS/deft.git",
-        "Description": "Generates an ontology of possible events. . Event is a list of entities, each associated with statistical distribution over associated verbs and subject/object positions relative to verb. Events also include a description of pairwise relationships between entities (e.g., coreferent or other). Per communication with the PI, this algorithm will be delayed. ",
+        "Description": "Generates an ontology of possible events. Event is a list of entities, each associated with statistical distribution over associated verbs and subject/object positions relative to verb. Events also include a description of pairwise relationships between entities (e.g., coreferent or other). Per communication with the PI, this algorithm will be delayed. ",
         "Internal Code Repo": "",
         "License": "restricted by a university license that: (a)prohibits further distribution without the new recipient signing the license, (b)prohibits commercialization, and (c)protects the source organization, CMU and USC, from lawsuits",
         "Languages":[ ""],
