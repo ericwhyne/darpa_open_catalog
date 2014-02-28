@@ -699,7 +699,7 @@
     "Public Code Repo":"https://github.com/Sotera/high-betweenness-set-extraction.git",
     "Instructional Material":"2014-07",
     "Stats":"high-betweenness-set-extraction",
-    "Description":"Betweenness Centrality is a useful property when searching for critical nodes in a network. The exact calculation of betweenness is however computationally expensive, which leaves us with the need for approximate methods.  If you want to discover nodes that are most import for connectivity in a large network this project is for you."
+    "Description":"Betweenness Centrality is a useful property when searching for critical nodes in a network. The exact calculation of betweenness is however computationally expensive, which leaves us with the need for approximate methods.  If you want to discover nodes that are most import for connectivity in a large network this project is for you.",
     "Xdata Git Location":"",
     "License":"ALv2",
     "Categories":["Analytics"]
