@@ -288,56 +288,56 @@
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) University of California","Berkeley"],
+  "Program Teams":["(Team BBN) University of California, Berkeley"],
   "Title":"Easy Victories and Uphill Battles in Coreference Resolution",
   "Link":"http://www.eecs.berkeley.edu/~gdurrett/papers/durrett-klein-emnlp2013.pdf",
   "Authors":["Greg Durrett and Dan Klein"]
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) University of California","Berkeley"],
+  "Program Teams":["(Team BBN) University of California, Berkeley"],
   "Title":"Error-Driven Analysis of Challenges in Coreference Resolution",
   "Link":"http://nlp.cs.berkeley.edu/pubs/Kummerfeld-Klein_2013_Analysis_paper.pdf",
   "Authors":["Jonathan Kummerfeld and Dan Klein"]
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) University of California","Berkeley"],
+  "Program Teams":["(Team BBN) University of California, Berkeley"],
   "Title":"Decentralized Entity-Level Modeling for Coreference Resolution",
   "Link":"http://aclweb.org/anthology//P/P13/P13-1012.pdf",
   "Authors":["Greg Durrett and Dan Klein"]
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) University of California","Berkeley"],
+  "Program Teams":["(Team BBN) University of California, Berkeley"],
   "Title":"Training Factored PCFGs with Expectation Propagation",
   "Link":"http://www.cs.berkeley.edu/~dlwh/papers/hall12epic.pdf",
   "Authors":["David Hall and Dan Klein"]
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) University of California","Berkeley"],
+  "Program Teams":["(Team BBN) University of California, Berkeley"],
   "Title":"Fast Inference in Phrase Extraction Models with Belief Propagation",
   "Link":"http://nlp.cs.berkeley.edu/pubs/Burkett-Klein_2012_BPAlignment_paper.pdf",
   "Authors":["David Burkett and Dan Klein"]
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) University of California","Berkeley"],
+  "Program Teams":["(Team BBN) University of California, Berkeley"],
   "Title":"Large-Scale Syntactic Language Modeling with Treelets",
   "Link":"http://nlp.cs.berkeley.edu/pubs/Pauls-Klein_2012_LM_paper.pdf",
   "Authors":["Adam Pauls and Dan Klein"]
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) University of California","Berkeley"],
+  "Program Teams":["(Team BBN) University of California, Berkeley"],
   "Title":"Coreference Semantics from Web Features",
   "Link":"http://www.eecs.berkeley.edu/~mbansal/papers/acl12_corefWeb.pdf",
   "Authors":["Mohit Bansal and Dan Klein"]
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) University of California","Berkeley"],
+  "Program Teams":["(Team BBN) University of California, Berkeley"],
   "Title":"Transforming Trees to Improve Syntactic Convergence",
   "Link":"http://www.eecs.berkeley.edu/~dburkett/papers/burkett12-tree_transform.pdf",
   "Authors":["David Burkett and Dan Klein"]
@@ -892,14 +892,14 @@
   "DARPA Program":"BOLT",
   "Program Teams":["(Team LDC) Brandeis University"],
   "Title":"Extending and Scaling up the Chinese Treebank Annotation",
-  "Link":"aclweb.org/anthology/W/W12/W12-6306.pdf",
+  "Link":"http://aclweb.org/anthology/W/W12/W12-6306.pdf",
   "Authors":["Xiuhong Zhang and Nianwen Xue"]
 },
 {
   "DARPA Program":"BOLT",
   "Program Teams":["(Team LDC) Brandeis University"],
   "Title":"Building a Chinese Lexical Taxonomy",
-  "Link":"aclweb.org/anthology/W/W12/W12-6305.pdf",
+  "Link":"http://aclweb.org/anthology/W/W12/W12-6305.pdf",
   "Authors":["Xiaopeng Bai and Nianwen Xue"]
 },
 {
