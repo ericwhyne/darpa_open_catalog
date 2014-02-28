@@ -693,6 +693,20 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Sotera Defense Solutions, Inc."],
+    "Software":"High Betweenness Set Extraction",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+    "External Link":"https://github.com/Sotera/high-betweenness-set-extraction",
+    "Public Code Repo":"https://github.com/Sotera/high-betweenness-set-extraction.git",
+    "Instructional Material":"2014-07",
+    "Stats":"high-betweenness-set-extraction",
+    "Description":"Betweenness Centrality is a useful property when searching for critical nodes in a network. The exact calculation of betweenness is however computationally expensive, which leaves us with the need for approximate methods.  If you want to discover nodes that are most import for connectivity in a large network this project is for you."
+    "Xdata Git Location":"",
+    "License":"ALv2",
+    "Categories":["Analytics"]
+},
+  {
+    "DARPA Program Name": "XDATA",
+    "Program Teams":["Sotera Defense Solutions, Inc."],
     "Software":"Louvain Modularity",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
     "External Link":"http://sotera.github.io/distributed-louvain-modularity/",
