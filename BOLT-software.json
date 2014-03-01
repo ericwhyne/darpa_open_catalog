@@ -653,7 +653,7 @@
        "DARPA Program": "BOLT",
        "Program Teams":["ASTRAL - ISI"],
        "Software": "AMR-to-English Aligner",
-       "Internal Link": "amr.isi.edu",
+       "Internal Link": "http://amr.isi.edu/",
        "External Link": "",
        "Public Code Repo": "",
        "Description": "",
@@ -771,7 +771,7 @@
        "Program Teams":["ASTRAL - CADIM (Columbia & GWU)"],
        "Software": "MADAMIRA: tokenization, lemmatization, diacritization, POS tagging",
        "Internal Link": "http://www1.ccls.columbia.edu/~ryan/BOLT-CADIM-Tools/",
-       "External Link": "http://innovation.columbia.edu/technologies/cu14012_arabic-language-disambiguation-for-natural-language-processing-applications ",
+       "External Link": "http://innovation.columbia.edu/technologies/cu14012_arabic-language-disambiguation-for-natural-language-processing-applications",
        "Public Code Repo": "",
        "Description": "MADAMIRA is a system for Morphological Analysis and Disambiguation for Arabic. Its primary purpose is to derive as much linguistic information as possible about each word in a given text, thereby reducing or eliminating any ambiguity surrounding the word. MADAMIRA's core functionality includes, tokenization, part-of-speech tagging, morphological disambiguation for full range of morphological features, lemmatization, diacritization, named entity recognition and base phrase chunking,",
        "Internal Code Repo ": "https://power.ldeo.columbia.edu/svn/Proj/NLP/nadia/MADAMIRA ",
@@ -828,7 +828,7 @@
        "Description": "Automatic Dialect/Genre Adaption software is a system designed to learn word representation from unannotated corpora then uses this representation as a feature in supuervised machine learning models. It aims to improve the accuracy of different systems under a limited data conditions or domain/genre shift conditions such is the case for Arabic dialects and genres. ",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["Java","Matlab"," "],
+       "Languages":["Java","Matlab"],
        "Categories":["machine learning (MCCA, RNN, Clustering)", "dialect/genre adaptation"]
     },
     {
