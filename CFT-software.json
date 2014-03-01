@@ -1057,8 +1057,8 @@
   "Program Teams":["Ring0 Technologies"],
   "Software":"PIDS",
   "Public Code Repo":"Richard.Guidorizzi@darpa.mil",
-  "Description":"A technology that will detect and prevent infiltration of sensitive or classified networks via shared power sources including Modern or recent COTS broadband PLC protocols",
-  "License":" Older COTS protocols &  Non-COTS protocols including both voltage and current mode modulations.",
-  "Categories":["GPR"]
+  "Description":"A technology that will detect and prevent infiltration of sensitive or classified networks via shared power sources including Modern or recent COTS broadband PLC protocols. Older COTS protocols &  Non-COTS protocols including both voltage and current mode modulations.",
+  "License":"GPR",
+  "Categories":[""]
 }
 ]
