@@ -95,7 +95,7 @@
   "Program Teams":["(WiscTeam) University of Wisconsin-Madison","Stanford University"],
   "Title":"Scaling Inference for Markov Logic via Dual Decomposition",
   "Link":"ftp://ftp.cs.wisc.edu/machine-learning/shavlik-group/niu.icdm12.pdf",
-  "Authors":["Feng Niu","Ce Zhang","Christopher R","and Jude Shavlik."]
+  "Authors":["Feng Niu","Ce Zhang","Christopher R","and Jude Shavlik"]
 },
 {
   "DARPA Program":"DEFT",
@@ -388,14 +388,14 @@
   "DARPA Program":"DEFT",
   "Program Teams":["RPI"],
   "Title":"Detecting Community Evolution and Leadership Roles during Emergencies",
-  "Link":"",
+  "Link":"n/a",
   "Authors":["Yulia Tyshchuk","Hao Li","Heng Ji and William Wallace"]
 },
 {
   "DARPA Program":"DEFT",
   "Program Teams":["RPI"],
   "Title":"RPI-BLENDER TAC-KBP2013 Knowledge Base Population System Description",
-  "Link":"",
+  "Link":"n/a",
   "Authors":["Dian Yu","Haibo Li","Taylor Cassidy","Qi Li","Zheng Chen and Heng Ji"]
 },
 {
@@ -990,7 +990,7 @@
   "DARPA Program":"DEFT",
   "Program Teams":["University of Texas at Dallas"],
   "Title":"Using Supervised Bigram-based ILP for Extractive Summarization",
-  "Link":"",
+  "Link":"n/a",
   "Authors":["Chen Li","Xian Qian","and Yang Liu"]
 },
 {
