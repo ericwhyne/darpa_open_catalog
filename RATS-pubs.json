@@ -156,7 +156,7 @@
 {
   "DARPA Program":"RATS",
   "Program Teams":["(Team BBN) JHU"],
-  "Title":"Multistream Recognition of Speech: Dealing With Unknown Unknowns.",
+  "Title":"Multistream Recognition of Speech: Dealing With Unknown Unknowns",
   "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6428587&tag=1",
   "Authors":["Hynek Hermansky"]
 },
@@ -184,14 +184,14 @@
 {
   "DARPA Program":"RATS",
   "Program Teams":["(Team BBN) JHU"],
-  "Title":"Text-to-Speech Inspired Duration Modeling for Improved Whole-Word Acoustic Models,",
+  "Title":"Text-to-Speech Inspired Duration Modeling for Improved Whole-Word Acoustic Models",
   "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2013a.pdf",
   "Authors":["Keith Kintzley","Aren Jansen","Hynek Hermansky"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["(Team BBN) JHU"],
-  "Title":"Weak Top-Down Constraints For Unsupervised Acoustic Model Training,",
+  "Title":"Weak Top-Down Constraints For Unsupervised Acoustic Model Training",
   "Link":"http://old-site.clsp.jhu.edu/~samuel/pdfs/wk_const.pdf",
   "Authors":["Aren Jansen","Samuel Thomas","Hynek Hermansky"]
 },
@@ -212,7 +212,7 @@
 {
   "DARPA Program":"RATS",
   "Program Teams":["(Team BBN) JHU"],
-  "Title":"Frequency Offset Correction in Speech Without Detecting Pitch,",
+  "Title":"Frequency Offset Correction in Speech Without Detecting Pitch",
   "Link":"http://hltcoe.jhu.edu/uploads/publications/papers/14672_slides.pdf",
   "Authors":["Pascal Clark","Harish Mallidi","Aren Jansen","Hynek Hermansky"]
 },
@@ -233,7 +233,7 @@
 {
   "DARPA Program":"RATS",
   "Program Teams":["(Team BBN) JHU"],
-  "Title":"Filter-Bank Optimization for Frequency Domain Linear Prediction,",
+  "Title":"Filter-Bank Optimization for Frequency Domain Linear Prediction",
   "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06639040",
   "Authors":["Vijayaditya Peddinti","Hynek Hermansky"]
 },
@@ -311,7 +311,7 @@
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
   "Title":"The IBM Speech Activity Detection System for the DARPA RATS Program",
-  "Link":"www.interspeech2013.org",
+  "Link":"http://www.interspeech2013.org/",
   "Authors":["G. Saon","S. Thomas","H. Soltau","S. Ganapathy and B. Kingsbury"]
 },
 {
@@ -456,7 +456,7 @@
 },
 {
   "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of California","Los Angeles"],
+  "Program Teams":["(Team SRI) University of California, Los Angeles"],
   "Title":"A Pitch-Based Enhancement Technique for Robust Speech Processing",
   "Link":"http://www.ee.ucla.edu/~spapl/paper/InterSpeech2013_revised_Kaewtip.pdf",
   "Authors":["K. Kaewtip","L. N. Tan","A. Alwan"]
@@ -589,14 +589,14 @@
 },
 {
   "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of California","Los Angeles"],
+  "Program Teams":["(Team SRI) University of California, Los Angeles"],
   "Title":"Modulation Features for Noise Robust Speaker Identification",
   "Link":"http://www.speech.sri.com/papers/vmitra_MMeDuSA_Interspeech2013.pdf",
   "Authors":["V. Mitra","M. McLaren","H. Franco","M. Graciarena and N. Scheffer"]
 },
 {
   "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of California","Los Angeles"],
+  "Program Teams":["(Team SRI) University of California, Los Angeles"],
   "Title":"Multi-Band Summary Correlogram-Based Pitch Detection for Noisy Speech",
   "Link":"http://www.ee.ucla.edu/~spapl/paper/Speechcom_Tan.pdf",
   "Authors":["L. N. Tan and A. Alwan"]
