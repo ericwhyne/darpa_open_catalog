@@ -197,42 +197,42 @@
 },
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["CMU CS"],
+  "Program Teams":["CMUCS"],
   "Title":"A Structured Distributional Semantic Model: Integrating Structure with Semantics",
   "Link":"http://aclweb.org/anthology/W/W13/W13-3203.pdf",
   "Authors":["Goyal","K.","S.K. Jauhar","H. Li","M. Sachan","S. Shrivastava","E.H. Hovy"]
 },
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["CMU CS"],
+  "Program Teams":["CMUCS"],
   "Title":"Events are Not Simple: Identity, Non-Identity, and Quasi-Identity",
   "Link":"http://aclweb.org/anthology/W/W13/W13-1203.pdf",
   "Authors":["Hovy","E.H.","T. Mitamura","M.F. Verdejo","J. Araki","A. Philpot"]
 },
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["CMU CS"],
+  "Program Teams":["CMUCS"],
   "Title":"Programming with Personalized PageRank: A Locally Groundable First-Order Probabilistic Logic,",
-  "Link":"http://www.cikm2013.org/",
+  "Link":"http://www.cikm2013.org/accepted.php",
   "Authors":["W.Y. Wang","K. Mazaitis","W.W. Cohen"]
 },
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["CMU CS"],
+  "Program Teams":["CMUCS"],
   "Title":"Programming with Personalized PageRank: A Locally Groundable First-Order Probabilistic Logic",
   "Link":"http://sites.google.com/site/inferning12/",
   "Authors":["W.Y. Wang","K. Mazaitis","W.W. Cohen"]
 },
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["CMU CS"],
+  "Program Teams":["CMUCS"],
   "Title":"Story-Level Inference and Gap Filling to Improve Machine Reading",
-  "Link":"www.isi.edu/%7Ehans/publications/FLAIRS12.pdf",
+  "Link":"http://www.isi.edu/~hans/publications/FLAIRS12.pdf",
   "Authors":["H. Chalupsky"]
 },
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["CMU CS"],
+  "Program Teams":["CMUCS"],
   "Title":"Abstract Meaning Representation for Sembanking",
   "Link":"http://www.isi.edu/natural-language/amr/a.pdf",
   "Authors":["L. Banarescu","C. Bonial","Shu Cai","M.a Georgescu","K. Griffitt","U. Hermjakob","K. Knight","Ph. Koehn","M. Palmer and N. Schneider"]
@@ -704,7 +704,7 @@
   "Program Teams":["Stanford University","Harbin Institute of Technology"],
   "Title":"Named Entity Recognition with Bilingual Constraints",
   "Link":"http://nlp.stanford.edu/pubs/naacl13-che.pdf",
-  "Authors":["Wanxiang Che","Mengqiu Wang","Christopher D. Manning","and Ting Liu."]
+  "Authors":["Wanxiang Che","Mengqiu Wang","Christopher D. Manning","and Ting Liu"]
 },
 {
   "DARPA Program":"DEFT",
@@ -716,7 +716,7 @@
 {
   "DARPA Program":"DEFT",
   "Program Teams":["Stanford University","Harbin Institute of Technology"],
-  "Title":"Stanfords System for Parsing the English Web",
+  "Title":"Stanford's System for Parsing the English Web",
   "Link":"http://nlp.stanford.edu/pubs/mcclosky-sancl-12.pdf",
   "Authors":["David McClosky","Wanxiang Che","Marta Recasens","Mengqiu Wang","Richard Socher","and Christopher D. Manning"]
 },
@@ -962,28 +962,28 @@
   "DARPA Program":"DEFT",
   "Program Teams":["University of Texas at Dallas"],
   "Title":"Fast Joint Compression and Summarization via Graph Cuts",
-  "Link":"",
+  "Link":"n/a",
   "Authors":["Xian Qian and Yang Liu"]
 },
 {
   "DARPA Program":"DEFT",
   "Program Teams":["University of Texas at Dallas"],
   "Title":"Document Summarization via Guided Sentence Compression",
-  "Link":"",
+  "Link":"n/a",
   "Authors":["Chen Li","Fei Liu","Fuliang Weng","and Yang Liu"]
 },
 {
   "DARPA Program":"DEFT",
   "Program Teams":["University of Texas at Dallas"],
   "Title":"Using Denoising Autoencoder for Emotion Recognition",
-  "Link":"",
+  "Link":"n/a",
   "Authors":["Rui Xia and Yang Liu"]
 },
 {
   "DARPA Program":"DEFT",
   "Program Teams":["University of Texas at Dallas"],
   "Title":"A Preliminary Study of Cross-lingual Emotion Recognition from Speech: Automatic Classification versus Human Perception",
-  "Link":"",
+  "Link":"n/a",
   "Authors":["Je Hun Jeon","Duc Le","Rui Xia","and Yang Liu"]
 },
 {
@@ -997,7 +997,7 @@
   "DARPA Program":"DEFT",
   "Program Teams":["University of Texas at Dallas"],
   "Title":"Disfluency Detection Using Multi-step Stacked Learning",
-  "Link":"",
+  "Link":"n/a",
   "Authors":["Xian Qian and Yang Liu"]
 },
 {
@@ -1143,7 +1143,7 @@
 {
   "DARPA Program":"DEFT",
   "Program Teams":["UT Austin"],
-  "Title":"Learning to",
+  "Title":"Learning to 'Read Between the Lines' Using Baysian Logic",
   "Link":"http://www.cs.utexas.edu/users/ml/papers/raghavan.acl12.pdf",
   "Authors":["Sindhu Raghavan and Raymond J. Mooney and Hyeonseo Ku"]
 },
@@ -1256,7 +1256,7 @@
   "DARPA Program":"DEFT",
   "Program Teams":["JHU"],
   "Title":"Evaluating Progress in Probabilistic Programming through Topic Models",
-  "Link":"",
+  "Link":"n/a",
   "Authors":["Francis Ferraro","Benjamin Van Durme","Yanif Ahmed"]
 }
 ]
