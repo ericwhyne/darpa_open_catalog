@@ -9,7 +9,7 @@
         "Description": "Automatically identifies and extracts binary relationships from English sentences. Relations are lexical, i.e. they consist of a predicate (verb phrase) and its two noun phrase arguments.",
         "Internal Code Repo": "",
         "License": "Apache 2.0, CPL, In House",
-        "Languages":[ "Java, Scala"],
+        "Languages":[ "Java","Scala"],
         "Categories":[ "NLP"]
     },
     {
@@ -22,7 +22,7 @@
         "Description": "Extracts relations among sentences. Relations are lexical, i.e. the consist of a predicate and arguments as in 1.1 and also include lexical information about attribution and the enabling condition.",
         "Internal Code Repo": "",
         "License": "Apache 2.0, MIT, New BSD, http://www.maltparser.org/license.html, In house",
-        "Languages":[ "Java, Scala"],
+        "Languages":[ "Java", "Scala"],
         "Categories":[ "NLP"]
     },
     {
@@ -282,7 +282,7 @@
         "Description": "Generates a list of acoustic/prosodic characteristics from the input",
         "Internal Code Repo": "",
         "License": "GPL",
-        "Languages":[ "Java, C++"],
+        "Languages":[ "Java","C++"],
         "Categories":[ "NLP"]
     },
     {
@@ -308,7 +308,7 @@
         "Description": "Labels interaction events and their participants. There are at least two types INTERACTION and COGNITION.",
         "Internal Code Repo": "",
         "License": "Apache 2.0(Jet), In house",
-        "Languages":[ "Java, C++"],
+        "Languages":[ "Java","C++"],
         "Categories":[ "NLP"]
     },
     {
@@ -555,7 +555,7 @@
         "Description": "Identifies the attitude (positive/negative) of an entity towards other entities within a sentence",
         "Internal Code Repo": "",
         "License": "GPL, Cornell/UNT/Pitt open-source license",
-        "Languages":[ "Java, Perl"],
+        "Languages":[ "Java","Perl"],
         "Categories":[ "NLP"]
     },
     {
@@ -568,7 +568,7 @@
         "Description": "Assigns scores between [0,1] indicating the similarity in meaning between two sentences.",
         "Internal Code Repo": "",
         "License": "GPL, BSD, Cornell/UNT/Pitt open-source license",
-        "Languages":[ "Java, Perl"],
+        "Languages":[ "Java","Perl"],
         "Categories":[ "NLP"]
     },
     {
