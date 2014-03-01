@@ -9,7 +9,7 @@
        "Description": "web site for annotation, management, enrollment, collection",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby","javascript"],
+       "Languages":["Ruby","Javascript"],
        "Categories":["annotation"]
     },
     {
@@ -22,7 +22,7 @@
        "Description": "application to track a variety of data resources in a database",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby","javascript"],
+       "Languages":["Ruby","Javascript"],
        "Categories":["database"]
     },
     {
@@ -35,7 +35,7 @@
        "Description": "general datatype and database interface library",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["database"]
     },
     {
@@ -48,7 +48,7 @@
        "Description": "application for collecting web documents",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["python"],
+       "Languages":["Python"],
        "Categories":["data collection"]
     },
     {
@@ -61,7 +61,7 @@
        "Description": "suite of tools for sanity checking",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["data validity"]
     },
     {
@@ -74,7 +74,7 @@
        "Description": "word alignment application",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["python"],
+       "Languages":["Python"],
        "Categories":["annotation"]
     },
     {
@@ -87,7 +87,7 @@
        "Description": "general text processing code",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["data formatting"]
     },
     {
@@ -100,7 +100,7 @@
        "Description": "bolt specific processing code",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["data formatting"]
     },
     {
@@ -113,7 +113,7 @@
        "Description": "configurations for webcol (web document collection",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["python"],
+       "Languages":["Python"],
        "Categories":["data collection"]
     },
     {
@@ -126,7 +126,7 @@
        "Description": "code for parsing and storing message data",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["data collection"]
     },
     {
@@ -139,7 +139,7 @@
        "Description": "code for using the GNIP Twitter interface",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["data collection"]
     },
     {
@@ -152,7 +152,7 @@
        "Description": "collection database management library",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["data collection"]
     },
     {
@@ -165,7 +165,7 @@
        "Description": "remote procedure call library",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["distributed programming"]
     },
     {
@@ -178,7 +178,7 @@
        "Description": "SMS collection library",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["python"],
+       "Languages":["Python"],
        "Categories":["data collection"]
     },
     {
@@ -191,7 +191,7 @@
        "Description": "instant messaging collection library",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["data collection"]
     },
     {
@@ -204,7 +204,7 @@
        "Description": "jabber protocol bot application",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["data collection"]
     },
     {
@@ -217,7 +217,7 @@
        "Description": "translation processing code",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["data collection"]
     },
     {
@@ -230,7 +230,7 @@
        "Description": "code for managing a solr search engine instance",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["ruby"],
+       "Languages":["Ruby"],
        "Categories":["search"]
     },
     {
@@ -412,7 +412,7 @@
        "Description": "Maximum entropy modeling with support for features shared across targets",
        "Internal Code Repo ": "/home/speech2/bartels/TTS/starmax/devel/starmax/CVS",
        "License": "Developed under DARPA funding",
-       "Languages":["C++ Python"],
+       "Languages":["C++", "Python"],
        "Categories":["Text-to-speech"]
     },
     {
@@ -425,7 +425,7 @@
        "Description": "Scripting and configuration to generate Festival compatible voice",
        "Internal Code Repo ": "/home/users/bartels/TTS/test_voice/generate_voice/ali_more_hand_alignments_0066/templates",
        "License": "Developed under DARPA funding",
-       "Languages":["Bash Python Perl"],
+       "Languages":["Bash", "Python", "Perl"],
        "Categories":["Text-to-speech"]
     },
     {
@@ -523,7 +523,7 @@
        "DARPA Program": "BOLT",
        "Program Teams":["ASTRAL - BBN"],
        "Software": "Unsupservised Morphological Segmenter",
-       "Internal Link": "/d4m/home/rzbib/code/unsupervised_tokenizer/bin/lexicon-sampler-v2.1.jar ",
+       "Internal Link": "/d4m/home/rzbib/code/unsupervised_tokenizer/bin/lexicon-sampler-v2.1.jar",
        "External Link": "",
        "Public Code Repo": "",
        "Description": "Software trains unsupervised models of morphological segmenter",
@@ -711,7 +711,7 @@
        "Description": "NRC Machine Translation System",
        "Internal Code Repo ": "balzac:/home/git/Portage.git",
        "License": "",
-       "Languages":["C++, Python","Perl"," Bash"],
+       "Languages":["C++","Python","Perl","Bash"],
        "Categories":["Machine Translation"]
     },
     {
@@ -774,7 +774,7 @@
        "External Link": "http://innovation.columbia.edu/technologies/cu14012_arabic-language-disambiguation-for-natural-language-processing-applications",
        "Public Code Repo": "",
        "Description": "MADAMIRA is a system for Morphological Analysis and Disambiguation for Arabic. Its primary purpose is to derive as much linguistic information as possible about each word in a given text, thereby reducing or eliminating any ambiguity surrounding the word. MADAMIRA's core functionality includes, tokenization, part-of-speech tagging, morphological disambiguation for full range of morphological features, lemmatization, diacritization, named entity recognition and base phrase chunking,",
-       "Internal Code Repo ": "https://power.ldeo.columbia.edu/svn/Proj/NLP/nadia/MADAMIRA ",
+       "Internal Code Repo ": "https://power.ldeo.columbia.edu/svn/Proj/NLP/nadia/MADAMIRA",
        "License": "NON-COMMERCIAL SOFTWARE LICENSE AGREEMENT- CU14012",
        "Languages":["Java","Perl"],
        "Categories":["Tokenization", "lemmatization", "diacritization", "POS tagging", "segmentation", "MSA", "Dialectal Arabic"]
@@ -783,7 +783,7 @@
        "DARPA Program": "BOLT",
        "Program Teams":["ASTRAL - CADIM (Columbia & GWU)"],
        "Software": "MADA-ARZ",
-       "Internal Link": "http://www1.ccls.columbia.edu/~ryan/BOLT-CADIM-Tools/ ",
+       "Internal Link": "http://www1.ccls.columbia.edu/~ryan/BOLT-CADIM-Tools/",
        "External Link": "",
        "Public Code Repo": "",
        "Description": "MADA-ARZ is an adaptation of MADA (Version 3.2), built to handle the Egyptian dialect.  For the most part, the operation of MADA-ARZ is the same as MADA 3.2. MADA 3.2 is a system for Morphological Analysis and Disambiguation for Arabic. Its primary purpose is to derive as much linguistic information as possible about each word in a given text, thereby reducing or eliminating any ambiguity surrounding the word. MADA 3.2 also contains a general tokenizer.,",
@@ -796,14 +796,14 @@
        "DARPA Program": "BOLT",
        "Program Teams":["ASTRAL - CADIM (Columbia & GWU)"],
        "Software": "AIDA",
-       "Internal Link": "http://www1.ccls.columbia.edu/~ryan/BOLT-CADIM-Tools/ ",
+       "Internal Link": "http://www1.ccls.columbia.edu/~ryan/BOLT-CADIM-Tools/",
        "External Link": "http://nlp.ldeo.columbia.edu/aida/",
        "Public Code Repo": "",
        "Description": "AIDA is a system for dialect identification and glossing on the token and sentence levels for written Arabic.  AIDA employs a mix of dictionary based and language model based algorithms to address this problem. In addition to identifying dialectal variants in context, AIDA provides MSA and English correspondents for the dialectal words. It presents the user with possible alternatives and confidence values on its decisions. AIDA is accessible through a web-based interface as well as a packaged pipeline that is available for offline processing.",
        "Internal Code Repo ": "https://power.ldeo.columbia.edu/svn/Proj/NLP/nadia/AIDA",
        "License": "",
        "Languages":["Java"],
-       "Categories":["token/sentence level dialect identification/classification"]
+       "Categories":["token","sentence level dialect identification","classification"]
     },
     {
        "DARPA Program": "BOLT",
@@ -815,7 +815,7 @@
        "Description": "3ARRIB is a system for identifying Arabic text that is written using Latin characters (called Arabizi) and converting it to Arabic characters in CODA standard. 3ARRIB uses FSM, CALIMA, and language model algorithm to address this problem.",
        "Internal Code Repo ": "/export/projects/nlp/BOLT-CALIMA/backup/3ARRIB/3ARRIB-CODE/24-Jan-2014-release",
        "License": "",
-       "Languages":["Perl","java"],
+       "Languages":["Perl","Java"],
        "Categories":["Transliteration", "romanization"]
     },
     {
@@ -841,7 +841,7 @@
        "Description": "ELISSA is a Dialect to Standard Arabic Machine Translation System. ",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["Moses","Perl"," Unix shell scripts"],
+       "Languages":["Moses","Perl","Unix shell scripts"],
        "Categories":["Machine Translation", "Dialectal Arabic"]
     },
     {
@@ -880,7 +880,7 @@
        "Description": "CALIMA is a morphological analyzer for Arabic and its dialects, It builds on the SAMA morphological analyzer from the LDC. ",
        "Internal Code Repo ": "",
        "License": "",
-       "Languages":["FSA","PERL"," JAVA"],
+       "Languages":["FSA","Perl","Java"],
        "Categories":["FA", "FSM", "Morphological analysis", "Arabic dialects"]
     },
     {
