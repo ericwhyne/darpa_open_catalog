@@ -39,7 +39,7 @@
   "DARPA Program":"AA",
   "Program Teams":["Allure Security Technology Inc."],
   "Title":"On the Design and Execution of Cyber-Security User Studies: Methodology",
-  "Link":"Challenges"
+  "Link":"http://academiccommons.columbia.edu/catalog/ac%3A142661"
 },
 {
   "DARPA Program":"AA",
@@ -103,9 +103,9 @@
 },
 {
   "DARPA Program":"AA",
-  "Program Teams":["Coveros"],
-  "Title":"Inc.",
-  "Link":"Active Authentication Using System Event Monitoring"
+  "Program Teams":["Coveros, Inc."],
+  "Title":"Active Authentication Using System Event Monitoring",
+  "Link":"http://www.coveros.com/monitoring-system-calls-for-active-authentication-with-detours/"
 },
 {
   "DARPA Program":"AA",

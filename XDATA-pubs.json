@@ -398,8 +398,14 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["Sotera Defense Solutions, Inc."],
+  "Title":"A Survey of Big Data Methods, Assessments, and Approaches",
+  "Link":"http://sotera.github.io/papers/Benchmarks_Whitepaper.pdf"
+},
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["Sotera Defense Solutions, Inc."],
   "Title":"Correlation Using Pair-wise Combinations of Multiple Data Sources and Dimensions at Ultra-Large Scales",
-  "Link":"To appear"
+  "Link":"http://sotera.github.io/papers/PairwiseCorrelation_LarsonLossauWalsh_NSSDF_Paper.pdf"
 },
 {
   "DARPA Program":"XDATA",

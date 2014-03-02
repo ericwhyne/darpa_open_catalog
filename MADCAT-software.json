@@ -10,7 +10,7 @@
     "Description":"web site for annotation, management, enrollment, collection",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["ruby","javascript"],
+    "Languages":["Ruby","Javascript"],
     "Categories":["annotation"]
 },
 {
@@ -24,7 +24,7 @@
     "Description":"general datatype and database interface library",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["ruby"],
+    "Languages":["Ruby"],
     "Categories":["database"]
 },
 {
@@ -38,7 +38,7 @@
     "Description":"suite of tools for sanity checking",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["ruby"],
+    "Languages":["Ruby"],
     "Categories":["data validity"]
 },
 {
@@ -52,7 +52,7 @@
     "Description":"web app for managing scribed document collection, and annotation/qc on GEDI ground-truthing",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["php","javascript"],
+    "Languages":["PHP","Javascript"],
     "Categories":["annotation","data collection"]
 },
 {
@@ -66,7 +66,7 @@
     "Description":"earlier version of scribble",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["php","javascript"],
+    "Languages":["PHP","Javascript"],
     "Categories":["annotation","data collection"]
 },
 {
@@ -80,7 +80,7 @@
     "Description":"scripts to validate XML formats, convert to/from translation outsourcing format, generate kits???",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python","perl","ruby","bash"],
+    "Languages":["Python","Perl","Ruby","Bash"],
     "Categories":["data formatting","data validity"]
 },
 {
@@ -263,7 +263,7 @@
     "Internal Code Repo":"",
     "License":"Government Purpose Rights",
     "Languages":["C++"],
-    "Categories":["Image processing","machine learning"]
+    "Categories":["Image processing","Machine learning"]
 },
 {
     "DARPA Program":"MADCAT",

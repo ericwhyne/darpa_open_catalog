@@ -177,7 +177,7 @@
     "Description":"Low level Gabor filterbank code. Inspired by physiological measurements in the primary auditory cortex of mammals, Gabor filterbank features extract spectro-temporal information from a acoustic signal, resulting in a large number of features that are then used in downstream processes",
     "Internal Code Repo":"",
     "License":"GPL3",
-    "Languages":["Matlab","python"],
+    "Languages":["Matlab","Python"],
     "Categories":["Mathematics"]
 },
 {
@@ -247,7 +247,7 @@
     "Description":"Python bindings to Matthew Kaufman's mdc-encode-decode library, to encode/decode MDC1200",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python","C"],
+    "Languages":["Python","C"],
     "Categories":["signal processing"]
 },
 {
@@ -261,7 +261,7 @@
     "Description":"scripts for conditioning, QC checks and database tracking of phase 1,2 data collection",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["perl","shell"],
+    "Languages":["Perl","Shell"],
     "Categories":["data collection"]
 },
 {
@@ -275,7 +275,7 @@
     "Description":"scripts for conditioning, QC checks and database tracking of novel channel collection",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["ruby"],
+    "Languages":["Ruby"],
     "Categories":["data collection"]
 },
 {
@@ -289,7 +289,7 @@
     "Description":"Python Module And Client Applications Implementing the Alinco Receiver Control API",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python","C"],
+    "Languages":["Python","C"],
     "Categories":["systems integration: transceiver control"]
 },
 {
@@ -303,7 +303,7 @@
     "Description":"Python Module And Client Applications Implementing the AOR AR8200 and AR5001D  Receiver Control APIs",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python","C"],
+    "Languages":["Python","C"],
     "Categories":["systems integration: transceiver control"]
 },
 {
@@ -317,7 +317,7 @@
     "Description":"Python Module And Client Applications Implementing the Ten-Tec RX400, RX340, and RX331  Receiver Control APIs",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python","C"],
+    "Languages":["Python","C"],
     "Categories":["systems integration: transceiver control"]
 },
 {
@@ -331,7 +331,7 @@
     "Description":"Python Module And Client Applications Implementing the Icom IC-R8500 and IC-R75  Receiver Control APIs",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python","C"],
+    "Languages":["Python","C"],
     "Categories":["systems integration: transceiver control"]
 },
 {
@@ -345,7 +345,7 @@
     "Description":"Python Module and Client Applications Implementing the Lectrosonics DM812 Control API",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python","C"],
+    "Languages":["Python","C"],
     "Categories":["systems integration: signal detection and routing","transmission automation"]
 },
 {
@@ -359,7 +359,7 @@
     "Description":"Server Applications Allowing for Remote Audio Capture controlled via TCP/IP",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["perl","bash"],
+    "Languages":["Perl","Bash"],
     "Categories":["systems integration: remote multichannel audio capture"]
 },
 {
@@ -373,7 +373,7 @@
     "Description":"Server Applications Allowing for Remote Audio Processing and Playback controlled via TCP/IP",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["perl","bash"],
+    "Languages":["Perl","Bash"],
     "Categories":["systems integration: remote multichannel audio playback"]
 },
 {
@@ -387,7 +387,7 @@
     "Description":"Python Module and Client Application Allowing for realtime audio spectrum, with remote control of inversion parameters via TCP/IP",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["perl","bash"],
+    "Languages":["Perl","Bash"],
     "Categories":["realtime audio processing"]
 },
 {
@@ -401,7 +401,7 @@
     "Description":"Python Application which can synthesize SelCall and 5Tone Control Signals, allowing for predetermined variation from the standard. Currently supports MODAT and CCIR signaling protocols",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python"],
+    "Languages":["Python"],
     "Categories":["Comms Audio Control Signal synthesis"]
 },
 {
@@ -415,7 +415,7 @@
     "Description":"Python Application which can synthesize RTTY/AFSK Audio Clips, allowing for random variation of FSK encoding parameters (baud, mark, shift, gain)",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python"],
+    "Languages":["Python"],
     "Categories":["Comms Audio Control Signal synthesis"]
 },
 {
@@ -429,7 +429,7 @@
     "Description":"Client Application to control Multipsk Communications Signal Audio Generator",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["perl"],
+    "Languages":["Perl"],
     "Categories":["Audio synthesis automation"]
 },
 {
@@ -443,7 +443,7 @@
     "Description":"Python Module and Client Applications to manage multichannel, multi-site, radio transmission data collection sessions. Controls and Monitors multiple hosts, signal routers, transceivers and receivers via TCP/IP. Uses MySQL database backend",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["python","SQL"],
+    "Languages":["Python","SQL"],
     "Categories":["systems integration: Data Collection Automation"]
 },
 {
@@ -471,7 +471,7 @@
     "Description":"suite of tools for sanity checking",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["ruby"],
+    "Languages":["Ruby"],
     "Categories":["data validity"]
 },
 {
@@ -485,7 +485,7 @@
     "Description":"suite of tools for sanity checking",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["ruby"],
+    "Languages":["Ruby"],
     "Categories":["data validity"]
 },
 {
@@ -499,7 +499,7 @@
     "Description":"suite of tools for sanity checking",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["ruby"],
+    "Languages":["Ruby"],
     "Categories":["data validity"]
 },
 {
@@ -513,7 +513,7 @@
     "Description":"suite of tools for sanity checking",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["ruby"],
+    "Languages":["Ruby"],
     "Categories":["data validity"]
 },
 {
@@ -527,7 +527,7 @@
     "Description":"collection database management library",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["ruby"],
+    "Languages":["Ruby"],
     "Categories":["data collection"]
 },
 {
@@ -625,7 +625,7 @@
     "Description":"RATS Toolkit is a software package consisting of SAD, LID, SID and keyword search (KWS) systems.",
     "Internal Code Repo":"",
     "License":"Unlimited Rights to the Government.",
-    "Languages":["Perl","bash","csh","C/C++","Java"],
+    "Languages":["Perl","Bash","csh","C/C++","Java"],
     "Categories":["SAD","LID","SID and KWS toolkit"]
 },
 {
@@ -639,7 +639,7 @@
     "Description":"Noise robust cortical feature extraction  for various tasks including speech activity detection, speaker recogtion, language recognition and the cortical feature is based on a computational audiotry model mimicing the singal processing in the auditory cortex",
     "Internal Code Repo":"",
     "License":"No license needed",
-    "Languages":["C + Matlab runtime library"],
+    "Languages":["C+", "Matlab", "runtime library"],
     "Categories":["Acoustic feature extraction"]
 },
 {
@@ -653,7 +653,7 @@
     "Description":"long-term modulation feature with noise reduction for robust speech recognition in unknown noise",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["matlab"],
+    "Languages":["Matlab"],
     "Categories":["acoustic feature"]
 },
 {
@@ -695,7 +695,7 @@
     "Description":"bio-inspired phoneme recognition system that emulates parallel processing in human speech recognition",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["matlab","C"],
+    "Languages":["Matlab","C"],
     "Categories":["multistream feature"]
 },
 {
@@ -709,7 +709,7 @@
     "Description":"bio-inspired phoneme recognition system that emulates parallel processing in human speech recognition",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["matlab"],
+    "Languages":["Matlab"],
     "Categories":["speech enhancement"]
 },
 {
@@ -723,7 +723,7 @@
     "Description":"automatic detection of frequency shift in RATS speech",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["matlab","C"],
+    "Languages":["Matlab","C"],
     "Categories":["multistream feature"]
 },
 {
@@ -737,7 +737,7 @@
     "Description":"tandem feature produced by a neural net trained on cortical feature",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["matlab","C"],
+    "Languages":["Matlab","C"],
     "Categories":["tandem feature"]
 },
 {
@@ -751,7 +751,7 @@
     "Description":"long-term modulation feature based on frequency-domain linear prediction followed by time-domain linear prediction for speech recognition",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["matlab"],
+    "Languages":["Matlab"],
     "Categories":["acoustic feature"]
 },
 {
@@ -765,7 +765,7 @@
     "Description":"long-term modulation feature based on frequency-domain linear prediction (FDLP) for speech recognition",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["matlab"],
+    "Languages":["Matlab"],
     "Categories":["acoustic feature"]
 },
 {
@@ -874,7 +874,7 @@
     "External Link":"",
     "Instructional Material":"",
     "Public Code Repo":"",
-    "Description":"Python library for feature/i-vector extraction, GMM training, fusion, calibration ???",
+    "Description":"Python library for feature/i-vector extraction, GMM training, fusion, calibration",
     "Internal Code Repo":"",
     "License":"",
     "Languages":["Python"],
@@ -989,7 +989,7 @@
     "Description":"we build an unsupervised VAD that does not need any training",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["Matlab + Praat"],
+    "Languages":["Matlab","Praat"],
     "Categories":["speech activity detection"]
 },
 {
@@ -1003,7 +1003,7 @@
     "Description":"a new version of the unsupervised VAD",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["Matlab + Praat"],
+    "Languages":["Matlab","Praat"],
     "Categories":["speech activity detection"]
 },
 {
@@ -1031,7 +1031,7 @@
     "Description":"CFCC feature extrcation provided by BUT and adapted by MIT",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["Matlab + exe+ petl"],
+    "Languages":["Matlab","exe", "petl"],
     "Categories":["feature extraction for SID"]
 },
 {
@@ -1045,7 +1045,7 @@
     "Description":"MFCC feature extrcation provided by MIT-LL and adapted by MIT",
     "Internal Code Repo":"",
     "License":"MIT Lincoln lab",
-    "Languages":["EXE + perl script"],
+    "Languages":["EXE", "Perl script"],
     "Categories":["feature extraction for SID"]
 },
 {
@@ -1059,7 +1059,7 @@
     "Description":"SDC feature extrcation provided by MIT-LL and adapted by MIT",
     "Internal Code Repo":"",
     "License":"MIT Lincoln lab",
-    "Languages":["EXE + perl script"],
+    "Languages":["EXE", "Perl script"],
     "Categories":["feature extraction for LID"]
 },
 {
@@ -1087,7 +1087,7 @@
     "Description":"The SAD engine detects and labels regions in audio segments that contain speech",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["C++/Matlab/Shell Scripts"],
+    "Languages":["C++","Matlab","Shell Scripts"],
     "Categories":["Audio Analytics"]
 },
 {
@@ -1101,7 +1101,7 @@
     "Description":"The SID engine identifies speakers in audio segments",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["C++/Matlab/Shell Scripts"],
+    "Languages":["C++","Matlab","Shell Scripts"],
     "Categories":["Audio Analytics"]
 },
 {
@@ -1115,7 +1115,7 @@
     "Description":"The LID engine identifies the language of a given audio segment.",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["C++/Matlab/Shell Scripts"],
+    "Languages":["C++","Matlab","Shell Scripts"],
     "Categories":["Audio Analytics"]
 },
 {
@@ -1129,7 +1129,7 @@
     "Description":"The KWS engine detects spoken utterances of specified keywords in a large audio collection",
     "Internal Code Repo":"",
     "License":"",
-    "Languages":["C++/Matlab/Shell Scripts"],
+    "Languages":["C++","Matlab","Shell Scripts"],
     "Categories":["Audio Analytics"]
 }
 ]
