@@ -3,6 +3,9 @@
 	"Long Name":"FLASHLIGHT",
         "Program Teams": "",
         "Description": "",
+        "Program Manager":"",
+        "Program Manager contact":"",
+        "Display Software Columns": ["Team","Software","Category","Code","Description","License"],
 	"Link": ""
 }
   
