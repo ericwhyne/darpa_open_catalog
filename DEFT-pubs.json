@@ -11,7 +11,7 @@
   "Program Teams":["(Wisc Team) Indiana University"],
   "Title":"Knowledge Intensive Learning: Combining Qualitative Constraints with Causal Independence for Parameter Learning in Probabilistic Models",
   "Link":"http://homes.soic.indiana.edu/natarasr/Papers/KIL_ECML13.pdf",
-  "Authors":["Shuo Yang and Sriraam Natarajan"]
+  "Authors":["Shuo Yang", "Sriraam Natarajan"]
 },
 {
   "DARPA Program":"DEFT",
@@ -25,7 +25,7 @@
   "Program Teams":["(Wisc Team) Wake Forest University","Indiana University","University of Wisconsin-Madison and University of Alberta","Canada"],
   "Title":"AR-Boost: Reducing Overfitting by a Robust Data-Driven Regularization Strategy",
   "Link":"http://homes.soic.indiana.edu/natarasr/Papers/AR_Boost.pdf",
-  "Authors":["Baidya Saha","Gautam Kunapuli","Nilanjan Ray","Joseph Maldjian and Sriraam Natarajan"]
+  "Authors":["Baidya Saha","Gautam Kunapuli","Nilanjan Ray","Joseph Maldjian","Sriraam Natarajan"]
 },
 {
   "DARPA Program":"DEFT",
@@ -39,28 +39,28 @@
   "Program Teams":["(WiscTeam) Fraunhofer IAIS","TU Dortmund and Indiana University"],
   "Title":"Lifted Parameter Learning in Relational Models",
   "Link":"http://homes.soic.indiana.edu/natarasr/Papers/lifted_parameter_SRL12.pdf",
-  "Authors":["Babak Ahmadi","Kristian Kersting and Sriraam Natarajan"]
+  "Authors":["Babak Ahmadi","Kristian Kersting","Sriraam Natarajan"]
 },
 {
   "DARPA Program":"DEFT",
   "Program Teams":["(WiscTeam) Indiana University","Cycorp","University of Wisconsin-Madison","TU Dormund and Oregon State University"],
   "Title":"Accelerating Imitation Learning in Relational Domains via Transfer by Initialization",
   "Link":"Not yet published",
-  "Authors":["Sriraam Natarajan","Phillip Odom","Saket Joshi","Tushar Khot","Kristian Kersting and Prasad Tadepalli"]
+  "Authors":["Sriraam Natarajan","Phillip Odom","Saket Joshi","Tushar Khot","Kristian Kersting","Prasad Tadepalli"]
 },
 {
   "DARPA Program":"DEFT",
   "Program Teams":["(WIscTeam) Indiana University","Cycorp","University of Wisconsin-Madison","TU Dormund and Oregon State University"],
   "Title":"Accelerating Imitation Learning in Relational Domains via Transfer by Initialization",
   "Link":"http://homes.soic.indiana.edu/natarasr/Papers/Imitation_StaRAI12.pdf",
-  "Authors":["Sriraam Natarajan","Phillip Odom","Saket Joshi","Tushar Khot","Kristian Kersting and Prasad Tadepalli"]
+  "Authors":["Sriraam Natarajan","Phillip Odom","Saket Joshi","Tushar Khot","Kristian Kersting","Prasad Tadepalli"]
 },
 {
   "DARPA Program":"DEFT",
   "Program Teams":["(WiscTeam) Indiana University","Wake Forest University","University of Wisconsin-Madison","Stanford University and TU Dortmund"],
   "Title":"Using Commonsense Knowledge to Automatically Create (Noisy) Training Examples from Text",
   "Link":"http://homes.soic.indiana.edu/natarasr/Papers/WS_StaRAI13.pdf",
-  "Authors":["Sriraam Natarajan","Jose Picado","Tushar Khot","Kristian Kersting","Christopher Re and Jude Shavlik"]
+  "Authors":["Sriraam Natarajan","Jose Picado","Tushar Khot","Kristian Kersting","Christopher Re","Jude Shavlik"]
 },
 {
   "DARPA Program":"DEFT",
