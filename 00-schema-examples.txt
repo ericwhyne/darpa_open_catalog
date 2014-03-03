@@ -1,10 +1,13 @@
 Program:
 {
-    "DARPA Program Name": "BOLT",
-    "Long Name": "not an acronym",
-    "Program Teams": ["A Team", "Another Team", "B Team", "More People"],
-    "Description": "The Broad Operational Language Translation (BOLT) program is aimed at...",
-    "Link": "http://www.darpa.mil/Our_Work/I2O/Programs/Broad_Operational_Language_Translation_%28BOLT%29.aspx",
+        "DARPA Program Name": "RATS",
+	"Long Name":"Robust Automatic Transcription of Speech",
+        "Program Teams": "",
+        "Description": "The Robust Automatic Transcription of Speech (RATS) program will create algorithms and software for performing the following tasks on potentially speech-containing signals received over communication channels that are extremely noisy and/or highly distorted: speech activity detection, language identification, speaker identification, and key word spotting.",
+	"Link": "",
+        "Display Software Columns": ["Team","Software","Category","Code","Description","License"],
+	"Program Manager": "Dr. Bonnie Dorr",
+        "Program Manager Email": "bonnie.dorr@darpa.mil"
 }
 
 Software:
