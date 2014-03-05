@@ -315,7 +315,7 @@
     "Software":"Lyra",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://idl.cs.washington.edu/projects/lyra",
-    "Public Code Repo":"2014-02",
+    "Public Code Repo":"https://github.com/uwdata/lyra",
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"Lyra is an interactive environment that makes custom visualization design accessible to a broader audience. With Lyra, designers map data to the properties of graphical marks to author expressive visualization designs without writing code. Marks can be moved, rotated and resized using handles; relatively positioned using connectors; and parameterized by data fields using property drop zones. Lyra also provides a data pipeline interface for iterative, visual specification of data transformations and layout algorithms. Visualizations created with Lyra are represented as specifications in Vega, a declarative visualization grammar that enables sharing and reuse.",
