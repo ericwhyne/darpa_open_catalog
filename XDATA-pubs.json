@@ -354,14 +354,18 @@
   "Program Teams":["Harvard and Kitware, Inc."],
   "Title":"Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets",
   "Link":"http://people.seas.harvard.edu/~alex/papers/2013_infovis_entourage.pdf",
-  "Categories":[""]
+  "Categories":["Design Tools and Techniques"],
+  "Subcategories":["User Interfaces"],
+  "ACM classification":["D.2.2"]
 },
 {
   "DARPA Program":"XDATA",
   "Program Teams":["Harvard and Kitware, Inc."],
   "Title":"LineUp: Visual Analysis of Multi-Attribute Rankings",
   "Link":"http://people.seas.harvard.edu/~alex/papers/2013_infovis_lineup.pdf",
-  "Categories":[""]
+  "Categories":["Design Tools and Techniques"],
+  "Subcategories":["User Interfaces"],
+  "ACM classification":["D.2.2"]
 },
 {
   "DARPA Program":"XDATA",
