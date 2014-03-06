@@ -58,18 +58,30 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["Continuum Analytics and Indiana University"],
+  "Title":"Preserving Data While Rendering.",
+  "Link":"http://pjim.newschool.edu/issues/2014/01/pdfs/ParsonsJournalForInformationMapping_Joseph_Cottam.pdf"
+  "Categories":["Software Architectures", "Methodology and Techniques"],
+  "Subcategories":["Data abstraction", "Graphics data structures and data types", "Ergonomics"],
+  "ACM classification":["D.2.11", "I.3.6"]
+}
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["Continuum Analytics and Indiana University"],
   "Title":"Overplotting: Unified solutions under Abstract Rendering",
   "Link":"http://www.crest.iu.edu/publications/prints/2013/Cottam2013AR.pdf",
-  "Categories":[""]
+  "Categories":["Software Architectures", "Methodology and Techniques"],
+  "Subcategories":["Data abstraction", "Graphics data structures and data types", "Ergonomics"],
+  "ACM classification":["D.2.11", "I.3.6""]
 },
 {
   "DARPA Program":"XDATA",
   "Program Teams":["Continuum Analytics and Indiana University"],
   "Title":"Abstract Rendering: Out-of-core Rendering for Information Visualization",
-  "Link":"To appear in SPIE: Visualization and Data Analysis (VDA) 2014",
-  "Categories":[""]
-},
-{
+  "Link":"http://www.crest.iu.edu/publications/prints/2014/Cottam2014OutOfCore.pdf",
+  "Categories":["Software Architectures", "Methodology and Techniques"],
+  "Subcategories":["Data abstraction", "Graphics data structures and data types"],
+  "ACM classification":["D.2.11", "I.3.6"]
+},{
   "DARPA Program":"XDATA",
   "Program Teams":["Georgia Tech / GTRI"],
   "Title":"To Gather Together for a Better World: Understanding and Leveraging Communities in Micro-lending Recommendation",
