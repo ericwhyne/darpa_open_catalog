@@ -40,7 +40,7 @@
   "Program Teams":["BehavioSec"],
   "Software":"Data-Collector-Software",
   "Public Code Repo":"T-FIMS",
-  "Description":"Behavioral Data Gatherer for desktop computer, Microsoft Windows",
+  "Description":"Behavioral data gatherer for Microsoft Windows desktop computers.",
   "License":"Government Purpose Rights (GPR)",
   "Categories":["Identify Management"]
 },
@@ -58,7 +58,7 @@
   "Program Teams":["University of Maryland"],
   "Software":"Screen Web Interface Visual Analysis Software",
   "Public Code Repo":"http://www.vizweb.org/",
-  "Description":"Software for computing visual features from screenshots",
+  "Description":"This is software for computing visual features from screenshots.",
   "License":"MIT License",
   "Categories":["Identify Management"]
 }
