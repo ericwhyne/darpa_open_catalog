@@ -79,7 +79,7 @@
   "Categories":["Software Architectures", "Methodology and Techniques"],
   "Subcategories":["Data abstraction", "Graphics data structures and data types", "Ergonomics"],
   "ACM classification":["D.2.11", "I.3.6"]
-}
+},
 {
   "DARPA Program":"XDATA",
   "Program Teams":["Continuum Analytics and Indiana University"],
