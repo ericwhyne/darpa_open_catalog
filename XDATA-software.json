@@ -188,6 +188,20 @@
     "Language (Secondary)":"",
     "Categories":["Analytics"]
 },
+{
+    "DARPA Program Name": "XDATA",
+    "Program Teams":["Giant Oak Inc."],
+    "Software":"Markov modulated Poisson process for event detection",
+    "Internal Link":"",
+    "External Link":"https://github.com/giantoak/MMPP",
+    "Public Code Repo":"https://github.com/giantoak/MMPP.git",
+    "Instructional Material":"http://giantoak.github.io/MMPP_Tutorial/",
+    "Stats":"",
+    "Description":"R-implementation of Markov Modulated Poisson Process for unsupervised event detection in time series of counts data.",
+    "Xdata Git Location":"",
+    "License":"GPLv2",
+    "Categories":["Analytics"]
+},
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["IBM Research"],
