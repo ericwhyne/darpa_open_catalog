@@ -196,7 +196,7 @@
     "External Link":"https://github.com/giantoak/MMPP",
     "Public Code Repo":"https://github.com/giantoak/MMPP.git",
     "Instructional Material":"http://giantoak.github.io/MMPP_Tutorial/",
-    "Stats":"",
+    "Stats":"MMPP",
     "Description":"R-implementation of Markov Modulated Poisson Process for unsupervised event detection in time series of counts data.",
     "Xdata Git Location":"",
     "License":"GPLv2",
