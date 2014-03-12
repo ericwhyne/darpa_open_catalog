@@ -30,7 +30,7 @@
 {
   "DARPA Program":"CFT",
   "Program Teams":["Secure Ideas, LLC"],
-  "Program Team Link":["https://www.secureideas.com/"].
+  "Program Team Link":["https://www.secureideas.com/"],
   "Software":"MobiSec Live Environment Mobile Testing Framework",
   "Public Code Repo":"CFTdata@darpa.mil",
   "Description":"A live, Linux-based testing environment that is preconfigured and installed with all the tools and configurations needed to perform security assessments and testing of mobile platforms.",
@@ -129,7 +129,7 @@
 },
 {
   "DARPA Program":"CFT",
-  "Program Teams":["Déjà vu Security"],
+  "Program Teams":["Deja vu Security"],
   "Program Team Link":["http://www.dejavusecurity.com/"],
   "Software":"Hungarian Ham",
   "Public Code Repo":"CFTdata@darpa.mil",
@@ -366,7 +366,7 @@
 {
   "DARPA Program":"CFT",
   "Program Teams":["The Honeynet Project"],
-  "Program Team Link":["http://www.honeynet.org/about"]
+  "Program Team Link":["http://www.honeynet.org/about"],
   "Software":"Web Application Honeypot",
   "Public Code Repo":"CFTdata@darpa.mil",
   "Description":"Generates an extensible attack surface to adversaries who are attempting to gain unauthorized access to computer systems and data that allows the defender to identify malicious requests and gather and report detailed information of possible threats.",
