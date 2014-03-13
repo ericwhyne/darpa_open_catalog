@@ -1,13 +1,15 @@
 Program:
 {
-        "DARPA Program Name": "RATS",
-	"Long Name":"Robust Automatic Transcription of Speech",
-        "Program Teams": "",
-        "Description": "The Robust Automatic Transcription of Speech (RATS) program will create algorithms and software for performing the following tasks on potentially speech-containing signals received over communication channels that are extremely noisy and/or highly distorted: speech activity detection, language identification, speaker identification, and key word spotting.",
-	"Link": "",
-        "Display Software Columns": ["Team","Software","Category","Code","Description","License"],
-	"Program Manager": "Dr. Bonnie Dorr",
-        "Program Manager Email": "bonnie.dorr@darpa.mil"
+    "DARPA Program Name": "RATS",
+    "Long Name":"Robust Automatic Transcription of Speech",
+    "Program Teams": "",
+    "Description": "The Robust Automatic Transcription of Speech (RATS) program will create algorithms and software for performing the following tasks on potentially speech-containing signals received over communication channels that are extremely noisy and/or highly distorted: speech activity detection, language identification, speaker identification, and key word spotting.",
+    "Link": "",
+    "Display Software Columns": ["Team","Software","Category","Code","Description","License"],
+    "Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Mr_Richard_Guidorizzi.aspx",
+    "Program Manager": "Dr. Bonnie Dorr",
+    "Program Manager Email": "bonnie.dorr@darpa.mil",
+    "Image":"AA-image.png"
 }
 
 Software:
@@ -28,9 +30,11 @@ Software:
 
 Publication:
 {
-    "DARPA Program":"XData",
-    "Program Teams": ["Stanford University - Boyd","Purdue","PNNL"],
-    "Link": "http://ml.stat.purdue.edu/gaby/BigData.ExploreCleanModel.2013.pdf",
-    "Authors":["Ryan Hafen",  "Tara D. Gibson", "Kerstin Kleese van Dam", "Terence Critchlow"],
-    "Title": "Large-Scale Exploratory Analysis, Cleaning, and Modeling for Event Detection in Real-World Power Systems Data"
+  "DARPA Program":"XDATA",
+  "Program Teams":["IBM Research"],
+  "Title":"Quantile Regression for Large-scale Applications",
+  "Link":"http://arxiv.org/pdf/1305.0087",
+  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "probabilistic algorithms (including Monte Carlo)"],
+  "Subcategories":["statistical computing", "robust regression"],
+  "ACM classification":["G.1.3", "F.2.1", "G.3"]
 }
