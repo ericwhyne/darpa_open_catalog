@@ -512,7 +512,7 @@
 },
 {
   "DARPA Program":"CFT",
-  "Program Teams":["Bunnie Studios LLC"],
+  "Program Teams":["Bunnie Studios, LLC"],
   "Program Team Link":["http://www.bunniestudios.com/"],
   "Software":"Enabling Distributed Network Protocols",
   "Public Code Repo":"CFTdata@darpa.mil",
@@ -897,7 +897,7 @@
 },
 {
   "DARPA Program":"CFT",
-  "Program Teams":["Deja vu Security, LLC"],
+  "Program Teams":["Deja vu Security"],
   "Program Team Link":["http://www.dejavusecurity.com/"],
   "Software":"Siren's Song",
   "Public Code Repo":"CFTdata@darpa.mil",
@@ -1024,7 +1024,7 @@
 },
 {
   "DARPA Program":"CFT",
-  "Program Teams":["The University of Tulsa  University of Tulsa"],
+  "Program Teams":["The University of Tulsa"],
   "Program Team Link":["https://www.utulsa.edu/"],
   "Software":"Chip-Level Memory Mapping and Forensics for Heavy Truck ECM",
   "Public Code Repo":"CFTdata@darpa.mil",
@@ -1062,7 +1062,7 @@
 },
 {
   "DARPA Program":"CFT",
-  "Program Teams":["Sutajio Ko-Usagi Pte Ltd"],
+  "Program Teams":["Sutajio Ko-Usagi Pte Ltd."],
   "Program Team Link":["http://www.kosagi.com/"],
   "Software":"EMP",
   "Public Code Repo":"CFTdata@darpa.mil",
