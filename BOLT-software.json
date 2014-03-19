@@ -8,7 +8,7 @@
        "Public Code Repo": "",
        "Description": "Website for annotation, management, enrollment, and collection.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": "Unknown",
        "Languages":["Ruby","Javascript"],
        "Categories":["annotation"]
     },
