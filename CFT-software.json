@@ -83,7 +83,7 @@
   "Program Team Link":["http://www.criticalassets.com/ca-labs/"],
   "Software":"Proposal for PIN Pad Defender Development",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A device which detects physical skimming attacks on ATM machines through the use of Infrared and HD video and IR sensors",
+  "Description":"A device that detects physical skimming attacks on ATM machines through the use of HD video and Infrared sensors",
   "License":"GPR",
   "Categories":["Firmware"]
 },
@@ -123,7 +123,7 @@
   "Program Team Link":["http://corp.galois.com/"],
   "Software":"CyberChaff: Using Distraction for Network Protection",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"An environment consisting of hundreds of virtual machines that will defend against cyber attacks. Cyberchaff will consist of lightweight virtualized targets that will delay and confuse attackers from their intended target, and act as an Early Detection System  ",
+  "Description":"An environment consisting of hundreds of virtual machines that will defend against cyber attacks. Cyberchaff will consist of lightweight virtualized targets that will delay and confuse attackers from their intended target and act as an Early Detection System.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -143,7 +143,7 @@
   "Program Team Link":["http://www.exceptiontech.com/"],
   "Software":"Reuse Oriented Obfuscation",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"An obfuscation technique based on the concept of gadgets and return-and jump-oriented programming techniques, twarting attempts to reverse engineer applications by transforming them into a series of linked together gadgets executed in a runtime environment.",
+  "Description":"An obfuscation technique based on the concept of gadgets and return-and jump-oriented programming techniques, thwarting attempts to reverse engineer applications by transforming them into a series of linked together gadgets executed in a runtime environment.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -153,7 +153,7 @@
   "Program Team Link":["http://www.gototheboard.com/"],
   "Software":"GPU Assisted Malware Detection for Mobile Devices",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Leverages the graphics processor unit (GPU) for detecting malicious attacks, and create a GPU-Assisted Malware Detector for Mobile Devices",
+  "Description":"Leverages the graphics processor unit (GPU) for detecting malicious attacks and creates a GPU-Assisted Malware Detector for Mobile Devices.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -173,7 +173,7 @@
   "Program Team Link":["http://digitaloperatives.com/"],
   "Software":"Process Attribution In Network Traffic (PAINT)",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A network packet analysis capability built upon Wireshark that enables malware threat detection and advanced malware analysis by inking packets sent and received to the source and destination application",
+  "Description":"A network packet analysis capability built upon Wireshark that enables malware threat detection and advanced malware analysis by inking packets sent and received to the source and destination application.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -203,7 +203,7 @@
   "Program Team Link":["http://maliceafterthought.com/"],
   "Software":"Reticle: Leaderless Command and Control",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A command, control, and communications (C3) platform for very-low-cost computers to receive tasking, exchange data, and change missions on the fly",
+  "Description":"A command, control, and communications (C3) platform for very-low-cost computers to receive tasking, exchange data, and change missions on the fly.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -272,7 +272,7 @@
   "Program Team Link":["https://greatscottgadgets.com/"],
   "Software":"HackRF: A Low Cost Software Defined Radio Platform",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"An open-source low-cost Software Defined Radio (SDR) transceiver platform that allows a single piece of equipment to implement virtually any wireless technology (Wi-Fi, Bluetooth, GSM, ZigBee, etc.) ",
+  "Description":"An open-source low-cost Software Defined Radio (SDR) transceiver platform that allows a single piece of equipment to implement virtually any wireless technology (Wi-Fi, Bluetooth, GSM, ZigBee, etc.).",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -281,7 +281,7 @@
   "Program Teams":["Hidden Layer, LLC"],
   "Software":"A Machine Learning Approach for Source Code Vulnerability Detection",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"An application of supervised machine learning to automatically detect attack surfaces, or vulnerabilities, in source code for C programs",
+  "Description":"An application of supervised machine learning to automatically detect attack surfaces, or vulnerabilities, in source code for C programs.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -291,7 +291,7 @@
   "Program Team Link":["http://www.fivedirections.com/Site/Five_Directions.html"],
   "Software":"Semantic Visualization of Security Data",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A semantic ontology, framework, and  browser for managing security data and provide results superior to traditional SIEM and log correlation.",
+  "Description":"A semantic ontology, framework, and  browser for managing security data and providing results superior to traditional SIEM and log correlation.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -301,7 +301,7 @@
   "Program Team Link":["https://leastauthority.com/"],
   "Software":"Redundant Array of Independent Clouds",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A system for provider-independent security across several commodity cloud data storage services accessible via a common web interface",
+  "Description":"A system for provider-independent security across several commodity cloud data storage services accessible via a common web interface.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -379,15 +379,14 @@
   "Program Team Link":["http://www.microtask.com/"],
   "Software":"Proposal to Develop Split Field Processing Technology",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A new type of document data protection that captures sensitive data from documents and separates individual fields of information into fragments that are transmitted securely - greatly reduced risk of compromise.",
+  "Description":"A new type of document data protection that captures sensitive data from documents and separates individual fields of information into fragments that are transmitted securely, which greatly reduces the risk of compromise.",
   "License":"GPR",
   "Categories":["Software"]
 },
 {
   "DARPA Program":"CFT",
-  "Program Teams":["Cody Nicewanner"],
   "Program Team Link":["http://www.linkedin.com/pub/cody-nicewanner/4a/a98/aaa"],
-  "Software":"Censoring the Pointer: CTP is designed to target zero-day threats by nullifying an",
+  "Software":"Censoring the Pointer",
   "Public Code Repo":"CFTdata@darpa.mil",
   "Description":"Targets zero-day threats by nullifying an exploit's ability to execute its shell code. It fills the gap between ASLR and DEP by preventing non-executable scripts from dynamically locating system structures which are needed to properly execute an exploit.",
   "License":"GPR",
@@ -439,7 +438,7 @@
   "Program Team Link":["http://capitolhillconsultants.com/"],
   "Software":"M2M Risk Assessment Project (MRAP)",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Evaluates the current M2M threat surface and identifying common security weaknesses that may lead to unacceptable risks in embedded systems and critical infrastructure.",
+  "Description":"Evaluates the current M2M threat surface and identifies common security weaknesses that may lead to unacceptable risks in embedded systems and critical infrastructure.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -476,7 +475,7 @@
   "Program Teams":["215LAB LLC"],
   "Software":"Netoko",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"This is a a Cloud-based Ecosystem for Developing Network Security Applications",
+  "Description":"This is a a cloud-based ecosystem for developing network security applications.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -496,7 +495,7 @@
   "Program Team Link":["http://www.accesys.org/"],
   "Software":"SCATEboard - Side Channel Attack Test Evaluation Board",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Provides a hardware platform to evaluate cryptographic algorithm exposures in embedded systemsto Side Channel Attacks (SCAs).",
+  "Description":"Provides a hardware platform to evaluate cryptographic algorithm exposures in embedded systems to Side Channel Attacks (SCAs).",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -563,7 +562,7 @@
   "DARPA Program":"CFT",
   "Program Teams":["Deja vu Security"],
   "Program Team Link":["http://www.dejavusecurity.com/"],
-  "Software":"G?del's Gourd: Next Generation Fuzzer",
+  "Software":"Gödel's Gourd: Next Generation Fuzzer",
   "Public Code Repo":"CFTdata@darpa.mil",
   "Description":"Creates an automated testing framework that triggers and detects logical constraint violations that are undetectable with current fuzzing technology",
   "License":"GPR",
@@ -575,7 +574,7 @@
   "Program Team Link":["http://corp.galois.com/"],
   "Software":"Ditto: A Tunable Network Stack for Confounding the Enemy",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Creates a network stack that can be tuned by the system administrator to emulate whatever operating system the administrator chooses, complicating the adversary's decision process and decreases the effectiveness of available adversary attack tools.",
+  "Description":"Creates a network stack that can be tuned by the system administrator to emulate whatever operating system the administrator chooses, complicating the adversary's decision process and decreasing the effectiveness of available adversary attack tools.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -615,7 +614,7 @@
   "Program Team Link":["http://www.fish2.com/security/"],
   "Software":"IPMI: Underbelly of Servers",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Offers a collection of simple tools to address the security concerns inherent with IPMI technology, raiseing awareness of IPMI's security weaknesses, identifies configuration errors on IPMI clients, and proposes a threshold for acceptability",
+  "Description":"Offers a collection of simple tools to address the security concerns inherent with IPMI technology, raise awareness of IPMI's security weaknesses, identify configuration errors on IPMI clients, and propose a threshold for acceptability.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -711,7 +710,7 @@
   "DARPA Program":"CFT",
   "Program Teams":["504ENSICS Labs"],
   "Program Team Link":["http://www.504ensics.com/"],
-  "Software":"Application-Level Memory Forensics For DALVIK",
+  "Software":"Application-Level Memory Forensics For Dalvik",
   "Public Code Repo":"CFTdata@darpa.mil",
   "Description":"This project researches and develops a framework to analyze the application-level memory forensics of Dalvik, the process virtual machine used by the Android operating system.",
   "License":"GPR",
@@ -762,7 +761,7 @@
   "Program Team Link":["http://maliceafterthought.com/"],
   "Software":"NOM: Novel Object Mapping Visualization of Security Data",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Provides users with visual tools for examining incoming network/security data in near real-time allowing users to understand past data using computer gaming engines that handle a huge number of data points",
+  "Description":"Provides users with visual tools for examining incoming network/security data in near real-time, allowing users to understand past data using computer gaming engines that handle a huge number of data points.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -842,7 +841,7 @@
   "Program Team Link":["http://milcord.com/"],
   "Software":"VPN Underground Fingerprinter Tool & Guidelines to Limit Identifying VPN Traces",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Identifies  of several encryption algorithms and attempt to discern patterns from the delays caused by packet loss and other artifacts of specific encrypted connections.",
+  "Description":"Identifies several encryption algorithms and attempts to discern patterns from the delays caused by packet loss and other artifacts of specific encrypted connections.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -851,7 +850,7 @@
   "Program Teams":["Inverse Limit"],
   "Software":"Project fa840",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Augments the Erlang tool chain with additional languages and tools for building verified Erlang modules and then write software whose modules are a mixture of both traditional and verified Erlang modules.",
+  "Description":"Augments the Erlang tool chain with additional languages and tools for building verified Erlang modules and then writes software whose modules are a mixture of both traditional and verified Erlang modules.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -871,7 +870,7 @@
   "Program Team Link":["https://greatscottgadgets.com/"],
   "Software":"Unambiguous Encapsulation in Error Correcting Codes",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Explores longer codes (with codewords of length greater than five bits) that have interesting encapsulation properties, such as 'nestability' useful for unambiguous encapsulation of error control codes",
+  "Description":"Explores longer codes (with codewords of length greater than five bits) that have interesting encapsulation properties, such as 'nestability' useful for unambiguous encapsulation of error control codes.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -881,7 +880,7 @@
   "Program Team Link":["http://www.gototheboard.com/"],
   "Software":"Visualization and Analysis of Machine Configuration Space",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A set of tools for visualization and analysis of a program's configuration space by using QEMU and it's emulation capabilities as a means to record the executed instructions from a program",
+  "Description":"A set of tools for visualization and analysis of a program's configuration space by using QEMU and its emulation capabilities as a means to record the executed instructions from a program.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -901,7 +900,7 @@
   "Program Team Link":["http://www.dejavusecurity.com/"],
   "Software":"Siren's Song",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A system for fuzzing interpreted languages such as Python, Ruby, and JavaScript in a generic way by creating links between grammar, Abstract Syntax Tree (AST), and common metaphors in languages such as instantiating an object, calling a method and setting a property",
+  "Description":"A system for fuzzing interpreted languages such as Python, Ruby, and JavaScript in a generic way by creating links between grammar, Abstract Syntax Tree (AST), and common metaphors in languages such as instantiating an object, calling a method and setting a property.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -911,7 +910,7 @@
   "Program Team Link":["http://www.grierforensics.com/"],
   "Software":"Sifting Collectors",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A sifting forensic collector which locates forensically relevant data and collects it in a forensically sound way, in a fraction of the time (5-10x current speeds) and space (10-20% the size) required of traditional imaging methods",
+  "Description":"A sifting forensic collector which locates forensically relevant data and collects it in a forensically sound way in a fraction of the time (5-10x current speeds) and space (10-20% the size) required of traditional imaging methods.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -920,7 +919,7 @@
   "Program Teams":["Mercury Milestones, LLC"],
   "Software":"Program Relocator",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Software that can monitor a process and when it detects it system calls indicative of malware moves it to another machine.  Then the process will continue to run on the new machine with no indication that it has been moved. ",
+  "Description":"Software that can monitor processes and move malware to another machine.  Then the malware will continue to run on the new machine with no indication that it has been moved. ",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -930,7 +929,7 @@
   "Program Team Link":["http://www.invincea.com/"],
   "Software":"CrowdSource",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Open source automatic malware reverse engineering engine by training a machine learning based malware capability detection engine on millions of technical documents from the web",
+  "Description":"Open source automatic malware reverse engineering engine by training a machine learning based malware capability detection engine on millions of technical documents from the web.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -940,7 +939,7 @@
   "Program Team Link":["http://www.korelogic.com/"],
   "Software":"PathWell",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Enterprise-wide password complexity enforcement that significantly reduces the effectiveness of or renders current topology-based password cracking schemes useless.",
+  "Description":"Enterprise-wide password complexity enforcement that significantly reduces the effectiveness of or renders useless current topology-based password cracking schemes.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -970,7 +969,7 @@
   "Program Team Link":["http://www.bluerisc.com/"],
   "Software":"Unique Software and Microcontroller on a Whim",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Automated toolkit that creates a unique microcontroller that matches the randomly synthesized encoding by retrofitting a GCC compiler containing back-end support for AVR ISA or OpenCores.org Verilog implementation of an AVR microcontroller",
+  "Description":"Automated toolkit that creates a unique microcontroller that matches the randomly synthesized encoding by retrofitting a GCC compiler containing back-end support for AVR ISA or OpenCores.org Verilog implementation of an AVR microcontroller.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -979,7 +978,7 @@
   "Program Teams":["Inverse Limit, LLC"],
   "Software":"GLS",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"An open source GPU accelerated lattice siever for the NFS that specifically targeting the relation collection step of NFS, which is a combination of sieving and co-factorization to find smooth pairs that satisfy a particular technical property",
+  "Description":"An open source GPU accelerated lattice siever for the NFS that specifically targets the relation collection step of NFS, which is a combination of sieving and co-factorization to find smooth pairs that satisfy a particular technical property.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -989,7 +988,7 @@
   "Program Team Link":["http://www.504ensics.com/"],
   "Software":"A Framework for Differential Analysis of Malware in RAM",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A prototype system that will take two successive memory captures, and execute a set of plugins on them to determine the differences in the captures,  providing the analyst with a browseable view of the analysis performed by the plugins",
+  "Description":"A prototype system that will take two successive memory captures and execute a set of plugins on them to determine the differences in the captures,  providing the analyst with a browseable view of the analysis performed by the plugins",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1005,10 +1004,10 @@
 },
 {
   "DARPA Program":"CFT",
-  "Program Teams":["_LEAD 82"],
+  "Program Teams":["LEAD 82"],
   "Software":"BootFixer: Semi-automatic aid for Windows malware infections and misconfiguration",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Tool to boot the Microsoft Windows machine into a safe-state, gather and analyze the crucial data and finally find and aid with removal of all potential known and unknown threats (including hidden rootkits). ",
+  "Description":"Tool to (1) boot the Microsoft Windows machine into a safe-state, (2) gather and analyze the crucial data and (3) find and aid with removal of all potential known and unknown threats (including hidden rootkits). ",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1047,7 +1046,7 @@
   "Program Teams":["Exception Technologies, LLC"],
   "Software":"CRUSADE Toward Symbolic Signal Synthesis for Cyber Effects Analysis",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"An end-to-end RF vulnerability analysis framework capable of examining hardware and software systems for potential flaws by leveraging existing system level symbolic execution techniques",
+  "Description":"An end-to-end RF vulnerability analysis framework capable of examining hardware and software systems for potential flaws by leveraging existing system level symbolic execution techniques.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1106,7 +1105,7 @@
   "Program Team Link":["http://www.fish2.com/security/"],
   "Software":"Fait Accompli",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Software that will enable a modestly technical person to see and understand what happens when a program is executed, and in particular to observe the execution of a software installer",
+  "Description":"Software that will enable a modestly technical person to see and understand what happens when a program is executed, and in particular to observe the execution of a software installer.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1116,7 +1115,7 @@
   "Program Team Link":["http://www.grandideastudio.com/"],
   "Software":"Research and Analysis of PCB Deconstruction Techniques",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A suite of open-source tools and techniques to assist, simplify, and automate the PCB reverse engineering process based on PCB deconstruction",
+  "Description":"A suite of open-source tools and techniques to assist, simplify, and automate the PCB reverse engineering process based on PCB deconstruction.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1126,7 +1125,7 @@
   "Program Team Link":["http://www.hyperiongray.com/"],
   "Software":"Web 3.0: A Distributed Web Application Spider and 3D Visualization Engine With Built-In Continuous Security",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"3D web application visualization engine that creates a landscape view of web applications across a network that is easy to navigate, intuitive, and have real-time web application vulnerability information built into it.",
+  "Description":"3D web application visualization engine that creates a landscape view of web applications across a network that is easy to navigate, intuitive, and has real-time web application vulnerability information built into it.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1135,7 +1134,7 @@
   "Program Teams":["Inverse Limit, LLC"],
   "Software":"Project MAIM",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A tool chain for the purposes of mining undocumented information from the x86 processor architecture. Additionally an example miner will be produced to exhibit the differences in the underlying micro-architecture of four of the _ve major x86 variants.",
+  "Description":"A tool chain for the purposes of mining undocumented information from the x86 processor architecture. Additionally an example miner will be produced to exhibit the differences in the underlying micro-architecture of four of the five major x86 variants.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1143,9 +1142,9 @@
   "DARPA Program":"CFT",
   "Program Teams":["Metrix Create:Space"],
   "Program Team Link":["http://www.metrixcreatespace.com/#makesomethingawesome"],
-  "Software":"An inexpensive, practical textile- based computing and communications platform",
+  "Software":"An inexpensive practical textile-based computing and communications platform",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Determines optimal materials and methods for putting low-cost low-power computing platforms into everyday clothing",
+  "Description":"Determines optimal materials and methods for putting low-cost low-power computing platforms into everyday clothing.",
   "License":"GPR",
   "Categories":["Software"]
 },
