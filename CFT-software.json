@@ -113,7 +113,7 @@
   "Program Team Link":["http://www.thoughtcrime.org/"],
   "Software":"Convergence: A secure, agile, distributed replacement for Certificate Authorities",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A secure, agile, distributed replacement for the Certificate Authority system using numerous Notaries to create a configurable quorum, asserting the site's identity",
+  "Description":"A secure, agile, distributed replacement for the Certificate Authority system using numerous Notaries to create a configurable quorum, asserting the site's identity.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -212,7 +212,7 @@
   "Program Teams":["Robert Seger"],
   "Software":"Hatchet",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"An easy to use tool that allows for exploration and manipulation of the low level details of an operating system including event handling and kernel interfacig without having specialized knowledge of the operating system",
+  "Description":"An easy to use tool that allows for exploration and manipulation of the low level details of an operating system including event handling and kernel interfacing without having specialized knowledge of the operating system",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -262,7 +262,7 @@
   "Program Team Link":["https://www.pwnieexpress.com/"],
   "Software":"The Power Strip Backdoor",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Testing tool that provides secure remote access to target networks through a variety of covert TCP/IP channels, or via 3G/GSM cellular wherever available",
+  "Description":"Testing tool that provides secure remote access to target networks through a variety of covert TCP/IP channels, or via 3G/GSM cellular wherever available.",
   "License":"GPR",
   "Categories":["Firmware"]
 },
@@ -311,7 +311,7 @@
   "Program Team Link":["http://www.recursion.com/"],
   "Software":"Impact of EM Injection on Digital Imaging Technologies",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A study identifying potential vulnerabilities in digital imaging technologies including CCD (charge-coupled device) and APS (active-pixel sensor)",
+  "Description":"A study identifying potential vulnerabilities in digital imaging technologies including CCD (charge-coupled device) and APS (active-pixel sensor).",
   "License":"GPR",
   "Categories":["Study"]
 },
@@ -369,7 +369,7 @@
   "Program Team Link":["http://www.honeynet.org/about"],
   "Software":"Web Application Honeypot",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Generates an extensible attack surface to adversaries who are attempting to gain unauthorized access to computer systems and data that allows the defender to identify malicious requests and gather and report detailed information of possible threats.",
+  "Description":"Generates an extensible attack surface to adversaries who are attempting to gain unauthorized access to computer systems and data that allows the defender to identify malicious requests and gather and report detailed information on possible threats.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -398,7 +398,7 @@
   "Program Team Link":["http://www.trailofbits.com/"],
   "Software":"Using Concolic Execution To Measure A Program's Susceptibility to Code-Reuse Attacks",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Develops a system to measure a program's susceptibility to code-reuse ROP exploits. The system accepts a collection of program modules as input and presents a score of the re-usability of that set of modules as output",
+  "Description":"Develops a system to measure a program's susceptibility to code-reuse ROP exploits. The system accepts a collection of program modules as input and presents a score of the re-usability of that set of modules as output.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -457,7 +457,7 @@
   "Program Team Link":["http://www.secureit.com/"],
   "Software":"Poor Man's Control Flow Integrity (PMCFI)",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Establishes legitimate execution paths at the function level and aborts execution if atempts are made to modify flow",
+  "Description":"Establishes legitimate execution paths at the function level and aborts execution if atempts are made to modify flow.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -535,7 +535,7 @@
   "Program Team Link":["http://www.kosagi.com/w/index.php?title=Main_Page"],
   "Software":"Know Thy Media",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Investigates the embedded microcontrollers in Secure Digitial (SD) cards, develops a hardware/software protocol analysis tool which logs raw transactions to the NAND device and compares them against commands issued by the SD interface",
+  "Description":"Investigates the embedded microcontrollers in Secure Digital (SD) cards, develops a hardware/software protocol analysis tool which logs raw transactions to the NAND device and compares them against commands issued by the SD interface",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -594,7 +594,7 @@
   "Program Team Link":["http://subreption.com/"],
   "Software":"SAFEDROID: High Assurance Computing for Mobile Devices",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Enforces memory protections and reducing system predictability,  altering core components of the operating system (OS), providing a defensive in-depth solution against zero-day attacks.",
+  "Description":"Enforces memory protections and reduces system predictability, alters core components of the operating system (OS), and provides a defensive in-depth solution against zero-day attacks.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -644,7 +644,7 @@
   "Program Team Link":["http://www.vulnex.com/"],
   "Software":"Compiler Security and Binary Defenses Breakdown",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Provides resources that simplify the process of building secure software and assists developers in using the security settings offered by compilers and provides analysts with a tool for scanning binaries for vulnerabilities caused by insufficient compiler security configuration.",
+  "Description":"Provides resources that simplify the process of building secure software, assists developers in using the security settings offered by compilers, and provides analysts with a tool for scanning binaries for vulnerabilities caused by insufficient compiler security configuration.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -683,7 +683,7 @@
   "Program Team Link":["http://www.zentific.com/"],
   "Software":"Zazen: Virtual Machine Introspection to Detect and Protect",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Intrusion detection and prevention system that monitors and protects virtual machines from an external perspective. This tool repairs malicious modifications designed to hijack normal kernel and program opera?on when possible",
+  "Description":"Intrusion detection and prevention system that monitors and protects virtual machines from an external perspective. This tool repairs malicious modifications designed to hijack normal kernel and program operation when possible.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -731,7 +731,7 @@
   "Program Team Link":["https://narfindustries.com/"],
   "Software":"Bbemu: A Baseband Emulation Framework for Vulnerability Analysis",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Integrated vulnerability testing environmentfor basebands, providing researchers with a flexible baseband analysis environment at communication devices that handles communication between cellular towers and cellular phones.",
+  "Description":"Integrated vulnerability testing environment for basebands, providing researchers with a flexible baseband analysis environment at communication devices that handles communication between cellular towers and cellular phones.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -781,7 +781,7 @@
   "Program Team Link":["https://github.com/monk-dot"],
   "Software":"NAND-Xplore: Hiding and Finding Data with NAND Flash Error Codes",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Uses on-board NAND controller, logic gates that the flash architecture resembles, or by the host operating system to hide files and programs from users and forensics software",
+  "Description":"Uses on-board NAND controller, logic gates that the flash architecture resembles, or the host operating system to hide files and programs from users and forensics software",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -959,7 +959,7 @@
   "Program Team Link":["http://www.securisea.com/"],
   "Software":"Improved Vulnerability Searching in Code",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"System for hybrid analysis security testing which has reduced false negatives when searching for SQLi and XSS vulnerabilities via dataflow taint tracking compared to other existing automated tools today and demonstrate the prototype against real world web applications.",
+  "Description":"System for hybrid analysis security testing which has reduced false negatives when searching for SQLi and XSS vulnerabilities via dataflow taint tracking compared to other existing automated tools today and demonstrated the prototype against real world web applications.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1017,7 +1017,7 @@
   "Program Team Link":["http://www.trailofbits.com/"],
   "Software":"MAST: Mobile Application Security Transforms",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Mobile application protection platform to armor iOS mobile applications against reverse engineering",
+  "Description":"Mobile application protection platform to armor iOS mobile applications against reverse engineering.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1027,7 +1027,7 @@
   "Program Team Link":["https://www.utulsa.edu/"],
   "Software":"Chip-Level Memory Mapping and Forensics for Heavy Truck ECM",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Identifies data-bearing components in heavy truck electronic control modules. It  will allow the repeatable method for imaging these components at the chip level in a forensically verifiable manner, and map the contents of these devices to operational parameters.",
+  "Description":"Identifies data-bearing components in heavy truck electronic control modules. It  will allow the repeatable method for imaging these components at the chip level in a forensically verifiable manner and map the contents of these devices to operational parameters.",
   "License":"GPR",
   "Categories":["Firmware"]
 },
@@ -1037,7 +1037,7 @@
   "Program Team Link":["https://github.com/monk-dot"],
   "Software":"Project Burner - El telefono inteligente de fuego",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"Research to understand what an attacker would have to do to physically destroy or incapacitate a device solely with kinetic software behaviors and  gain a deep understanding of that attack vector and to develop a means of discovery and remediation",
+  "Description":"Research to understand what an attacker would have to do to physically destroy or incapacitate a device solely with kinetic software behaviors, to gain a deep understanding of that attack vector, and to develop a means of discovery and remediation",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1065,7 +1065,7 @@
   "Program Team Link":["http://www.kosagi.com/"],
   "Software":"EMP",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"A mobile, extensible platform for signal measurement and protocol analysis",
+  "Description":"A mobile, extensible platform for signal measurement and protocol analysis.",
   "License":"GPR",
   "Categories":["Software"]
 },
@@ -1075,7 +1075,7 @@
   "Program Team Link":["http://www.openwall.com/"],
   "Software":"Scalable Password Hashing",
   "Public Code Repo":"CFTdata@darpa.mil",
-  "Description":"An improvement to PHS and cryptographic KDF, focusing on deliberate uses of large amounts of memory (many gigabytes), which the main PHS or KDF component may treat as read-only (ROM) resulting in reduced efficiency of offline attacks",
+  "Description":"An improvement to PHS and cryptographic KDF, focusing on deliberate uses of large amounts of memory (many gigabytes), which the main PHS or KDF component may treat as read-only (ROM), resulting in reduced efficiency of offline attacks.",
   "License":"GPR",
   "Categories":["Software"]
 },
