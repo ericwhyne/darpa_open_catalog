@@ -36,5 +36,5 @@ Publication:
   "Link":"http://arxiv.org/pdf/1305.0087",
   "Categories":["Numerical Linear Algebra", "Computations on Matrices", "probabilistic algorithms (including Monte Carlo)"],
   "Subcategories":["statistical computing", "robust regression"],
-  "ACM classification":["G.1.3", "F.2.1", "G.3"]
+  "ACM 1998 classification code":["I.2.1", "I.6.4"]
 }
