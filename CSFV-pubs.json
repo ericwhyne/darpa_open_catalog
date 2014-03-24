@@ -1,0 +1,74 @@
+[
+{
+"DARPA Program": "CSFV",
+"Program Teams":["University of Illinois at Chicago"],
+"Title":"Witnessing Program Transformations",
+"Link":"No link; soft copy only", 
+"Categories": "",
+"Subcategories": "",
+"ACM 1998 classification code": ""
+},
+{
+"DARPA Program": "CSFV",
+"Program Teams":["University of Illinois at Chicago"],
+"Title":"A Witnessing Compiler: A Proof of Concept",
+"Link":"No link; soft copy only", 
+"Categories": "",
+"Subcategories": "",
+"ACM 1998 classification code": ""
+},
+{
+"DARPA Program": "CSFV",
+"Program Teams":["University of Washington"],
+"Title":"Verification games: Making verification fun",
+"Link":"http://homes.cs.washington.edu/~mernst/pubs/verigames-ftfjp2012-abstract.html", 
+"Categories": "",
+"Subcategories": "",
+"ACM 1998 classification code": ""
+},
+{
+"DARPA Program": "CSFV",
+"Program Teams":["University of Washington"],
+"Title":"Inference and checking of object ownership",
+"Link":"http://homes.cs.washington.edu/~mernst/pubs/infer-ownership-ecoop2012-abstract.html", 
+"Categories": "",
+"Subcategories": "",
+"ACM 1998 classification code": ""
+},
+{
+"DARPA Program": "CSFV",
+"Program Teams":["University of Washington"],
+"Title":"Reducing the barriers to writing verified specifications",
+"Link":"http://homes.cs.washington.edu/~mernst/pubs/veriweb-oopsla2012-abstract.html", 
+"Categories": "",
+"Subcategories": "",
+"ACM 1998 classification code": ""
+},
+{
+"DARPA Program": "CSFV",
+"Program Teams":["University of Washington"],
+"Title":"ReIm & ReImInfer: Checking and inference of reference immutability and method purity",
+"Link":"http://homes.cs.washington.edu/~mernst/pubs/infer-refimmutability-oopsla2012-abstract.html", 
+"Categories": "",
+"Subcategories": "",
+"ACM 1998 classification code": ""
+},
+{
+"DARPA Program": "CSFV",
+"Program Teams":["University of Washington"],
+"Title":"Rely-guarantee references for refinement types over aliased mutable data",
+"Link":"http://homes.cs.washington.edu/~mernst/pubs/rely-guarantee-ref-pldi2013-abstract.html", 
+"Categories": "",
+"Subcategories": "",
+"ACM 1998 classification code": ""
+},
+{
+"DARPA Program": "CSFV",
+"Program Teams":["University of Washington"],
+"Title":"JavaUI: Effects for controlling UI object access",
+"Link":"http://homes.cs.washington.edu/~mernst/pubs/gui-thread-ecoop2013-abstract.html", 
+"Categories": "",
+"Subcategories": "",
+"ACM 1998 classification code": ""
+}
+]
