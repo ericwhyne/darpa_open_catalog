@@ -385,6 +385,7 @@
 },
 {
   "DARPA Program":"CFT",
+  "Program Teams":["Cody Nicewanner"],
   "Program Team Link":["http://www.linkedin.com/pub/cody-nicewanner/4a/a98/aaa"],
   "Software":"Censoring the Pointer",
   "Public Code Repo":"CFTdata@darpa.mil",
@@ -562,7 +563,7 @@
   "DARPA Program":"CFT",
   "Program Teams":["Deja vu Security"],
   "Program Team Link":["http://www.dejavusecurity.com/"],
-  "Software":"Gödel's Gourd: Next Generation Fuzzer",
+  "Software":"Godel's Gourd: Next Generation Fuzzer",
   "Public Code Repo":"CFTdata@darpa.mil",
   "Description":"Creates an automated testing framework that triggers and detects logical constraint violations that are undetectable with current fuzzing technology",
   "License":"GPR",
