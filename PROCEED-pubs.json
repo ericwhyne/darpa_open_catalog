@@ -1,0 +1,1181 @@
+[
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Functional Encryption for Inner Product Predicates from Learning with Errors",
+  "Link":"http://eprint.iacr.org/2011/410.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Computing on Authenticated Data",
+  "Link":"http://eprint.iacr.org/2011/096.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"A Domain-Specific Language for Computing on Encrypted Data",
+  "Link":"http://eprint.iacr.org/2011/561.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Deterministic and Energy-Optimal Wireless Synchronization",
+  "Link":"http://arxiv.org/pdf/1010.1112",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["University of Texas"],
+  "Title":"Standard Security Does Not Imply Security Against Selective-Opening",
+  "Link":"http://eprint.iacr.org/2011/581.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["University of Texas"],
+  "Title":"Identity-Based (Lossy) Trapdoor Functions and Applications",
+  "Link":"http://eprint.iacr.org/2011/479.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Program Obfuscation with Leaky Hardware",
+  "Link":"https://eprint.iacr.org/2011/660.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"Random Oracles in a Quantum World",
+  "Link":"http://eprint.iacr.org/2010/428.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"Homomorphic Signatures for Polynomial Functions",
+  "Link":"http://theory.stanford.edu/~dfreeman/papers/homsigs.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"Targeted Malleability: Homomorphic Encryption for Restricted Computations",
+  "Link":"http://eprint.iacr.org/2011/311.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"On Sum Coloring and Sum Multi-coloring for Restricted Families of Graphs",
+  "Link":"http://www.cs.toronto.edu/~bor/2420f10/stacs.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Multiparty Computation Secure Against Continual Memory Leakage",
+  "Link":"http://web.mit.edu/eboyle/www/LR-MPC-STOC12.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Leakage-Resilient Coin Tossing",
+  "Link":"https://eprint.iacr.org/2011/291",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Fully Homomorphic Encryption without Bootstrapping",
+  "Link":"https://eprint.iacr.org/2011/277.pdf"},
+{"Team":"Stanford","Title":"Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP","Link":"eprint.iacr.org/2012/078.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Position-Based Quantum Cryptography: Impossibility and Constructions",
+  "Link":"https://eprint.iacr.org/2010/275.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Simultaneously Resettable Arguments of Knowledge",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-28914-9_30#page-1",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"The Randomness Complexity of Parallel Repetition",
+  "Link":"http://www.cs.cornell.edu/~rafael/papers/rand-para.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"The Knowledge Tightness of Parallel Zero-Knowledge",
+  "Link":"http://www.cs.cornell.edu/~chung/download/parallelZKKnowledge.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["BBN"],
+  "Title":"SIPHER: Scalable Implementation of Primitives for Homomorphic EncRyption - FPGA implementation using Simulink",
+  "Link":"http://avometric.com/papers/2011/HPEC11_Cousins.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["BBN"],
+  "Title":"An Update on Scalable Implementation of Primitives for Homomorphic EncRyption – FPGA implementation using Simulink",
+  "Link":"http://www.avometric.com/papers/2012/HPEC12_Cousins.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Resettable Cryptography in Constant Rounds - The Case of Zero Knowledge",
+  "Link":"https://eprint.iacr.org/2011/408.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Leakage-Resilient Zero Knowledge",
+  "Link":"http://www.cs.ucla.edu/~sanjamg/Sanjam%20Garg_files/GJS11.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Resettable Statistical Zero Knowledge",
+  "Link":"http://eprint.iacr.org/2011/457.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Round Optimal Blind Signatures",
+  "Link":"http://eprint.iacr.org/2011/264.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Efficient and Explicit Coding for Interactive Communication",
+  "Link":"http://people.csail.mit.edu/moitra/docs/treecode.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["IBM"],
+  "Title":"Fully Homomorphic Encryption without Squashing Using Depth-3 Arithmetic Circuits",
+  "Link":"https://eprint.iacr.org/2011/279",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["IBM"],
+  "Title":"FHE with Polylog Overhead",
+  "Link":"http://eprint.iacr.org/2011/566",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["IBM"],
+  "Title":"Better Bootstrapping in Fully Homomorphic Encryption",
+  "Link":"http://eprint.iacr.org/2011/680.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["IBM"],
+  "Title":"Ring Switching in BGV-Style Homomorphic Encryption",
+  "Link":"http://eprint.iacr.org/2012/24",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["IBM"],
+  "Title":"Homomorphic Evaluation of the AES circuit",
+  "Link":"http://eprint.iacr.org/2012/099.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Bounded-Collusion IBE from Key Homomorphism",
+  "Link":"http://web.mit.edu/dwilson/www/papers/glw.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Outsourcing the Decryption of ABE Ciphertexts",
+  "Link":"http://static.usenix.org/event/sec11/tech/full_papers/Green.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Lossy Encryption: Constructions from General Assumptions and Efficient Selective Opening Chosen Ciphertext Security",
+  "Link":"https://eprint.iacr.org/2009/088",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Public Key Locally Decodable Codes with Short Keys",
+  "Link":"http://eccc.hpi-web.de/report/2011/118/download",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Detecting Dangerous Queries: A New Approach for Chosen Ciphertext Security",
+  "Link":"http://eprint.iacr.org/2012/006.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Constant-Rate Oblivious Transfer from Noisy Channels",
+  "Link":"http://www.iacr.org/conferences/crypto2011/abstracts/664.htm",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Efficient Non-interactive Secure Computation",
+  "Link":"http://www.cs.illinois.edu/~mmp/pub/nisc-proceedings.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Identifying Cheaters Without an Honest Majority",
+  "Link":"http://www.cs.ucla.edu/~rafail/PUBLIC/127.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Cryptography with Tamperable and Leaky Memory",
+  "Link":"http://research.microsoft.com/en-us/um/people/yael/publications/2011-Cryptography_with_Tamperable_and_Leaky_Memory.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"On the (In)security of Hash-based Oblivious RAM and a New Balancing Scheme",
+  "Link":"http://www.researchgate.net/publication/220779318_On_the_%28in%29security_of_hash-based_oblivious_RAM_and_a_new_balancing_scheme",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"Trapdoors for Lattices: Simpler, Tighter, Faster, Smaller",
+  "Link":"https://eprint.iacr.org/2011/501",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Georgia Tech"],
+  "Title":"Memory-Efficient Garbled Circuit Generation for Mobile Devices",
+  "Link":"http://ix.cs.uoregon.edu/~butler/pubs/fc11.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["BBN"],
+  "Title":"Bi-Deniable Public-Key Encryption",
+  "Link":"http://www.cc.gatech.edu/~cpeikert/pubs/deniable.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"How to Delegate and Verify in Public: Verifiable Computation from Attribute-based Encryption",
+  "Link":"http://research.microsoft.com/apps/pubs/default.aspx?id=157921",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Computing Blindfolded: New Developments in Fully Homomorphic Encryption",
+  "Link":"http://www.cs.utoronto.ca/~vinodv/FHE-focs-survey.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["University of Texas"],
+  "Title":"Dual Form Signatures: An Approach for Proving Security from Static Assumptions",
+  "Link":"http://eprint.iacr.org/2012/261.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["University of Texas"],
+  "Title":"Functional Encryption for Regular Languages",
+  "Link":"http://eprint.iacr.org/2012/384.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Dynamic Credentials and Ciphertext Delegation for Attribute-Based Encryption",
+  "Link":"https://eprint.iacr.org/2012/437.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["University of Texas"],
+  "Title":"New Proof Methods for Attribute-Based Encryption: Achieving Full Security through Selective Techniques",
+  "Link":"http://eprint.iacr.org/2012/326.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCI"],
+  "Title":"Fully Homomorphic Encryption for Mathematicians",
+  "Link":"http://eprint.iacr.org/2013/250.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Approximating Large Frequency Moments with Pick-and-Drop Sampling",
+  "Link":"http://arxiv.org/abs/1212.0202",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Generalizing the Layering Method of Indyk and Woodruff: Recursive Sketches for Frequency-Based Vectors on Streams",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-40328-6_5#page-1",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"On Linear-Size Pseudorandom Generators and Hardcore Functions",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-38768-5_17",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Cryptography Using Captcha Puzzles",
+  "Link":"http://eprint.iacr.org/2012/689",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Concurrent Zero Knowledge in the Bounded Player Model",
+  "Link":"http://eprint.iacr.org/2012/279.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Succinct Non-interactive Arguments via Linear Interactive Proofs",
+  "Link":"https://eprint.iacr.org/2012/718",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Revisiting Lower and Upper Bounds for Selective Decommitments",
+  "Link":"http://eprint.iacr.org/2011/536",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"New Techniques for Noninteractive Zero-Knowledge",
+  "Link":"http://www0.cs.ucl.ac.uk/staff/J.Groth/NIZKJournal.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"The Effectiveness of Lloyd-type Methods for the k-Means Problem",
+  "Link":"http://www.cs.ucla.edu/~rafail/PUBLIC/76.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Impossibility Results for Static Input Secure Computation",
+  "Link":"http://eprint.iacr.org/2012/433.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Near-Linear Unconditionally-Secure Multiparty Computation with a Dishonest Minority",
+  "Link":"http://eprint.iacr.org/2011/629.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Unconditionally-Secure Robust Secret Sharing with Compact Shares",
+  "Link":"http://www.cs.bris.ac.uk/eurocrypt2012/Program/Mon/Fehr.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Constructing Non-malleable Commitments: A Black-Box Approach",
+  "Link":"http://research.microsoft.com/en-us/um/people/vipul/bbnmcom.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Nearly Simultaneously Resettable Black-Box Zero Knowledge",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-31594-7_8#page-1",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Edge Fault Tolerance on Sparse Networks",
+  "Link":"http://research.microsoft.com/en-us/um/people/nichandr/edgefaulttolerance.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Multiparty Proximity Testing with Dishonest Majority from Equality Testing",
+  "Link":"https://eprint.iacr.org/2012/37",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Bristol"],
+  "Title":"Multiparty computation from somewhat homomorphic encryption",
+  "Link":"https://eprint.iacr.org/2011/535",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Bristol"],
+  "Title":"Implementing AES via an Actively/Covertly Secure Dishonest-Majority MPC Protocol",
+  "Link":"http://eprint.iacr.org/2012/262.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"Classical Hardness of Learning with Errors",
+  "Link":"http://arxiv.org/pdf/1306.0281",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["BBN"],
+  "Title":"A Toolkit for Ring-LWE Cryptography",
+  "Link":"http://www.di.ens.fr/~lyubash/papers/toolkit.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["BBN"],
+  "Title":"How to Share a Lattice Trapdoor: Threshold Protocols for Signatures and (H)IBE",
+  "Link":"http://eprint.iacr.org/2013/419.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Zerocoin: Anonymous Distributed e-Cash from Bitcoin",
+  "Link":"http://spar.isi.jhu.edu/~mgreen/ZerocoinOakland.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Machine-Generated Algorithms, Proofs and Software for the Batch Verification of Digital Signature Schemes",
+  "Link":"http://eprint.iacr.org/2013/175",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Vis-a-Vis Cryptography: Private and Trustworthy In-Person Certifications",
+  "Link":"https://www.usenix.org/system/files/conference/healthsec12/healthsec12-final25.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"An Equational Approach to Secure Multi-Party Computation",
+  "Link":"http://cseweb.ucsd.edu/~daniele/papers/ITCS13.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Cybernetica"],
+  "Title":"AES block cipher implementation and secure database join on the Sharemind secure multi-party computation framework",
+  "Link":"ACNS 2013",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Black-Box Proof of Knowledge of Plaintext and Multiparty Computation",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-36594-2_23#page-1",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Unprovable Security of Perfect NIZK and Non-interactive Non-malleable Commitments",
+  "Link":"http://www.cs.cornell.edu/~rafael/papers/limits2new.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"On the Power of Many1-Bit Provers",
+  "Link":"http://arxiv.org/abs/1301.2729",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"On The Power of Non-uniform Proofs of Security",
+  "Link":"http://www.cs.cornell.edu/~chung/download/nonuniform-camera.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"UC from OT",
+  "Link":"Asiacrypt 2012",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Blackbox Construction of Composable Protocols",
+  "Link":"http://www.cs.cornell.edu/~rafael/papers/bbsmc.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],"Title":"The Curious Case of Non-interactive Commitments",
+  "Link":"http://eprint.iacr.org/2012/523",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Billion-gate Secure Two-party Computation",
+  "Link":"http://eprint.iacr.org/2012/179",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Non-Black-Box Simulation from One-Way Functions And Applications to Resettable Security",
+  "Link":"http://eprint.iacr.org/2013/008.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"When Homomorphism Becomes a Liability",
+  "Link":"http://eprint.iacr.org/2012/225.pdf?",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"Quantum-secure Message Authentication Codes",
+  "Link":"http://eprint.iacr.org/2012/606.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["IBM"],
+  "Title":"Dynamic Proofs of Retrievability via Oblivous RAM",
+  "Link":"http://eprint.iacr.org/2012/550",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"How to Catch L 2-Heavy-Hitters on Sliding Windows",
+  "Link":"http://arxiv.org/pdf/1012.3130",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Optimal Coding for Streaming Authentication and Interactive Communication",
+  "Link":"http://eccc.hpi-web.de/report/2012/104/download/",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Universally Composable Secure Computation with (Malicious) Physically Uncloneable Functions",
+  "Link":"http://eprint.iacr.org/2012/143",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"How Hard Is Counting Triangles in the Streaming Model?",
+  "Link":"http://arxiv.org/pdf/1304.1458",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Local Correctability of Expander Codes",
+  "Link":"http://arxiv.org/abs/1304.8129",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Robust Pseudorandom Generators",
+  "Link":"http://eprint.iacr.org/2013/671.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Cryptography Using Captcha Puzzles",
+  "Link":"http://eprint.iacr.org/2012/689",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["BBN"],
+  "Title":"Practical Bootstrapping with Polylogarithmic Overhead",
+  "Link":"Crypto 2013",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford University"],
+  "Title":"Hardness of SIS and LWE with Small Parameters",
+  "Link":"https://eprint.iacr.org/2013/069.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["BBN"],
+  "Title":"Accelerating Computations on Encrypted Data with an FPGA",
+  "Link":"http://www.mathworks.com/company/newsletters/articles/accelerating-computations-on-encrypted-data-with-an-fpga.html",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Cybernetica"],
+  "Title":"From Oblivious AES to Efficient and Secure Database Join in the Multiparty Setting",
+  "Link":"http://eprint.iacr.org/2013/203",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Yale"],
+  "Title":"Structural Cloud Audits that Protect Private Information",
+  "Link":"http://www.cs.yale.edu/homes/jf/ccsw-24-xiao.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Georgia Tech"],
+  "Title":"Secure Outsourced Garbled Circuit Evaluation for Mobile Devices",
+  "Link":"http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12310-sec13-paper_carter.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"PCF: A Portable Circuit Format for Scalable Two-Party Secure Computation",
+  "Link":"http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12312-sec13-paper_kreuter.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Georgia Tech"],
+  "Title":"For Your Phone Only: Custom Protocols for Efficient Secure Function Evaluation on Mobile Devices",
+  "Link":"http://onlinelibrary.wiley.com/doi/10.1002/sec.851/abstract",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Predicate Encryption Supporting Disjunctions, Polynomial Equations, and Inner Products",
+  "Link":"https://eprint.iacr.org/2007/404.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Sequential Aggregate Signatures, Multisignatures, and Verifiably Encrypted Signatures Without Random Oracles",
+  "Link":"http://cseweb.ucsd.edu/~hovav/dist/agg-sig.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Zero Knowledge LTCs and Their Applications",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-40328-6_42#page-1",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based",
+  "Link":"http://eprint.iacr.org/2013/340.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UCLA"],
+  "Title":"Accuracy-Privacy Tradeoffs for Two-Party Differentially Private Protocols",
+  "Link":"http://research.microsoft.com/jump/192517",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Secure Computation Against Adaptive Auxiliary Information",
+  "Link":"http://research.microsoft.com/en-us/um/people/yael/publications/2013-secure-adaptive-aux.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["IBM"],
+  "Title":"Attribute-Based Encryption for Circuits from Multilinear Maps",
+  "Link":"http://eprint.iacr.org/2013/128",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Full Domain Hash from (Leveled) Multilinear Maps and Identity-Based Aggregate Signatures",
+  "Link":"http://eprint.iacr.org/2013/434",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["IBM"],
+  "Title":"Witness encryption and its applications",
+  "Link":"http://eprint.iacr.org/2013/258.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Bristol"],
+  "Title":"Practical Covertly Secure MPC for Dishonest Majority – or: Breaking the SPDZ Limits",
+  "Link":"http://eprint.iacr.org/2012/642.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Bristol"],
+  "Title":"Estimating Key Sizes For High Dimensional Lattice Based Systems",
+  "Link":"http://eprint.iacr.org/2013/630.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Bristol"],
+  "Title":"Between a Rock and a Hard Place: Interpolating Between MPC and FHE",
+  "Link":"http://eprint.iacr.org/2013/085.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"GPU and CPU Parallelization of Honest-but-Curious Secure Two Party Computation",
+  "Link":"http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&ved=0CD8QFjAD&url=http%3A%2F%2Fwww.cs.indiana.edu%2F~nhusted%2Fpresentations%2FACSAC2013-GPUGC.pptx&ei=AmDpUqeEGdTMsASXpoDADA&usg=AFQjCNGD5W9EBahO_T-fkYDn75AZ-t5Ctg&sig2=bq1w2wfg1HUfF6zdIW-Qzw&bvm=bv.60157871,d.cWc",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Using SMT Solvers to Automate Design Tasks for Encryption and Signature Schemes",
+  "Link":"http://hms.isi.jhu.edu/papers/cv_akinyele.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Fast Two-Party Secure Computation with Minimal Assumptions",
+  "Link":"http://eprint.iacr.org/2013/196.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Black-Box Proof of Knowledge of Plaintext and Multiparty Computation with Low Communication Overhead",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-36594-2_23#page-1",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Knowledge-Preserving Interactive Coding",
+  "Link":"http://www.iis.sinica.edu.tw/~kmchung/download/KP-coding-main.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Constant-round Concurrent Zero-knowledge from P-Certificates",
+  "Link":"http://eprint.iacr.org/2012/563.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"From Unprovability to Environmentally Friendly Protocols",
+  "Link":"http://www.cs.cornell.edu/~rafael/papers/EnvFriendly-proc.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["UVA"],
+  "Title":"Simultaneous Resettability From One-way Functions",
+  "Link":"http://www.iis.sinica.edu.tw/~kmchung/download/rsrZK.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["University of Texas"],
+  "Title":"Constrained Pseudorandom Functions and Their Applications",
+  "Link":"http://eprint.iacr.org/2013/352.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["University of Texas"],
+  "Title":"New Constructions and Proof Methods for Large Universe Attribute-Based Encryption",
+  "Link":"https://eprint.iacr.org/2012/583.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["University of Texas"],
+  "Title":"Candidate Indistinguishability Obfuscation and Functional Encryption for All Circuits",
+  "Link":"http://eprint.iacr.org/2013/451.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["University of Texas"],
+  "Title":"Encoding Functions with Constant Online Rate or How to Compress Garbled Circuits Keys",
+  "Link":"http://eprint.iacr.org/2012/693.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Attribute-Based Encryption for Circuits",
+  "Link":"http://eprint.iacr.org/2013/337.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Reusable Garbled Circuits and Succinct Functional Encryption",
+  "Link":"http://eprint.iacr.org/2012/733.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Overcoming the Worst-Case Curse for Cryptographic Constructions",
+  "Link":"http://people.csail.mit.edu/nickolai/papers/goldwasser-we-eprint.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  },
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["MIT"],
+  "Title":"Functional Encryption: New Perspectives and Lower Bounds",
+  "Link":"http://eprint.iacr.org/2012/468.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+  }
+]

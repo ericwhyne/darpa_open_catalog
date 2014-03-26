@@ -1,0 +1,641 @@
+[
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"Modeling Attrition in Organizations From Email Communication",
+  "Link":"",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"A comparison study of user behavior on Facebook and Gmail",
+  "Link":"http://dx.doi.org/10.1016/j.chb.2013.06.043",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"Predicting Group Stability in Online Social Networks",
+  "Link":"http://dl.acm.org/citation.cfm?id=2488477",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"Multi-Domain Information Fusion for Insider Threat Detection",
+  "Link":"http://www.computer.org/csdl/proceedings/spw/2013/5017/00/5017a045-abs.html",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"Bayesian network model for predicting insider threats",
+  "Link":"http://www.computer.org/csdl/proceedings/spw/2013/5017/00/5017a082-abs.html",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"Characterizing user behavior and information propagation on a social multimedia network",
+  "Link":"http://arxiv.org/abs/1305.2091",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"Understanding Email Writers: Personality Prediction from Email Messages",
+  "Link":"http://rd.springer.com/chapter/10.1007%2F978-3-642-38844-6_29",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"Inferring Personality of Online Gamers by Fusing Multiple-View Predictions",
+  "Link":"http://dl.acm.org/citation.cfm?id=2358991",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"Modeling Destructive Group Dynamics in On-line Gaming Communities",
+  "Link":"http://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4602",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Palo Alto Research Center"],
+  "Title":"Proactive insider threat detection through graph learning and psychological context",
+  "Link":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6227698",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["CERT"],
+  "Title":"Bridging the gap: A pragmatic approach to generating insider threat data",
+  "Link":"http://www.ieee-security.org/TC/SPW2013/papers/data/5017a098.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Large Graph Mining System for Patterns, Anomalies & Visualization",
+  "Link":"http://www.cs.cmu.edu/~ukang/papers/OPAvion.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Opinion Fraud Detection in Online Reviews using Network Effects",
+  "Link":"http://www.cs.stonybrook.edu/~leman/pubs/13-icwsm-fake.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Mining Connection Pathways for Marked Nodes in Large Graphs",
+  "Link":"http://knowledgecenter.siam.org/89SDM/89SDM/1",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Agglomerative Clustering of Bagged Data using Joint Distributions",
+  "Link":"https://kdl.cs.umass.edu/papers/arbour-et-al-slg2013.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"NetSimile: A Scalable Approach to Size-Independent Network Similarity",
+  "Link":"http://arxiv.org/pdf/1209.2684v1.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Augmenting Bag-of-Words: Data-Driven Discovery of Temporal and Structural Information for Activity Recognition",
+  "Link":"http://www.cc.gatech.edu/cpl/projects/abow",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Data Mining Meets HCI: Making Sense of Large Graphs",
+  "Link":"http://www.cs.cmu.edu/~dchau/thesis/polo_thesis.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Case study on fraud detection using social-network analysis",
+  "Link":"http://www.springer.com/computer/communication+networks/book/978-1-4614-6169-2",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"STINGER: High Performance Data Structure for Streaming Graphs",
+  "Link":"http://www.cc.gatech.edu/~bader/papers/STINGER-HPEC2012.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Systematic Construction of Anomaly Detection Benchmarks from Real Data",
+  "Link":"http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6171/7296",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Classifier-adjusted density estimation for anomaly detection and one-class classification",
+  "Link":"",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Copy or coincidence? A model for detecting social influence and duplication events",
+  "Link":"http://jmlr.org/proceedings/papers/v28/friedland13.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"A Fast Algorithm for Streaming Betweenness Centrality",
+  "Link":"http://www.cc.gatech.edu/~ogreen3/_docs/A Fast Algorithm For Streaming Betweenness Centrality.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Faster Betweenness Centrality Based on Data Structure Experimentation",
+  "Link":"http://www.cc.gatech.edu/~ogreen3/_docs/Faster_BC_2013.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"A Fast Algorithm for Streaming Betweenness Centrality",
+  "Link":"http://www.cc.gatech.edu/~ogreen3/_docs/A Fast Algorithm For Streaming Betweenness Centrality.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"TENSORSPLAT: Spotting Latent Anomalies in Time",
+  "Link":"http://www.cs.cmu.edu/~dkoutra/papers/PCI2012.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Patterns among Competing Tasks Frequencies: Super-Linearities, and the Almond-DG Model",
+  "Link":"http://www.cs.cmu.edu/~badityap/papers/competing-tasks-pakdd13.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"DELTACON: A Principled Massive-Graph Similarity Function",
+  "Link":"http://knowledgecenter.siam.org/105SDM/105SDM/1",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Fast anomaly detection despite the duplicates",
+  "Link":"http://reports-archive.adm.cs.cmu.edu/anon/2012/CMU-CS-12-146.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Interactive Multi-resolution Exploration of Million Node Graphs",
+  "Link":"http://www.cc.gatech.edu/~dchau/bubblenet/bubblenet_visweek13poster.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Leveraging Memory Mapping for Fast and Scalable Graph Computation on a PC",
+  "Link":"http://www.cc.gatech.edu/~dchau/mmap/bigdata13_mmap.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Scalable, Minimalist Graph Computation on a PC via Memory Mapping",
+  "Link":"",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"A sound and complete algorithm for learning causal models from relational data",
+  "Link":"http://auai.org/uai2013/prints/papers/197.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Reasoning about Independence in Probabilistic Models of Relational Data",
+  "Link":"http://www.statslab.cam.ac.uk/~rje42/uai13/Maier1.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Layered behavioral trace modeling for threat detection",
+  "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6578813&tag=1",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"A New Parallel Algorithm for Connected Components in Dynamic Graphs",
+  "Link":"",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Context-Aware Insider Threat Detection",
+  "Link":"http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/download/7315/6444",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Do more Views of a Graph help? Community Detection and Clustering in Multi-Graphs",
+  "Link":"http://www.cs.cmu.edu/~epapalex/papers/fusion2013.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Detecting Insider Threats in a Real Corporate Database of Computer Usage Activity",
+  "Link":"http://www.cc.gatech.edu/~bader/papers/PRODIGAL-KDD2013.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Fast and Accuate k-means for Large Datasets",
+  "Link":"http://books.nips.cc/papers/files/nips24/NIPS2011_1271.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Inside Insider Trading: Patterns & Discoveries from a Large Scale Exploratory Analysis",
+  "Link":"http://www.cc.gatech.edu/~dchau/insider/asonam13_insider.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Exploring Large Scale Insider Trading Data: Network Patterns & Discoveries",
+  "Link":"http://www.cc.gatech.edu/~dchau/",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Guiding Scientific Discovery with Explanations from DEMUD",
+  "Link":"http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6171/7296",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Use of Domain Knowledge to Detect Insider Threats in Computer Activities",
+  "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6565230",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["SAIC"],
+  "Title":"Measuring the Sensitivity of Graph Metrics to Missing Data",
+  "Link":"",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["IBM"],
+  "Title":"Non-negative residual matrix factorization: problem definition, fast solutions, and applications",
+  "Link":"https://greenhouse.lotus.com/wikis/form/api/wiki/6ff67263-8e70-48cc-a58a-f9c4d6c7c03f/page/44909eb8-d379-4a32-a35e-3f49a92149f2/attachment/f7897306-c5bb-4de8-8432-28bebb5044cf/media/Non_negative residual matrix factorization_problem definition fast solutions and applications.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["IBM"],
+  "Title":"PICS: Parameter-free Identification of Cohesive Subgroups in Large Attributed Graphs",
+  "Link":"https://greenhouse.lotus.com/wikis/form/api/wiki/6ff67263-8e70-48cc-a58a-f9c4d6c7c03f/page/44909eb8-d379-4a32-a35e-3f49a92149f2/attachment/6637ab6a-1be6-4b17-a3e6-a9e97ad4f3b7/media/PICS_Parameter-free Identification of Cohesive Subgroups in Large Attributed Graphs.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["IBM"],
+  "Title":"Fast and reliable anomaly detection in categorical data",
+  "Link":"https://greenhouse.lotus.com/wikis/form/api/wiki/6ff67263-8e70-48cc-a58a-f9c4d6c7c03f/page/44909eb8-d379-4a32-a35e-3f49a92149f2/attachment/6df381c0-774f-45a2-81f6-ec200a4816c7/media/Fast and reliable anomaly detection in categorical data.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["IBM"],
+  "Title":"One-Class Conditional Random Fields for Sequential Anomaly Detection",
+  "Link":"https://greenhouse.lotus.com/wikis/form/api/wiki/6ff67263-8e70-48cc-a58a-f9c4d6c7c03f/page/44909eb8-d379-4a32-a35e-3f49a92149f2/attachment/9a35be35-b017-4d6d-84c7-a70bd5b22a59/media/One-Class Conditional Random Fields for Sequential Anomaly Detection.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["IBM"],
+  "Title":"Adaptive Multi-task Sparse Learning with an Application to fMRI Study",
+  "Link":"https://greenhouse.lotus.com/wikis/form/api/wiki/6ff67263-8e70-48cc-a58a-f9c4d6c7c03f/page/44909eb8-d379-4a32-a35e-3f49a92149f2/attachment/4f0af234-acdd-4fcc-876f-c15ca7d732a5/media/Adaptive Multi-task Sparse Learning with an Application to fMRI Study.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["IBM"],
+  "Title":"Generating balanced classifier-independent training samples from unlabeled data",
+  "Link":"https://greenhouse.lotus.com/wikis/form/api/wiki/6ff67263-8e70-48cc-a58a-f9c4d6c7c03f/page/44909eb8-d379-4a32-a35e-3f49a92149f2/attachment/d45cce4a-0a90-4a97-a5a6-9c55920302ce/media/Generating balanced classifier-independent training samples from unlabeled data.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Bait and Snitch: Defending Computer Systems with Decoys",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/ssi.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Fog Computing: Mitigating Insider Data Theft Attacks in the Cloud",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/Fog_Computing_Position_Paper_WRIT_2012.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Lost in Translation: Improving Decoy Documents via Automated Translation",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/writ_12_0.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Software Decoys for Insider Threat",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/softwaredecoy_0.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Modeling User Search Behavior for Masquerade Detection",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/RAID_2011_0.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"On the Design and Execution of Cyber-Security User Studies: Methodology, Challenges, and Lessons Learned",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/CSET_2011_0.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Decoy Document Deployment for Effective Masquerade Attack Detection",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/Dimva_2011_final.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Insider Threat Defense",
+  "Link":"",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Monitoring Technologies for Mitigating Insider Threats",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/insider-bookchapter.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"BotSwindler: Tamper Resistant Injection of Believable Decoys in VM-Based Hosts for Crimeware Detection",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/VMInject_RAID2010_0.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Addressing the Insider Threat",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/10-13.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Designing Host and Network Sensors to Mitigate the Insider Threat",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/DesigningSensorsInsider.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["Columbia University"],
+  "Title":"Baiting Inside Attackers Using Decoy Documents",
+  "Link":"http://ids.cs.columbia.edu/sites/default/files/DecoyDocumentsCameraReadySECCOM09.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["University of Maryland"],
+  "Title":"Infrastructure for Efficient Exploration of Large Scale Linked Data via Contextual Tag Clouds",
+  "Link":"http://link.springer.com/chapter/10.1007/978-3-642-41335-3_43",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["University of Maryland"],
+  "Title":"A Pruning Based Approach for Scalable Entity Coreference",
+  "Link":"http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS12/paper/viewPDFInterstitial/4419/4773",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["University of Maryland"],
+  "Title":"Accuracy vs. Speed: Scalable Entity Coreference on the Semantic Web with On-the-Fly Pruning",
+  "Link":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6511867&queryText%3DScalable+Entity+Coreference+on+the+Semantic+Web+with+On-the-Fly+Pruning",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["University of Maryland"],
+  "Title":"PASS: A Parallel Activity Search System",
+  "Link":"",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["University of Maryland"],
+  "Title":"Discovering the Top-K Unexplained Sequences in Time-Stamped Observation Data",
+  "Link":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6506840&queryText%3Ddiscovering+the+top+k+unexplained+sequence",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"ADAMS",
+  "Program Teams":["University of Maryland"],
+  "Title":"Pattern-based Centrality in Semantics Graphs",
+  "Link":"",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+}
+]
