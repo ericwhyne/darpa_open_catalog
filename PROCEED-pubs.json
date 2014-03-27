@@ -120,8 +120,16 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["MIT"],
   "Title":"Fully Homomorphic Encryption without Bootstrapping",
-  "Link":"https://eprint.iacr.org/2011/277.pdf"},
-{"Team":"Stanford","Title":"Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP","Link":"eprint.iacr.org/2012/078.pdf",
+  "Link":"https://eprint.iacr.org/2011/277.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"PROCEED",
+  "Program Teams":["Stanford"],
+   "Title":"Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP",
+  "Link":"eprint.iacr.org/2012/078.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -174,7 +182,7 @@
 {
   "DARPA Program":"PROCEED",
   "Program Teams":["BBN"],
-  "Title":"An Update on Scalable Implementation of Primitives for Homomorphic EncRyption – FPGA implementation using Simulink",
+  "Title":"An Update on Scalable Implementation of Primitives for Homomorphic EncRyption - FPGA implementation using Simulink",
   "Link":"http://www.avometric.com/papers/2012/HPEC12_Cousins.pdf",
   "Categories":[""],
   "Subcategories":[""],
@@ -1010,7 +1018,7 @@
 {
   "DARPA Program":"PROCEED",
   "Program Teams":["Bristol"],
-  "Title":"Practical Covertly Secure MPC for Dishonest Majority – or: Breaking the SPDZ Limits",
+  "Title":"Practical Covertly Secure MPC for Dishonest Majority - or: Breaking the SPDZ Limits",
   "Link":"http://eprint.iacr.org/2012/642.pdf",
   "Categories":[""],
   "Subcategories":[""],

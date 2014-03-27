@@ -1,0 +1,72 @@
+[
+    {
+        "Program Teams": ["CMU Entertainment Technology Center"],
+        "Title": "Beanstalk: A Unity Game Addressing Balance Principles, Socio-Emotional Learning and Scientific Inquiry",
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6659126"
+    },
+    {
+        "Program Teams": ["CMU Entertainment Technology Center"],
+        "Title": "Helios: An HTML5 Game Teaching Proportional Reasoning To Child Players",
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6632614"
+    },
+    {
+        "Program Teams": ["CMU Entertainment Technology Center"],
+        "Title": "Supporting Social-Emotional Development in Collaborative Inquiry Games for K-3 Science Learning",
+        "Link": "No link; soft copy only"
+    },
+    {
+        "Program Teams": ["CMU Entertainment Technology Center"],
+        "Title": "Rumble Blocks: Teaching Science Concepts to Young Children Through a Unity Game",
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6314570"
+    },
+    {
+        "Program Teams": ["University of Washington"],
+        "Title": "A Mixed-Initiative Tool for Designing Level Progressions in Games",
+        "Link": "http://www.ericbutler.net/media/papers/uist2013_progression.pdf"
+    },
+    {
+        "Program Teams": ["University of Washington"],
+        "Title": "The Effects of Age on Player Behavior in Educational Games",
+        "Link": "http://homes.cs.washington.edu/~eorourke/papers/age_behavior_fdg.pdf"
+    },
+    {
+        "Program Teams": ["University of Washington"],
+        "Title": "Quantifying over Play: Constraining Undesirable Solutions in Puzzle Design, Foundations of Digital Games",
+        "Link": "http://adamsmith.as/papers/fdg2013_shortcuts.pdf"
+    },
+    {
+        "Program Teams": ["University of Washington"],
+        "Title": "Automatic Redesign of Local Playspace Properties",
+        "Link": "http://homes.cs.washington.edu/~awb/data/Bauer_FDG_2013.pdf"
+    },
+    {
+        "Program Teams": ["University of Washington"],
+        "Title": "Predicting Player Moves in an Educational Game: A Hybrid Approach",
+        "Link": "http://www.ericbutler.net/media/papers/edm2013_heuristics.pdf"
+    },
+    {
+        "Program Teams": ["University of Washington"],
+        "Title": "A Trace-based Framework for Analyzing and Synthesizing Educational Progressions",
+        "Link": "http://dub.washington.edu/pubs/340"
+    },
+    {
+        "Program Teams": ["CMU Robotics Academy"],
+        "Title": "Designing Educative Guides: Reconceptualizing Teacher's Role in Teacherless Cognitive Tutor-based Robotics Instruction.",
+        "Link": "http://www.education.rec.ri.cmu.edu/content/educators/research/files/AERA%202012%20Paper_King,%20Stein,%20Schunn.pdf"
+    },
+    {
+        "Program Teams": ["CMU Robotics Academy"],
+        "Title": "Resources for robot competition success: Assessing math use in grade-school-level engineering design",
+        "Link": ""
+    },
+    {
+        "Program Teams": ["CMU Robotics Academy"],
+        "Title": "Calculational versus mechanistic mathematics in propelling the development of physical knowledge",
+        "Link": "http://www.education.rec.ri.cmu.edu/content/educators/research/files/SilkSchunn2011a-JPS.pdf"
+    },
+    {
+        "Program Teams": ["CMU Robotics Academy"],
+        "Title": "Resources for learning robots: Facilitating the incorporation of mathematical models in students' engineering design strategies",
+        "Link": "http://www.education.rec.ri.cmu.edu/content/educators/research/files/SilkSchunn2011a-AERA.pdf"
+    }
+]
