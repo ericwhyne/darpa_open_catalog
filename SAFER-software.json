@@ -19,7 +19,7 @@
 	"External Link":"https://security.cs.georgetown.edu/projects/tortoise/",
 	"Instructional Material":"",
 	"Public Code Repo":"",
-	"Description":"Tortoise is a system for rate limiting Tor at its ingress points in order to will increase the bandwidth capacity of the network and consequently improve the experience of interactive web users. The system incurs little penalty for interactive web users, while significantly decreasing the throughput for filesharers. These techniques provide incentives to filesharers to configure their Tor clients to also relay traffic, which in turn improves the network's overall performance. Large-scale emulation results indicate that interactive users will achieve a significant speedup if even a small fraction of clients opt to run relays.",
+	"Description":"Tortoise is a system for rate limiting Tor at its ingress points in order to increase the bandwidth capacity of the network and consequently improve the experience of interactive web users. The system incurs little penalty for interactive web users, while significantly decreasing the throughput for filesharers. These techniques provide incentives to filesharers to configure their Tor clients to also relay traffic, which in turn improves the network's overall performance. Large-scale emulation results indicate that interactive users will achieve a significant speedup if even a small fraction of clients opt to run relays.",
 	"Internal Code Repo":"",
 	"License":"Released as patch to Tor; follows Tor license at https://gitweb.torproject.org/tor.git?a=blob_plain;hb=HEAD;f=LICENSE",
 	"Languages":["C"],
