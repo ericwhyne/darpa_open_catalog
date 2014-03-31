@@ -10,21 +10,21 @@
   "DARPA Program":"RATS",
   "Program Teams":["BBN"],
   "Title":"Developing a Speech Activity Detection System for the DARPA RATS Program",
-  "Link":"N/A",
+  "Link":"Not Yet Published",
   "Authors":["Ng","Tim","Bing Zhang","Long Nguyen","Spyros Matsoukas","Xinhui Zhou","Nima Mesgarani","Karel Vesel","and Pavel Matejka"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["BBN"],
   "Title":"White Listing and Score Normalization for Keyword Spotting of Noisy Speech",
-  "Link":"N/A",
+  "Link":"Not Yet Published",
   "Authors":["Zhang","Bing","Richard M. Schwartz","Stavros Tsakalidis","Long Nguyen","and Spyros Matsoukas."]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["BBN"],
   "Title":"Improvements in Language Identification on the RATS Noisy Speech Corpus",
-  "Link":"N/A",
+  "Link":"Not Yet Published",
   "Authors":["Jeff Ma","Bing Zhang","Spyros Matsoukas","Sri Harish Mallidi","Feipeng Li","Hynek Hermansky"]
 },
 {
@@ -297,14 +297,14 @@
   "DARPA Program":"RATS",
   "Program Teams":["(Team IBM) MIT"],
   "Title":"Bayesian Distance Metric Learning on i-vector for Speaker Verification",
-  "Link":"N/A",
+  "Link":"Not Yet Published",
   "Authors":["X. Fang","N. Dehak","and J. Glass"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["(Team IBM) MIT"],
   "Title":"Gaussian Mixture Model Weight Supervector Decomposition and Adaptation",
-  "Link":"N/A",
+  "Link":"Not Yet Published",
   "Authors":["M. H. Bahari","N. Dehak","and H. Van hamme"]
 },
 {
@@ -381,7 +381,7 @@
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
   "Title":"Enhancing Frequency Shifted Speech Signals in Single Side Band Communication, IEEE Signal Processing Letters",
-  "Link":"www.signalprocessingsociety.org/",
+  "Link":"http://www.signalprocessingsociety.org/",
   "Authors":["Sriram Ganapathy","Jason Pelecanos"]
 },
 {
@@ -416,7 +416,7 @@
   "DARPA Program":"RATS",
   "Program Teams":["(Team IBM) University of Southern California"],
   "Title":"Simplified Supervised I-vector Modeling and Sparse Representation with application to Robust Language Recognition",
-  "Link":"N/A",
+  "Link":"Not Yet Published",
   "Authors":["Ming Li","and Shrikanth Narayanan"]
 },
 {
