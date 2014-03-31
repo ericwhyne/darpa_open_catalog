@@ -129,7 +129,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["Stanford"],
    "Title":"Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP",
-  "Link":"eprint.iacr.org/2012/078.pdf",
+  "Link":"http://eprint.iacr.org/2012/078.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -687,7 +687,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["Cybernetica"],
   "Title":"AES block cipher implementation and secure database join on the Sharemind secure multi-party computation framework",
-  "Link":"ACNS 2013",
+  "Link":"Not Yet Published",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -732,7 +732,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["UVA"],
   "Title":"UC from OT",
-  "Link":"Asiacrypt 2012",
+  "Link":"Not Yet Published",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -866,7 +866,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["BBN"],
   "Title":"Practical Bootstrapping with Polylogarithmic Overhead",
-  "Link":"Crypto 2013",
+  "Link":"Not Yet Published",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
