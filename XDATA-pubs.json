@@ -165,7 +165,7 @@
   "DARPA Program":"XDATA",
   "Program Teams":["Georgia Tech / GTRI"],
   "Title":"Fast rank-2 nonnegative matrix factorization for hierarchical document clustering",
-  "Link":"http://dl.acm.org/citation.cfm?id=2487575.2487606; http://www.cc.gatech.edu/grads/d/dkuang3/pub/fp0269-kuang.pdf",
+  "Link":"http://www.cc.gatech.edu/grads/d/dkuang3/pub/fp0269-kuang.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -263,8 +263,8 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["IBM Research"],
-  "Title":"Subspace Embeddings and L_p-Regression Using Exponential Random Variables",
-  "Link":"http://arxiv.org/pdf/1304.6475v2.pdf",
+  "Title":"Subspace Embeddings and Lp-Regression Using Exponential Random Variables",
+  "Link":"http://homes.soic.indiana.edu/qzhangcs/papers/subspace-full.pdf",
   "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
   "Subcategories":["statistical computing", "robust regression"],
   "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
@@ -489,7 +489,7 @@
   "DARPA Program":"XDATA",
   "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
   "Title":"Mapping Semantic Workflows to Alternative Workflow Execution Engines. Gil, Y.",
-  "Link":"http://www.isi.edu/~gil/papers/gil-icsc13.pdf",
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6693545&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6693545",
   "Categories":["Software Notations and Tools"],
   "Subcategories":["Development Frameworks and Environments"],
   "ACM 1998 classification code":["D.2.9", "K.6.3"]
@@ -516,7 +516,7 @@
   "DARPA Program":"XDATA",
   "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
   "Title":"> Configuration of Workflows",
-  "Link":"http://www.isi.edu/~gil/papers/kale-etal-aaaifss13.pdf",
+  "Link":"Not Yet Published",
   "Categories":["Software Notations and Tools"],
   "Subcategories":["Development Frameworks and Environments"],
   "ACM 1998 classification code":["D.2.9", "K.6.3"]
@@ -538,15 +538,6 @@
   "Categories":["Learning", "Natural Language Processing"],
   "Subcategories":[""],
   "ACM 1998 classification code":["I.2.6", "I.2.7"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["MIT-LL"],
-  "Title":"Combining Content, Network and Profile Features for User Classification in Twitter",
-  "Link":"http://www.ll.mit.edu/mission/cybersec/publications/HLTpublications.html",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
 },
 {
   "DARPA Program":"XDATA",
@@ -768,7 +759,7 @@
   "DARPA Program":"XDATA",
   "Program Teams":["The New School"],
   "Title":"Data Visualization for Big Data",
-  "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/Ae6tpC9L30/Data_Visualization_for_Big_Data_Parsons.pdf",
+  "Link":"http://www.academia.edu/6472693/Data_Visualization_for_Big_Dataf",
   "Categories":["Design", "Knowledge Representation Formalisms and Methods"],
   "Subcategories":["Representation"],
   "ACM 1998 classification code":["D.2.10", "I.2.4"]
@@ -822,7 +813,7 @@
   "DARPA Program":"XDATA",
   "Program Teams":["The New School"],
   "Title":"Design and Visualization Best Practices for Big Data: Enhancing Data Discovery through Improved Usability",
-  "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/V5fag28-jZ/XDATA_GUI_Design_Volume_I_Parsons.pdf",
+  "Link":"http://piim.newschool.edu/_media/pdfs/Data_Visualization_for_Big_Data_Parsons.pdf",
   "Categories":["Group and Organization Interfaces"],
   "Subcategories":["Evaluation and methodology"],
   "ACM 1998 classification code":["H.5.3"]
@@ -966,7 +957,7 @@
   "DARPA Program":"XDATA",
   "Program Teams":["University of California, Berkeley"],
   "Title":"Coflow: A Networking Abstraction for Cluster Applications",
-  "Link":"https://amplab.cs.berkeley.edu/publication/the-potential-dangers-of-causal-consistency-and-an-explicit-solution/",
+  "Link":"http://conferences.sigcomm.org/hotnets/2012/papers/hotnets12-final51.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
