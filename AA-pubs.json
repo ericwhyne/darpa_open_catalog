@@ -57,7 +57,7 @@
   "DARPA Program":"AA",
   "Program Teams":["BAE Systems (developed for our AA phase I proposal)"],
   "Title":"Keystroke dynamics for user authentication",
-  "Link":"http://www.cs.huji.ac.il/~peleg/CVPR2012/data/papers/workshops/W13_18.pdf"
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6239225&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6239225"
 },
 {
   "DARPA Program":"AA",
@@ -86,14 +86,8 @@
 {
   "DARPA Program":"AA",
   "Program Teams":["Behaviosec"],
-  "Title":"Behavioral Biometrics for DARPA'S active authentication program",
-  "Link":"http://finovate.com/2013/09/behaviosec-uses-policy-based-behavior-to-authenticate-users.html"
-},
-{
-  "DARPA Program":"AA",
-  "Program Teams":["Behaviosec"],
-  "Title":"Behavioral Biometrics for DARPAs active authentication program",
-  "Link":"http://fg-biosig.gi.de/biosig-2013.html"
+  "Title":"Behavioral Biometrics for DARPA's active authentication program",
+  "Link":"http://www.rsaconference.com/writable/presentations/file_upload/sec-t05_final.pdf"
 },
 {
   "DARPA Program":"AA",
@@ -105,7 +99,7 @@
   "DARPA Program":"AA",
   "Program Teams":["Coveros, Inc."],
   "Title":"Active Authentication Using System Event Monitoring",
-  "Link":"http://www.coveros.com/monitoring-system-calls-for-active-authentication-with-detours/"
+  "Link":"Not Yet Published"
 },
 {
   "DARPA Program":"AA",
@@ -170,8 +164,8 @@
 {
   "DARPA Program":"AA",
   "Program Teams":["Naval Research Laboratory"],
-  "Title":"User Authentication from Web Behavior",
-  "Link":"http://www.flairs-26.info/"
+  "Title":"User Authentication from Web Browsing Behavior",
+  "Link":"http://cryptome.org/2013/09/user-auth-browser.pdf"
 },
 {
   "DARPA Program":"AA",
@@ -213,6 +207,6 @@
   "DARPA Program":"AA",
   "Program Teams":["University of Maryland"],
   "Title":"Screen-based Active User Authentication",
-  "Link":"http://www.journals.elsevier.com/pattern-recognition-letters/"
+  "Link":"http://www.sciencedirect.com/science/article/pii/S0167865514000488"
 }
 ]
