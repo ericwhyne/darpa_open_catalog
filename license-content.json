@@ -12,13 +12,13 @@
    "License Link":"https://www.apache.org/licenses/"
 },
 {
-   "License Short Name":["BSD3"],
+   "License Short Name":["BSDv3"],
    "License Long Name":"BSD 3-Clause 'New' or 'Revised' license",
    "License Description":"This permissive, free software license was created by removing the advertising clause from the original version of the BSD license. It is compatible with GNU GPL.",
    "License Link":"http://opensource.org/licenses/BSD-3-Clause"
 },
 {
-   "License Short Name":["BSD2","FreeBSD"],
+   "License Short Name":["BSDv2","FreeBSD"],
    "License Long Name":"BSD 2-Clause 'Simplified' or 'FreeBSD' license",
    "License Description":"This is the original BSD license without the advertising (and one other) clause. It is a permissive, non-copyleft-free license.",
    "License Link":"http://opensource.org/licenses/BSD-2-Clause"

@@ -8,7 +8,7 @@
 "Public Code Repo": "http://crisys.cs.umn.edu/downloads/oldprojects/fm-workbench.zip",
 "Description": "This software package contains the AADL model and some verification properties for the unmanned aerial system used as part of the Secure Mathematically-Assured Composition of Control Models (SMACCM) research project under the HACMS program. This package also contains the Lute plug-in for OSATE, in which the properties are encoded.",
 "Internal Code Repo": "",
-"License": ["BSD3"],
+"License": ["BSDv3"],
 "Languages": [""],
 "Categories": ["Research Integration"]
 },
@@ -21,7 +21,7 @@
 "Public Code Repo": "https://github.com/agacek/jkind",
 "Description": "JKind is a Java implementation of the KIND model checker. KIND is a parallel multi-property k-induction based model checker for Lustre programs.",
 "Internal Code Repo": "",
-"License": ["BSD3"],
+"License": ["BSDv3"],
 "Languages": [""],
 "Categories": ["Research Integration"]
 },
@@ -34,7 +34,7 @@
 "Public Code Repo": "https://github.com/GaloisInc/smaccmpilot-build.git",
 "Description": "SMACCMPilot is an open source autopilot software for small, unmanned aerial vehicles (UAVs) using new high-assurance software methods.",
 "Internal Code Repo": "",
-"License": ["BSD3"],
+"License": ["BSDv3"],
 "Languages": [""],
 "Categories": ["Control Systems"]
 },
@@ -47,7 +47,7 @@
 "Public Code Repo": "https://github.com/GaloisInc/cbmc-reporter.git",
 "Description": "cbmc-reporter is a driver for the CBMC model-checker for use in verifying C library code. cbmc-reporter helps (1) utilize multi-threading when verifying a large number of claims, (2) generate summary tables of resulting proofs, and (3) aid in build-system integration for library code (e.g., parsing function definitions from sources).",
 "Internal Code Repo": "",
-"License": ["BSD3"],
+"License": ["BSDv3"],
 "Languages": [""],
 "Categories": ["Control Systems"]
 },
@@ -60,7 +60,7 @@
 "Public Code Repo": "https://github.com/GaloisInc/smaccmpilot-build.git",
 "Description": "Ivory is an embedded domain-specific language for safer systems programming. Ivory is implemented as a library of the Haskell programming language. Ivory programs are written using Haskell syntax and types.Ivory is not a general purpose programming language. It aims to be a good language for writing a restricted subset of programs. Ivory gives strong guarantees of type and memory safety, and has features which allow the programmer to specify other safety properties. Ivory is well suited for writing programs which interact directly with hardware and do not require dynamic memory allocation. Ivory can be considered to be a lot like a restricted version of the C programming language, embedded in Haskell.",
 "Internal Code Repo": "",
-"License": ["BSD3"],
+"License": ["BSDv3"],
 "Languages": [""],
 "Categories": ["Control Systems"]
 },

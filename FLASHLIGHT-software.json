@@ -5,7 +5,7 @@
   "Software":"Management Console source code and executables",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -14,7 +14,7 @@
   "Software":"Security Account Manager source code and executables",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -23,7 +23,7 @@
   "Software":"Windows cryptographic library files and associated dlls",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -32,7 +32,7 @@
   "Software":"EATER source code and executables",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -41,7 +41,7 @@
   "Software":"Filesystem Filter source code and executables",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -50,7 +50,7 @@
   "Software":"E-mail scanner executable and source code",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -59,7 +59,7 @@
   "Software":"Host Security software agent source code and associated executables",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -68,7 +68,7 @@
   "Software":"Security Account Manager source code and executables",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -77,7 +77,7 @@
   "Software":"PTET source code and executables",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -86,7 +86,7 @@
   "Software":"LEAF source code and executables",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 },
 {
@@ -95,7 +95,7 @@
   "Software":"LSP source code and executables",
   "Public Code Repo":"DARPA on CD Media",
   "Description":"Computer Network Defense",
-  "License":"Government Purpose Rights (GPR)",
+  "License":["GPR"],
   "Categories":["Network Defense"]
 }
 ]

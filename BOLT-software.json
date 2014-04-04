@@ -99,7 +99,7 @@
        "Public Code Repo": "",
        "Description": "BOLT-specific processing code.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Ruby"],
        "Categories":["data formatting"]
     },
@@ -112,7 +112,7 @@
        "Public Code Repo": "",
        "Description": "Configurations for webcol (web document collection).",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Python"],
        "Categories":["data collection"]
     },
@@ -125,7 +125,7 @@
        "Public Code Repo": "",
        "Description": "Code for parsing and storing message data.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Ruby"],
        "Categories":["data collection"]
     },
@@ -138,7 +138,7 @@
        "Public Code Repo": "",
        "Description": "code for using the GNIP Twitter interface",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Ruby"],
        "Categories":["data collection"]
     },
@@ -151,7 +151,7 @@
        "Public Code Repo": "",
        "Description": "Collection database management library.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Ruby"],
        "Categories":["data collection"]
     },
@@ -164,7 +164,7 @@
        "Public Code Repo": "",
        "Description": "Remote procedure call library.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Ruby"],
        "Categories":["distributed programming"]
     },
@@ -177,7 +177,7 @@
        "Public Code Repo": "",
        "Description": "SMS collection library.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Python"],
        "Categories":["data collection"]
     },
@@ -190,7 +190,7 @@
        "Public Code Repo": "",
        "Description": "Instant messaging collection library.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Ruby"],
        "Categories":["data collection"]
     },
@@ -203,7 +203,7 @@
        "Public Code Repo": "",
        "Description": "Jabber protocol bot application.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Ruby"],
        "Categories":["data collection"]
     },
@@ -216,7 +216,7 @@
        "Public Code Repo": "",
        "Description": "Translation processing code.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Ruby"],
        "Categories":["data collection"]
     },
@@ -229,7 +229,7 @@
        "Public Code Repo": "",
        "Description": "Code for managing a SOLR search engine instance.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": ["Unknown"],
        "Languages":["Ruby"],
        "Categories":["search"]
     },
@@ -242,7 +242,7 @@
        "Public Code Repo": "",
        "Description": "The Java Controller GUI integrates all components of the SRI BOLT B/C system and provides a user interface as well as recording and playback.",
        "Internal Code Repo ": "gitpub.mt.sri.com:boltbc-system",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["Java"],
        "Categories":["BOLT User Interface"]
     },
@@ -255,7 +255,7 @@
        "Public Code Repo": "",
        "Description": "This software allows the BOLT controller to pass audio samples to DynaSpeak over TCP/IP and receives rich results from DynaSpeak. It provides the specific functionality needed for BOLT, by reading samples over the network, passing them to DynaSpeak, calling DynaSpeak library, and writing data structure compatible to BOLT to the socket. It supports only a single client at a time.",
        "Internal Code Repo ": "ssh.speech.sri.com:/home/dynaspeak/CVS including: DSSimpleConnection.h,DSSimpleConnectionParameters.h,DSSimpleConnection.cpp, ds-simple-server.cpp ",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["C++"],
        "Categories":["Automatic Speech Recognition"]
     },
@@ -268,7 +268,7 @@
        "Public Code Repo": "",
        "Description": "Dynaspeak, an SRI proprietary software, is a speech recognition engine. The functions developed under BOLT include dialog-state-based ASR by switching statistical language models based on dialog states, and interface to Kaldi DNN library to compute observation probabilities from DNN models.",
        "Internal Code Repo ": "",
-       "License": "Two specific functions mentioned in Column G were developed under DARPA  funding",
+       "License": ["GPR"],
        "Languages":["C++"],
        "Categories":["Automatic Speech Recognition"]
     },
@@ -281,7 +281,7 @@
        "Public Code Repo": "",
        "Description": "The SRInterp server and SRInterp provide interface and machine translation capabilities, preprocess source language input and provide translation output with alignment information. Functions developed under BOLT include sparse features and feature embedding, optimization, and memory mapping and caching. Also minor modifications to the SRInterp server.",
        "Internal Code Repo ": "",
-       "License": "Functions mentioned in Column G were developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["C++"],
        "Categories":["Machine Translation"]
     },
@@ -294,7 +294,7 @@
        "Public Code Repo": "",
        "Description": "The language model interface provides an interface to compute language model probabilities from several language modeling software and language models trained to use them. Functions developed under BOLT include caching, support to SRILM class-based language models, and Model M.",
        "Internal Code Repo ": "",
-       "License": "Functions mentioned in Column G were developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["C++"],
        "Categories":["Machine Translation"]
     },
@@ -307,7 +307,7 @@
        "Public Code Repo": "",
        "Description": "The Iraqi Arabic word segmentation component generates morphological segmentation for Iraqi Arabic words from ASR, to be used by Machine Translation.",
        "Internal Code Repo ": "",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["C++"],
        "Categories":["Machine Translation"]
     },
@@ -320,7 +320,7 @@
        "Public Code Repo": "",
        "Description": "The ASR Error Detection module detects errors in ASR output. It processes word confusion networks generated by two separate ASR systems (DNN and HMM-GMM) and generates posteriors for each word in the top 1-best hypothesis. Based on a threshold, words with posteriors lower than the threshold are marked up as ASR errors.",
        "Internal Code Repo ": "",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["C++"],
        "Categories":["ASR Error Detection"]
     },
@@ -333,7 +333,7 @@
        "Public Code Repo": "",
        "Description": "The OOV and Name Detection module detects out-of-vocabulary (OOV) and name regions in ASR output.",
        "Internal Code Repo ": "",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["Perl"],
        "Categories":["OOV and Name Detection"]
     },
@@ -346,7 +346,7 @@
        "Public Code Repo": "",
        "Description": "The Error Processing and Answer Merging module includes error processing and answer merging. The error processing component processes and extends error segments from the ASR Error Detection component and OOV and Name Detection component so that the error segments are easy to clarify. The answer merging component merges clarification with user's initial utterance.",
        "Internal Code Repo ": "",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["C++"],
        "Categories":["Error Processing and Answer Merging"]
     },
@@ -359,7 +359,7 @@
        "Public Code Repo": "",
        "Description": "The MT Error Detection module disambiguates senses and detects MT OOVs and MT dropped words.",
        "Internal Code Repo ": "",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["Python"],
        "Categories":["MT Error Detection"]
     },
@@ -372,7 +372,7 @@
        "Public Code Repo": "",
        "Description": "The Dialog Manager component identifies which error segments to clarify, orders them for clarification, and identifies the best clarification strategies.",
        "Internal Code Repo ": "",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["Java"],
        "Categories":["Dialog Manager"]
     },
@@ -385,7 +385,7 @@
        "Public Code Repo": "",
        "Description": "Under BOLT, we altered Open source Festival to handle a different orthography (Buckwalter) and multiple pronunciations.",
        "Internal Code Repo ": "/home/users/bartels/TTS/altered/repository/festival/.git",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["C++"],
        "Categories":["Text-to-speech"]
     },
@@ -398,7 +398,7 @@
        "Public Code Repo": "",
        "Description": "Iraqi Arabic Text-to-Speech Server.",
        "Internal Code Repo ": "/home/users/bartels/TTS/server/.git",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["Python"],
        "Categories":["Text-to-speech"]
     },
@@ -411,7 +411,7 @@
        "Public Code Repo": "",
        "Description": "Maximum entropy modeling with support for features shared across targets.",
        "Internal Code Repo ": "/home/speech2/bartels/TTS/starmax/devel/starmax/CVS",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["C++", "Python"],
        "Categories":["Text-to-speech"]
     },
@@ -424,7 +424,7 @@
        "Public Code Repo": "",
        "Description": "Scripting and configuration to generate Festival compatible voice.",
        "Internal Code Repo ": "/home/users/bartels/TTS/test_voice/generate_voice/ali_more_hand_alignments_0066/templates",
-       "License": "Developed under DARPA funding",
+       "License": ["GPR"],
        "Languages":["Bash", "Python", "Perl"],
        "Categories":["Text-to-speech"]
     },
@@ -437,7 +437,7 @@
        "Public Code Repo": "",
        "Description": "Word Sense Induction Suite is a suite of scripts used to induce word senses from bilingual alignments, and cluster senses for different words into semantically related sets.",
        "Internal Code Repo ": "",
-       "License": "Government Purpose Rights",
+       "License": ["GPR"],
        "Languages":["Perl"],
        "Categories":["Word Sense Induction"]
     },
@@ -450,7 +450,7 @@
        "Public Code Repo": "",
        "Description": "The Word Sense Tagger is used to: 1) train statistical models for tagging text with word senses; and 2) apply those models for tagging new text with word senses.",
        "Internal Code Repo ": "",
-       "License": "Government Purpose Rights; includes 3rd party modules with the following licenses: CPL 1.0/GLP 2/LGPL 2.1",
+       "License": ["GPR","CPL","GPL","LGPL"],
        "Languages":["Ruby (JRuby)"],
        "Categories":["Word Sense Tagging"]
     },
@@ -463,7 +463,7 @@
        "Public Code Repo": "",
        "Description": "Software translates Arabic input text to English.",
        "Internal Code Repo ": "/d4m/ears/releases/Cube2, /d4m/ears/releases/CubePM",
-       "License": "Unlimited Rights to the Government.",
+       "License": ["UGPR"],
        "Languages":["C++","Perl"],
        "Categories":["Machine Translation"]
     },
@@ -476,7 +476,7 @@
        "Public Code Repo": "",
        "Description": "Software trains models of Arabic-English MT system.",
        "Internal Code Repo ": "/d4m/ears/releases/Cube2, /d4m/ears/releases/CubePM",
-       "License": "Unlimited Rights to the Government.",
+       "License": ["UGPR"],
        "Languages":["C++","Perl"],
        "Categories":["Machine Translation"]
     },
@@ -489,7 +489,7 @@
        "Public Code Repo": "",
        "Description": "Software translates Chinese input text to English.",
        "Internal Code Repo ": "/d4m/ears/releases/Cube2, /d4m/ears/releases/CubePM",
-       "License": "Unlimited Rights to the Government.",
+       "License": ["UGPR"],
        "Languages":["C++","Perl"],
        "Categories":["Machine Translation"]
     },
@@ -502,7 +502,7 @@
        "Public Code Repo": "",
        "Description": "Software trains models of Chinese-English MT system.",
        "Internal Code Repo ": "/d4m/ears/releases/Cube2, /d4m/ears/releases/CubePM",
-       "License": "Unlimited Rights to the Government.",
+       "License": ["UGPR"],
        "Languages":["C++","Perl"],
        "Categories":["Machine Translation"]
     },
@@ -515,7 +515,7 @@
        "Public Code Repo": "",
        "Description": "Software trains neural network models.",
        "Internal Code Repo ": "/nfs/mercury-02/u14/jdevlin/files/generic_neural_net/trunk/src",
-       "License": "Unlimited Rights to the Government.",
+       "License": ["UGPR"],
        "Languages":["C++"],
        "Categories":["Machine Translation"]
     },
@@ -528,7 +528,7 @@
        "Public Code Repo": "",
        "Description": "Software trains unsupervised models of morphological segmenter.",
        "Internal Code Repo ": "/d4m/home/rzbib/code/unsupervised_tokenizer/src",
-       "License": "Unlimited Rights to the Government.",
+       "License": ["UGPR"],
        "Languages":["Java"],
        "Categories":["Machine Translation"]
     },
@@ -541,7 +541,7 @@
        "Public Code Repo": "",
        "Description": "Software generates paraphrases of English sentences.",
        "Internal Code Repo ": "/d4m/ears/developers/tlamar/Cube2/build.optimize-x86_64/src/hierarchical_mt_decoder/paraphrase_tool.cpp",
-       "License": "Unlimited Rights to the Government.",
+       "License": ["UGPR"],
        "Languages":["C++"],
        "Categories":["Machine Translation"]
     },
@@ -554,7 +554,7 @@
        "Public Code Repo": "",
        "Description": "Software provides lists of ranked snippets from a large corpus in response to a natural language query.",
        "Internal Code Repo ": "svn.d4m.bbn.com/export/svn-repository/text/trunk/Active/Projects/BOLT",
-       "License": "Unlimited Rights to the Government.",
+       "License": ["UGPR"],
        "Languages":["C++","Python"],
        "Categories":["Information Retrieval"]
     },
@@ -567,7 +567,7 @@
        "Public Code Repo": "",
        "Description": "Software groups lists of snippets into thematic clusters with labels.",
        "Internal Code Repo ": "svn.d4m.bbn.com/export/svn-repository/text/trunk/Active/Projects/BOLT",
-       "License": "Unlimited Rights to the Government.",
+       "License": ["UGPR"],
        "Languages":["C++","Python"],
        "Categories":["Information Retrieval"]
     },
@@ -580,7 +580,7 @@
        "Public Code Repo": "",
        "Description": "The software system is a speech-to-speech translation application for Windows-based devices that allows speakers to communicate across language barriers. The system includes novel functionality to prevent communication failure that detects speech recognition and translation errors and engages in interactive dialog with the users to recover from those errors.",
        "Internal Code Repo ": "",
-       "License": "The pre-existing Speech Recognition Software, Small Platform MT Engine, and the Text to Speech are COTS.  All other components are Unlimited Rights to the Government.",
+       "License": ["COTS","UGPR"],
        "Languages":["Java","C++"],
        "Categories":["Speech-to-Speech Translation"]
     },
@@ -593,7 +593,7 @@
        "Public Code Repo": "",
        "Description": "This is the core text content analysis engine for informal Arabic integrated into BBN Web Monitoring System. This engine integrates with the LW informal MT product.",
        "Internal Code Repo ": "",
-       "License": "COTS",
+       "License": ["COTS"],
        "Languages":["C++","C#"],
        "Categories":["NLP"]
     },
@@ -606,7 +606,7 @@
        "Public Code Repo": "",
        "Description": "This is the core text content analysis engine for informal Chinese integrated into BBN Web Monitoring System. This engine integrates with the LW informal MT product.",
        "Internal Code Repo ": "",
-       "License": "COTS",
+       "License": ["COTS"],
        "Languages":["C++","C#"],
        "Categories":["NLP"]
     },
@@ -619,7 +619,7 @@
        "Public Code Repo": "",
        "Description": "End-to-end syntax-based machine translation system.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["C++"],
        "Categories":["Translation"]
     },
@@ -632,7 +632,7 @@
        "Public Code Repo": "",
        "Description": "End-to-end hierarchical phrase-based machine translation system.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["Python"],
        "Categories":["Translation"]
     },
@@ -645,7 +645,7 @@
        "Public Code Repo": "",
        "Description": "",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":[""],
        "Categories":[""]
     },
@@ -658,7 +658,7 @@
        "Public Code Repo": "",
        "Description": "",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":[""],
        "Categories":[""]
     },
@@ -671,7 +671,7 @@
        "Public Code Repo": "",
        "Description": "",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":[""],
        "Categories":[""]
     },
@@ -684,7 +684,7 @@
        "Public Code Repo": "",
        "Description": "This is Informal Arabic-English COTS machine translation software that is commercialized by SDL Government.",
        "Internal Code Repo ": "",
-       "License": "COTS",
+       "License": ["COTS"],
        "Languages":["C++"],
        "Categories":["Machine Translation"]
     },
@@ -697,7 +697,7 @@
        "Public Code Repo": "",
        "Description": "This is Informal Chinese-English COTS machine translation software that is commercialized by SDL Government.",
        "Internal Code Repo ": "",
-       "License": "COTS",
+       "License": ["COTS"],
        "Languages":["C++"],
        "Categories":["Machine Translation"]
     },
@@ -710,7 +710,7 @@
        "Public Code Repo": "",
        "Description": "NRC Machine Translation System.",
        "Internal Code Repo ": "balzac:/home/git/Portage.git",
-       "License": "",
+       "License": [""],
        "Languages":["C++","Python","Perl","Bash"],
        "Categories":["Machine Translation"]
     },
@@ -723,7 +723,7 @@
        "Public Code Repo": "",
        "Description": "NRC Machine Translation Experimentation Framework.",
        "Internal Code Repo ": "balzac:/home/git/portage-framelab.git",
-       "License": "",
+       "License": [""],
        "Languages":["Bash"],
        "Categories":["Experimentation Support"]
     },
@@ -736,7 +736,7 @@
        "Public Code Repo": "",
        "Description": "NRC Structured Prediction Library.",
        "Internal Code Repo ": "https://iitfrdsvn01.iit.nrc.ca/svn/structpred",
-       "License": "",
+       "License": [""],
        "Languages":["Java"],
        "Categories":["Machine Learning"]
     },
@@ -749,7 +749,7 @@
        "Public Code Repo": "",
        "Description": "Base Phrase Chunking (BPC), also known as shallow syntactic parsing, is the process by which adjacent words are grouped together to form nonrecursive chunks in a sentence. The base chunks we currently recognize are: ADJP (Adjectival phrase), ADVP (Adverbial phrase), CONJP (Conjunctive phrase), FRAG (Fragment), INTJ (Interjective phrase), LST (List), NAC (Not a Constituent), NP (Noun phrase), PP (Prepositional phrase), PRN (Parenthetical phrase), S (Sentence marker), SBAR (Subjunctive construction), SBARQ (Subjunctive question), VP (Verb phrase), WHADVP (Adverbial phrase 'Wh' question), WHNP (Noun phrase 'Wh' question), and WHPP (Prepositional phrase 'Wh' question).",
        "Internal Code Repo ": "/export/projects/nlp/nadia/backup/mghoneim/NADIA-model-training/MSA/BPC",
-       "License": "NON-COMMERCIAL SOFTWARE LICENSE AGREEMENT- CU14012",
+       "License": ["NCSLA"],
        "Languages":["Java","Perl"],
        "Categories":["NLP", "shallow parsing"]
     },
@@ -762,7 +762,7 @@
        "Public Code Repo": "",
        "Description": "MADAMIRA NER component is designed to identify and classify all occurrences of named entities in an Arabic text. The three categories that a named entity can fall under are: ORGANIZATION, LOCATION, and PERSON.",
        "Internal Code Repo ": "",
-       "License": "NON-COMMERCIAL SOFTWARE LICENSE AGREEMENT- CU14012",
+       "License": ["NCSLA"],
        "Languages":["Java"],
        "Categories":["NLP", "Named Entity Identification and Classification"]
     },
@@ -775,7 +775,7 @@
        "Public Code Repo": "",
        "Description": "MADAMIRA is a system for Morphological Analysis and Disambiguation for Arabic. Its primary purpose is to derive as much linguistic information as possible about each word in a given text, thereby reducing or eliminating any ambiguity surrounding the word. MADAMIRA's core functionality includes: tokenization, part-of-speech tagging, morphological disambiguation for a full range of morphological features, lemmatization, diacritization, named entity recognition, and base phrase chunking.",
        "Internal Code Repo ": "https://power.ldeo.columbia.edu/svn/Proj/NLP/nadia/MADAMIRA",
-       "License": "NON-COMMERCIAL SOFTWARE LICENSE AGREEMENT- CU14012",
+       "License": ["NCSLA"],
        "Languages":["Java","Perl"],
        "Categories":["Tokenization", "lemmatization", "diacritization", "POS tagging", "segmentation", "MSA", "Dialectal Arabic"]
     },
@@ -788,7 +788,7 @@
        "Public Code Repo": "",
        "Description": "MADA-ARZ is an adaptation of MADA (Version 3.2), built to handle the Egyptian dialect.  For the most part, the operation of MADA-ARZ is the same as MADA 3.2. MADA 3.2 is a system for Morphological Analysis and Disambiguation for Arabic. Its primary purpose is to derive as much linguistic information as possible about each word in a given text, thereby reducing or eliminating any ambiguity surrounding the word. MADA 3.2 also contains a general tokenizer.",
        "Internal Code Repo ": "None",
-       "License": "NON-COMMERCIAL SOFTWARE LICENSE AGREEMENT",
+       "License": ["NCSLA"],
        "Languages":["Perl"],
        "Categories":["Tokenization", "lemmatization", "diacritization", "POS tagging", "segmentation", "Egyptian Arabic"]
     },
@@ -801,7 +801,7 @@
        "Public Code Repo": "",
        "Description": "AIDA is a system for dialect identification and glossing on the token and sentence levels for written Arabic. AIDA employs a mix of dictionary-based and language-model-based algorithms to address this problem. In addition to identifying dialectal variants in context, AIDA provides MSA and English correspondents for the dialectal words. It presents the user with possible alternatives and confidence values on its decisions. AIDA is accessible through a web-based interface as well as a packaged pipeline that is available for offline processing.",
        "Internal Code Repo ": "https://power.ldeo.columbia.edu/svn/Proj/NLP/nadia/AIDA",
-       "License": "",
+       "License": [""],
        "Languages":["Java"],
        "Categories":["token","sentence level dialect identification","classification"]
     },
@@ -814,7 +814,7 @@
        "Public Code Repo": "",
        "Description": "3ARRIB is a system for identifying Arabic text that is written using Latin characters (called Arabizi) and converting it to Arabic characters in CODA standard. 3ARRIB uses FSM, CALIMA, and language model algorithms to address this problem.",
        "Internal Code Repo ": "/export/projects/nlp/BOLT-CALIMA/backup/3ARRIB/3ARRIB-CODE/24-Jan-2014-release",
-       "License": "",
+       "License": [""],
        "Languages":["Perl","Java"],
        "Categories":["Transliteration", "romanization"]
     },
@@ -827,7 +827,7 @@
        "Public Code Repo": "",
        "Description": "Automatic Dialect/Genre Adaptation software is a system designed to learn word representation from unannotated corpora then uses this representation as a feature in supuervised machine learning models. It aims to improve the accuracy of different systems under limited data conditions or domain/genre shift conditions such is the case for Arabic dialects and genres.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["Java","Matlab"],
        "Categories":["machine learning (MCCA, RNN, Clustering)", "dialect/genre adaptation"]
     },
@@ -840,7 +840,7 @@
        "Public Code Repo": "",
        "Description": "ELISSA is a Dialect to Standard Arabic Machine Translation System.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["Moses","Perl","Unix shell scripts"],
        "Categories":["Machine Translation", "Dialectal Arabic"]
     },
@@ -853,7 +853,7 @@
        "Public Code Repo": "",
        "Description": "Tharwa is a multi-dialectal multi-lingual machine-readable dictionary. It provides extensive coverage of the lexicons of the major dialects in the Arab world, which are interconnected and mapped to MSA and English equivalents. Each lexical entry in Tharwa is provided with rich morpho-syntactic information, which makes it suitable for in-depth analysis of language. The dialects (that will be) covered in Tharwa are Egyptian, Levantine, and Iraqi.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["MySql"],
        "Categories":["Computational Lexicography"]
     },
@@ -866,7 +866,7 @@
        "Public Code Repo": "",
        "Description": "Codify is a system that takes in raw dialectal text and renders it in the devised CODA (conventionalized Orthography for dialectal Arabic) standard. The current system works on Egyptian Arabic orthography normalization. It is a component embedded in the CALIMA morphological analyzer.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["PERL"],
        "Categories":["Machine Learning (SVM, CRF)", "CODA", "normalization"]
     },
@@ -879,7 +879,7 @@
        "Public Code Repo": "",
        "Description": "CALIMA is a morphological analyzer for Arabic and its dialects. It builds on the SAMA morphological analyzer from the LDC. ",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["FSA","Perl","Java"],
        "Categories":["FA", "FSM", "Morphological analysis", "Arabic dialects"]
     },
@@ -892,7 +892,7 @@
        "Public Code Repo": "",
        "Description": "Software for processing Arabic input and performing source-side analysis, including, segmentation, tokenization, number classing, orthography normalization, and light spelling correction.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["C++"],
        "Categories":["Statistical Machine Translation"]
     },
@@ -905,7 +905,7 @@
        "Public Code Repo": "",
        "Description": "Software for processing Chinese input and performing source-side analysis, including, segmentation, tokenization, and number classing.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["C++"],
        "Categories":["Statistical Machine Translation"]
     },
@@ -916,9 +916,9 @@
        "Internal Link": "",
        "External Link": "",
        "Public Code Repo": "",
-       "Description": "A maximum-entropy, phrase-based decoder for statistical machine tranlsation.",
+       "Description": "A maximum-entropy, phrase-based decoder for statistical machine translation.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["C++"],
        "Categories":["Statistical Machine Translation"]
     },
@@ -931,7 +931,7 @@
        "Public Code Repo": "",
        "Description": "A Formal Syntax Statistical Machine translation decoder. The decoder is a forest-to-string, hierarchical decoder.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["C++"],
        "Categories":["Statistical Machine Translation"]
     },
@@ -942,9 +942,9 @@
        "Internal Link": "",
        "External Link": "",
        "Public Code Repo": "",
-       "Description": "A collection of scripts to convert from and to the XML format reqiured by NIST to deliver BOLT input/output.",
+       "Description": "A collection of scripts to convert from and to the XML format required by NIST to deliver BOLT input/output.",
        "Internal Code Repo ": "",
-       "License": "",
+       "License": [""],
        "Languages":["Perl"],
        "Categories":["Statistical Machine Translation"]
     }

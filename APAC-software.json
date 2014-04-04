@@ -1,0 +1,122 @@
+[
+    {
+        "DARPA Program": "XData",
+        "Program Teams": [
+            "MIT",
+            "Kestrel Institute",
+            "GITI"
+        ],
+        "Software": "DroidSafe",
+        "Public Code Repo": "https://github.com/mgordon/droidsafe.git",
+        "Description": "The DroidSafe static analysis tool produces a security summary of Android applications to help trusted parties rapidly understand sensitive behaviors of a untrusted application.  The core analysis is flow, object, event, and value sensitive.  The results are presented in a graphic user interface tied to source code for inspection.",
+        "License": ["LGPL"],
+        "Languages": [
+            "Java",
+            "Python"
+        ],
+        "Categories": [
+            "Infrastructure"
+        ]
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "BAE Systems"
+        ],
+        "Software": "Droid Reasoning, Analysis, and Protection Engine (DRAPE)",
+        "Internal Link": "",
+        "External Link": "",
+        "Public Code Repo": "",
+        "Description": " DRAPE brings together concolic execution, taint analysis and execution path clustering to analyze Android applications.  DRAPE will elicit stealthy malware that is triggered under specific conditions, and will provide the analyst with a characterization of those conditions.",
+        "Internal Code Repo": "",
+        "License": [""],
+        "Languages": [
+            "Java"
+        ],
+        "Categories": [
+            "Sofware Analysis",
+            "Dynamic Analysis",
+            "Android",
+            "Malware"
+        ]
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "University of Washington"
+        ],
+        "Software": "Checker Framework",
+        "Internal Link": "",
+        "External Link": "http://types.cs.washington.edu/checker-framework",
+        "Public Code Repo": "https://code.google.com/p/checker-framework/",
+        "Description": "The Checker Framework enhances Java's type system to make it more powerful and useful. This lets software developers detect and prevent errors in their Java programs.",
+        "Internal Code Repo": "",
+        "License": ["GPLv2"],
+        "Languages": [
+            "Java"
+        ],
+        "Categories": [
+            "Static analysis"
+        ]
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "University of Washington"
+        ],
+        "Software": "Type annotations compiler",
+        "Internal Link": "",
+        "External Link": "http://types.cs.washington.edu/jsr308",
+        "Public Code Repo": "https://code.google.com/p/jsr308-langtools/",
+        "Description": "Java 8 will include support for type annotations. The Type Annotations compiler (also called the JSR 308 compiler) is fully backward-compatible. You can use it in place of javac (for Java 8) without any change in behavior, except that you will be permitted to write annotations in comments. This lets you write type annotations, but keep your code compilable by Java 4/5/6/7 compilers.",
+        "Internal Code Repo": "",
+        "License": ["GPLv2"],
+        "Languages": [
+            "Java"
+        ],
+        "Categories": [
+            "Static analysis",
+            "Compiler"
+        ]
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "University of Washington"
+        ],
+        "Software": "Annotation File Utilities",
+        "Internal Link": "",
+        "External Link": "http://types.cs.washington.edu/annotation-file-utilities/",
+        "Public Code Repo": "https://code.google.com/p/annotation-tools/",
+        "Description": "Tools for reading annotations from, and inserting type annotations in, Java source and classfiles.",
+        "Internal Code Repo": "",
+        "License": ["MIT"],
+        "Languages": [
+            "Java"
+        ],
+        "Categories": [
+            "Java Annotation Tool"
+        ]
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "University of Washington"
+        ],
+        "Software": "SPARTA Toolset",
+        "Internal Link": "",
+        "External Link": "http://types.cs.washington.edu/sparta/",
+        "Public Code Repo": "http://types.cs.washington.edu/sparta/release/",
+        "Description": "SPARTA aims to detect certain types of malware in Android applications, or to verify that the app contains no such malware. SPARTA's verification approach is type-checking: the developer states a security property, annotates the source code with type qualifiers that express that security property, then runs a pluggable type-checker to verify that the type qualifiers are right (and thus that the program satisfies the security property).",
+        "Internal Code Repo": "",
+        "License": ["GPLv2"],
+        "Languages": [
+            "Java"
+        ],
+        "Categories": [
+            "Static analysis",
+            "Android",
+            "Security"
+        ]
+    }
+]

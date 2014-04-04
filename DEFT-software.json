@@ -8,7 +8,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Automatically identifies and extracts binary relationships from English sentences. Relations are lexical, i.e. they consist of a predicate (verb phrase) and its two noun phrase arguments.",
         "Internal Code Repo": "",
-        "License": "Apache 2.0, CPL, In House",
+        "License": ["ALv2","CPL","In House"],
         "Languages":[ "Java","Scala"],
         "Categories":[ "NLP"]
     },
@@ -21,7 +21,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Extracts relations among sentences. Relations are lexical, i.e. the consist of a predicate and arguments as in 1.1 and also include lexical information about attribution and the enabling condition.",
         "Internal Code Repo": "",
-        "License": "Apache 2.0, MIT, New BSD, http://www.maltparser.org/license.html, In house",
+        "License": ["ALv2","MIT","BSDv2","http://www.maltparser.org/license.html","In house"],
         "Languages":[ "Java", "Scala"],
         "Categories":[ "NLP"]
     },
@@ -34,7 +34,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Extracts relations between entities in a large document collection. Relations are drawn from an ontology (e.g. attendedSchool).",
         "Internal Code Repo": "",
-        "License": "Apache",
+        "License": ["ASL"],
         "Languages":[ "Scala"],
         "Categories":[ "NLP"]
     },
@@ -47,7 +47,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies coreferences (group of equivalent items) within a document. Coreference is currently performed only for selected Entity types.",
         "Internal Code Repo": "",
-        "License": "Apache",
+        "License": ["ASL"],
         "Languages":[ "Scala"],
         "Categories":[ "NLP"]
     },
@@ -60,7 +60,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies coreferences (group of equivalent items) within a document and resolves the coreferences with a KB. Coreference is currently performed for People and Organizations.",
         "Internal Code Repo": "",
-        "License": "Apache",
+        "License": ["ASL"],
         "Languages":[ "Scala"],
         "Categories":[ "NLP"]
     },
@@ -73,7 +73,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Infers new relations based on given set of relations and documents. Relations are drawn from an ontology (e.g. attendedSchool).",
         "Internal Code Repo": "",
-        "License": "MIT",
+        "License": ["MIT"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -86,7 +86,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Extracts (binary) relations from the document. Relations are drawn from an ontology (e.g. attendedSchool).",
         "Internal Code Repo": "",
-        "License": "GPL, LGPL, BSD, Apache, MIT, CPL, SUN",
+        "License": ["GPL", "LGPL", "BSD", "ASL", "MIT", "CPL", "SUN"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -99,7 +99,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Assigns segmentation at the level of sentences, prosodic phrases or discourse units as an ordered list of start time-end time pairs.",
         "Internal Code Repo": "",
-        "License": "GPLv3",
+        "License": ["GPLv3"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -112,7 +112,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Annotates speech segment with confidence values denoting how uncertain the speaker is or how novel the information contained in the unit is.",
         "Internal Code Repo": "",
-        "License": "Apache",
+        "License": ["ASL"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -125,7 +125,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Tags the modality of predicates (verbs) into one of six classes (ability, effort, intention, success, want, belief) and for those of the speaker/author of the text toward each proposition in the text.",
         "Internal Code Repo": "",
-        "License": "InHouse, ASL, CPL, EPL, LGPL, GPL, BSD, MIT",
+        "License": ["InHouse", "ASL", "CPL", "EPL", "LGPL", "GPL", "BSD", "MIT"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -138,7 +138,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Judges whether a sentence is sarcastic or not.",
         "Internal Code Repo": "",
-        "License": "Modified BSD license (LIBSVM)",
+        "License": ["Modified BSD license (LIBSVM)"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -151,7 +151,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Generates a list of acoustic/prosodic characteristics from the input.",
         "Internal Code Repo": "",
-        "License": "GPL",
+        "License": ["GPL"],
         "Languages":[ "Java","C++"],
         "Categories":[ "NLP"]
     },
@@ -164,7 +164,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Tags phrases in sentences for subjectivity and polarity.",
         "Internal Code Repo": "",
-        "License": "GPL, ASL, Apache,  BSD, In house",
+        "License": ["GPL", "ASL", "BSD", "In house"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -177,7 +177,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Labels interaction events and their participants. There are at least two types: Interaction and Cognition.",
         "Internal Code Repo": "",
-        "License": "Apache 2.0(Jet), In house",
+        "License": ["ALv2", "In house"],
         "Languages":[ "Java","C++"],
         "Categories":[ "NLP"]
     },
@@ -190,7 +190,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Extracts relations, entities, and co-reference information across a set of documents. Relations are drawn from an ontology (e.g. attendedSchool). The initial focus will be on people and organizations.",
         "Internal Code Repo": "",
-        "License": "GPL",
+        "License": ["GPL"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -203,7 +203,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Performs coreference of events (verbs and nominalizations). Coreference is typed (i.e. identity, part-of, member-of). Limited set of epistemic values attached to each event.",
         "Internal Code Repo": "",
-        "License": "Restricted by a university license that: (a)prohibits further distribution without the new recipient signing the license, (b)prohibits commercialization, and (c)protects the source organization, CMU and USC, from lawsuits.",
+        "License": ["CMUCS"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -216,7 +216,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Assigns either a label or a numerical score of novelty in the input stream.",
         "Internal Code Repo": "",
-        "License": "Restricted by a university license that: (a)prohibits further distribution without the new recipient signing the license, (b)prohibits commercialization, and (c)protects the source organization, CMU and USC, from lawsuits.",
+        "License": ["CMUCS"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -229,7 +229,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Generates an ontology of possible events. Event is a list of entities, each associated with statistical distribution over associated verbs and subject/object positions relative to verb. Events also include a description of pairwise relationships between entities (e.g., coreferent or other). Per communication with the PI, this algorithm will be delayed.",
         "Internal Code Repo": "",
-        "License": "Restricted by a university license that: (a)prohibits further distribution without the new recipient signing the license, (b)prohibits commercialization, and (c)protects the source organization, CMU and USC, from lawsuits.",
+        "License": ["CMUCS"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -242,7 +242,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Processes a document and a set of hypotheses to generate the most coherent subset of hypotheses to explain the document.",
         "Internal Code Repo": "",
-        "License": "Restricted by a university license that: (a)prohibits further distribution without the new recipient signing the license, (b)prohibits commercialization, and (c)protects the source organization, CMU and USC, from lawsuits.",
+        "License": ["CMUCS"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -255,7 +255,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Retrieves semantic information about entities, slots, and their values. Also enables inference over the KB to determine confidence, justification, metadata, and relevant text for a given entity-slot pair.",
         "Internal Code Repo": "",
-        "License": "MIT/X",
+        "License": ["MIT"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -268,7 +268,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Generates a ranked list of potential paraphrases for the input.",
         "Internal Code Repo": "",
-        "License": "BSD",
+        "License": ["BSD"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -281,7 +281,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Generates a database of domain-specific paraphrases using the input data.",
         "Internal Code Repo": "",
-        "License": "BSD",
+        "License": ["BSD"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -294,7 +294,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies entailment relations (entails, contradicts, unrelated, etc.) between pairs of passages.",
         "Internal Code Repo": "",
-        "License": "BSD",
+        "License": ["BSD"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -307,7 +307,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies entailment relations (entails, contradicts, unrelated, etc.) between pairs of passages or structured hypothesis and passage.",
         "Internal Code Repo": "",
-        "License": "Covered by the Illinois/NCSA Academic Use license. This allows individuals to use our software for non-commercial purposes, but restricts commercial use.",
+        "License": ["LLVM"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -320,7 +320,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Exctracts n-ary relations within the document. Relation set is closer semantic/linguistic relations (e.g. BENEFICIARY, Arg-0).",
         "Internal Code Repo": "",
-        "License": "Covered by the Illinois/NCSA Academic Use license. This allows individuals to use our software for non-commercial purposes, but restricts commercial use.",
+        "License": ["LLVM"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -333,7 +333,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Recognizes relations between events, where events are ESRL predicate/argument structures. Relations include CAUSE/ENABLE, PART-OF.",
         "Internal Code Repo": "",
-        "License": "Covered by the Illinois/NCSA Academic Use license. This allows individuals to use our software for non-commercial purposes, but restricts commercial use.",
+        "License": ["LLVM"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -346,7 +346,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies a coherent set of concepts of interest in a given document, based on entities/concepts in a reference collection(Wikipedia, for now). Links entities in a document to Wikipedia URLs.",
         "Internal Code Repo": "",
-        "License": "Covered by the Illinois/NCSA Academic Use license. This allows individuals to use our software for non-commercial purposes, but restricts commercial use.",
+        "License": ["LLVM"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -359,7 +359,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Assigns part of speech tags to words in the input document.",
         "Internal Code Repo": "",
-        "License": "Covered by the Illinois/NCSA Academic Use license. This allows individuals to use our software for non-commercial purposes, but restricts commercial use.",
+        "License": ["LLVM"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -372,7 +372,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Divides the input documents into shallow parse chunks.",
         "Internal Code Repo": "",
-        "License": "Covered by the Illinois/NCSA Academic Use license. This allows individuals to use our software for non-commercial purposes, but restricts commercial use.",
+        "License": ["LLVM"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -385,7 +385,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies named entities in the input document.",
         "Internal Code Repo": "",
-        "License": "GNU GPL v2+",
+        "License": ["GPLv2"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -398,7 +398,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies coreferences in a document for both entities and verbs.",
         "Internal Code Repo": "",
-        "License": "Covered by the Illinois/NCSA Academic Use license. This allows individuals to use our software for non-commercial purposes, but restricts commercial use.",
+        "License": ["LLVM"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -411,7 +411,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies entity mentions in a collection of documents, and generates relevant relational statistics. The relations statisics are in terms of predicate argument structure.",
         "Internal Code Repo": "",
-        "License": "Covered by the Illinois/NCSA Academic Use license. This allows individuals to use our software for non-commercial purposes, but restricts commercial use.",
+        "License": ["LLVM"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -424,7 +424,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies the attitude (positive/negative) of an entity toward other entities within a sentence.",
         "Internal Code Repo": "",
-        "License": "GPL, Cornell/UNT/Pitt open-source license",
+        "License": ["GPL", "Cornell/UNT/Pitt open-source license"],
         "Languages":[ "Java","Perl"],
         "Categories":[ "NLP"]
     },
@@ -437,7 +437,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Assigns scores between [0,1] indicating the similarity in meaning between two sentences.",
         "Internal Code Repo": "",
-        "License": "GPL, BSD, Cornell/UNT/Pitt open-source license",
+        "License": ["GPL", "BSD", "Cornell/UNT/Pitt open-source license"],
         "Languages":[ "Java","Perl"],
         "Categories":[ "NLP"]
     },
@@ -450,7 +450,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies entailment relation (entails, contradicts, etc.) between a given pair of phrases.",
         "Internal Code Repo": "",
-        "License": "GNU GPL v2+",
+        "License": ["GPLv2"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -463,7 +463,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies entity and verb coreferences within the input document.",
         "Internal Code Repo": "",
-        "License": "GNU GPL v2+",
+        "License": ["GPLv2"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -476,7 +476,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Calculates the semantic similarity between a pair of input text.",
         "Internal Code Repo": "",
-        "License": "GNU GPL v2+",
+        "License": ["GPLv2"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -489,7 +489,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Extracts binary relations from a document. Relations are pulled from an ontology (e.g. attended school).",
         "Internal Code Repo": "",
-        "License": "GNU GPL v2+",
+        "License": ["GPLv2"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -502,7 +502,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies entity coreferences across documents, and updates the KB with new found entities. System was designed for people and organizations.",
         "Internal Code Repo": "",
-        "License": "GNU GPL v2+",
+        "License": ["GPLv2"],
         "Languages":[ ""],
         "Categories":[ "NLP"]
     },
@@ -515,7 +515,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies and labels entity mentions within a document.",
         "Internal Code Repo": "",
-        "License": "GNU GPL v2+",
+        "License": ["GPLv2"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -528,7 +528,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Identifies named entites in text. Can be used with various models. As packaged by default with Stanford CoreNLP, 12 classes are recognized: DATE, TIME, DURATION, SET, NUMBER, ORDINAL, PERSON, LOCATION, ORGANIZATION, MONEY, PERCENT, MISC.",
         "Internal Code Repo": "",
-        "License": "GNU GPL v2+",
+        "License": ["GPLv2"],
         "Languages":[ "Java"],
         "Categories":[ "NLP"]
     },
@@ -541,7 +541,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "Interfaces and integration framework for DEFT HLT algorithms and components.",
         "Internal Code Repo": "",
-        "License": "Unlimited Rights",
+        "License": ["UGPR"],
         "Languages":[ "Java"],
         "Categories":["Interface", "API"]
     },
@@ -554,7 +554,7 @@
         "Public Code Repo": "deft-software-requests@bbn.com",
         "Description": "User interface and visulization.",
         "Internal Code Repo": "",
-        "License": "Unlimited Rights",
+        "License": ["UGPR"],
         "Languages":[ "Java"],
         "Categories":[ "Visualization"]
     }
