@@ -642,16 +642,6 @@
 {
   "DARPA Program":"DEFT",
   "Program Teams":["RPI","UIUC"],
-  "Title":"Exploring and Inferring User-User Pseudo-Friendship for Sentiment Analysis with Heterogeneous Networks",
-  "Link":"Not Yet Published",
-  "Authors":["Hongbo Deng","Jiawei Han","Hao Li","Heng Ji","Hongning Wang","Yue Lu"],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
-  "Program Teams":["RPI","UIUC"],
   "Title":"EventCube: Multi-Dimensional Search and Mining of Structured and Text Data",
   "Link":"http://dl.acm.org/citation.cfm?id=2487575.2487718",
   "Authors":["Fangbo Tao","Kin Hou Lei","Jiawei Han","Chengxiang Zhai","Xiao Cheng","Marina Danielevsky","Nihit Desai","Bolin Ding","Jing Ge","Heng Ji","Rucha Kanade","Anne Kao","Qi Li","Yanen Li","Cindy Xide Lin","Jialiu Liu","Nikunj Oza","Ashok Srivastava","Rod Tjoelker","Chi Wang","Duo Zhang","Bo Zhao"],
