@@ -1,4 +1,5 @@
-[{
+[
+{
     "DARPA Program":"RATS",
     "Program Teams":["Team SCENIC"],
     "Software":"MbCombF0",
@@ -8,7 +9,7 @@
     "Public Code Repo":"http://www.ee.ucla.edu/~spapl/code/MBSC_matlab.zip",
     "Description":"MbCombF0 performs pitch detection using a multi-band summary correlogram (MBSC). Comb-channel selection and weighting are used to enhance the peak in each subband summary correlogram. A subband reliability weighting scheme is used to combine the subband summary correlograms to obtain the MBSC, from which pitch and degree-of-voicing are determined. For more information, please refer to L. N. Tan, and A. Alwan, Multi-Band Summary Correlogram-based Pitch Detection for Noisy Speech, Speech Communication, Volume 55, Issue 78, September 2013, pp. 841-856. A reduced-complexity version is used by the SRI-SCENIC team, which uses a constant frame length, instead of multiple frame lengths, when computing comb-filtered outputs.",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab","Python"],
     "Categories":["Speech","Features","Pitch","Degree-of-voicing"]
 },
@@ -22,7 +23,7 @@
     "Public Code Repo":"",
     "Description":"LSEN-PNCC performs enhancement on the gammatone filterbank spectra using an SNR-based soft-decision mask. This enhanced spectra is subsequently used in the computation of CMU's Power-Normalized Cepstral Coefficients (PNCC). For more information on the computation of the soft mask, please refer to J. van Hout and A. Alwan, A Novel Approach to Soft-Mask Estimation and Log-Spectral Enhancement For Robust Speech Recognition, ICASSP 2012, pp. 4105-4108.",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab","Python"],
     "Categories":["Speech","Features","Soft-mask-based spectral enhancement"]
 },
@@ -36,7 +37,7 @@
     "Public Code Repo":"https://github.com/dpwe/calc_sbpca.git",
     "Description":"SAcC performs noise-robust pitch tracking by classifying the autocorrelations of a set of subbands using an MLP neural network. It has good resistance to noise, and is highly resistant to octave errors. You can read about it in our paper, B.-S. Lee and D. Ellis (2012) Noise Robust Pitch Tracking by Subband Autocorrelation Classification, Proc. Interspeech-12, Portland, September 2012, paper P3b.05.",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab","Python"],
     "Categories":["Speech","Features","Pitch"]
 },
@@ -50,7 +51,7 @@
     "Public Code Repo":"",
     "Description":"Skewview is a Matlab script that can be used to visualize the timing skew between two sound files. It breaks up both files into a set of short pieces (by default 4 seconds long), performs a normalized cross-correlation between corresponding pieces, then plots the time of the peak of this correlation as a function of time within the file. If the files contain versions of the same signal, the peak of the correlation will usually indicate the relative timing skew (delay) between the two files. This can be used to check for such a skew/delay.",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab"],
     "Categories":["Speech","Visualization","Analysis"]
 },
@@ -64,7 +65,7 @@
     "Public Code Repo":"",
     "Description":"FindNTs is a Matlab script that automatically locates regions consisting of no-transmission (NT) background noise in radio recordings. The basic principle is that NT noise will be high energy noise with stationary characteristics (and low periodicity, to help distinguish from strong voiced segments). These regions are identified without supervision: instead, cepstral and voicing features from short frames are clustered, and the program looks for a popular, narrow cluster with high energy. This is then considered the NT cluster, and used to produce NT region labels.",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab"],
     "Categories":["Speech","Visualization","Analysis","Annotation"]
 },
@@ -78,7 +79,7 @@
     "Public Code Repo":"",
     "Description":"Renoiser is a Matlab script that can be used to separate out the linear component of a clean file in a filtered, noisy mixture. It can then be used to recompose the mixture with the target at a modified relative level, or to introduce a new target, filtered to resemble the original, at a specified SNR.",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab"],
     "Categories":["Speech","Visualization","Analysis","Simulation"]
 },
@@ -92,7 +93,7 @@
     "Public Code Repo":"",
     "Description":"Snreval calculates a set of objective speech quality measures, mostly focused around some version of SNR (i.e. speech energy to nonspeech energy ratio). The measures are: NIST STNR - see http://labrosa.ee.columbia.edu/~dpwe/tmp/nist/doc/stnr.txt; WADA SNR -see http://www.cs.cmu.edu/~robust/Papers/KimSternIS08.pdf; BSS_EVAL - see http://bass-db.gforge.inria.fr/bss_eval/; PESQ - see http://www.utdallas.edu/~loizou/speech/software.htm; and SNR_VAD - the extra energy in regions designated as speech by some kind of voice activity detection (VAD) when compared to the energy of the gaps in-between.",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab"],
     "Categories":["Speech","Visualization","Analysis"]
 },
@@ -106,7 +107,7 @@
     "Public Code Repo":"",
     "Description":"Chimefind is a Matlab script that uses a custom-designed filter to identify the start-of-utterance chimes within the clean rebroadcast files created by LDC for the RATS program. It then writes a label file corresponding to the audio file, either based on the found chimes alone, or by taking an existing label file and adjusting the start times to correspond to each chime (while preserving the durations of each segment, and any label contents).",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab"],
     "Categories":["Speech","Visualization","Analysis"]
 },
@@ -120,7 +121,7 @@
     "Public Code Repo":"",
     "Description":"Sadcheck is a Matlab script that checks a set of SAD annotations against a corresponding waveform by segmenting the waveform according to the label file, plotting the concatenated spectrogram segments for each label type, and reporting the mean and variance of energy within these segregated categories. If the labels fail to separate truly distinct regions of the original file, this should quickly become obvious from this visualization and these statistics.",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab"],
     "Categories":["Speech","Visualization","Analysis"]
 },
@@ -134,7 +135,7 @@
     "Public Code Repo":"",
     "Description":"Dedtmf is a Matlab script that attempts to suppress stationary tones in an audio file, while leaving more dynamic components unchanged. This could be useful, for instance, to suppress DTMF tones mixed in with speech.",
     "Internal Code Repo":"",
-    "License":"FreeBSD",
+    "License":["BSDv2"],
     "Languages":["Matlab"],
     "Categories":["Speech","Visualization","Analysis","Annotation"]
 },
@@ -148,7 +149,7 @@
     "Public Code Repo":"",
     "Description":"Noise-robust speech feature extractor.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab"],
     "Categories":["Speech","Features"]
 },
@@ -162,7 +163,7 @@
     "Public Code Repo":"",
     "Description":"Blind compensation software for mismatched SSB demodulation.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab"],
     "Categories":["Speech Enhancement"]
 },
@@ -176,7 +177,7 @@
     "Public Code Repo":"",
     "Description":"Low level Gabor filterbank code. Inspired by physiological measurements in the primary auditory cortex of mammals, Gabor filterbank features extract spectro-temporal information from an acoustic signal, resulting in a large number of features that are then used in downstream processes.",
     "Internal Code Repo":"",
-    "License":"GPL3",
+    "License":["GPLv3"],
     "Languages":["Matlab","Python"],
     "Categories":["Mathematics"]
 },
@@ -190,7 +191,7 @@
     "Public Code Repo":"",
     "Description":"Multilayer perceptron processing of Gabor features. This script calls the low level Gabor filterbank code, and then processes the resulting features through a multilayer perceptron (using QuickNet), which targets either phones (for KWS) or Speech/Nonspeech (for SAD). It optionally reduces dimensionality using a KLT transformation. The script can call an external program to generate features to append to the result. It handles short segments, PEM region markers, padding, and format conversions. We provided trained models for SAD and KWS.",
     "Internal Code Repo":"",
-    "License":"GPL3",
+    "License":["GPLv3"],
     "Languages":["Perl"],
     "Categories":["Mathematics"]
 },
@@ -204,7 +205,7 @@
     "Public Code Repo":"",
     "Description":"MHEC FE is a speech parameterizer that transforms raw audio waveforms into a cepstral feature representation, called the Mean Hilbert Envelope Coeffcients (MHEC). The MHEC acoustic feature is extracted based on a Hilbert transform demodulation (HTD) of speech signal in narrow frequency bands (as represented at the output of the auditory inspired Gammatone filterbank). It is relatively more robust (compared to the traditional speech parameterization techniques) against various signal distortions due to background noise, room reverberation, and transmission channel.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["MATLAB","Python"],
     "Categories":["Signal Processing","Speech Processing","Acoustic Features"]
 },
@@ -218,7 +219,7 @@
     "Public Code Repo":"",
     "Description":"COMBO FE is a speech parameterizer that transforms raw audio waveforms into a single dimensional voicing measure, called the combo feature. The combo feature is computed based on a linear combination of multiple voicing measures and a perceptual spectral flux feature. It has a good correlation with speech active regions, in particular under adverse noisy conditions. It has been primarily applied for speech activity detection (SAD). For more details regarding the theory and application of the combo feature see: S.O. Sadjadi and J.H.L. Hansen.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["MATLAB","Python"],
     "Categories":["Signal Processing","Speech Processing","Acoustic Features"]
 },
@@ -232,7 +233,7 @@
     "Public Code Repo":"",
     "Description":"QCN-RASTALP is designed to compensate for the cepstral variance introduced by channel variations, additive noise, and Lombard effect. Quantile-based cepstral dynamics normalization (QCN) normalizes sample histograms with respect to their low and high quantiles. RASTALP is a temporal filter that approximates the low-pass portion of the popular RASTA filter while reducing its adverse transient effects.",
     "Internal Code Repo":"",
-    "License":"ALv2",
+    "License":["ALv2"],
     "Languages":["C"],
     "Categories":["Front-End Feature Normalization"]
 },
@@ -246,7 +247,7 @@
     "Public Code Repo":"",
     "Description":"Python bindings to Matthew Kaufman's mdc-encode-decode library, to encode/decode MDC1200.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python","C"],
     "Categories":["signal processing"]
 },
@@ -260,7 +261,7 @@
     "Public Code Repo":"",
     "Description":"Scripts for conditioning, QC checks, and database tracking of phase 1.2 data collection.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Perl","Shell"],
     "Categories":["data collection"]
 },
@@ -274,7 +275,7 @@
     "Public Code Repo":"",
     "Description":"Scripts for conditioning, QC checks, and database tracking of novel channel collection.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Ruby"],
     "Categories":["data collection"]
 },
@@ -288,7 +289,7 @@
     "Public Code Repo":"",
     "Description":"Python module and client applications implementing the Alinco Receiver Control API.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python","C"],
     "Categories":["systems integration: transceiver control"]
 },
@@ -302,7 +303,7 @@
     "Public Code Repo":"",
     "Description":"Python module and client applications implementing the AOR AR8200 and AR5001D Receiver Control APIs.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python","C"],
     "Categories":["systems integration: transceiver control"]
 },
@@ -316,7 +317,7 @@
     "Public Code Repo":"",
     "Description":"Python module and client applications implementing the Ten-Tec RX400, RX340, and RX331 Receiver Control APIs.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python","C"],
     "Categories":["systems integration: transceiver control"]
 },
@@ -330,7 +331,7 @@
     "Public Code Repo":"",
     "Description":"Python module and client applications implementing the Icom IC-R8500 and IC-R75 Receiver Control APIs.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python","C"],
     "Categories":["systems integration: transceiver control"]
 },
@@ -344,7 +345,7 @@
     "Public Code Repo":"",
     "Description":"Python module and client applications implementing the Lectrosonics DM812 Control API.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python","C"],
     "Categories":["systems integration: signal detection and routing","transmission automation"]
 },
@@ -358,7 +359,7 @@
     "Public Code Repo":"",
     "Description":"Server applications allowing for Remote Audio Capture controlled via TCP/IP.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Perl","Bash"],
     "Categories":["systems integration: remote multichannel audio capture"]
 },
@@ -372,7 +373,7 @@
     "Public Code Repo":"",
     "Description":"Server applications allowing for Remote Audio Processing and Playback controlled via TCP/IP.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Perl","Bash"],
     "Categories":["systems integration: remote multichannel audio playback"]
 },
@@ -386,7 +387,7 @@
     "Public Code Repo":"",
     "Description":"Python module and client application allowing for realtime audio spectrum, with remote control of inversion parameters via TCP/IP.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Perl","Bash"],
     "Categories":["realtime audio processing"]
 },
@@ -400,7 +401,7 @@
     "Public Code Repo":"",
     "Description":"Python application that can synthesize SelCall and 5Tone Control Signals, allowing for predetermined variation from the standard. Currently supports MODAT and CCIR signaling protocols.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python"],
     "Categories":["Comms Audio Control Signal synthesis"]
 },
@@ -414,7 +415,7 @@
     "Public Code Repo":"",
     "Description":"Python application that can synthesize RTTY/AFSK Audio Clips, allowing for random variation of FSK encoding parameters (baud, mark, shift, gain).",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python"],
     "Categories":["Comms Audio Control Signal synthesis"]
 },
@@ -428,7 +429,7 @@
     "Public Code Repo":"",
     "Description":"Client application to control Multipsk Communications Signal Audio Generator.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Perl"],
     "Categories":["Audio synthesis automation"]
 },
@@ -442,7 +443,7 @@
     "Public Code Repo":"",
     "Description":"Python module and client applications to manage multichannel, multi-site, radio transmission data collection sessions. Controls and monitors multiple hosts, signal routers, transceivers, and receivers via TCP/IP. Uses MySQL database backend.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python","SQL"],
     "Categories":["systems integration: Data Collection Automation"]
 },
@@ -456,7 +457,7 @@
     "Public Code Repo":"",
     "Description":"",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":[""],
     "Categories":["scripts for conditioning","QC checks and packaging of audio/annotation data for release"]
 },
@@ -470,7 +471,7 @@
     "Public Code Repo":"",
     "Description":"Suite of tools for sanity checking.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Ruby"],
     "Categories":["data validity"]
 },
@@ -484,7 +485,7 @@
     "Public Code Repo":"",
     "Description":"Suite of tools for sanity checking.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Ruby"],
     "Categories":["data validity"]
 },
@@ -498,7 +499,7 @@
     "Public Code Repo":"",
     "Description":"Suite of tools for sanity checking.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Ruby"],
     "Categories":["data validity"]
 },
@@ -512,7 +513,7 @@
     "Public Code Repo":"",
     "Description":"Suite of tools for sanity checking.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Ruby"],
     "Categories":["data validity"]
 },
@@ -526,7 +527,7 @@
     "Public Code Repo":"",
     "Description":"Collection database management library.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Ruby"],
     "Categories":["data collection"]
 },
@@ -540,7 +541,7 @@
     "Public Code Repo":"",
     "Description":"GMM Trainer is designed to train and adapt Gaussian Mixture Models (GMM), which are used in, but not limited to, speech activity detection (SAD), language identification (LID), and speaker identification (SID).",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["General statistical modeling"]
 },
@@ -554,7 +555,7 @@
     "Public Code Repo":"",
     "Description":"SAD-LID Modules consist of a set of training algorithms for building SAD and LID systems.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["Perl"],
     "Categories":["Speech Activity Detection","Language Identification"]
 },
@@ -568,7 +569,7 @@
     "Public Code Repo":"",
     "Description":"Factor Analysis Tool is designed to estimate i-vectors used in LID and SID systems.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["General statistical modeling"]
 },
@@ -582,7 +583,7 @@
     "Public Code Repo":"",
     "Description":"PLDA Tool is designed to compute verification confidence scores, such as those used in SID, using a probabilistic model of between-class and within-class variabilities.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["General statistical modeling"]
 },
@@ -596,7 +597,7 @@
     "Public Code Repo":"",
     "Description":"DNN/MLP Trainer is designed for training deep neural networks (DNN) using the stochastic gradient descent algorithm. It is implemented for both CPUs and GPUs.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Neural network trainer"]
 },
@@ -610,7 +611,7 @@
     "Public Code Repo":"",
     "Description":"The Byblos STT decoder is a state-of-the-art speech recognition system.",
     "Internal Code Repo":"",
-    "License":"COTS",
+    "License":["COTS"],
     "Languages":["C++"],
     "Categories":["Speech-to-Text (STT) decoder"]
 },
@@ -624,7 +625,7 @@
     "Public Code Repo":"",
     "Description":"RATS Toolkit is a software package consisting of SAD, LID, SID, and keyword search (KWS) systems.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["Perl","Bash","csh","C/C++","Java"],
     "Categories":["SAD","LID","SID and KWS toolkit"]
 },
@@ -638,7 +639,7 @@
     "Public Code Repo":"",
     "Description":"Noise robust cortical feature extraction  for various tasks including speech activity detection, speaker recognition, and language recognition. The cortical feature is based on a computational auditory model mimicking signal processing in the auditory cortex.",
     "Internal Code Repo":"",
-    "License":"No license needed",
+    "License":["No license needed"],
     "Languages":["C+", "Matlab", "runtime library"],
     "Categories":["Acoustic feature extraction"]
 },
@@ -652,7 +653,7 @@
     "Public Code Repo":"",
     "Description":"Long-term modulation feature with noise reduction for robust speech recognition in unknown noise.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab"],
     "Categories":["acoustic feature"]
 },
@@ -666,7 +667,7 @@
     "Public Code Repo":"",
     "Description":"Tandem feature produced by a neural net trained on PLP feature for Arabic Levantine.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["C"],
     "Categories":["tandem feature"]
 },
@@ -680,7 +681,7 @@
     "Public Code Repo":"",
     "Description":"Tandem feature produced by a neural net trained on PLP feature for Farsi.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["C"],
     "Categories":["tandem feature"]
 },
@@ -694,7 +695,7 @@
     "Public Code Repo":"",
     "Description":"Bio-inspired phoneme recognition system that emulates parallel processing in human speech recognition.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab","C"],
     "Categories":["multistream feature"]
 },
@@ -708,7 +709,7 @@
     "Public Code Repo":"",
     "Description":"Bio-inspired phoneme recognition system that emulates parallel processing in human speech recognition.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab"],
     "Categories":["speech enhancement"]
 },
@@ -722,7 +723,7 @@
     "Public Code Repo":"",
     "Description":"Automatic detection of frequency shift in RATS speech.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab","C"],
     "Categories":["multistream feature"]
 },
@@ -736,7 +737,7 @@
     "Public Code Repo":"",
     "Description":"Tandem feature produced by a neural net trained on cortical feature.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab","C"],
     "Categories":["tandem feature"]
 },
@@ -750,7 +751,7 @@
     "Public Code Repo":"",
     "Description":"Long-term modulation feature based on frequency-domain linear prediction followed by time-domain linear prediction for speech recognition.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab"],
     "Categories":["acoustic feature"]
 },
@@ -764,7 +765,7 @@
     "Public Code Repo":"",
     "Description":"Long-term modulation feature based on frequency-domain linear prediction (FDLP) for speech recognition.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab"],
     "Categories":["acoustic feature"]
 },
@@ -778,7 +779,7 @@
     "Public Code Repo":"",
     "Description":"Software for creating of noisy to clean aligned parallel corpus.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python"],
     "Categories":["Data preparation"]
 },
@@ -792,7 +793,7 @@
     "Public Code Repo":"",
     "Description":"Program for denoising NN training.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python"],
     "Categories":["Feature extraction"]
 },
@@ -806,7 +807,7 @@
     "Public Code Repo":"",
     "Description":"Software for extraction of denoised MFCC features.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python"],
     "Categories":["Feature extraction"]
 },
@@ -820,7 +821,7 @@
     "Public Code Repo":"",
     "Description":"Software for trigram counts extraction using DNN-HMM phoneme recognizer.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["BASH"],
     "Categories":["Feature extraction"]
 },
@@ -834,7 +835,7 @@
     "Public Code Repo":"",
     "Description":"Script for Kaldi-based DNN-HMM for ASR and phoneme recognition.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["BASH"],
     "Categories":["ASR"]
 },
@@ -848,7 +849,7 @@
     "Public Code Repo":"",
     "Description":"Script for training DNN-HMM-based speech recognizer.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["BASH"],
     "Categories":["ASR"]
 },
@@ -862,7 +863,7 @@
     "Public Code Repo":"",
     "Description":"Script for STK-based GMM-HMM recognizer training and decoding.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["BASH"],
     "Categories":["ASR"]
 },
@@ -876,7 +877,7 @@
     "Public Code Repo":"",
     "Description":"Python library for feature/i-vector extraction, GMM training, fusion, calibration.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python"],
     "Categories":["Utilities"]
 },
@@ -890,7 +891,7 @@
     "Public Code Repo":"",
     "Description":"Python implementation of parallel discriminative PLDA.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python"],
     "Categories":["SRE system training"]
 },
@@ -904,7 +905,7 @@
     "Public Code Repo":"",
     "Description":"One-touch script for LID NN training.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["BASH"],
     "Categories":["Utilities"]
 },
@@ -918,7 +919,7 @@
     "Public Code Repo":"",
     "Description":"Script for SRE system fusion.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab"],
     "Categories":["SRE system training"]
 },
@@ -932,7 +933,7 @@
     "Public Code Repo":"",
     "Description":"Fast evaluation and fusion scripts for VAD.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python"],
     "Categories":["VAD"]
 },
@@ -946,7 +947,7 @@
     "Public Code Repo":"",
     "Description":"One-touch script for VAD training and extraction.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["BASH"],
     "Categories":["VAD"]
 },
@@ -960,7 +961,7 @@
     "Public Code Repo":"",
     "Description":"Script for generating BUT features (PLPHLDA+NN+f0 -> RDT, including adaptation).",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["BASH"],
     "Categories":["ASR"]
 },
@@ -974,7 +975,7 @@
     "Public Code Repo":"",
     "Description":"Script for LID system fusion.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab"],
     "Categories":["LID system training"]
 },
@@ -988,7 +989,7 @@
     "Public Code Repo":"",
     "Description":"An unsupervised VAD that does not need any training.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab","Praat"],
     "Categories":["speech activity detection"]
 },
@@ -1002,7 +1003,7 @@
     "Public Code Repo":"",
     "Description":"A new version of the unsupervised VAD.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab","Praat"],
     "Categories":["speech activity detection"]
 },
@@ -1016,7 +1017,7 @@
     "Public Code Repo":"",
     "Description":"Non-negative Factor Ananlysis for GMM weights adaptation.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab"],
     "Categories":["new GMM weights adpatation approach"]
 },
@@ -1030,7 +1031,7 @@
     "Public Code Repo":"",
     "Description":"CFCC feature extraction provided by BUT and adapted by MIT.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Matlab","exe", "petl"],
     "Categories":["feature extraction for SID"]
 },
@@ -1044,7 +1045,7 @@
     "Public Code Repo":"",
     "Description":"MFCC feature extraction provided by MIT-LL and adapted by MIT.",
     "Internal Code Repo":"",
-    "License":"MIT Lincoln lab",
+    "License":["MIT"],
     "Languages":["EXE", "Perl script"],
     "Categories":["feature extraction for SID"]
 },
@@ -1058,7 +1059,7 @@
     "Public Code Repo":"",
     "Description":"SDC feature extrcation provided by MIT-LL and adapted by MIT.",
     "Internal Code Repo":"",
-    "License":"MIT Lincoln lab",
+    "License":["MIT"],
     "Languages":["EXE", "Perl script"],
     "Categories":["feature extraction for LID"]
 },
@@ -1072,7 +1073,7 @@
     "Public Code Repo":"http://htk.eng.cam.ac.uk",
     "Description":"The Hidden Markov Model Toolkit (HTK) is a portable toolkit for building and manipulating hidden Markov models. Under the RATS program, this software has been extended to support research on degraded communication-channel speech recognition.",
     "Internal Code Repo":"",
-    "License":"HTK Licence agreement: http://htk.eng.cam.ac.uk/docs/license.shtml",
+    "License":["HTK"],
     "Languages":["C"],
     "Categories":["Acoustic model training","adaptation and evaluation."]
 },
@@ -1086,7 +1087,7 @@
     "Public Code Repo":"",
     "Description":"The SAD engine detects and labels regions in audio segments that contain speech.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["C++","Matlab","Shell Scripts"],
     "Categories":["Audio Analytics"]
 },
@@ -1100,7 +1101,7 @@
     "Public Code Repo":"",
     "Description":"The SID engine identifies speakers in audio segments.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["C++","Matlab","Shell Scripts"],
     "Categories":["Audio Analytics"]
 },
@@ -1114,7 +1115,7 @@
     "Public Code Repo":"",
     "Description":"The LID engine identifies the language of a given audio segment.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["C++","Matlab","Shell Scripts"],
     "Categories":["Audio Analytics"]
 },
@@ -1128,7 +1129,7 @@
     "Public Code Repo":"",
     "Description":"The KWS engine detects spoken utterances of specified keywords in a large audio collection.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["C++","Matlab","Shell Scripts"],
     "Categories":["Audio Analytics"]
 }

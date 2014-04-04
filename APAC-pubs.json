@@ -1,0 +1,93 @@
+[
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "University of Washington"
+        ],
+        "Link": "http://homes.cs.washington.edu/~mernst/pubs/gui-thread-ecoop2013.pdf",
+        "Authors": [
+            "Colin S. Gordon",
+            "Werner Dietl",
+            "Michael D. Ernst",
+            "Dan Grossman"
+        ],
+        "Title": "JavaUI: Effects for Controlling UI Object Access"
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "University of Washington"
+        ],
+        "Link": "http://homes.cs.washington.edu/~mernst/pubs/rely-guarantee-ref-pldi2013.pdf",
+        "Authors": [
+            "Colin S. Gordon",
+            "Michael D. Ernst",
+            "Dan Grossman"
+        ],
+        "Title": "Rely-guarantee references for refinement types over aliased mutable data"
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "University of Washington"
+        ],
+        "Link": "http://homes.cs.washington.edu/~mernst/pubs/infer-refimmutability-oopsla2012.pdf",
+        "Authors": [
+            "Wei Huang",
+            "Ana Milanova",
+            "Werner Dietl",
+            "Michael D. Ernst"
+        ],
+        "Title": "ReIm & ReImInfer: Checking and inference of reference immutability and method purity"
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "BAE Systems"
+        ],
+        "Link": "",
+        "Authors": [
+            "Mike Ter Louw",
+            "Marc Krull",
+            "Tavaris Thomas",
+            "Rebecca Cathey",
+            "Greg Frazier",
+            "Mike Weber"
+        ],
+        "Title": "Automated Execution Control and Dynamic Behavior Monitoring for Android Applications"
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "BAE Systems"
+        ],
+        "Link": "",
+        "Authors": [
+            "Rebecca Cathey",
+            "Gregory Frazier",
+            "Michael Weber "
+        ],
+        "Title": "Behavior Analysis via Execution Path Clustering"
+    },
+    {
+        "DARPA Program": "APAC",
+        "Program Teams": [
+            "MIT",
+            "Kestrel Institute",
+            "GITI"
+        ],
+        "Link": "http://www.internetsociety.org/sites/default/files/06_4_0.pdf",
+        "Authors": [
+            "Kevin Zhijie Chen",
+            "Noah M. Johnson",
+            "Vijay D'Silva",
+            "Shuaifu Dai",
+            "Kyle MacNamara",
+            "Tom Magrino",
+            "Edward XueJun Wu",
+            "Martin Rinard",
+            "Dawn Xiaodong Song"
+        ],
+        "Title": "Contextual Policy Enforcement in Android Applications with Permission Event Graphs"
+    }
+]

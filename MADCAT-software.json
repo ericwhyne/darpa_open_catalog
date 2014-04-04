@@ -9,7 +9,7 @@
     "Public Code Repo":"",
     "Description":"Web site for annotation, management, enrollment, and collection.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Ruby","Javascript"],
     "Categories":["annotation"]
 },
@@ -23,7 +23,7 @@
     "Public Code Repo":"",
     "Description":"General datatype and database interface library.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Ruby"],
     "Categories":["database"]
 },
@@ -37,7 +37,7 @@
     "Public Code Repo":"",
     "Description":"Suite of tools for sanity checking.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Ruby"],
     "Categories":["data validity"]
 },
@@ -51,7 +51,7 @@
     "Public Code Repo":"",
     "Description":"Web app for managing scribed document collection, and annotation/qc on GEDI ground-truthing.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["PHP","Javascript"],
     "Categories":["annotation","data collection"]
 },
@@ -65,7 +65,7 @@
     "Public Code Repo":"",
     "Description":"Earlier version of scribble.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["PHP","Javascript"],
     "Categories":["annotation","data collection"]
 },
@@ -79,7 +79,7 @@
     "Public Code Repo":"",
     "Description":"Scripts to validate XML formats, convert to/from translation outsourcing format, and generate kits.",
     "Internal Code Repo":"",
-    "License":"",
+    "License":[""],
     "Languages":["Python","Perl","Ruby","Bash"],
     "Categories":["data formatting","data validity"]
 },
@@ -93,7 +93,7 @@
     "Public Code Repo":"",
     "Description":"Processes input scanned image and attempts to remove certain types of noise artifacts.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -107,7 +107,7 @@
     "Public Code Repo":"",
     "Description":"Segments an input image into homogenous text and non-text zones.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -121,7 +121,7 @@
     "Public Code Repo":"",
     "Description":"Locates handwritten and machine-printed text lines within a zone.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -135,7 +135,7 @@
     "Public Code Repo":"",
     "Description":"Computes a sequence of feature vectors for each line of text.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Image processing","machine learning"]
 },
@@ -149,7 +149,7 @@
     "Public Code Repo":"",
     "Description":"Generates an automatic transcription of the content of each line of text in an image.  Optionally produces N-best lists and lattices.",
     "Internal Code Repo":"",
-    "License":"Government Purpose Rights",
+    "License":["GPR"],
     "Languages":["C++","Perl"],
     "Categories":["Machine learning"]
 },
@@ -163,7 +163,7 @@
     "Public Code Repo":"",
     "Description":"Identifies the writer of an input text image. Requires training data for a known set of writers.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++","Perl"],
     "Categories":["Machine learning"]
 },
@@ -177,7 +177,7 @@
     "Public Code Repo":"",
     "Description":"MDATS stands for Multilingual Document Analysis and Translation Service. MDATS is a commercial product from BBN that integrates several components and, optionally, Language Weaver's commercial MT engine.",
     "Internal Code Repo":"",
-    "License":"Commercial",
+    "License":["COTS"],
     "Languages":["C++","C#"],
     "Categories":["OCR system"]
 },
@@ -191,7 +191,7 @@
     "Public Code Repo":"",
     "Description":"Removes pre-printed rule-lines from document images.",
     "Internal Code Repo":"",
-    "License":"Government Purpose Rights",
+    "License":["GPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -205,7 +205,7 @@
     "Public Code Repo":"",
     "Description":"Vorinoii ++ page segmentation for clustered and handwritten components.",
     "Internal Code Repo":"",
-    "License":"Government Purpose Rights",
+    "License":["GPR"],
     "Languages":["C++"],
     "Categories":["Image processing","machine learning"]
 },
@@ -219,7 +219,7 @@
     "Public Code Repo":"",
     "Description":"Processes page images and removes clutter. Extended to deal with stroke-like pattern noise.",
     "Internal Code Repo":"",
-    "License":"Government Purpose Rights",
+    "License":["GPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -233,7 +233,7 @@
     "Public Code Repo":"",
     "Description":"Various iterations of software to extract Arabic text lines and compute reading order. Includes noise removal options.",
     "Internal Code Repo":"",
-    "License":"Government Purpose Rights",
+    "License":["GPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -247,7 +247,7 @@
     "Public Code Repo":"",
     "Description":"Inputs a collection of page images and provides both supervised and semi-supervised page classification.",
     "Internal Code Repo":"",
-    "License":"Government Purpose Rights",
+    "License":["GPR"],
     "Languages":["C++"],
     "Categories":["Machine learning"]
 },
@@ -261,7 +261,7 @@
     "Public Code Repo":"",
     "Description":"Segments and classifies lines in document image into handwritten and machine print.",
     "Internal Code Repo":"",
-    "License":"Government Purpose Rights",
+    "License":["GPR"],
     "Languages":["C++"],
     "Categories":["Image processing","Machine learning"]
 },
@@ -275,7 +275,7 @@
     "Public Code Repo":"",
     "Description":"Process input scanned or camera capture images to clean noise and artifacts, enhance missing parts of the character.",
     "Internal Code Repo":"",
-    "License":"Government Purpose Rights",
+    "License":["GPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -289,7 +289,7 @@
     "Public Code Repo":"",
     "Description":"Process preprocessed images to segment it to zones and classifies zones as non-text, handwritten, and printed text.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -303,7 +303,7 @@
     "Public Code Repo":"",
     "Description":"Process preprocessed images to find lines in the text and group the text into lines.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++","Perl","Linux shell"],
     "Categories":["Image processing"]
 },
@@ -317,7 +317,7 @@
     "Public Code Repo":"",
     "Description":"Segments an input document image into text lines.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -331,7 +331,7 @@
     "Public Code Repo":"",
     "Description":"Processes input scanned image and attempts to remove certain types of noise artifacts.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -345,7 +345,7 @@
     "Public Code Repo":"",
     "Description":"Extract table cells for an input handwritten document image that contains tables.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 },
@@ -359,7 +359,7 @@
     "Public Code Repo":"",
     "Description":"Select the best-fitting table model given an input table image.",
     "Internal Code Repo":"",
-    "License":"Unlimited Rights to the Government.",
+    "License":["UGPR"],
     "Languages":["C++"],
     "Categories":["Image processing"]
 }
