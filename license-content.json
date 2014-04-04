@@ -1,6 +1,6 @@
 [
 {
-   "License Short Name":["AL2"],
+   "License Short Name":["ALv2"],
    "License Long Name":"Apache License 2.0",
    "License Description":"This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
    "License Link":"https://www.apache.org/licenses/LICENSE-2.0"
@@ -72,13 +72,13 @@
    "License Link":"http://www.acq.osd.mil/dpap/dars/dfars/html/current/227_71.htm"
 },
 {
-   "License Short Name":["GPL3"],
+   "License Short Name":["GPLv3"],
    "License Long Name":"GNU General Public License (GPL) version 3",
    "License Description":"The latest version of the GNU GPL, this is a free software and copyleft license.",
    "License Link":"http://www.gnu.org/licenses/gpl.html"
 },
 {
-   "License Short Name":["GPL2"],
+   "License Short Name":["GPLv2"],
    "License Long Name":"GNU General Public License (GPL) version 2",
    "License Description":"This free and copyleft software license is an older version of GPL3.",
    "License Link":"http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
@@ -96,7 +96,7 @@
    "License Link":"http://en.wikipedia.org/wiki/MIT_License"
 },
 {
-   "License Short Name":["MPL2"],
+   "License Short Name":["MPLv2"],
    "License Long Name":"Mozilla Public License 2.0",
    "License Description":"A free software license with indirect compatibility with GNU GPL v2 and later, but can have constraints that make it incompatible with secondary licenses.",
    "License Link":"http://www.mozilla.org/MPL/2.0/"
