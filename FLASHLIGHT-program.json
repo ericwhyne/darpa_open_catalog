@@ -6,7 +6,7 @@
         "Program Manager Link": "",
         "Program Manager":"",
         "Program Manager Email":"",
-        "Display Software Columns": ["Team","Software","Category","Code","Description","License"],
+        "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
 	"Link": ""
 }
   
