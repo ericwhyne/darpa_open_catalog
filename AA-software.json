@@ -5,7 +5,7 @@
   "Software":"RUU Active Authentication Sensor for Windows",
   "Public Code Repo":"anna.weeks@us.af.mil",
   "Description":"Software for collecting user OS interactions, generating a discriminitative user model, and taking appropriate masquarader mitigation measures for the Windows platform.",
-  "License":"Government Purpose Rights (GPR)",
+  "License":"GPR",
   "Categories":["Identify Management"]
 },
 {
@@ -14,7 +14,7 @@
   "Software":"Decoy Document Distributor Tool for Windows",
   "Public Code Repo":"anna.weeks@us.af.mil",
   "Description":"Software for distributing deceptive content to Windows computers to serve as tripwires to aid in sensor authentication decisions.",
-  "License":"Government Purpose Rights (GPR)",
+  "License":"GPR",
   "Categories":["Identify Management"]
 },
 {
@@ -23,7 +23,7 @@
   "Software":"RUU Active Authentication Sensor for Mac",
   "Public Code Repo":"anna.weeks@us.af.mil",
   "Description":"Software for collecting user OS interactions, generating a discriminitative user model, and taking appropriate masquarader mitigation measures for Mac devices.",
-  "License":"Government Purpose Rights (GPR)",
+  "License":"GPR",
   "Categories":["Identify Management"]
 },
 {
@@ -32,7 +32,7 @@
   "Software":"Decoy Document Distributor Tool for Mac",
   "Public Code Repo":"anna.weeks@us.af.mil",
   "Description":"Software for distributing deceptive content to Mac machines to serve as tripwires to aid in sensor authentication decisions.",
-  "License":"Government Purpose Rights (GPR)",
+  "License":"GPR",
   "Categories":["Identify Management"]
 },
 {
@@ -41,7 +41,7 @@
   "Software":"Data-Collector-Software",
   "Public Code Repo":"anna.weeks@us.af.mil",
   "Description":"Behavioral data gatherer for Microsoft Windows desktop computers.",
-  "License":"Government Purpose Rights (GPR)",
+  "License":"GPR",
   "Categories":["Identify Management"]
 },
 {
@@ -50,7 +50,7 @@
   "Software":"Keystroke, Pausality, and Linguistic Feature Extractors for Typing Data",
   "Public Code Repo":"anna.weeks@us.af.mil",
   "Description":"The software implements feature extractor modules for typing data used in AA Phase 1 effort. The code is useful only when Louisiana Tech's typing data is available. Because Louisiana Tech has the ownership of the data, we cannot provide the data. ",
-  "License":"Government Purpose Rights (GPR)",
+  "License":"GPR",
   "Categories":["Identify Management"]
 },
 {
@@ -59,7 +59,7 @@
   "Software":"Screen Web Interface Visual Analysis Software",
   "Public Code Repo":"http://www.vizweb.org/",
   "Description":"This is software for computing visual features from screenshots.",
-  "License":"MIT License",
+  "License":"MIT",
   "Categories":["Identify Management"]
 }
 ]
