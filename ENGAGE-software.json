@@ -28,7 +28,11 @@
     {
         "DARPA Program":"ENGAGE",
         "Program Teams": ["CMU Robotics Academy"],
+<<<<<<< HEAD
+        "Software": "Computer Science Student Network",
+=======
         "Software": "MINAT",
+>>>>>>> 8932b1d73f9967b4b89b08f1227ba5065c7921d6
         "Internal Link": "",
         "External Link": "http://cs2n.org/",
         "Public Code Repo": "",
@@ -42,8 +46,13 @@
         "DARPA Program":"ENGAGE",
         "Program Teams": ["Intific"],
         "Software": "RoboBall",
+<<<<<<< HEAD
+        "Internal Link": "http://www.intific.com/index.php/products/education/our-space",
+        "External Link": "http://www.brainpop.com/games/spaceforce/",
+=======
         "Internal Link": "",
         "External Link": "http://www.intific.com/index.php/products/education/our-space",
+>>>>>>> 8932b1d73f9967b4b89b08f1227ba5065c7921d6
         "Public Code Repo": "",
         "Description": "The goal of RoboBall is gameplay that results in measureable metrics that demonstrate games provide an innovative approach to STEM learning and student emotional resilience.  RoboBall runs in OurSpace, a portal built to host RoboBall, its data and an HTML5 level editor.  Players can login & register with a unique ID to save game progress.\n",
         "Internal Code Repo": "",
