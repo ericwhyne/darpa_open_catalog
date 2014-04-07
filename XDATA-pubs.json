@@ -2,7 +2,7 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["Boeing/Pitt"],
-  "Title":"Impact of precision of Bayesian network parameters on accuracy of  medical diagnostic systems",
+  "Title":"Impact of Precision of Bayesian Network Parameters on Accuracy of Medical Diagnostic Systems",
   "Link":"http://www.ncbi.nlm.nih.gov/pubmed/23466438",
   "Categories":["Applications and Expert Systems", "Model Validation and Analysis"],
   "Subcategories":[""],
@@ -74,7 +74,7 @@
  {
   "DARPA Program":"XDATA",
   "Program Teams":["Continuum Analytics and Indiana University"],
-  "Title":"Preserving Data While Rendering.",
+  "Title":"Preserving Data While Rendering",
   "Link":"http://pjim.newschool.edu/issues/2014/01/pdfs/ParsonsJournalForInformationMapping_Joseph_Cottam.pdf",
   "Categories":["Software Architectures", "Methodology and Techniques"],
   "Subcategories":["Data abstraction", "Graphics data structures and data types", "Ergonomics"],
@@ -164,7 +164,7 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Fast rank-2 nonnegative matrix factorization for hierarchical document clustering",
+  "Title":"Fast rank-2 Nonnegative Matrix Factorization for Hierarchical Document Clustering",
   "Link":"http://www.cc.gatech.edu/grads/d/dkuang3/pub/fp0269-kuang.pdf",
   "Categories":[""],
   "Subcategories":[""],
@@ -326,7 +326,7 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["Johns Hopkins University"],
-  "Title":"Locality statistics for anomaly detection in time series of graphs",
+  "Title":"Locality Statistics for Anomaly Detection in Time Series of Graphs",
   "Link":"http://arxiv.org/abs/1306.0267",
   "Categories":["Numerical Linear Algebra"],
   "Subcategories":[""],
@@ -488,8 +488,8 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
-  "Title":"Mapping Semantic Workflows to Alternative Workflow Execution Engines. Gil, Y.",
-  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6693545&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6693545",
+  "Title":"Mapping Semantic Workflows to Alternative Workflow Execution Engines",
+  "Link":"http://www.isi.edu/~gil/papers/gil-icsc13.pdf",
   "Categories":["Software Notations and Tools"],
   "Subcategories":["Development Frameworks and Environments"],
   "ACM 1998 classification code":["D.2.9", "K.6.3"]
@@ -515,7 +515,7 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
-  "Title":"> Configuration of Workflows",
+  "Title":"Configuration of Workflows",
   "Link":"Not Yet Published",
   "Categories":["Software Notations and Tools"],
   "Subcategories":["Development Frameworks and Environments"],
@@ -524,7 +524,7 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
-  "Title":"Large-Scale Multimedia Content Analysis Using Scientific Workflows. Jo, H, Sethi, r., Philpot, A., and Gil, Y.",
+  "Title":"Large-Scale Multimedia Content Analysis Using Scientific Workflows",
   "Link":"http://www.isi.edu/~gil/papers/sethi-etal-mm13.pdf",
   "Categories":["Software Notations and Tools"],
   "Subcategories":["Development Frameworks and Environments"],
@@ -586,7 +586,7 @@
 },
 {
   "DARPA Program":"XDATA",
-  "Program Teams":["Scientific Systems Company, Inc., MIT, and University of Lousville"],
+  "Program Teams":["Scientific Systems Company, Inc.", "MIT", "University of Lousville"],
   "Title":"Advanced Machine Learning and Statistical Inference Approaches for Big Data Analytics and Information Fusion",
   "Link":"To appear",
   "Categories":[""],

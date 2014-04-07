@@ -72,7 +72,7 @@
    "License Link":"http://www.acq.osd.mil/dpap/dars/dfars/html/current/227_71.htm"
 },
 {
-   "License Short Name":["GPLv3"],
+   "License Short Name":["GPLv3", "GPL"],
    "License Long Name":"GNU General Public License (GPL) version 3",
    "License Description":"The latest version of the GNU GPL, this is a free software and copyleft license.",
    "License Link":"http://www.gnu.org/licenses/gpl.html"
