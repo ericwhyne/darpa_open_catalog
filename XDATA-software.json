@@ -9,13 +9,14 @@
     "Instructional Material":"2014-07",
     "Stats":"pattern-matching",
     "Description":"Hadoop MapReduce-over-Hive based implementation of network query by example utilizing attributed network pattern matching.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["Boeing/Pitt"],
+    "Program Teams":["Boeing","University of Pittsburgh"],
     "Software":"SMILE-WIDE:  A scalable Bayesian network library",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Boeing+-+Pitt",
     "External Link":"http://smilewide.github.io/main/",
@@ -23,24 +24,24 @@
     "Instructional Material":"2014-07",
     "Stats":"main",
     "Description":"SMILE-WIDE is a scalable Bayesian network library. Initially, it is a version of the SMILE library, as in SMILE With Integrated Distributed Execution. The general approach has been to provide an API similar to the existing API SMILE developers use to build \"local,\" single-threaded applications. However, we provide \"vectorized\" operations that hide a Hadoop-distributed implementation. Apart from invoking a few idioms like generic Hadoop command line argument parsing, these appear to the developer as if they were executed locally.",
-    "Xdata Git Location":"tools\\analytics\\boeing-pitt\\smile-wide-final-summercamp",
+    "Internal Code Repo":"tools\\analytics\\boeing-pitt\\smile-wide-final-summercamp",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Carnegie Mellon University"],
-    "Software":"Support Distribution Machines ",
+    "Software":"Support Distribution Machines",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717624",
     "External Link":"https://github.com/dougalsutherland/py-sdm",
     "Public Code Repo":"https://github.com/dougalsutherland/py-sdm.git",
     "Instructional Material":"2014-07",
     "Stats":"py-sdm",
     "Description":"Python implementation of the nonparametric divergence estimators described by Barnabas Poczos, Liang Xiong, Jeff Schneider (2011). Nonparametric divergence estimation with applications to machine learning on distributions. Uncertainty in Artificial Intelligence. ( http://autonlab.org/autonweb/20287.html ) and also their use in support vector machines, as described by Dougal J. Sutherland, Liang Xiong, Barnabas Poczos, Jeff Schneider (2012). Kernels on Sample Sets via Nonparametric Divergence Estimates. ( http://arxiv.org/abs/1202.0302 ).",
-    "Xdata Git Location":"tools\\analytics\\cmu",
+    "Internal Code Repo":"tools\\analytics\\cmu",
     "License":["BSD"],
-    "Language (Primary)":"Python",
-    "Language (Secondary)":"",
+    "Languages":["Python"],
     "Categories":["Analytics"]
 },
   {
@@ -53,10 +54,9 @@
     "Instructional Material":"2014-07",
     "Stats":"blaze",
     "Description":"Blaze is the next-generation of NumPy. It is designed as a foundational set of abstractions on which to build out-of-core and distributed algorithms over a wide variety of data sources and to extend the structure of NumPy itself. Blaze allows easy composition of low level computation kernels (C, Fortran, Numba) to form complex data transformations on large datasets. In Blaze, computations are described in a high-level language (Python) but executed on a low-level runtime (outside of Python), enabling the easy mapping of high-level expertise to data without sacrificing low-level performance. Blaze aims to bring Python and NumPy into the massively-multicore arena, allowing it to leverage many CPU and GPU cores across computers, virtual machines and cloud services.",
-    "Xdata Git Location":"tools\\analytics\\continuum\\blaze",
+    "Internal Code Repo":"tools\\analytics\\continuum\\blaze",
     "License":["BSD"],
-    "Language (Primary)":"Python",
-    "Language (Secondary)":"",
+    "Languages":["Python"],
     "Categories":["Infrastructure"]
 },
   {
@@ -69,10 +69,9 @@
     "Instructional Material":"2014-07",
     "Stats":"numba",
     "Description":"Numba is an Open Source NumPy-aware optimizing compiler for Python sponsored by Continuum Analytics, Inc. It uses the LLVM compiler infrastructure to compile Python syntax to machine code.<br/><br/>It is aware of NumPy arrays as typed memory regions and so can speed-up code using NumPy arrays. Other, less well-typed code is translated to Python C-API calls effectively removing the \"interpreter\" but not removing the dynamic indirection.<br/><br/>Numba is also not a tracing just in time (JIT) compiler. It compiles your code before it runs either using run-time type information or type information you provide in the decorator.<br/><br/>Numba is a mechanism for producing machine code from Python syntax and typed data structures such as those that exist in NumPy.",
-    "Xdata Git Location":"tools\\analytics\\continuum\\numba",
+    "Internal Code Repo":"tools\\analytics\\continuum\\numba",
     "License":["BSD"],
-    "Language (Primary)":"Python",
-    "Language (Secondary)":"",
+    "Languages":["Python"],
     "Categories":["Infrastructure"]
 },
   {
@@ -85,15 +84,14 @@
     "Instructional Material":"2014-07",
     "Stats":"bokeh",
     "Description":"Bokeh (pronounced bo-Kay or bo-Kuh) is a Python interactive visualization library for large datasets that natively uses the latest web technologies. Its goal is to provide elegant, concise construction of novel graphics in the style of Protovis/D3, while delivering high-performance interactivity over large data to thin clients.",
-    "Xdata Git Location":"tools/visualization/continuum/bokeh; tools/visualization/continuum/bokehjs",
+    "Internal Code Repo":"tools/visualization/continuum/bokeh; tools/visualization/continuum/bokehjs",
     "License":["BSD"],
-    "Language (Primary)":"Python",
-    "Language (Secondary)":"Javascript, Coffeescript",
+    "Languages":["Python","Javascript", "Coffeescript"],
     "Categories":["Visualization"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["Continuum Analytics and Indiana University"],
+    "Program Teams":["Continuum Analytics","Indiana University"],
     "Software":"Abstract Rendering",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"http://www.github.com/JosephCottam/AbstractRendering",
@@ -101,10 +99,9 @@
     "Instructional Material":"2014-07",
     "Stats":"AbstractRendering",
     "Description":"Information visualization rests on the idea that a meaningful relationship can be drawn between pixels and data. This is most often mediated by geometric entities (such as circles, squares and text) but always involves pixels eventually to display. In most systems, the pixels are tucked away under levels of abstraction in the rendering system. Abstract Rendering takes the opposite approach: expose the pixels and gain powerful pixel-level control. This pixel-level power is a complement to many existing visualization techniques. It is an elaboration on rendering, not an analytic or projection step, so it can be used as an epilogue to many existing techniques. In standard rendering, geometric objects are projected to an image and represented on that image's discrete pixels. The source space is an abstract canvas that contains logically continuous geometric primitives and the target space is an image that contains discrete colors. Abstract Rendering fits between these two states. It introduces a discretization of the data at the pixel-level, but not necessarily all the way to colors. This enables many pixel-level concerns to be efficiently and concisely captured.",
-    "Xdata Git Location":"/tools/visualization/continuum/AbstractRendering/",
+    "Internal Code Repo":"/tools/visualization/continuum/AbstractRendering/",
     "License":["BSD"],
-    "Language (Primary)":"Java",
-    "Language (Secondary)":"",
+    "Languages":["Java"],
     "Categories":["Visualization"]
 },
   {
@@ -117,15 +114,14 @@
     "Instructional Material":"2014-07",
     "Stats":"cdx",
     "Description":"Software to visualize the structure of large or complex datasets / produce guides that help users or algorithms gauge the quality of various kinds of graphs & plots.",
-    "Xdata Git Location":"/tools/visualization/continuum/",
+    "Internal Code Repo":"/tools/visualization/continuum/",
     "License":["BSD"],
-    "Language (Primary)":"Javascript",
-    "Language (Secondary)":"Coffeescript, Python",
+    "Languages":["Javascript","Coffeescript","Python"],
     "Categories":["Visualization"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["Continuum Analytics and Indiana University"],
+    "Program Teams":["Continuum Analytics","Indiana University"],
     "Software":"Stencil",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"https://github.com/JosephCottam/Stencil",
@@ -133,10 +129,9 @@
     "Instructional Material":"2014-07",
     "Stats":"Stencil",
     "Description":"Stencil is a grammar-based approach to visualization specification at a higher-level.",
-    "Xdata Git Location":"tools\\visualizations\\continuum\\Stencil",
+    "Internal Code Repo":"tools\\visualizations\\continuum\\Stencil",
     "License":["BSD"],
-    "Language (Primary)":"Clojure",
-    "Language (Secondary)":"",
+    "Languages":["Clojure"],
     "Categories":["Visualization"]
 },
   {
@@ -149,10 +144,9 @@
     "Instructional Material":"2014-07",
     "Stats":"vowpal_wabbit",
     "Description":"The Vowpal Wabbit (VW) project is a fast out-of-core learning system sponsored by Microsoft Research and (previously) Yahoo! Research. Support is available through the mailing list. There are two ways to have a fast learning algorithm: (a) start with a slow algorithm and speed it up, or (b) build an intrinsically fast learning algorithm. This project is about approach (b), and it's reached a state where it may be useful to others as a platform for research and experimentation. There are several optimization algorithms available with the baseline being sparse gradient descent (GD) on a loss function (several are available). The code should be easily usable. Its only external dependence is on the boost library, which is often installed by default.",
-    "Xdata Git Location":"tools\\analytics\\dt",
+    "Internal Code Repo":"tools\\analytics\\dt",
     "License":["BSD"],
-    "Language (Primary)":"C",
-    "Language (Secondary)":"",
+    "Languages":["C"],
     "Categories":["Analytics"]
 },
   {
@@ -165,16 +159,15 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"Go Circuit reduces the human development and sustenance costs of complex massively-scaled systems nearly to the level of their single-process counterparts. It is a combination of proven ideas from the Erlang ecosystem of distributed embedded devices and Go's ecosystem of Internet application development. Go Circuit extends the reach of Go's linguistic environment to multi-host/multi-process applications.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
-    "Language (Primary)":"",
-    "Language (Secondary)":"",
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Georgia Tech / GTRI"],
-    "Software":"libNMF: a high-performance library for nonnegative matrix factorization and hierarchical clustering",
+    "Software":"libNMF: A high-performance library for nonnegative matrix factorization and hierarchical clustering",
     "Software (Short)":"libNMF",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274597",
     "External Link":"",
@@ -182,10 +175,9 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"LibNMF is a high-performance, parallel library for nonnegative matrix factorization on both dense and sparse matrices written in C++. Implementations of several different NMF algorithms are provided, including multiplicative updating, hierarchical alternating least squares, nonnegative least squares with block principal pivoting, and a new rank2 algorithm. The library provides an implementation of hierarchical clustering based on the rank2 NMF algorithm.",
-    "Xdata Git Location":"tools\\analytics\\gatech\\_x000D_\n",
+    "Internal Code Repo":"tools\\analytics\\gatech\\_x000D_\n",
     "License":["ALv2"],
-    "Language (Primary)":"",
-    "Language (Secondary)":"",
+    "Languages":[""],
     "Categories":["Analytics"]
 },
 {
@@ -198,8 +190,9 @@
     "Instructional Material":"http://giantoak.github.io/MMPP_Tutorial/",
     "Stats":"MMPP",
     "Description":"R-implementation of Markov Modulated Poisson Process for unsupervised event detection in time series of counts data.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["GPLv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -212,13 +205,14 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"SKYLARK implements Numerical Linear Algebra (NLA) kernels based on sketching for distributed computing platforms.  Sketching reduces dimensionality through randomization, and includes Johnson-Lindenstrauss random projection (JL); a faster version of JL based on fast transform techniques; sparse techniques that can be applied in time proportional to the number of nonzero matrix entries; and methods for approximating kernel functions and Gram matrices arising in nonlinear statistical modeling problems. We have a library of such sketching techniques, built using MPI in C++ and callable from Python, and are applying the library to regression, low-rank approximation,   and kernel-based machine learning tasks, among other problems. ",
-    "Xdata Git Location":"tools\\analytics\\ibm\\skylark",
+    "Internal Code Repo":"tools\\analytics\\ibm\\skylark",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["Institute for Creative Technologies / USC"],
+    "Program Teams":["Institute for Creative Technologies","USC"],
     "Software":"Immersive Body-Based Interactions",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274668",
     "External Link":"",
@@ -226,10 +220,9 @@
     "Instructional Material":"2014-07",
     "Stats":"immersive_body-based_interactions",
     "Description":"Provides innovative interaction techniques to address human-computer interaction challenges posed by Big Data.  Examples include:<br>* Wiggle Interaction Technique: user induced motion to speed visual search.<br>* Immersive Tablet Based Viewers: low cost 3D virtual reality fly-through's of data sets.<br>* Multi-touch interfaces: browsing/querying multi-attribute and geospatial data, hosted by SOLR.<br>* Tablet based visualization controller: eye-free rapid interaction with visualizations.",
-    "Xdata Git Location":"tools\\visualizations\\usc-ict",
+    "Internal Code Repo":"tools\\visualizations\\usc-ict",
     "License":["ALv2"],
-    "Language (Primary)":"",
-    "Language (Secondary)":"",
+    "Languages":[""],
     "Categories":["Visualization"]
 },
   {
@@ -243,10 +236,9 @@
     "Instructional Material":"2014-07",
     "Stats":"xdata-igraph",
     "Description":"igraph provides a fast generation of large graphs, fast approximate computation of local graph invariants, fast parallelizable graph embedding. API and Web-service for batch processing graphs across formats.",
-    "Xdata Git Location":"tools\\analytics\\jhu",
+    "Internal Code Repo":"tools\\analytics\\jhu",
     "License":["GPLv2"],
-    "Language (Primary)":"",
-    "Language (Secondary)":"",
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -259,10 +251,9 @@
     "Stats":"vega",
     "Public Code Repo":"https://github.com/trifacta/vega.git",
     "Description":"Vega is a visualization grammar, a declarative format for creating and saving visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG.",
-    "Xdata Git Location":"tools\\visualizations\\kitware\\vega",
+    "Internal Code Repo":"tools\\visualizations\\kitware\\vega",
     "License":["BSD"],
-    "Language (Primary)":"Javascript",
-    "Language (Secondary)":"",
+    "Languages":["Javascript"],
     "Categories":["Visualization"]
 },
   {
@@ -275,15 +266,14 @@
     "Instructional Material":"2014-07",
     "Stats":"tangelo",
     "Description":"Tangelo provides a flexible HTML5 web server architecture that cleanly separates your web applications (pure Javascript, HTML, and CSS) and web services (pure Python).  This software is bundled with some great tools to get you started.",
-    "Xdata Git Location":"tools\\visualizations\\kitware\\tangelo; tools\\visualizations\\kitware\\xdata-apps",
+    "Internal Code Repo":"tools\\visualizations\\kitware\\tangelo; tools\\visualizations\\kitware\\xdata-apps",
     "License":["ALv2"],
-    "Language (Primary)":"Javascript",
-    "Language (Secondary)":"Python",
+    "Languages":["Javascript","Python"],
     "Categories":["Visualization"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["Harvard and Kitware, Inc."],
+    "Program Teams":["Harvard","Kitware, Inc."],
     "Software":"LineUp",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://sgratzl.github.io/paper-2013-lineup/",
@@ -291,13 +281,14 @@
     "Instructional Material":"2014-07",
     "Stats":"org.caleydo.vis.lineup.demos",
     "Description":"LineUp is a novel and scalable visualization technique that uses bar charts. This interactive technique supports the ranking of items based on multiple heterogeneous attributes with different scales and semantics. It enables users to interactively combine attributes and flexibly refine parameters to explore the effect of changes in the attribute combination. This process can be employed to derive actionable insights as to which attributes of an item need to be modified in order for its rank to change. Additionally, through integration of slope graphs, LineUp can also be used to compare multiple alternative rankings on the same set of items, for example, over time or across different attribute combinations. We evaluate the effectiveness of the proposed multi-attribute visualization technique in a qualitative study. The study shows that users are able to successfully solve complex ranking tasks in a short period of time.",
-    "Xdata Git Location":"tools\\visualizations\\kitware\\xdata-apps",
+    "Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
     "License":["BSD"],
+    "Languages":[""],
     "Categories":["Visualization"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["Harvard and Kitware, Inc."],
+    "Program Teams":["Harvard","Kitware, Inc."],
     "Software":"LineUp Web",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://sgratzl.github.io/paper-2013-lineup/",
@@ -305,8 +296,9 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"LineUpWeb is the web version of the novel and scalable visualization technique. This interactive technique supports the ranking of items based on multiple heterogeneous attributes with different scales and semantics. It enables users to interactively combine attributes and flexibly refine parameters to explore the effect of changes in the attribute combination.",
-    "Xdata Git Location":"tools\\visualizations\\kitware\\xdata-apps",
+    "Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
     "License":["BSD"],
+    "Languages":[""],
     "Categories":["Visualization"]
 },
  {
@@ -318,14 +310,14 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"These visualizations were created to demonstrate the type of standalone visualization widgets that might compliment a composite dashboard display for a descision-maker. They are built using D3 and leverage relevant APIs to show the latest available data.",
-    "Xdata Git Location":"tools\\visualizations\\new-school",
+    "Internal Code Repo":"tools\\visualizations\\new-school",
     "License":["ALv2"],
-    "Language (Primary)":"Javascript",
+    "Languages":["Javascript"],
     "Categories":["Visualization"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["Stanford, University of Washington, Kitware, Inc."],
+    "Program Teams":["Stanford", "University of Washington", "Kitware, Inc."],
     "Software":"Lyra",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://idl.cs.washington.edu/projects/lyra",
@@ -333,8 +325,9 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"Lyra is an interactive environment that makes custom visualization design accessible to a broader audience. With Lyra, designers map data to the properties of graphical marks to author expressive visualization designs without writing code. Marks can be moved, rotated and resized using handles; relatively positioned using connectors; and parameterized by data fields using property drop zones. Lyra also provides a data pipeline interface for iterative, visual specification of data transformations and layout algorithms. Visualizations created with Lyra are represented as specifications in Vega, a declarative visualization grammar that enables sharing and reuse.",
-    "Xdata Git Location":"tools\\visualizations\\kitware\\xdata-apps",
+    "Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
     "License":["BSD"],
+    "Languages":[""],
     "Categories":["Visualization"]
 },
   {
@@ -347,8 +340,9 @@
     "Instructional Material":"2014-07",
     "Stats":"stat_agg",
     "Description":"stat_agg is a Python package that provides statistical aggregators that maximize ensemble prediction accuracy by weighting individual learners in an optimal way. When used with the laputa package, learners may be distributed across a cluster of machines. The package also provides fault-tolerance when one or more learners becomes unavailable.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -361,8 +355,9 @@
     "Instructional Material":"2014-07",
     "Stats":"flexmem",
     "Description":"Flexmem is a general, transparent tool for out-of-core (OOC) computing in the R programming environment. It is launched as a command line utility, taking an application as an argument. All memory allocations larger than a specified threshold are memory-mapped to a binary file. When data are not needed, they are stored on disk. It is both process- and thread-safe.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -375,8 +370,9 @@
     "Instructional Material":"2014-07",
     "Stats":"laputa",
     "Description":"Laputa is a Python package that provides an elastic, parallel computing foundation for the stat_agg (statistical aggregates) package.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -389,8 +385,9 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"Bigmemory is an R package to create, store, access, and manipulate massive matrices. Matrices are allocated to shared memory and may use memory-mapped files. Packages biganalytics, bigtabulate, synchronicity, and bigalgebra provide advanced functionality.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -403,13 +400,14 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"Bigalgebra is an R package that provides arithmetic functions for R matrix and big.matrix objects.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["MDA Information Systems, Inc., Jet Propulsion Laboratory, USC/Information Sciences Institute"],
+    "Program Teams":["MDA Information Systems, Inc.", "Jet Propulsion Laboratory", "USC/Information Sciences Institute"],
     "Software":"OODT",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
     "External Link":"http://oodt.apache.org/",
@@ -417,15 +415,14 @@
     "Instructional Material":"2014-07",
     "Stats":"oodt",
     "Description":"APACHE OODT enables transparent access to distributed resources, data discovery and query optimization, and distributed processing and virtual archives. OODT provides software architecture that enables models for information representation, solutions to knowledge capture problems, unification of technology, data, and metadata.",
-    "Xdata Git Location":"tools\\utilities\\oodt",
+    "Internal Code Repo":"tools\\utilities\\oodt",
     "License":["ALv2"],
-    "Language (Primary)":"Java",
-    "Language (Secondary)":"",
+    "Languages":["Java"],
     "Categories":["Infrastructure"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["MDA Information Systems, Inc.,Jet Propulsion Laboratory, USC/Information Sciences Institute"],
+    "Program Teams":["MDA Information Systems, Inc.","Jet Propulsion Laboratory", "USC/Information Sciences Institute"],
     "Software":"Wings",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
     "External Link":"http://www.wings-workflows.org/",
@@ -433,10 +430,9 @@
     "Instructional Material":"2014-07",
     "Stats":"wings",
     "Description":"WINGS provides a semantic workflow system that assists scientists with the design of computational experiments. A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to execution frameworks such as Pegasus and OODT to run workflows at large scale in distributed resources.",
-    "Xdata Git Location":"tools\\utilities\\wings\\",
+    "Internal Code Repo":"tools\\utilities\\wings\\",
     "License":["ALv2"],
-    "Language (Primary)":"",
-    "Language (Secondary)":"",
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -449,8 +445,9 @@
     "Instructional Material":"2014-07",
     "Stats":"graph-qube",
     "Description":"Query-by-Example (Graph QuBE) on dynamic transaction graphs.",
-    "Xdata Git Location":"tools\\analytics\\mit-LL\\graph-qube",
+    "Internal Code Repo":"tools\\analytics\\mit-LL\\graph-qube",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -463,8 +460,9 @@
     "Instructional Material":"2014-07",
     "Stats":"julia",
     "Description":"Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.",
-    "Xdata Git Location":"tools\\analytics\\mit-LL",
+    "Internal Code Repo":"tools\\analytics\\mit-LL",
     "License":["MIT","GPL","LGPL","BSD"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -477,8 +475,9 @@
     "Instructional Material":"2014-07",
     "Stats":"topic-clustering",
     "Description":"Probabilistic Latent Semantic Analysis (pLSA) Topic Modeling.",
-    "Xdata Git Location":"tools\\analytics\\mit-LL",
+    "Internal Code Repo":"tools\\analytics\\mit-LL",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -491,8 +490,9 @@
     "Instructional Material":"2014-07",
     "Stats":"SciDB-mirror",
     "Description":"Scientific Database for large-scale numerical data.",
-    "Xdata Git Location":"tools\\analytics\\mit-LL",
+    "Internal Code Repo":"tools\\analytics\\mit-LL",
     "License":["GPLv3"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -505,8 +505,9 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"Trainable named entity extractor (NER) and relation extractor.",
-    "Xdata Git Location":"tools\\analytics\\mit-LL\\tpoic",
+    "Internal Code Repo":"tools\\analytics\\mit-LL\\tpoic",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -519,8 +520,9 @@
     "Instructional Material":"2014-07",
     "Stats":"owf",
     "Description":"Ozone Widget Framework provides a customizable open-source web application that assembles the tools you need to accomplish any task and enables those tools to communicate with each other. It is a technology-agnostic composition framework for data and visualizations in a common browser-based display and interaction environment that lowers the barrier to entry for the development of big data visualizations and enables efficient exploration of large data sets.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Visualization"]
 },
 {
@@ -533,8 +535,9 @@
     "Instructional Material":"2014-07",
     "Stats":"neon",
     "Description":"Neon is a framework that gives a datastore agnostic way for visualizations to query data and perform simple operations on that data such as filtering, aggregation, and transforms. It is divided into two parts, neon-server and neon-client. Neon-server provides a set of RESTful web services to select a datastore and perform queries and other operations on the data. Neon-client is a javascript API that provides a way to easily integrate neon-server capabilities into a visualization, and also aids in 'widgetizing' a visualization, allowing it to be integrated into a common OWF based ecosystem.",
-    "Xdata Git Location":"tools\\visualizations\\next-century",
+    "Internal Code Repo":"tools\\visualizations\\next-century",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Visualization"]
 },
 {
@@ -547,10 +550,10 @@
     "Instructional Material":"2014-07",
     "Stats":"aperturejs",
     "Description":"ApertureJS is an open, adaptable and extensible JavaScript visualization framework with supporting REST services, designed to produce visualizations for analysts and decision makers in any common web browser. Aperture utilizes a novel layer based approach to visualization assembly, and a data mapping API that simplifies the process of adaptable transformation of data and analytic results into visual forms and properties.  Aperture vizlets can be easily embedded with full interoperability in frameworks such as the Ozone Widget Framework (OWF).",
-    "Xdata Git Location":"tools\\visualizations\\oculus\\aperture\\aperture",
+    "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\aperture",
     "License":["MIT"],
-    "Language (Primary)":"JavaScript",
-    "Language (Secondary)":"Java",
+    "Languages":["JavaScript","Java"],
+    "Languages":[""],
     "Categories":["Visualization"],
     "Screenshot":"http://www.oculusinfo.com/assets/images/aperturejs-ex.png"
 },
@@ -564,10 +567,9 @@
     "Instructional Material":"2014-07",
     "Stats":"influent",
     "Description":"Influent is an HTML5 tool for visually and interactively following transaction flow, rapidly revealing actors and behaviors of potential concern that might otherwise go unnoticed. Summary visualization of transactional patterns and actor characteristics, interactive link expansion and dynamic entity clustering enable Influent to operate effectively at scale with big data sources in any modern web browser. Influent has been used to explore data sets with millions of entities and hundreds of millions of transactions.",
-    "Xdata Git Location":"tools\\visualizations\\oculus\\aperture\\influent",
-    "License":"MIT",
-    "Language (Primary)":"JavaScript",
-    "Language (Secondary)":"Java",
+    "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\influent",
+    "License":["MIT"],
+    "Languages":["JavaScript","Java"],
     "Categories":["Visualization"],
     "Screenshot":"http://www.oculusinfo.com/assets/images/influent-ex.png"
 },
@@ -580,10 +582,9 @@
    "Public Code Repo":"https://github.com/oculusinfo/aperture-tiles.git",
    "Stats":"aperture-tiles",
    "Description":"New tools for raw data characterization of 'big data' are required to suggest initial hypotheses for testing. The widespread use and adoption of web-based maps has provided a familiar set of interactions for exploring abstract large data spaces. Building on these techniques, we developed tile based visual analytics that provide browser-based interactive visualization of billions of data points.",
-   "Xdata Git Location":"tools\\visualizations\\oculus\\aperture\\demos\\xdata\\SC2013",
+   "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\demos\\xdata\\SC2013",
    "License":["MIT"],
-   "Language (Primary)":"JavaScript",
-   "Language (Secondary)":"Java",
+   "Languages":["JavaScript","Java"],
    "Categories":["Visualization"],
    "Screenshot":"http://www.oculusinfo.com/assets/images/aperture-tiles-ex.png"
 },
@@ -597,10 +598,9 @@
     "Instructional Material":"2014-07",
     "Stats":"ensemble-clustering",
     "Description":"Oculus Ensemble Clustering is a flexible multi-threaded clustering library for rapidly constructing tailored clustering solutions that leverage the different semantic aspects of heterogeneous data.  The library can be used on a single machine using multi-threading or distributed computing using Spark.",
-    "Xdata Git Location":"tools\\visualizations\\oculus\\aperture\\oculus-common",
+    "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\oculus-common",
     "License":["MIT"],
-    "Language (Primary)":"Java",
-    "Language (Secondary)":"",
+    "Languages":["Java"],
     "Categories":["Analytics"]
 },
   {
@@ -614,8 +614,9 @@
     "Instructional Material":"2014-07",
     "Stats":"XDATA",
     "Description":"Patterns in Near-Real Time will take any corpus as input and quantify the strength of the query match to a SME-based process model, represent process model as a Directed Acyclic Graph (DAG), and then search and score potential matches.",
-    "Xdata Git Location":"tools\\analytics\\bbn\\graph-matching",
+    "Internal Code Repo":"tools\\analytics\\bbn\\graph-matching",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -629,8 +630,9 @@
     "Instructional Material":"2014-07",
     "Stats":"XDATA",
     "Description":"Network Inference of Link Strength will take any text corpus as input and quantify the strength of connections between any pair of entities. Link strength probabilities are computed via shortest path.",
-    "Xdata Git Location":"tools\\analytics\\bbn\\textstructure",
+    "Internal Code Repo":"tools\\analytics\\bbn\\textstructure",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -644,27 +646,29 @@
     "Instructional Material":"2014-07",
     "Stats":"vertexAPI2",
     "Description":"Allows users to express graph algorithms as a series of Gather-Apply-Scatter (GAS) steps similar to GraphLab.  Runs these vertex programs using a single or multiple GPUs - demonstrates a large speedup over GraphLab.",
-    "Xdata Git Location":"tools\\analytics\\RoyalCaliber",
+    "Internal Code Repo":"tools\\analytics\\RoyalCaliber",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["Scientific Systems Company, Inc., MIT, and University of Louisville"],
+    "Program Teams":["Scientific Systems Company, Inc.", "MIT", "University of Louisville"],
     "Software":"BayesDB",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274588",
     "External Link":"http://probcomp.csail.mit.edu/bayesdb/",
     "Public Code Repo":"https://github.com/mit-probabilistic-computing-project/BayesDB.git",
     "Instructional Material":"2014-07",
     "Stats":"BayesDB",
-    "Description":"BayesDB is an open-source implementation of a predictive database table. It provides predictive extensions to SQL that enable users to query the implications of their data --- predict missing entries, identify predictive relationships between columns, and examine synthetic populations --- based on a Bayesian machine learning system in the backend. ",
-    "Xdata Git Location":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
+    "Description":"BayesDB is an open-source implementation of a predictive database table. It provides predictive extensions to SQL that enable users to query the implications of their data -- predict missing entries, identify predictive relationships between columns, and examine synthetic populations -- based on a Bayesian machine learning system in the back end.",
+    "Internal Code Repo":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
     "DARPA Program Name": "XDATA",
-    "Program Teams":["Scientific Systems Company, Inc., MIT, and University of Louisville"],
+    "Program Teams":["Scientific Systems Company, Inc.", "MIT", "University of Louisville"],
     "Software":"Crosscat",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274588",
     "External Link":"http://probcomp.csail.mit.edu/crosscat/",
@@ -672,8 +676,9 @@
     "Instructional Material":"2014-07",
     "Stats":"crosscat",
     "Description":"CrossCat is a domain-general, Bayesian method for analyzing high-dimensional data tables. CrossCat estimates the full joint distribution over the variables in the table from the data via approximate inference in a hierarchical, nonparametric Bayesian model, and provides efficient samplers for every conditional distribution. CrossCat combines strengths of nonparametric mixture modeling and Bayesian network structure learning: it can model any joint distribution given enough data by positing latent variables, but also discovers independencies between the observable variables.",
-    "Xdata Git Location":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
+    "Internal Code Repo":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -686,8 +691,9 @@
     "Instructional Material":"2014-07",
     "Stats":"zephyr",
     "Description":"Zephyr is a big data, platform agnostic ETL API, with Hadoop MapReduce, Storm, and other big data bindings.",
-    "Xdata Git Location":"tools\\utilities\\sotera\\zephyr; tools\\utilties\\sotera\\zephyr-xdata-ingest",
+    "Internal Code Repo":"tools\\utilities\\sotera\\zephyr; tools\\utilties\\sotera\\zephyr-xdata-ingest",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -700,8 +706,9 @@
     "Instructional Material":"2014-07",
     "Stats":"page-rank",
     "Description":"Sotera Page Rank is a Giraph/Hadoop implementation of a distributed version of the Page Rank algorithm.",
-    "Xdata Git Location":"tools\\utilities\\sotera\\",
+    "Internal Code Repo":"tools\\utilities\\sotera\\",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -714,8 +721,9 @@
     "Instructional Material":"2014-07",
     "Stats":"high-betweenness-set-extraction",
     "Description":"Betweenness Centrality is a useful property when searching for critical nodes in a network. The exact calculation of betweenness is however computationally expensive, which leaves us with the need for approximate methods.  If you want to discover nodes that are most import for connectivity in a large network this project is for you.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -728,8 +736,9 @@
     "Instructional Material":"2014-07",
     "Stats":"distributed-louvain-modularity",
     "Description":"Giraph/Hadoop implementation of a distributed version of the Louvain community detection algorithm.",
-    "Xdata Git Location":"tools\\analytics\\sotera\\LouvainModularity\\giraph_1.0\\",
+    "Internal Code Repo":"tools\\analytics\\sotera\\LouvainModularity\\giraph_1.0\\",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -742,8 +751,9 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"The Spark implementation of the micropath analytic.",
-    "Xdata Git Location":"tools\\analytics\\sotera\\SparkMicroPath\\",
+    "Internal Code Repo":"tools\\analytics\\sotera\\SparkMicroPath\\",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -756,8 +766,9 @@
     "Instructional Material":"2014-07",
     "Stats":"rhipe-arima",
     "Description":"Hive and RHIPE implementation of an ARIMA analytic.",
-    "Xdata Git Location":"tools\\analytics\\sotera\\arima\\",
+    "Internal Code Repo":"tools\\analytics\\sotera\\arima\\",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -770,8 +781,9 @@
     "Instructional Material":"2014-07",
     "Stats":"leaf-compression",
     "Description":"Recursive algorithm to remove nodes from a network where degree centrality is 1.",
-    "Xdata Git Location":"tools\\analytics\\sotera\\leaf_compression",
+    "Internal Code Repo":"tools\\analytics\\sotera\\leaf_compression",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -784,8 +796,9 @@
     "Instructional Material":"2014-07",
     "Stats":"correlation-approximation",
     "Description":"Spark implementation of an algorithm to find highly correlated vectors using an approximation algorithm.",
-    "Xdata Git Location":"tools\\analytics\\sotera\\CorrelationApproximation",
+    "Internal Code Repo":"tools\\analytics\\sotera\\CorrelationApproximation",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -798,8 +811,9 @@
     "Instructional Material":"2014-07",
     "Stats":"qcml",
     "Description":"Seamless transition from prototyping to code generation. Enable ease and expressiveness of convex optimization across scales with little change in code.",
-    "Xdata Git Location":"tools\\analytics\\stanford-b\\qcml",
+    "Internal Code Repo":"tools\\analytics\\stanford-b\\qcml",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -812,8 +826,9 @@
     "Instructional Material":"2014-07",
     "Stats":"pdos",
     "Description":"Concise algorithm for solving convex problems; solves problems passed from QCML.",
-    "Xdata Git Location":"tools\\analytics\\stanford-b\\pdos",
+    "Internal Code Repo":"tools\\analytics\\stanford-b\\pdos",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -826,8 +841,9 @@
     "Instructional Material":"2014-07",
     "Stats":"scs",
     "Description":"Implementation of a solver for general cone programs, including linear, second-order, semidefinite and exponential cones, based on an operator splitting method applied to a self-dual homogeneous embedding. The method and software supports both direct factorization, with factorization caching, and an indirect method, that requires only the operator associated with the problem data and its adjoint. The implementation includes interfaces to CVX, CVXPY, matlab, as well as test routines. This code is described in detail in an associated paper, at http://www.stanford.edu/~boyd/papers/pdos.html (which also links to the code).",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -840,8 +856,9 @@
     "Instructional Material":"2014-07",
     "Stats":"ecos",
     "Description":"ECOS is a lightweight primal-dual homogeneous interior-point solver for SOCPs, for use in embedded systems as well as a base solver for use in large scale distributed solvers. It is described in the paper at http://www.stanford.edu/~boyd/papers/ecos.html.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -854,8 +871,9 @@
     "Instructional Material":"2014-07",
     "Stats":"ecos",
     "Description":"This library contains sample implementations of various proximal operators in Matlab. These implementations are intended to be pedagogical, not the most performant. This code is associated with the paper Proximal Algorithms by Neal Parikh and Stephen Boyd.",
-    "Xdata Git Location":"",
+    "Internal Code Repo":"",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
 
@@ -869,8 +887,9 @@
     "Instructional Material":"2014-07",
     "Stats":"imMens",
     "Description":"imMens is a web-based system for interactive visualization of large databases. imMens uses binned aggregation to produce summary visualizations that avoid the shortcomings of standard sampling-based approaches. Through data decomposition methods (to limit data transfer) and GPU computation via WebGL (for parallel query processing), imMens enables real-time (50fps) visual querying of billion+ element databases.",
-    "Xdata Git Location":"tools\\analytics\\stanford-h",
+    "Internal Code Repo":"tools\\analytics\\stanford-h",
     "License":["BSD"],
+    "Languages":[""],
     "Categories":["Visualization"]
 },
   {
@@ -883,8 +902,9 @@
     "Instructional Material":"2014-07",
     "Stats":"trelliscope",
     "Description":"Trellis Display, developed in the 90s, also divides the data. A visualization method is applied to each subset and shown on one panel of a multi-panel trellis display.  This framework is a very powerful mechanism for all data, large and small.  Trelliscope, a layer that uses datadr, extends Trellis to large complex data.  An interactive viewer is available for viewing subsets of very large displays, and the software provides the capability to sample subsets of panels from rigorous sampling plans.  Sampling is often necessary because in most applications, there are too many subsets to look at them all.",
-    "Xdata Git Location":"tools\\analytics\\stanford-h",
+    "Internal Code Repo":"tools\\analytics\\stanford-h",
     "License":["BSD"],
+    "Languages":[""],
     "Categories":["Visualization"]
 },
   {
@@ -897,8 +917,9 @@
     "Instructional Material":"2014-07",
     "Stats":"RHIPE",
     "Description":"In Divide and Recombine (D&R), big data are divided into subsets in one or more ways, forming divisions. Analytic methods, numeric-categorical methods of machine learning and statistics plus visualization methods, are applied to each of the subsets of a division. Then the subset outputs for each method are recombined.  D&R methods of division and recombination seek to make the statistical accuracy of recombinations as large as possible, ideally close to that of the hypothetical direct, all-data application of the methods. The D&R computational environment starts with RHIPE, a merger of R and Hadoop. RHIPE allows an analyst to carry out D&R analysis of big data wholly from within R, and use any of the thousands of methods available in R. RHIPE communicates with Hadoop to carry out the big, parallel computations.",
-    "Xdata Git Location":"tools\\analytics\\stanford-h",
+    "Internal Code Repo":"tools\\analytics\\stanford-h",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -910,8 +931,9 @@
     "Public Code Repo":"https://github.com/jtalbot/riposte.git",
     "Instructional Material":"2014-07",
     "Stats":"riposte",
-    "Description":"Riposte is a fast interpreter and JIT for R. The Riposte VM has 2 cooperative subVMs for R scripting (like Java) and for R vector computation (like APL). Our scripting code has been 2-4x faster in Riposte than in R's recent bytecode interpreter. Vector-heavy code is 5-10x faster.  Speeding up R can greatly increases the analyst's efficiency.",
+    "Description":"Riposte is a fast interpreter and JIT for R. The Riposte VM has two cooperative subVMs for R scripting (like Java) and for R vector computation (like APL). Our scripting code has been 2-4x faster in Riposte than in R's recent bytecode interpreter. Vector-heavy code is 5-10x faster. Speeding up R can greatly increase the analyst's efficiency.",
     "License":["BSD"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -924,8 +946,9 @@
     "Instructional Material":"2014-07",
     "Stats":"Delite",
     "Description":"Delite is a compiler framework and runtime for parallel embedded domain-specific languages (DSLs).",
-    "Xdata Git Location":"tools\\analytics\\stanford-o",
+    "Internal Code Repo":"tools\\analytics\\stanford-o",
     "License":["BSD"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -938,8 +961,9 @@
     "Instructional Material":"2014-07",
     "Stats":"snap",
     "Description":"Stanford Network Analysis Platform (SNAP) is a general purpose network analysis and graph mining library. It is written in C++ and easily scales to massive networks with hundreds of millions of nodes, and billions of edges. It efficiently manipulates large graphs, calculates structural properties, generates regular and random graphs, and supports attributes on nodes and edges.",
-    "Xdata Git Location":"tools\\analytics\\stanford-o",
+    "Internal Code Repo":"tools\\analytics\\stanford-o",
     "License":["BSD"],
+    "Languages":["C++"],
     "Categories":["Infrastructure"]
 },
   {
@@ -951,9 +975,10 @@
     "Public Code Repo":"https://bigdata.svn.sourceforge.net/svnroot/bigdata/",
     "Instructional Material":"2014-07",
     "Stats":"bigdata",
-    "Description":"Bigdata enables massively parallel graph processing on GPUs and many core CPUs. The approach is based on the decomposition of a graph algorithm as a vertex program. The initial implementation supports an API based on the GraphLab 2.1 Gather Apply Scatter (GAS) API. Execution is available on GPUs, Intel Xenon Phi (aka MIC), and multi-core GPUs. ",
-    "Xdata Git Location":"tools\\analytics\\SYSTAP",
+    "Description":"Bigdata enables massively parallel graph processing on GPUs and many core CPUs. The approach is based on the decomposition of a graph algorithm as a vertex program. The initial implementation supports an API based on the GraphLab 2.1 Gather Apply Scatter (GAS) API. Execution is available on GPUs, Intel Xenon Phi (aka MIC), and multi-core GPUs.",
+    "Internal Code Repo":"tools\\analytics\\SYSTAP",
     "License":["GPLv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -965,9 +990,10 @@
     "Public Code Repo":"http://svn.code.sf.net/p/mpgraph/code/",
     "Instructional Material":"2014-07",
     "Stats":"mpgraph",
-    "Description":"Mpgraph enables massively parallel graph processing on GPUs and many core CPUs. The approach is based on the decomposition of a graph algorithm as a vertex program. The initial implementation supports an API based on the GraphLab 2.1 Gather Apply Scatter (GAS) API. Execution is available on GPUs, Intel Xenon Phi (aka MIC), and multi-core GPUs. ",
-    "Xdata Git Location":"tools\\analytics\\SYSTAP",
+    "Description":"Mpgraph enables massively parallel graph processing on GPUs and many core CPUs. The approach is based on the decomposition of a graph algorithm as a vertex program. The initial implementation supports an API based on the GraphLab 2.1 Gather Apply Scatter (GAS) API. Execution is available on GPUs, Intel Xenon Phi (aka MIC), and multi-core GPUs.",
+    "Internal Code Repo":"tools\\analytics\\SYSTAP",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -980,8 +1006,9 @@
     "Instructional Material":"2014-07",
     "Stats":"gunrock",
     "Description":"Gunrock is a CUDA library for graph primitives that refactors, integrates, and generalizes best-of-class GPU implementations of breadth-first search, connected components, and betweenness centrality into a unified code base useful for future development of high-performance GPU graph primitives.",
-    "Xdata Git Location":"tools\\analytics\\SYSTAP",
+    "Internal Code Repo":"tools\\analytics\\SYSTAP",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Analytics"]
 },
   {
@@ -994,10 +1021,9 @@
     "Instructional Material":"2014-07",
     "Stats":"xdatalogger",
     "Description":"Analytic Activity Logger is an API that creates a common message passing interface to allow heterogeneous software components to communicate with an activity logging engine.  Recording a user's analytic activities enables estimation of operational context and workflow.  Combined with psychophysiology sensing, analytic activity logging further enables estimation of the user's arousal, cognitive load, and engagement with the tool.",
-    "Xdata Git Location":"tools\\utilities\\draper",
+    "Internal Code Repo":"tools\\utilities\\draper",
     "License":["ALv2"],
-    "Language (Primary)":"Javascript",
-    "Language (Secondary)":"",
+    "Languages":["Javascript"],
     "Categories":["Infrastructure"]
 },
   {
@@ -1010,8 +1036,9 @@
     "Instructional Material":"2014-07",
     "Stats":"",
     "Description":"BDAS, the Berkeley Data Analytics Stack, is an open source software stack that integrates software components being built by the AMPLab to make sense of Big Data.",
-    "Xdata Git Location":"N/A",
+    "Internal Code Repo":"N/A",
     "License":["ALv2", "BSD"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -1024,8 +1051,9 @@
     "Instructional Material":"2014-07",
     "Stats":"incubator-spark",
     "Description":"Apache Spark is an open source cluster computing system that aims to make data analytics both fast to run and fast to write. To run programs faster, Spark offers a general execution model that can optimize arbitrary operator graphs, and supports in-memory computing, which lets it query data faster than disk-based engines like Hadoop. To make programming faster, Spark provides clean, concise APIs in Python, Scala and Java. You can also use Spark interactively from the Scala and Python shells to rapidly query big datasets.",
-    "Xdata Git Location":"N/A",
+    "Internal Code Repo":"N/A",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -1038,8 +1066,9 @@
     "Instructional Material":"2014-07",
     "Stats":"shark",
     "Description":"Shark is a large-scale data warehouse system for Spark that is designed to be compatible with Apache Hive. It can execute Hive QL queries up to 100 times faster than Hive without any modification to the existing data or queries. Shark supports Hive's query language, metastore, serialization formats, and user-defined functions, providing seamless integration with existing Hive deployments and a familiar, more powerful option for new ones.",
-    "Xdata Git Location":"N/A",
+    "Internal Code Repo":"N/A",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -1051,9 +1080,10 @@
     "Public Code Repo":"https://github.com/sameeragarwal/blinkdb.git",
     "Instructional Material":"2014-07",
     "Stats":"blinkdb",
-    "Description":"BlinkDB is a massively parallel, approximate query engine for running interactive SQL queries on large volumes of data. It allows users to trade-off query accuracy for response time, enabling interactive queries over massive data by running queries on data samples and presenting results annotated with meaningful error bars. To achieve this, BlinkDB uses two key ideas: (1) An adaptive optimization framework that builds and maintains a set of multi-dimensional samples from original data over time, and (2) A dynamic sample selection strategy that selects an appropriately sized sample based on a query's accuracy and/or response time requirements. We have evaluated BlinkDB on the well-known TPC-H benchmarks, a real-world analytic workload derived from Conviva Inc. and are in the process of deploying it at Facebook Inc. ",
-    "Xdata Git Location":"N/A",
+    "Description":"BlinkDB is a massively parallel, approximate query engine for running interactive SQL queries on large volumes of data. It allows users to trade-off query accuracy for response time, enabling interactive queries over massive data by running queries on data samples and presenting results annotated with meaningful error bars. To achieve this, BlinkDB uses two key ideas: (1) An adaptive optimization framework that builds and maintains a set of multi-dimensional samples from original data over time, and (2) A dynamic sample selection strategy that selects an appropriately sized sample based on a query's accuracy and/or response time requirements. We have evaluated BlinkDB on the well-known TPC-H benchmarks, a real-world analytic workload derived from Conviva Inc. and are in the process of deploying it at Facebook Inc.",
+    "Internal Code Repo":"N/A",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -1066,8 +1096,9 @@
     "Instructional Material":"2014-07",
     "Stats":"mesos",
     "Description":"Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, MPI, Hypertable, Spark, and other applications on a dynamically shared pool of nodes.",
-    "Xdata Git Location":"N/A",
+    "Internal Code Repo":"N/A",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -1080,8 +1111,9 @@
     "Instructional Material":"2014-07",
     "Stats":"tachyon",
     "Description":"Tachyon is a fault tolerant distributed file system enabling reliable file sharing at memory-speed across cluster frameworks, such as Spark and MapReduce. It achieves high performance by leveraging lineage information and using memory aggressively. Tachyon caches working set files in memory, and enables different jobs/queries and frameworks to access cached files at memory speed. Thus, Tachyon avoids going to disk to load datasets that are frequently read.",
-    "Xdata Git Location":"N/A",
+    "Internal Code Repo":"N/A",
     "License":["BSD"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 },
   {
@@ -1094,8 +1126,9 @@
     "Instructional Material":"2014-07",
     "Stats":"goffish",
     "Description":"The GoFFish project offers a distributed framework for storing timeseries graphs and composing graph analytics. It takes a clean-slate approach that leverages best practices and patterns from scalable data analytics such as Hadoop, HDFS, Hive, and Giraph, but with an emphasis on performing native analytics on graph (rather than tuple) data structures. This offers an more intuitive storage, access and programming model for graph datasets while also ensuring performance optimized for efficient analysis over large graphs (millions-billions of vertices) and many instances of them (thousands-millions of graph instances).",
-    "Xdata Git Location":"N/A",
+    "Internal Code Repo":"N/A",
     "License":["ALv2"],
+    "Languages":[""],
     "Categories":["Infrastructure"]
 }
 ]
