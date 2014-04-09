@@ -56,7 +56,7 @@
 "Program Teams": ["Galois"],
 "Software": "Ivory",
 "Internal Link": "",
-"External Link": "http://smaccmpilot.org/",
+"External Link": "https://github.com/GaloisInc/ivory",
 "Public Code Repo": "https://github.com/GaloisInc/smaccmpilot-build.git",
 "Description": "Ivory is an embedded domain-specific language for safer systems programming. Ivory is implemented as a library of the Haskell programming language. Ivory programs are written using Haskell syntax and types.Ivory is not a general purpose programming language. It aims to be a good language for writing a restricted subset of programs. Ivory gives strong guarantees of type and memory safety, and has features which allow the programmer to specify other safety properties. Ivory is well suited for writing programs which interact directly with hardware and do not require dynamic memory allocation. Ivory can be considered to be a lot like a restricted version of the C programming language, embedded in Haskell.",
 "Internal Code Repo": "",
