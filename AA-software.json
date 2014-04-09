@@ -4,7 +4,7 @@
   "Program Teams":["Allure Security Technology Inc."],
   "Software":"RUU Active Authentication Sensor for Windows",
   "Public Code Repo":"anna.weeks@us.af.mil",
-  "Description":"Software for collecting user OS interactions, generating a discriminitative user model, and taking appropriate masquarader mitigation measures for the Windows platform.",
+  "Description":"Software for collecting user OS interactions, generating a discriminative user model, and taking appropriate masquerader mitigation measures for the Windows platform.",
   "License":["GPR"],
   "Categories":["Identify Management"]
 },
@@ -22,7 +22,7 @@
   "Program Teams":["Allure Security Technology Inc."],
   "Software":"RUU Active Authentication Sensor for Mac",
   "Public Code Repo":"anna.weeks@us.af.mil",
-  "Description":"Software for collecting user OS interactions, generating a discriminitative user model, and taking appropriate masquarader mitigation measures for Mac devices.",
+  "Description":"Software for collecting user OS interactions, generating a discriminative user model, and taking appropriate masquerader mitigation measures for Mac devices.",
   "License":["GPR"],
   "Categories":["Identify Management"]
 },
@@ -59,7 +59,7 @@
   "Software":"Screen Web Interface Visual Analysis Software",
   "External Link":"http://www.vizweb.org/",
   "Public Code Repo":"https://bitbucket.org/rmardiko/vizweb.git",
-  "Description":"This is software for computing visual features from screenshots.",
+  "Description":"This is software for computing visual features from screen shots.",
   "License":["MIT"],
   "Categories":["Identify Management"]
 }
