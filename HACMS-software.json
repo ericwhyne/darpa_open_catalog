@@ -253,7 +253,7 @@
 "Internal Link": "",
 "External Link": "",
 "Public Code Repo": "Not Ready for Release",
-"Description": "A constant-speed cruise control for LandShark that ensures vehicle maintains speed when some sensors are attacked (e.g., attack on encoders & GPS spoofing).  Also includes adaptive cruise control for an American Built Car based on the CarSim simulator.",
+"Description": "A constant-speed cruise control for LandShark that ensures the vehicle maintains speed when some sensors are attacked (e.g., attack on encoders & GPS spoofing).  Also includes adaptive cruise control for an American Built Car based on the CarSim simulator.",
 "Internal Code Repo": "",
 "License": ["GPL"],
 "Languages": [""],

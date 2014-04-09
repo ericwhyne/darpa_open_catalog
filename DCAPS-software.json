@@ -6,7 +6,7 @@
 	"Internal Link":"",
 	"External Link":"http://www.cogitocorp.com/research-showcase/",
 	"Public Code Repo":"daniel.ragsdale@darpa.mil",
-	"Description":"VetGuard is part of a mobile-enabled \"stepped-care\" platform that provides three major technical components: Cogito dialog (shows voice interactions between two interactants, off-the-shelf), Cogito central (datasets of large human interactions, finding targets of interventions) commercially available in 2 months), and Cogito companion, which includes VetGuard (TRL6).",
+	"Description":"VetGuard is part of a mobile-enabled \"stepped-care\" platform that provides three major technical components: Cogito dialog (shows voice interactions between two interactants, off-the-shelf), Cogito central (datasets of large human interactions, finding targets of interventions, commercially available in 2 months), and Cogito companion, which includes VetGuard (TRL6).",
 	"Internal Code Repo":"",
 	"License":["GPR"],
 	"Languages":["C++", "Java", "Python"],

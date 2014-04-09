@@ -1,16 +1,6 @@
 [
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["LDC"],
-  "Title":"Annotation Trees: LDC's Customizable, Extensible, Scalable Annotation Infrastructure",
-  "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-annotation-trees.pdf",
-  "Authors":["Jonathan Wright","Kira Griffitt","Joe Ellis","Stephanie Strassel","Brendan Callahan"],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
   "Program Teams":["(Wisc Team) Indiana University"],
   "Title":"Knowledge Intensive Learning: Combining Qualitative Constraints with Causal Independence for Parameter Learning in Probabilistic Models",
   "Link":"http://homes.soic.indiana.edu/natarasr/Papers/KIL_ECML13.pdf",
@@ -55,16 +45,6 @@
   "Title":"Lifted Parameter Learning in Relational Models",
   "Link":"http://homes.soic.indiana.edu/natarasr/Papers/lifted_parameter_SRL12.pdf",
   "Authors":["Babak Ahmadi","Kristian Kersting","Sriraam Natarajan"],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
-  "Program Teams":["(WiscTeam) Indiana University","Cycorp","University of Wisconsin-Madison","TU Dormund","Oregon State University"],
-  "Title":"Accelerating Imitation Learning in Relational Domains via Transfer by Initialization",
-  "Link":"Not Yet Published",
-  "Authors":["Sriraam Natarajan","Phillip Odom","Saket Joshi","Tushar Khot","Kristian Kersting","Prasad Tadepalli"],
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -303,16 +283,6 @@
   "DARPA Program":"DEFT",
   "Program Teams":["CMUCS"],
   "Title":"Programming with Personalized PageRank: A Locally Groundable First-Order Probabilistic Logic",
-  "Link":"http://www.cikm2013.org/accepted.php",
-  "Authors":["W.Y. Wang","K. Mazaitis","W.W. Cohen"],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
-  "Program Teams":["CMUCS"],
-  "Title":"Programming with Personalized PageRank: A Locally Groundable First-Order Probabilistic Logic",
   "Link":"http://sites.google.com/site/inferning12/",
   "Authors":["W.Y. Wang","K. Mazaitis","W.W. Cohen"],
   "Categories":[""],
@@ -325,16 +295,6 @@
   "Title":"Story-Level Inference and Gap Filling to Improve Machine Reading",
   "Link":"http://www.isi.edu/~hans/publications/FLAIRS12.pdf",
   "Authors":["H. Chalupsky"],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
-  "Program Teams":["CMUCS"],
-  "Title":"Abstract Meaning Representation for Sembanking",
-  "Link":"http://www.isi.edu/natural-language/amr/a.pdf",
-  "Authors":["L. Banarescu","C. Bonial","Shu Cai","M.a Georgescu","K. Griffitt","U. Hermjakob","K. Knight","Ph. Koehn","M. Palmer","N. Schneider"],
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -405,16 +365,6 @@
   "Title":"Minibatch and Parallelization for Online Large Margin Structured Learning",
   "Link":"http://acl.cs.qc.cuny.edu/~kzhao/papers/minibatch.pdf",
   "Authors":["Kai Zhao","Liang Huang"],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
-  "Program Teams":["CUNY"],
-  "Title":"Joint Event Extraction via Structured Prediction with Global Features",
-  "Link":"http://acl.cs.qc.edu/papers/jointIE.pdf",
-  "Authors":["Qi Li","Heng Ji","Liang Huang"],
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -495,26 +445,6 @@
   "Title":"CASTLE: Crowd-Assisted System for Textual Labeling & Extraction",
   "Link":"http://www.humancomputation.com/2013/index.html",
   "Authors":["Sean Goldberg","Daisy Zhe Wang","Tim Kraska"],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
-  "Program Teams":["JHU","University of Pennsylvania"],
-  "Title":"PARMA: A Predicate Argument Aligner",
-  "Link":"http://cs.jhu.edu/~vandurme/papers/parma-a-predicate-argument-linker.pdf",
-  "Authors":["Travis Wolfe","Benjamin Van Durme","Mark Dredze","Nicholas Andrews","Charley Beller","Chris Callison-Burch","Jay DeYoung","Justin Snyder","Jonathan Weese","Tan Xu","Xuchen Yao"],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
-  "Program Teams":["JHU","University of Pennsylvania"],
-  "Title":"PPDB: The Paraphrase Database",
-  "Link":"http://cs.jhu.edu/~vandurme/papers/PPDB-The-Paraphrase-Database_NAACL_2013.pdf",
-  "Authors":["Juri Ganitkevitch","Benjamin Van Durme","Chris Callison-Burch"],
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -645,16 +575,6 @@
   "Title":"EventCube: Multi-Dimensional Search and Mining of Structured and Text Data",
   "Link":"http://dl.acm.org/citation.cfm?id=2487575.2487718",
   "Authors":["Fangbo Tao","Kin Hou Lei","Jiawei Han","Chengxiang Zhai","Xiao Cheng","Marina Danielevsky","Nihit Desai","Bolin Ding","Jing Ge","Heng Ji","Rucha Kanade","Anne Kao","Qi Li","Yanen Li","Cindy Xide Lin","Jialiu Liu","Nikunj Oza","Ashok Srivastava","Rod Tjoelker","Chi Wang","Duo Zhang","Bo Zhao"],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
-  "Program Teams":["RPI","Columbia"],
-  "Title":"Linking Tweets to News: A Framework to Enrich Online Short Text Data",
-  "Link":"http://aclweb.org/anthology/P/P13/P13-1024.pdf",
-  "Authors":["Weiwei Guo","Hao Li","Heng Ji","Mona Diab"],
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -1242,16 +1162,6 @@
 {
   "DARPA Program":"DEFT",
   "Program Teams":["University of Massachusetts Amherst"],
-  "Title":"Relation Extraction with Matrix Factorization and Universal Schemas",
-  "Link":"http://ciir-publications.cs.umass.edu/IR-948",
-  "Authors":["Riedel, S.","Yao, L.","McCallum, A.","Marlin, B."],
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"DEFT",
-  "Program Teams":["University of Massachusetts Amherst"],
   "Title":"Dynamic Knowledge-Base Alignment for Coreference Resolution",
   "Link":"http://ciir-publications.cs.umass.edu/IR-954",
   "Authors":["Zheng, J.","Vilnis, L.","Singh, S.","Choi, J.","McCallum, A."],
@@ -1354,7 +1264,7 @@
   "Program Teams":["University of Massachusetts Amherst"],
   "Title":"Relation Extraction with Matrix Factorization and Universal Schemas",
   "Link":"http://ciir-publications.cs.umass.edu/IR-948",
-  "Authors":["Riedel, S.","Yao, L.","McCallum, A.", "Marlin, B."],
+  "Authors":["Riedel, S.","Yao, L.","McCallum, A.","Marlin, B."],
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -1611,7 +1521,7 @@
 },
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["USC/ISI","LDC","Colorado"],
+  "Program Teams":["USC/ISI","LDC","Colorado","CMUCS"],
   "Title":"Abstract Meaning Representation for Sembanking",
   "Link":"http://www.isi.edu/natural-language/amr/a.pdf",
   "Authors":["L. Banarescu","C. Bonial","S. Cai","M. Georgescu","K. Griffitt","U. Hermjakob","K. Knight","P. Koehn","M. Palmer","N. Schneider"],
@@ -1761,7 +1671,7 @@
 },
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["JHU/Upenn"],
+  "Program Teams":["JHU","University of Pennsylvania"],
   "Title":"PARMA: A Predicate Argument Aligner",
   "Link":"http://cs.jhu.edu/~vandurme/papers/parma-a-predicate-argument-linker.pdf",
   "Authors":["Travis Wolfe","Benjamin Van Durme","Mark Dredze","Nicholas Andrews","Charley Beller","Chris Callison-Burch","Jay DeYoung","Justin Snyder","Jonathan Weese","Tan Xu","Xuchen Yao"],
@@ -1771,7 +1681,7 @@
 },
 {
   "DARPA Program":"DEFT",
-  "Program Teams":["JHU/Upenn"],
+  "Program Teams":["JHU","University of Pennsylvania"],
   "Title":"PPDB: The Paraphrase Database",
   "Link":"http://cs.jhu.edu/~vandurme/papers/PPDB-The-Paraphrase-Database_NAACL_2013.pdf",
   "Authors":["Juri Ganitkevitch","Benjamin Van Durme","Chris Callison-Burch"],
