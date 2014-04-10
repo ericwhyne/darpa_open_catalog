@@ -2,6 +2,7 @@
 {
     "DARPA Program Name": "DCAPS",
     "Program Teams":["Cogito Health"],
+	"Contributors":[""],
 	"Software":"VetGuard",
 	"Internal Link":"",
 	"External Link":"http://www.cogitocorp.com/research-showcase/",
@@ -15,6 +16,7 @@
 {
     "DARPA Program Name": "DCAPS",
     "Program Teams":["Poulin Holdings"],
+	"Contributors":[""],
 	"Software":"Durkheim System",
 	"Internal Link":"",
 	"External Link":"",
@@ -28,6 +30,7 @@
 {
     "DARPA Program Name": "DCAPS",
     "Program Teams":["BBN", "Raytheon"],
+	"Contributors":[""],
 	"Software":"MINAT",
 	"Internal Link":"",
 	"External Link":"",
@@ -41,6 +44,7 @@
 {
     "DARPA Program Name": "DCAPS",
     "Program Teams":["BBN", "Intific", "ABM"],
+	"Contributors":[""],
 	"Software":"NeuroAnalysis",
 	"Internal Link":"",
 	"External Link":"",
@@ -54,6 +58,7 @@
 {
     "DARPA Program Name": "DCAPS",
     "Program Teams":["USC","ICT"],
+	"Contributors":[""],
 	"Software":"SimSensei",
 	"Internal Link":"",
 	"External Link":"http://ict.usc.edu/prototypes/simsensei/",
