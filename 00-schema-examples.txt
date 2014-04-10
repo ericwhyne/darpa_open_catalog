@@ -16,6 +16,7 @@ Software:
 {
     "DARPA Program":"XData",
     "Program Teams":["Kitware, Inc.", "Another Team"]
+	"Contributors":[""],
     "Software":"Tangelo",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://kitware.github.io/tangelo/",
