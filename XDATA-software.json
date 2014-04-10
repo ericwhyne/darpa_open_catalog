@@ -2,7 +2,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Aptima Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Network Query by Example",
     "Internal Link":"",
     "External Link":"https://github.com/Aptima/pattern-matching",
@@ -18,7 +18,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Boeing","University of Pittsburgh"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"SMILE-WIDE:  A scalable Bayesian network library",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Boeing+-+Pitt",
     "External Link":"http://smilewide.github.io/main/",
@@ -34,7 +34,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Carnegie Mellon University"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Support Distribution Machines",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717624",
     "External Link":"https://github.com/dougalsutherland/py-sdm",
@@ -50,7 +50,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Continuum Analytics"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Blaze",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"https://github.com/ContinuumIO/blaze",
@@ -66,7 +66,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Continuum Analytics"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Numba",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"https://github.com/numba/numba",
@@ -82,7 +82,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Continuum Analytics"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Bokeh",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"http://bokeh.pydata.org",
@@ -98,7 +98,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Continuum Analytics","Indiana University"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Abstract Rendering",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"http://www.github.com/JosephCottam/AbstractRendering",
@@ -114,7 +114,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Continuum Analytics"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"CDX",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"https://github.com/ContinuumIO/cdx",
@@ -130,7 +130,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Continuum Analytics","Indiana University"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Stencil",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"https://github.com/JosephCottam/Stencil",
@@ -146,7 +146,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Data Tactics Corporation"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Vowpal Wabbit",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Cloud+Analytics+for+Structure+Extractions+%28CASE%29+Group",
     "External Link":"https://github.com/JohnLangford/vowpal_wabbit",
@@ -162,7 +162,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Data Tactics Corporation"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Circuit",
     "Internal Link":"",
     "External Link":"http://www.gocircuit.org/",
@@ -194,7 +194,7 @@
 {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Giant Oak Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Markov modulated Poisson process for event detection",
     "Internal Link":"",
     "External Link":"https://github.com/giantoak/MMPP",
@@ -210,7 +210,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["IBM Research"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"SKYLARK: Randomized Numerical Linear Algebra and ML",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=2752591",
     "External Link":"http://xdata-skylark.github.io/",
@@ -226,7 +226,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Institute for Creative Technologies","USC"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Immersive Body-Based Interactions",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274668",
     "External Link":"",
@@ -242,7 +242,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Johns Hopkins University"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"igraph",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Johns+Hopkins+University",
     "External Link":"https://github.com/igraph/xdata-igraph/",
@@ -258,7 +258,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Trifacta (Stanford, University of Washington, Kitware, Inc. Team)"],
-	"Subcontractors":["Trifacta"],
+	"Contributors":["Trifacta"],
     "Software":"Vega",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"https://github.com/trifacta/vega",
@@ -274,7 +274,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Kitware, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Tangelo",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://kitware.github.io/tangelo/",
@@ -290,7 +290,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Harvard","Kitware, Inc."],
-	"Subcontractors":["Johannes Kepler University Linz"],
+	"Contributors":["Johannes Kepler University Linz"],
     "Software":"LineUp",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://sgratzl.github.io/paper-2013-lineup/",
@@ -306,7 +306,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Harvard","Kitware, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"LineUp Web",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://sgratzl.github.io/paper-2013-lineup/",
@@ -322,7 +322,7 @@
  {
     "DARPA Program Name": "XDATA",
     "Program Teams":["The New School"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Visualization Widgets",
     "External Link":"https://github.com/piim/xdata-visualization-widgets",
     "Public Code Repo":"https://github.com/piim/xdata-visualization-widgets.git",
@@ -337,7 +337,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford", "University of Washington", "Kitware, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Lyra",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://idl.cs.washington.edu/projects/lyra",
@@ -353,7 +353,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Phronesis"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"stat_agg",
     "Internal Link":"",
     "External Link":"https://github.com/kaneplusplus/stat_agg",
@@ -369,7 +369,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Phronesis"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"flexmem",
     "Internal Link":"",
     "External Link":"https://github.com/kaneplusplus/flexmem",
@@ -385,7 +385,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Phronesis"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"laputa",
     "Internal Link":"",
     "External Link":"https://github.com/kaneplusplus/laputa",
@@ -401,7 +401,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Phronesis"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"bigmemory",
     "Internal Link":"",
     "External Link":"http://bigmemory.org/",
@@ -417,7 +417,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Phronesis"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"bigalgebra",
     "Internal Link":"",
     "External Link":"http://bigmemory.org/",
@@ -433,7 +433,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["MDA Information Systems, Inc.", "Jet Propulsion Laboratory", "USC/Information Sciences Institute"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"OODT",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
     "External Link":"http://oodt.apache.org/",
@@ -449,7 +449,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["MDA Information Systems, Inc.","Jet Propulsion Laboratory", "USC/Information Sciences Institute"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Wings",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
     "External Link":"http://www.wings-workflows.org/",
@@ -465,7 +465,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["MIT-LL"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Query By Example (Graph QuBE)",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
     "External Link":"",
@@ -481,7 +481,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["MIT-LL"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Julia",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
     "External Link":"http://julialang.org/",
@@ -497,7 +497,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["MIT-LL"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Topic",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
     "External Link":"",
@@ -513,7 +513,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["MIT-LL"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"SciDB",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
     "External Link":"http://scidb.org",
@@ -529,7 +529,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["MIT-LL"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Information Extractor",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
     "External Link":"https://github.com/mitll/MITIE",
@@ -545,7 +545,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Next Century Corporation"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Ozone Widget Framework",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Neon+-+Next+Century",
     "External Link":"http://owfgoss.org/download.html",
@@ -561,7 +561,7 @@
 {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Next Century Corporation"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Neon Visualization Environment",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Neon+-+Next+Century",
     "External Link":"http://neonframework.org/",
@@ -577,7 +577,7 @@
 {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Oculus Info, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"ApertureJS",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
     "External Link":"http://aperturejs.com/",
@@ -595,7 +595,7 @@
 {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Oculus Info, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Influent",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
     "External Link":"http://www.oculusinfo.com/influent",
@@ -612,7 +612,7 @@
 {
    "DARPA Program Name": "XDATA",
    "Program Teams":["Oculus Info, Inc."],
-   "Subcontractors":[""],
+   "Contributors":[""],
    "Software":"Aperture Tile-Based Visual Analytics",
    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
    "External Link":"http://www.oculusinfo.com/tiles",
@@ -628,7 +628,7 @@
 {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Oculus Info, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Oculus Ensemble Clustering",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
     "External Link":"https://github.com/oculusinfo/ensemble-clustering",
@@ -644,7 +644,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Raytheon BBN"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Content and Context-based Graph Analysis: PINT, Patterns in Near-Real Time",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Raytheon+BBN+Technologies",
     "External Link":"https://github.com/plamenbbn/XDATA",
@@ -660,7 +660,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Raytheon BBN"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Content and Context-based Graph Analysis: NILS, Network Inference of Link Strength",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Raytheon+BBN+Technologies",
     "External Link":"https://github.com/plamenbbn/XDATA",
@@ -676,7 +676,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Royal Caliber"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"A vertex-centric CUDA/C++ API for large graph analytics on GPUs using the Gather-Apply-Scatter abstraction",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Royal+Caliber+LLC%2C+VertexAPI+for+GPU+Graph+Analytics",
     "External Link":"https://github.com/RoyalCaliber/vertexAPI2",
@@ -692,7 +692,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Scientific Systems Company, Inc.", "MIT", "University of Louisville"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"BayesDB",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274588",
     "External Link":"http://probcomp.csail.mit.edu/bayesdb/",
@@ -708,7 +708,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Scientific Systems Company, Inc.", "MIT", "University of Louisville"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Crosscat",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274588",
     "External Link":"http://probcomp.csail.mit.edu/crosscat/",
@@ -724,7 +724,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Sotera Defense Solutions, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Zephyr",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
     "External Link":"http://github.com/Sotera/zephyr",
@@ -740,7 +740,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Sotera Defense Solutions, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Page Rank",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
     "External Link":"https://github.com/Sotera/page-rank",
@@ -756,7 +756,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Sotera Defense Solutions, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"High Betweenness Set Extraction",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
     "External Link":"https://github.com/Sotera/high-betweenness-set-extraction",
@@ -772,7 +772,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Sotera Defense Solutions, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Louvain Modularity",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
     "External Link":"http://sotera.github.io/distributed-louvain-modularity/",
@@ -788,7 +788,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Sotera Defense Solutions, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Spark MicroPath",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
     "External Link":"http://sotera.github.io/aggregate-micro-paths/",
@@ -804,7 +804,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Sotera Defense Solutions, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"ARIMA",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
     "External Link":"https://github.com/Sotera/rhipe-arima",
@@ -820,7 +820,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Sotera Defense Solutions, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":" Leaf Compression",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
     "External Link":"https://github.com/Sotera/leaf-compression",
@@ -836,7 +836,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Sotera Defense Solutions, Inc."],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Correlation Approximation",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
     "External Link":"https://github.com/Sotera/correlation-approximation",
@@ -852,7 +852,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Boyd"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"QCML (Quadratic Cone Modeling Language)",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
     "External Link":"https://github.com/cvxgrp/qcml",
@@ -868,7 +868,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Boyd"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"PDOS (Primal-dual operator splitting)",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
     "External Link":"https://github.com/cvxgrp/pdos",
@@ -884,7 +884,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Boyd"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"SCS (Self-dual Cone Solver)",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
     "External Link":"https://github.com/cvxgrp/scs",
@@ -900,7 +900,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Boyd"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"ECOS: An SOCP Solver for Embedded Systems",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
     "External Link":"https://github.com/ifa-ethz/ecos",
@@ -916,7 +916,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Boyd"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Proximal Operators",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
     "External Link":"https://github.com/cvxgrp/proximal",
@@ -933,7 +933,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Hanrahan"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"imMens",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
     "External Link":"http://vis.stanford.edu/projects/immens/",
@@ -949,7 +949,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Hanrahan"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"trelliscope",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
     "External Link":"http://hafen.github.io/trelliscope/",
@@ -965,7 +965,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Hanrahan"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"RHIPE: R and Hadoop Integrated Programming Environment",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
     "External Link":"http://www.datadr.org/",
@@ -981,7 +981,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Hanrahan"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Riposte",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
     "External Link":"https://github.com/jtalbot/riposte",
@@ -996,7 +996,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Olukotun"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Delite",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/Stanford+XGraph",
     "External Link":"https://github.com/stanford-ppl/delite",
@@ -1012,7 +1012,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Stanford University - Olukotun"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"SNAP",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/Stanford+XGraph",
     "External Link":"https://snap.stanford.edu/",
@@ -1028,7 +1028,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["SYSTAP, LLC"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"bigdata",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/SYSTAP%2C+LLC",
     "External Link":"http://sourceforge.net/projects/bigdata/",
@@ -1044,7 +1044,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["SYSTAP, LLC"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"mpgraph",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/SYSTAP%2C+LLC",
     "External Link":"https://sourceforge.net/projects/mpgraph/",
@@ -1060,7 +1060,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["UC Davis"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Gunrock",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/SYSTAP%2C+LLC",
     "External Link":"http://gunrock.github.io/gunrock/",
@@ -1076,7 +1076,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["Draper Laboratory"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Analytic Activity Logger",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/draper@summerCamp2013",
     "External Link":"https://github.com/draperlaboratory/xdatalogger",
@@ -1092,7 +1092,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["University of California, Berkeley"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"BDAS",
     "Internal Link":"",
     "External Link":"https://amplab.cs.berkeley.edu/software/",
@@ -1108,7 +1108,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["University of California, Berkeley"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Spark",
     "Internal Link":"",
     "External Link":"http://spark.incubator.apache.org/",
@@ -1124,7 +1124,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["University of California, Berkeley"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Shark",
     "Internal Link":"",
     "External Link":"https://github.com/amplab/shark",
@@ -1140,7 +1140,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["University of California, Berkeley"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"BlinkDB",
     "Internal Link":"N/A",
     "External Link":"http://blinkdb.org/",
@@ -1156,7 +1156,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["University of California, Berkeley"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Mesos",
     "Internal Link":"N/A",
     "External Link":"http://mesos.apache.org/",
@@ -1172,7 +1172,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["University of California, Berkeley"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"Tachyon",
     "Internal Link":"N/A",
     "External Link":"https://github.com/amplab/tachyon",
@@ -1188,7 +1188,7 @@
   {
     "DARPA Program Name": "XDATA",
     "Program Teams":["University of Southern California"],
-	"Subcontractors":[""],
+	"Contributors":[""],
     "Software":"goffish",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717524",
     "External Link":"https://github.com/usc-cloud/goffish",
