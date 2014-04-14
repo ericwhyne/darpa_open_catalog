@@ -183,7 +183,7 @@
   "DARPA Program":"ADAMS",
   "Program Teams":["SAIC"],
   "Title":"Systematic Construction of Anomaly Detection Benchmarks from Real Data",
-  "Link":"http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6171/7296",
+  "Link":"http://outlier-analytics.org/odd13kdd/papers/emmott,das,dietterich,fern,wong.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -210,7 +210,7 @@
   "DARPA Program":"ADAMS",
   "Program Teams":["SAIC"],
   "Title":"A Fast Algorithm for Streaming Betweenness Centrality",
-  "Link":"http://www.cc.gatech.edu/~ogreen3/_docs/A Fast Algorithm For Streaming Betweenness Centrality.pdf",
+  "Link":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6406265",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -219,16 +219,7 @@
   "DARPA Program":"ADAMS",
   "Program Teams":["SAIC"],
   "Title":"Faster Betweenness Centrality Based on Data Structure Experimentation",
-  "Link":"http://www.cc.gatech.edu/~ogreen3/_docs/Faster_BC_2013.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"ADAMS",
-  "Program Teams":["SAIC"],
-  "Title":"A Fast Algorithm for Streaming Betweenness Centrality",
-  "Link":"http://www.cc.gatech.edu/~ogreen3/_docs/A Fast Algorithm For Streaming Betweenness Centrality.pdf",
+  "Link":"http://www.cc.gatech.edu/~ogreen3/_docs/2013FasterBC.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -263,7 +254,7 @@
 {
   "DARPA Program":"ADAMS",
   "Program Teams":["SAIC"],
-  "Title":"Fast anomaly detection despite the duplicates",
+  "Title":"Fast anomaly detection given duplicates",
   "Link":"http://reports-archive.adm.cs.cmu.edu/anon/2012/CMU-CS-12-146.pdf",
   "Categories":[""],
   "Subcategories":[""],
@@ -362,8 +353,8 @@
 {
   "DARPA Program":"ADAMS",
   "Program Teams":["SAIC"],
-  "Title":"Fast and Accuate k-means for Large Datasets",
-  "Link":"http://books.nips.cc/papers/files/nips24/NIPS2011_1271.pdf",
+  "Title":"Fast and Accurate k-means for Large Datasets",
+  "Link":"http://papers.nips.cc/paper/4362-fast-and-accurate-k-means-for-large-datasets",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
