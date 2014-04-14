@@ -758,15 +758,6 @@
 {
   "DARPA Program":"XDATA",
   "Program Teams":["The New School"],
-  "Title":"Data Visualization for Big Data",
-  "Link":"http://www.academia.edu/6472693/Data_Visualization_for_Big_Dataf",
-  "Categories":["Design", "Knowledge Representation Formalisms and Methods"],
-  "Subcategories":["Representation"],
-  "ACM 1998 classification code":["D.2.10", "I.2.4"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["The New School"],
   "Title":"IAM - Incremental Agent-Based Mapping",
   "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/NM7qycXc7l/IAM_Cognitive_Mapping_Thesis_Parsons.pdf",
   "Categories":["Project and People Management"],
