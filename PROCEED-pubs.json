@@ -102,7 +102,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["MIT"],
   "Title":"Multiparty Computation Secure Against Continual Memory Leakage",
-  "Link":"http://web.mit.edu/eboyle/www/LR-MPC-STOC12.pdf",
+  "Link":"http://people.csail.mit.edu/abhishek/papers/LR-MPC-STOC12.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -264,7 +264,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["IBM"],
   "Title":"Ring Switching in BGV-Style Homomorphic Encryption",
-  "Link":"http://eprint.iacr.org/2012/24",
+  "Link":"http://eprint.iacr.org/2012/240",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -345,7 +345,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["UCLA"],
   "Title":"Identifying Cheaters Without an Honest Majority",
-  "Link":"http://www.cs.ucla.edu/~rafail/PUBLIC/127.pdf",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-28914-9_2#page-1",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -597,7 +597,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["UCLA"],
   "Title":"Multiparty Proximity Testing with Dishonest Majority from Equality Testing",
-  "Link":"https://eprint.iacr.org/2012/37",
+  "Link":"http://eprint.iacr.org/2012/378.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -688,15 +688,6 @@
   "Program Teams":["Cybernetica"],
   "Title":"AES block cipher implementation and secure database join on the Sharemind secure multi-party computation framework",
   "Link":"Not Yet Published",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-  },
-{
-  "DARPA Program":"PROCEED",
-  "Program Teams":["UVA"],
-  "Title":"Black-Box Proof of Knowledge of Plaintext and Multiparty Computation",
-  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-36594-2_23#page-1",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -849,15 +840,6 @@
   "Program Teams":["UCLA"],
   "Title":"Robust Pseudorandom Generators",
   "Link":"http://eprint.iacr.org/2013/671.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-  },
-{
-  "DARPA Program":"PROCEED",
-  "Program Teams":["UCLA"],
-  "Title":"Cryptography Using Captcha Puzzles",
-  "Link":"http://eprint.iacr.org/2012/689",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -1055,7 +1037,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["UVA"],
   "Title":"Using SMT Solvers to Automate Design Tasks for Encryption and Signature Schemes",
-  "Link":"http://hms.isi.jhu.edu/papers/cv_akinyele.pdf",
+  "Link":"http://dl.acm.org/citation.cfm?id=2516718",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
