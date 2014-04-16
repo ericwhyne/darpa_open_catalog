@@ -171,7 +171,7 @@
   "DARPA Program":"RATS",
   "Program Teams":["(Team IBM) LSCP","ENS/EHESS/CNRS","INRIA/ENS/CNRS","JHU"],
   "Title":"Evaluating speech features with the Minimal-Pair ABX task: Analysis of the classical MFC/PLP pipeline",
-  "Link":"http://www.lscp.net/persons/dupoux/papers/Schatz_PBJHD_mpABX_1_analysis_of_the_MFC-PLP_pipeline.Interspeech.pdf",
+  "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2013c.pdf",
   "Authors":["Thomas Schatz","Vijayaditya Peddinti","Francis Bach","Aren Jansen","Hynek Hermansky","Emmanuel Dupoux"]
 },
 {
@@ -199,7 +199,7 @@
   "DARPA Program":"RATS",
   "Program Teams":["(Team BBN) JHU"],
   "Title":"Deep Neural Network Features and Semi-Supervised Training for Low Resource Speech Recognition",
-  "Link":"http://old-site.clsp.jhu.edu/~samuel/pdfs/wk_const.pdf",
+  "Link":"http://old-site.clsp.jhu.edu/~samuel/pdfs/dnn_semisup_lr.pdf",
   "Authors":["Samuel Thomas","Michael Seltzer","Kenneth Church","Hynek Hermansky"]
 },
 {
@@ -227,14 +227,14 @@
   "DARPA Program":"RATS",
   "Program Teams":["(Team BBN) JHU"],
   "Title":"Mean Temporal Distance: Predicting ASR Error from Temporal Properties of Speech Signal",
-  "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06639105",
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639105&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6639105",
   "Authors":["Hynek Hermansky","Ehsan Variani","Vijayaditya Peddinti"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["(Team BBN) JHU"],
   "Title":"Filter-Bank Optimization for Frequency Domain Linear Prediction",
-  "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06639040",
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639040&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6639040",
   "Authors":["Vijayaditya Peddinti","Hynek Hermansky"]
 },
 {
@@ -255,7 +255,7 @@
   "DARPA Program":"RATS",
   "Program Teams":["(Team BBN) JHU"],
   "Title":"Phone recognition in critical bands using sub-band temporal modulations",
-  "Link":"http://www.isca-speech.org/archive/archive_papers/interspeech_2012/i12_1816.pdf",
+  "Link":"http://www.bibsonomy.org/bibtex/2c299b5bdd7dea9bcf9905568c4dbcaaf/dblp",
   "Authors":["Feipeng Li","Sri Harish Mallidi","Hynek Hermansky"]
 },
 {
@@ -311,14 +311,14 @@
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
   "Title":"The IBM Speech Activity Detection System for the DARPA RATS Program",
-  "Link":"http://www.interspeech2013.org/",
+  "Link":"http://old-site.clsp.jhu.edu/~sriram/papers/papers/inter2013.pdf",
   "Authors":["G. Saon","S. Thomas","H. Soltau","S. Ganapathy and B. Kingsbury"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
   "Title":"Using Polynomial Kernel Support Vector Machines for Speaker Verification, in IEEE Letters",
-  "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06557422",
+  "Link":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6557422",
   "Authors":["Sibel Yaman","Jason Pelecanos"]
 },
 {
@@ -332,42 +332,42 @@
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
   "Title":"Unifying PLDA and polynomial kernel SVMs, in proc. of IEEE ICASSP",
-  "Link":"http://www.icassp2013.com/",
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639161&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6639161",
   "Authors":["Sibel Yaman","Jason Pelecanos","Weizhong Zhu"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
   "Title":"Frame-based phonotactic language identification, SLT",
-  "Link":"http://www.slt2012.org/",
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6424240&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6424240",
   "Authors":["Kyu Han","Jason Pelecanos"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
-  "Title":"NOISY CHANNEL ADAPTATION IN LANGUAGE IDENTIFICATION, SLT",
-  "Link":"http://www.slt2012.org/",
+  "Title":"Noisy Channel Adaptation in Language Identification, SLT",
+  "Link":"http://old-site.clsp.jhu.edu/~sriram/papers/papers/slt.pdf",
   "Authors":["Sriram Ganapathy","Mohamed Omar","Jason Pelecanos"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
   "Title":"On the Use of Non-Linear Polynomial Kernel SVMs in Language Recognition, Interspeech",
-  "Link":"http://www.interspeech2012.org",
+  "Link":"http://interspeech2012.org/accepted-abstract.html?id=1244",
   "Authors":["Sibel Yaman","Jason Pelecanos","Mohamed Omar"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
   "Title":"Speech Activity Detection for Noisy Data Using Adaptation Techniques, Interspeech",
-  "Link":"http://www.interspeech2012.org",
+  "Link":"http://interspeech2012.org/accepted-abstract.html?id=1373",
   "Authors":["Mohamed Omar"]
 },
 {
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
-  "Title":"UNSUPERVISED CHANNEL ADAPTATION FOR LANGUAGE IDENTIFICATION USING CO-TRAINING, ICASSP",
-  "Link":"http://www.icassp2013.com/",
+  "Title":"Unsupervised Channel Adaptation for Language Identification Using Co-Training, ICASSP",
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6638990&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6638990",
   "Authors":["Sriram Ganapathy","Mohamed Omar","Jason Pelecanos"]
 },
 {
@@ -381,7 +381,7 @@
   "DARPA Program":"RATS",
   "Program Teams":["IBM"],
   "Title":"Enhancing Frequency Shifted Speech Signals in Single Side Band Communication, IEEE Signal Processing Letters",
-  "Link":"http://www.signalprocessingsociety.org/",
+  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6627984&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F97%2F6615960%2F06627984.pdf%3Farnumber%3D6627984",
   "Authors":["Sriram Ganapathy","Jason Pelecanos"]
 },
 {
