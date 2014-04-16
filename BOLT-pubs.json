@@ -198,20 +198,6 @@
 {
   "DARPA Program":"BOLT",
   "Program Teams":["(Team BBN) Columbia University"],
-  "Title":"Conventional Orthography for Dialectal Arabic",
-  "Link":"http://lrec.elra.info/proceedings/lrec2012/pdf/579_Paper.pdf",
-  "Authors":["Nizar Habash","Mona Diab and Owen Rambow"]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) Columbia University"],
-  "Title":"A Morphological Analyzer for Egyptian Arabic",
-  "Link":"http://www.newdesign.aclweb.org/anthology/W/W12/W12-23.pdf#page=11",
-  "Authors":["Nizar Habash","Ramy Eskander and Abdelati Hawwari"]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) Columbia University"],
   "Title":"ASMA: A system for Automatic Segmentation and Morpho-syntactic Disambiguation of Modern Standard Arabic",
   "Link":"http://www.seas.gwu.edu/~mtdiab/files/publications/refereed/3.pdf",
   "Authors":["AbdelMageed","Muhammad","Mona Diab","Sandra Kubler"]
@@ -263,13 +249,6 @@
   "Program Teams":["(Team BBN) Columbia University"],
   "Title":"Simplified guidelines for the creation of Large Scale Dialectal Arabic Annotations.",
   "Link":"http://www.lrec-conf.org/proceedings/lrec2012/pdf/815_Paper.pdf",
-  "Authors":["Elfardy","Heba and Mona Diab"]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) Columbia University"],
-  "Title":"AIDA: Automatic Identification & Glossing of Dialectal Arabic.",
-  "Link":"http://hltshare.fbk.eu/EAMT2012/html/Papers/17.pdf",
   "Authors":["Elfardy","Heba and Mona Diab"]
 },
 {
@@ -332,7 +311,7 @@
   "DARPA Program":"BOLT",
   "Program Teams":["(Team BBN) University of California, Berkeley"],
   "Title":"Coreference Semantics from Web Features",
-  "Link":"http://www.eecs.berkeley.edu/~mbansal/papers/acl12_corefWeb.pdf",
+  "Link":"http://ttic.uchicago.edu/~mbansal/papers/acl12_corefWeb.pdf",
   "Authors":["Mohit Bansal and Dan Klein"]
 },
 {
@@ -390,13 +369,6 @@
   "Title":"NRC: A Machine Translation Approach to Cross-Lingual Word Sense Disambiguation",
   "Link":"http://www.aclweb.org/anthology/S/S13/S13-2034.pdf",
   "Authors":["Marine Carpuat"]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) National Research Council"],
-  "Title":"Measuring Machine Translation Errors in New Domains",
-  "Link":"https://aclweb.org/anthology/Q/Q13/Q13-1035.pdf",
-  "Authors":["Ann Irvine","John Morgan","Marine Carpuat","Hal Daum III and Dragos Munteanu"]
 },
 {
   "DARPA Program":"BOLT",
@@ -618,13 +590,6 @@
 {
   "DARPA Program":"BOLT",
   "Program Teams":["(Team IBM) University of Maryland"],
-  "Title":"SenseSpotting: Never let your parallel data tie you to an old domain",
-  "Link":"http://aclweb.org/anthology//P/P13/P13-1141.pdf",
-  "Authors":["Marine Carpuat","Hal Daum III","Katharine Henry","Ann Irvine","Jagadeesh Jagarlamudi","Rachel Rudinger"]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team IBM) University of Maryland"],
   "Title":"Marginal Matching for Translation Model Adaptation",
   "Link":"http://aclweb.org/anthology//D/D13/D13-1109.pdf",
   "Authors":["Ann Irvine","Chris Quirk","Hal Daum III"]
@@ -642,13 +607,6 @@
   "Title":"Measuring Machine Translation Errors in New Domains",
   "Link":"http://aclweb.org/anthology//Q/Q13/Q13-1035.pdf",
   "Authors":["Ann Irvine","John Morgan","Marine Carpuat","Hal Daum III and Dragos Munteanu"]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) Columbia University"],
-  "Title":"Lost and Found in Translation: The Impact of Machine Translated Results on Translingual Information Retrieval",
-  "Link":"http://academiccommons.columbia.edu/catalog/ac%3A153525",
-  "Authors":["Parton","Kristen","Habash","Nizar and McKeown","Kathleen."]
 },
 {
   "DARPA Program":"BOLT",
@@ -733,13 +691,6 @@
   "Title":"Bi-directional Linkability From Wikipedia to Documents and Back Again: UMass at TREC 2012 Knowledge Base Acceleration Track",
   "Link":"http://ciir-publications.cs.umass.edu/IR-916",
   "Authors":["Dalton","J. and Dietz","L."]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team IBM) University of Massachusetts"],
-  "Title":"Across-Document Neighborhood Expansion: UMass at TAC KBP 2012 Entity Linking",
-  "Link":"http://ciir-publications.cs.umass.edu/IR-917",
-  "Authors":["Dietz","L. and Dalton","J."]
 },
 {
   "DARPA Program":"BOLT",
@@ -850,14 +801,14 @@
   "DARPA Program":"BOLT",
   "Program Teams":["(Team IBM) University of Le Mans"],
   "Title":"Phrase Probabilities Calculation for Statistical Machine Translation by using Belief Functions",
-  "Link":"http://aclweb.org/anthology/C/C12/C12-2104.pdf",
+  "Link":"http://aclweb.org/anthology//C/C12/C12-2107.pdf",
   "Authors":["Christophe Servan and Simon Petitrenaud"]
 },
 {
   "DARPA Program":"BOLT",
   "Program Teams":["(Team IBM) University of Le Mans"],
   "Title":"Continuous Space Translation Models for Phrase-Based Statistical Machine Translation",
-  "Link":"http://www.aclweb.org/anthology/C/C12/C12-2107.pdf",
+  "Link":"http://aclweb.org/anthology//C/C12/C12-2104.pdf",
   "Authors":["Holger Schwenk"]
 },
 {
@@ -926,23 +877,9 @@
 {
   "DARPA Program":"BOLT",
   "Program Teams":["(Team BBN) Columbia University"],
-  "Title":"Can Automatic Post-Editing Make MT More Meaningful?",
-  "Link":"http://www.cs.columbia.edu/~kristen/files/eamt2012-ape.pdf",
-  "Authors":["Kristen Parton","Nizar Habash","and Kathleen McKeown"]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) Columbia University"],
   "Title":"AIDA: Automatic Identification & Glossing of Dialectal Arabic",
   "Link":"http://hltshare.fbk.eu/EAMT2012/html/Papers/17.pdf",
   "Authors":["Heba Elfardy & Mona Diab"]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) Columbia University"],
-  "Title":"Lost and Found in Translation: The Impact of Machine Translated Results",
-  "Link":"http://www.cs.columbia.edu/~kristen/files/PartonEtAl-amta2012.pdf",
-  "Authors":["Kristen Parton","Nizar Habash","and Kathleen McKeown"]
 },
 {
   "DARPA Program":"BOLT",
@@ -969,7 +906,7 @@
   "DARPA Program":"BOLT",
   "Program Teams":["CUNY"],
   "Title":"Combining Flat and Structured Approaches for Temporal Slot Filling or: How Much to Compress?",
-  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-28601-8_17 - page-1",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-28601-8_17#page-1",
   "Authors":["Qi Li","Javier Artiles","Taylor Cassidy and Heng Ji"]
 },
 {
@@ -1018,7 +955,7 @@
   "DARPA Program":"BOLT",
   "Program Teams":["(Team BBN) CUNY"],
   "Title":"Joint Bilingual Name Tagging for Parallel Corpora",
-  "Link":"http://nlp.cs.qc.cuny.edu/jointname_cikm2012.pdf",
+  "Link":"http://nlp.cs.rpi.edu/paper/jointname_cikm2012.pdf",
   "Authors":["Qi Li","Haibo Li","Heng Ji","Wen Wang","Jing Zheng","Fei Huang"]
 },
 {
@@ -1041,13 +978,6 @@
   "Title":"Passage-level Evidence for Cross-Language Information Retrieval",
   "Link":"http://ciir-publications.cs.umass.edu/getpdf.php?id=1076",
   "Authors":["Park","J. and Croft","B."]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team SRI) University of Massachusetts"],
-  "Title":"Bi-directional Linkability From Wikipedia to Documents and Back Again: UMass at TREC 2012 Knowledge Base Acceleration Track",
-  "Link":"http://maroo.cs.umass.edu/getpdf.php?id=1081",
-  "Authors":["Dalton","J. and Dietz","L."]
 },
 {
   "DARPA Program":"BOLT",
@@ -1135,24 +1065,10 @@
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) University of Cambridge","University of Edinburgh"],
-  "Title":"Fully automatic semantic MT evaluation",
-  "Link":"http://www.eu-bridge.eu/downloads/Fully_Automatic_Semantic_MT_Evaluation.pdf",
-  "Authors":["Chi-kiu Lo","Anand Karthik Tumuluru and Dekai Wu"]
-},
-{
-  "DARPA Program":"BOLT",
   "Program Teams":["(Team BBN) Hong Kong University of Science and Technology"],
   "Title":"Unsupervised vs. Supervised Weight Estimation for Semantic MT Evaluation Metrics",
   "Link":"http://www.eu-bridge.eu/downloads/Unsupervised_vs._supervised_weight_estimation_for_semantic_MT_evaluation_metrics.pdf",
   "Authors":["Chi-kiu Lo and Dekai Wu"]
-},
-{
-  "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) Hong Kong University of Science and Technology"],
-  "Title":"LTG vs. ITG coverage of cross lingual verb frame alternations",
-  "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/AddankiLoSaersWu_Eamt2012.pdf",
-  "Authors":["Karteek Addanki","Chi-kiu Lo","Markus Saers and Dekai Wu"]
 },
 {
   "DARPA Program":"BOLT",
