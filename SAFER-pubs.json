@@ -298,15 +298,6 @@
   },
 {
   "DARPA Program":"SAFER",
-  "Program Teams":["Georgetown University","Naval Research Laboratory"],
-  "Title":"Users Get Routed: Traffic Correlation on Tor by Realistic Adversaries",
-  "Link":"http://www-users.cs.umn.edu/~jansen/papers/usersrouted-ccs2013.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-  },
-{
-  "DARPA Program":"SAFER",
   "Program Teams":["UT Austin","Naval Research Laboratory"],
   "Title":"Privacy-Preserving Data Exploration in Genome-Wide Association Studies",
   "Link":"http://ohmygodel.com/publications/gwas-data-exploration-kdd13.pdf",
