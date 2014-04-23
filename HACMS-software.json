@@ -19,10 +19,10 @@
 "Internal Link": "",
 "External Link": "https://github.com/agacek/jkind",
 "Public Code Repo": "https://github.com/agacek/jkind",
-"Description": "JKind is a Java implementation of the KIND model checker. KIND is a parallel multi-property k-induction based model checker for Lustre programs.",
+"Description": "JKind is a Java implementation of the KIND model checker. KIND is a parallel multi-property k-induction based model checker for Lustre programs. (Java)",
 "Internal Code Repo": "",
 "License": ["BSDv3"],
-"Languages": [""],
+"Languages": ["Java"],
 "Categories": ["Research Integration"]
 },
 {
@@ -32,10 +32,10 @@
 "Internal Link": "",
 "External Link": "http://smaccmpilot.org/",
 "Public Code Repo": "https://github.com/GaloisInc/smaccmpilot-build.git",
-"Description": "SMACCMPilot is an open source autopilot software for small, unmanned aerial vehicles (UAVs) using new high-assurance software methods.",
+"Description": "SMACCMPilot is an open source autopilot software for small, unmanned aerial vehicles (UAVs) using new high-assurance software methods. (C)",
 "Internal Code Repo": "",
 "License": ["BSDv3"],
-"Languages": [""],
+"Languages": ["C"],
 "Categories": ["Control Systems"]
 },
 {
@@ -45,10 +45,10 @@
 "Internal Link": "",
 "External Link": "https://github.com/GaloisInc/cbmc-reporter",
 "Public Code Repo": "https://github.com/GaloisInc/cbmc-reporter.git",
-"Description": "cbmc-reporter is a driver for the CBMC model-checker for use in verifying C library code. cbmc-reporter helps (1) utilize multi-threading when verifying a large number of claims, (2) generate summary tables of resulting proofs, and (3) aid in build-system integration for library code (e.g., parsing function definitions from sources).",
+"Description": "cbmc-reporter is a driver for the CBMC model-checker for use in verifying C library code. cbmc-reporter helps (1) utilize multi-threading when verifying a large number of claims, (2) generate summary tables of resulting proofs, and (3) aid in build-system integration for library code (e.g., parsing function definitions from sources). (Haskell)",
 "Internal Code Repo": "",
 "License": ["BSDv3"],
-"Languages": [""],
+"Languages": ["Haskell"],
 "Categories": ["Control Systems"]
 },
 {
@@ -58,10 +58,10 @@
 "Internal Link": "",
 "External Link": "https://github.com/GaloisInc/ivory",
 "Public Code Repo": "https://github.com/GaloisInc/smaccmpilot-build.git",
-"Description": "Ivory is an embedded domain-specific language for safer systems programming. Ivory is implemented as a library of the Haskell programming language. Ivory programs are written using Haskell syntax and types.Ivory is not a general purpose programming language. It aims to be a good language for writing a restricted subset of programs. Ivory gives strong guarantees of type and memory safety, and has features which allow the programmer to specify other safety properties. Ivory is well suited for writing programs which interact directly with hardware and do not require dynamic memory allocation. Ivory can be considered to be a lot like a restricted version of the C programming language, embedded in Haskell.",
+"Description": "Ivory is an embedded domain-specific language for safer systems programming. Ivory is implemented as a library of the Haskell programming language. Ivory programs are written using Haskell syntax and types.Ivory is not a general purpose programming language. It aims to be a good language for writing a restricted subset of programs. Ivory gives strong guarantees of type and memory safety, and has features which allow the programmer to specify other safety properties. Ivory is well suited for writing programs which interact directly with hardware and do not require dynamic memory allocation. Ivory can be considered to be a lot like a restricted version of the C programming language, embedded in Haskell. (Haskell)",
 "Internal Code Repo": "",
 "License": ["BSDv3"],
-"Languages": [""],
+"Languages": ["Haskell"],
 "Categories": ["Control Systems"]
 },
 {
@@ -71,10 +71,10 @@
 "Internal Link": "",
 "External Link": "http://smaccmpilot.org/",
 "Public Code Repo": "https://github.com/GaloisInc/smaccmpilot-build.git",
-"Description": "Tower is a language for composing Ivory programs into real-time tasks.  Tower is both a specification language and a code generator. A Tower program describes communication channels and tasks, and provides an Ivory implementation of each task.  Tower compiles the specification for the program and delegates code generation to an operating-system specific back end.",
+"Description": "Tower is a language for composing Ivory programs into real-time tasks.  Tower is both a specification language and a code generator. A Tower program describes communication channels and tasks, and provides an Ivory implementation of each task.  Tower compiles the specification for the program and delegates code generation to an operating-system specific back end. (C)",
 "Internal Code Repo": "",
 "License": ["BDS3"],
-"Languages": [""],
+"Languages": ["C"],
 "Categories": ["Control Systems"]
 },
 {
