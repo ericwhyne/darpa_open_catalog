@@ -11,7 +11,7 @@
   "Description":"Software for collecting user OS interactions, generating a discriminative user model, and taking appropriate masquerader mitigation measures for the Windows platform.",
   "License":["GPR"],
   "Languages":[""],
-  "Categories":["Identify Management"]
+  "Categories":["Identity Management"]
 },
 {
   "DARPA Program":"AA",
@@ -25,7 +25,7 @@
   "Description":"Software for distributing deceptive content to Windows computers to serve as tripwires to aid in sensor authentication decisions.",
   "License":["GPR"],
   "Languages":[""],
-  "Categories":["Identify Management"]
+  "Categories":["Identity Management"]
 },
 {
   "DARPA Program":"AA",
@@ -39,7 +39,7 @@
   "Description":"Software for collecting user OS interactions, generating a discriminative user model, and taking appropriate masquerader mitigation measures for Mac devices.",
   "License":["GPR"],
   "Languages":[""],
-  "Categories":["Identify Management"]
+  "Categories":["Identity Management"]
 },
 {
   "DARPA Program":"AA",
@@ -53,7 +53,7 @@
   "Description":"Software for distributing deceptive content to Mac machines to serve as tripwires to aid in sensor authentication decisions.",
   "License":["GPR"],
   "Languages":[""],
-  "Categories":["Identify Management"]
+  "Categories":["Identity Management"]
 },
 {
   "DARPA Program":"AA",
@@ -67,7 +67,7 @@
   "Description":"Behavioral data gatherer for Microsoft Windows desktop computers.",
   "License":["GPR"],
   "Languages":[""],
-  "Categories":["Identify Management"]
+  "Categories":["Identity Management"]
 },
 {
   "DARPA Program":"AA",
@@ -81,7 +81,7 @@
   "Description":"The software implements feature extractor modules for typing data used in AA Phase 1 effort. The code is useful only when Louisiana Tech's typing data is available. Because Louisiana Tech has the ownership of the data, we cannot provide the data.",
   "License":["GPR"],
   "Languages":[""],
-  "Categories":["Identify Management"]
+  "Categories":["Identity Management"]
 },
 {
   "DARPA Program":"AA",
@@ -95,6 +95,6 @@
   "Description":"This is software for computing visual features from screen shots. (Java)",
   "License":["MIT"],
   "Languages":["Java"],
-  "Categories":["Identify Management"]
+  "Categories":["Identity Management"]
 }
 ]
