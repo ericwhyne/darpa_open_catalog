@@ -970,5 +970,77 @@
   "Categories":["Metrics", "User/Machine Systems", "User Interfaces"],
   "Subcategories":["Product Metrics", "Human Factors", "Human Information Processing", "Software Psychology", "Evaluation/methodology", "User-centered design"],
   "ACM 1998 classification code":["D.2.8", "H.1.2", "H.5.2"]
-}
+},
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["USC"],
+  "Title":"Continuous Dataflow Update Strategies for Mission-Critical Applications",
+  "Link":"http://ceng.usc.edu/~simmhan/pubs/wickramaarachchi-escience-2013.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["USC"],
+  "Title":"Exploiting Application Dynamism and Cloud Elasticity for Continuous Data Flows",
+  "Link":"http://halcyon.usc.edu/~pk/prasannawebsite/papers/2013/SC13.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["USC"],
+  "Title":"GoFFish: A Framework for Distributed Analytics Over Timeseries Graphs",
+  "Link":"http://www.cs.usc.edu/assets/007/87995.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["USC"],
+  "Title":"GoFFish: A Sub-Graph Centric Framework for Large-Scale Graph Analytics",
+  "Link":"http://arxiv.org/abs/1311.5949",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["USC"],
+  "Title":"Cost-efficient and Resilient Job Life-cycle Management on Hybrid Clouds",
+  "Link":"http://www.serc.iisc.ernet.in/~simmhan/pubs/chu-ipdps-2014.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["USC"],
+  "Title":"Constraint-Driven Adaptive Scheduling for Dynamic Dataflows on Elastic Clouds",
+  "Link":"Not Yet Published",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["USC"],
+  "Title":"Enabling Realtime Pro-Active Analytics On Time Evolving Graphs",
+  "Link":"Not Yet Published",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
+{
+  "DARPA Program":"XDATA",
+  "Program Teams":["USC"],
+  "Title":"PLAStiCC: Predictive Look-Ahead Scheduling for Continuous Dataflows on Clouds",
+  "Link":"http://www.serc.iisc.ernet.in/~simmhan/pubs/kumbhare-ccgrid-2014.pdf",
+  "Categories":[""],
+  "Subcategories":[""],
+  "ACM 1998 classification code":[""]
+},
 ]
