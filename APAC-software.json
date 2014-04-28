@@ -6,18 +6,26 @@
             "Kestrel Institute",
             "GITI"
         ],
-		"Contributors":[""],
+	    "Contributors":[""],
+	    "Sub-contractors":[""],
         "Software": "DroidSafe",
 		"Internal Link":"",
         "External Link":"",
-        "Instructional Material":"",
         "Public Code Repo": "https://github.com/mgordon/droidsafe.git",
+        "Instructional Material":"",
         "Description": "The DroidSafe static analysis tool produces a security summary of Android applications to help trusted parties rapidly understand sensitive behaviors of a untrusted application.  The core analysis is flow, object, event, and value sensitive.  The results are presented in a graphic user interface tied to source code for inspection. (Java/Python)",
         "License": ["LGPL"],
         "Languages": [
             "Java",
             "Python"
         ],
+	    "Platform Requirements":[""],
+    	"Dependent modules":[""],
+    	"Dependent module URLs":[""],
+    	"Component modules":[""],
+    	"Component module URLs":[""],
+        "Industry":[""],
+        "Functionality":[""],
         "Categories": [
             "Infrastructure"
         ]
@@ -28,17 +36,25 @@
             "BAE Systems"
         ],
 		"Contributors":[""],
+	    "Sub-contractors":[""],
         "Software": "Droid Reasoning, Analysis, and Protection Engine (DRAPE)",
 		"Internal Link":"",
         "External Link":"",
-        "Instructional Material":"",
         "Public Code Repo": "Not Ready for Release",
-        "Description": "DRAPE brings together concolic execution, taint analysis and execution path clustering to analyze Android applications.  DRAPE will elicit stealthy malware that is triggered under specific conditions, and will provide the analyst with a characterization of those conditions. (Java)",
+        "Instructional Material":"",
+        "Description": "DRAPE brings together concolic execution, taint analysis and execution path clustering to analyze Android applications. DRAPE will elicit stealthy malware that is triggered under specific conditions, and will provide the analyst with a characterization of those conditions. (Java)",
         "Internal Code Repo": "",
         "License": [""],
         "Languages": [
             "Java"
         ],
+	    "Platform Requirements":[""],
+    	"Dependent modules":[""],
+    	"Dependent module URLs":[""],
+    	"Component modules":[""],
+    	"Component module URLs":[""],
+        "Industry":[""],
+        "Functionality":[""],
         "Categories": [
             "Sofware Analysis",
             "Dynamic Analysis",
@@ -52,17 +68,25 @@
             "University of Washington"
         ],
 		"Contributors":[""],
+	    "Sub-contractors":[""],
         "Software": "Checker Framework",
         "Internal Link": "",
         "External Link": "http://types.cs.washington.edu/checker-framework",
-        "Instructional Material":"",
         "Public Code Repo": "https://code.google.com/p/checker-framework/",
+        "Instructional Material":"",
         "Description": "The Checker Framework enhances Java's type system to make it more powerful and useful. This lets software developers detect and prevent errors in their Java programs. (Java)",
         "Internal Code Repo": "",
         "License": ["GPLv2"],
         "Languages": [
             "Java"
         ],
+	    "Platform Requirements":[""],
+    	"Dependent modules":[""],
+    	"Dependent module URLs":[""],
+    	"Component modules":[""],
+    	"Component module URLs":[""],
+        "Industry":[""],
+        "Functionality":[""],
         "Categories": [
             "Static analysis"
         ]
@@ -73,17 +97,25 @@
             "University of Washington"
         ],
 		"Contributors":[""],
+	    "Sub-contractors":[""],
         "Software": "Type annotations compiler",
         "Internal Link": "",
         "External Link": "http://types.cs.washington.edu/jsr308",
-        "Instructional Material":"",
         "Public Code Repo": "https://code.google.com/p/jsr308-langtools/",
+        "Instructional Material":"",
         "Description": "Java 8 will include support for type annotations. The Type Annotations compiler (also called the JSR 308 compiler) is fully backward-compatible. You can use it in place of javac (for Java 8) without any change in behavior, except that you will be permitted to write annotations in comments. This lets you write type annotations, but keep your code compilable by Java 4/5/6/7 compilers. (Java)",
         "Internal Code Repo": "",
         "License": ["GPLv2"],
         "Languages": [
             "Java"
         ],
+	    "Platform Requirements":[""],
+    	"Dependent modules":[""],
+    	"Dependent module URLs":[""],
+    	"Component modules":[""],
+    	"Component module URLs":[""],
+        "Industry":[""],
+        "Functionality":[""],
         "Categories": [
             "Static analysis",
             "Compiler"
@@ -95,17 +127,25 @@
             "University of Washington"
         ],
 		"Contributors":[""],
+	    "Sub-contractors":[""],
         "Software": "Annotation File Utilities",
         "Internal Link": "",
         "External Link": "http://types.cs.washington.edu/annotation-file-utilities/",
-        "Instructional Material":"",
         "Public Code Repo": "https://code.google.com/p/annotation-tools/",
+        "Instructional Material":"",
         "Description": "Tools for reading annotations from, and inserting type annotations in, Java source and class files. (Java)",
         "Internal Code Repo": "",
         "License": ["MIT"],
         "Languages": [
             "Java"
         ],
+	    "Platform Requirements":[""],
+    	"Dependent modules":[""],
+    	"Dependent module URLs":[""],
+    	"Component modules":[""],
+    	"Component module URLs":[""],
+        "Industry":[""],
+        "Functionality":[""],
         "Categories": [
             "Java Annotation Tool"
         ]
@@ -116,17 +156,25 @@
             "University of Washington"
         ],
 		"Contributors":[""],
+	    "Sub-contractors":[""],
         "Software": "SPARTA Toolset",
         "Internal Link": "",
         "External Link": "http://types.cs.washington.edu/sparta/",
-        "Instructional Material":"",
         "Public Code Repo": "http://types.cs.washington.edu/sparta/release/",
+        "Instructional Material":"",
         "Description": "SPARTA aims to detect certain types of malware in Android applications, or to verify that the app contains no such malware. SPARTA's verification approach is type-checking: the developer states a security property, annotates the source code with type qualifiers that express that security property, then runs a pluggable type-checker to verify that the type qualifiers are right (and thus that the program satisfies the security property). (Java)",
         "Internal Code Repo": "",
         "License": ["GPLv2"],
         "Languages": [
             "Java"
         ],
+	    "Platform Requirements":[""],
+    	"Dependent modules":[""],
+    	"Dependent module URLs":[""],
+    	"Component modules":[""],
+    	"Component module URLs":[""],
+        "Industry":[""],
+        "Functionality":[""],
         "Categories": [
             "Static analysis",
             "Android",
