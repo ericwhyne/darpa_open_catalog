@@ -33,6 +33,7 @@ Publication:
 {
   "DARPA Program":"XDATA",
   "Program Teams":["IBM Research"],
+  "Authors":["Jiyan Yang", "Xiangrui Meng", "Michael W. Mahoney"]
   "Title":"Quantile Regression for Large-scale Applications",
   "Link":"http://arxiv.org/pdf/1305.0087",
   "Categories":["Numerical Linear Algebra", "Computations on Matrices", "probabilistic algorithms (including Monte Carlo)"],
