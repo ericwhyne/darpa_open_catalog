@@ -343,7 +343,7 @@
     "DARPA Program":"CRASH",
   	"Program Teams": ["Columbia University","Princeton University"],
    	"Title":"Retrofitting Security in COTS Software with Binary Rewriting",
-  	"Authors":["Padraig O’Sullivan","Kapil Anand","Aparna Kothan","Matthew Smithson","Rajeev Barua","Angelos D. Keromytis"],
+  	"Authors":["Padraig O'Sullivan","Kapil Anand","Aparna Kothan","Matthew Smithson","Rajeev Barua","Angelos D. Keromytis"],
    	"Link":"http://www.cs.columbia.edu/nsl/papers/2011/secondwrite.sec11.pdf",
     "Categories":[""],
     "Subcategories":[""],
@@ -442,7 +442,7 @@
 {
     "DARPA Program":"CRASH",
    	"Program Teams": ["Columbia University","Princeton University"],
-   	"Title":"Hacking Cisco Phones: Just because You Are Paranoid Doesn’t Mean Your Phone Isn’t Listening to Everything You Say",
+   	"Title":"Hacking Cisco Phones: Just because You Are Paranoid Doesn't Mean Your Phone Isn't Listening to Everything You Say",
   	"Authors":["Ang Cui","Michael Costello","Salvatore J. Stolfo"],
    	"Link":"http://www.youtube.com/watch?v=f3zUOZcewtA",
     "Categories":[""],
@@ -1341,7 +1341,7 @@
 },
 {
     "DARPA Program":"CRASH",
-   	"Program Teams": ["SRI International","University of Cambridge","University of Wisconsin – Madison"],
+   	"Program Teams": ["SRI International","University of Cambridge","University of Wisconsin - Madison"],
    	"Title":"Declarative, Temporal, and Practical Programming with Capabilities",
    	"Authors":["William R. Harris","Somesh Jha","Thomas Reps","Jonathan Anderson","Robert N. M. Watson"],
    	"Link":"http://www.ieee-security.org/TC/SP2013/papers/4977a018.pdf",
@@ -1493,7 +1493,7 @@
     "DARPA Program":"CRASH",
    	"Program Teams": ["University of California, Irvine"],
    	"Title":"Diversifying the Software Stack Using Randomized NOP Insertion",
-   	"Authors":["Todd Jackson","Andrei Homescu","Stephen Crane","Per Larsen","Stefan Brunthaler","Michael Franz","editors – Sushil Jajodia","Anup K. Ghosh","V.S. Subrahmanian","Vipin Swarup","Cliff Wang","Xiaoyang Sean Wang"],
+   	"Authors":["Todd Jackson","Andrei Homescu","Stephen Crane","Per Larsen","Stefan Brunthaler","Michael Franz","editors - Sushil Jajodia","Anup K. Ghosh","V.S. Subrahmanian","Vipin Swarup","Cliff Wang","Xiaoyang Sean Wang"],
    	"Link":"http://link.springer.com/chapter/10.1007%2F978-1-4614-5416-8_8",
     "Categories":[""],
     "Subcategories":[""],
@@ -1672,7 +1672,7 @@
 {
     "DARPA Program":"CRASH",
    	"Program Teams": ["University of New Mexico","University of Virginia"],
-   	"Title":"Protecting Free and Open Communications on the Internet Against Man-in-the-Middle Attacks on Third-Party Software: We’re FOCI’d",
+   	"Title":"Protecting Free and Open Communications on the Internet Against Man-in-the-Middle Attacks on Third-Party Software: We're FOCI'd",
    	"Authors":["Jeffrey Knockel","Jedidiah R. Crandall"],
    	"Link":"http://www.cs.unm.edu/~crandall/foci2012asymm.pdf",
     "Categories":[""],
@@ -1682,7 +1682,7 @@
 {
     "DARPA Program":"CRASH",
    	"Program Teams": ["University of New Mexico","University of Virginia"],
-   	"Title":"Whiskey, Weed, and Wukan on the World Wide Web: On Measuring Censors’ Resources and Motivations",
+   	"Title":"Whiskey, Weed, and Wukan on the World Wide Web: On Measuring Censors' Resources and Motivations",
    	"Authors":["Nicholas Aase","Jedidiah R. Crandall","Alvaro Diaz","Jeffrey Knockel","Jorge Ocana Molinero","Jared Saia","Dan Wallach","Tao Zhu"],
    	"Link":"https://www.cs.unm.edu/~crandall/foci2012combined.pdf",
     "Categories":[""],
