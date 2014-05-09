@@ -53,7 +53,7 @@
     "DARPA Program":"CRASH",
    	"Program Teams": ["BAE Systems","University of Pennsylvania","Northeastern University","Harvard University"],
    	"Title": "Preliminary Design of the SAFE Platform",
-   	"Authors":["Andre DeHon", "Ben Karel", "Thomas F. Knight, Jr.", "Gregory Malecha", "Benoît Montagu", "Robin Morisset", "Greg Morrisett", "Benjamin C. Pierce", "Randy Pollack", "Sumit Ray", "Olin Shivers", "Jonathan M. Smith", "Greg Sullivan"],
+   	"Authors":["Andre DeHon", "Ben Karel", "Thomas F. Knight, Jr.", "Gregory Malecha", "Benoit Montagu", "Robin Morisset", "Greg Morrisett", "Benjamin C. Pierce", "Randy Pollack", "Sumit Ray", "Olin Shivers", "Jonathan M. Smith", "Greg Sullivan"],
    	"Link":"http://www.crash-safe.org/node/9",
     "Categories":[""],
     "Subcategories":[""],
