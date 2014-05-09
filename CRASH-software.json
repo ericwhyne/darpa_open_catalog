@@ -1,7 +1,7 @@
 [
 {
     "DARPA Program":"CRASH",
-    "Program Teams":"University of Texas at Austin",
+    "Program Teams":["UT - Austin"],
     "Contributors":[""],
     "Sub-contractors":[""],
     "Software":"ACL2",
@@ -23,7 +23,7 @@
 },
 {
     "DARPA Program":"CRASH",
-    "Program Teams":"Stanford University",
+    "Program Teams":["Stanford University"],
     "Contributors":[""],
     "Sub-contractors":[""],
     "Software":"Dune",
@@ -45,7 +45,7 @@
 },
 {
     "DARPA Program":"CRASH",
-    "Program Teams":"Stanford University",
+    "Program Teams":["Stanford University"],
     "Contributors":[""],
     "Sub-contractors":[""],
     "Software":"Hails",
@@ -111,7 +111,7 @@
 },
 {
     "DARPA Program":"CRASH",
-    "Program Teams":"Massachusetts Institute of Technology",
+    "Program Teams":["Massachusetts Institute of Technology"],
     "Contributors":[""],
     "Sub-contractors":[""],
     "Software":"Kint",
@@ -133,7 +133,7 @@
 },
 {
     "DARPA Program":"CRASH",
-    "Program Teams":"Massachusetts Institute of Technology",
+    "Program Teams":["Massachusetts Institute of Technology"],
     "Contributors":[""],
     "Sub-contractors":[""],
     "Software":"STACK",
@@ -155,7 +155,7 @@
 },
 {
     "DARPA Program":"CRASH",
-    "Program Teams":"Massachusetts Institute of Technology",
+    "Program Teams":["Massachusetts Institute of Technology"],
     "Contributors":[""],
     "Sub-contractors":[""],
     "Software":"Aeolus",
