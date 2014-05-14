@@ -102,7 +102,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["MIT"],
   "Title":"Multiparty Computation Secure Against Continual Memory Leakage",
-  "Link":"http://people.csail.mit.edu/abhishek/papers/LR-MPC-STOC12.pdf",
+  "Link":"http://www.cs.technion.ac.il/~elette/LR-MPC-STOC12.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -174,7 +174,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["BBN"],
   "Title":"SIPHER: Scalable Implementation of Primitives for Homomorphic EncRyption - FPGA implementation using Simulink",
-  "Link":"http://avometric.com/papers/2011/HPEC11_Cousins.pdf",
+  "Link":"http://q.hscott.net/reads/HPEC11_Cousins.pdf",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -183,7 +183,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["BBN"],
   "Title":"An Update on Scalable Implementation of Primitives for Homomorphic EncRyption - FPGA implementation using Simulink",
-  "Link":"http://www.avometric.com/papers/2012/HPEC12_Cousins.pdf",
+  "Link":"http://www.bibsonomy.org/bibtex/2f384310febd0bacdd84a0920d68d3f2b/dblp",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -264,7 +264,7 @@
   "DARPA Program":"PROCEED",
   "Program Teams":["IBM"],
   "Title":"Ring Switching in BGV-Style Homomorphic Encryption",
-  "Link":"http://eprint.iacr.org/2012/240",
+  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-32928-9_2#page-1",
   "Categories":[""],
   "Subcategories":[""],
   "ACM 1998 classification code":[""]
@@ -704,7 +704,7 @@
 {
   "DARPA Program":"PROCEED",
   "Program Teams":["UVA"],
-  "Title":"On the Power of Many1-Bit Provers",
+  "Title":"On the Power of Many 1-Bit Provers",
   "Link":"http://arxiv.org/abs/1301.2729",
   "Categories":[""],
   "Subcategories":[""],
