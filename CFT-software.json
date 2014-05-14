@@ -1066,7 +1066,7 @@
   "Public Code Repo":"CFTdata@darpa.mil",
   "Instructional Material":"",
   "Description":"This is a a cloud-based ecosystem for developing network security applications.",
-  "License":"GPR",
+  "License":["GPR"],
   "Languages":[""],
   "Platform Requirements":[""],
   "Dependent modules":[""],
