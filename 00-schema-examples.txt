@@ -16,16 +16,23 @@ Software:
 {
     "DARPA Program":"XData",
     "Program Teams":["Kitware, Inc.", "Another Team"]
-	"Contributors":[""],
+    "Contributors":[""],
+    "Sub-contractors":[""],
     "Software":"Tangelo",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://kitware.github.io/tangelo/",
-    "Instructional Material":"http://somehwere",
     "Public Code Repo":"https://github.com/Kitware/tangelo.git",
+    "Instructional Material":"http://somehwere",
     "Description":"Tangelo is a flexible HTML5 web server architecture that...",
-    "Internal Code Repo":"tools\\visualizations\\kitware\\tangelo; tools\\visualizations\\kitware\\xdata-apps",
     "License":["ALv2"],
     "Languages":["Javascript","Python"],
+    "Platform Requirements":[""],
+    "Dependent modules":[""],
+    "Dependent module URLs":[""],
+    "Component modules":[""],
+    "Component module URLs":[""],
+    "Industry":[""],
+    "Functionality":[""],
     "Categories":["Visualization"]
 }
 
