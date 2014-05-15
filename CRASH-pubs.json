@@ -14,7 +14,7 @@
 	"Program Teams": ["BAE Systems","University of Pennsylvania","Northeastern University","Harvard University"],
    	"Title": "A Theory of Information-Flow Labels",
 	"Authors":["Benoit Montagu","Benjamin C. Pierce","Randy Pollack","Adrien Suree"],
-    "Link":"http://www.cis.upenn.edu/~montagu/publications/2013/csf2013-submission.pdf",
+    "Link":"http://www.cis.upenn.edu/~bcpierce/papers/csf2013.pdf",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
@@ -224,7 +224,7 @@
    	"Program Teams": ["Columbia University","Princeton University"],
    	"Title":"Efficient Deterministic Multithreading through Schedule Relaxation",
    	"Authors":["Heming Cui","Jingyue Wu","John Gallagher","Huayang Guo","Junfeng Yang"],
-   	"Link":"http://rcs.cs.columbia.edu/papers/peregrine-sosp11.pdf",
+   	"Link":"http://www.cs.columbia.edu/~junfeng/papers/peregrine-sosp11.pdf",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
@@ -674,7 +674,7 @@
    	"Program Teams": ["Dartmouth College"],
    	"Title":"Attacking Mitigation through Memory Encryption of Security Enhanced Commodity Processors",
    	"Authors":["M. Henson","S. Taylor"],
-   	"Link":"http://link.springer.com/chapter/10.1007/978-3-642-38980-1_19",
+   	"Link":"http://connection.ebscohost.com/c/articles/86139919/attack-mitigation-through-memory-encryption-security-enhanced-commodity-processors",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
@@ -761,16 +761,6 @@
 },
 {
     "DARPA Program":"CRASH",
-   	"Program Teams": ["Dartmouth College"],
-    "Title":"Comparing Swarm Algorithms for Multi-Source Localization",
-  	"Authors":["K. McGill","S. Taylor"],
-   	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5424171",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
-{
-    "DARPA Program":"CRASH",
    	"Program Teams": ["Kestrel Institute"],
    	"Title":"Derivational Software Engineering of the Future of Software Engineering Workshop (FoSER)",
    	"Authors":["Douglas R. Smith","Louis Hoebel"],
@@ -794,7 +784,7 @@
    	"Program Teams": ["Kestrel Institute"],
    	"Title":"Theory and Techniques for Synthesizing Efficient Breadth-First Search Algorithms",
    	"Authors":["Srinivas Nedunuri","Douglas R. Smith","William Cook"],
-   	"Link":"http://www.cs.utexas.edu/~wcook/Drafts/2012/Synt.pdf",
+   	"Link":"http://repositories.lib.utexas.edu/bitstream/handle/2152/ETD-UT-2012-08-6242/NEDUNURI-DISSERTATION.pdf?sequence=1",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
@@ -904,7 +894,7 @@
   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
    	"Title":"Undefined Behavior: What Happened to My Code?",
    	"Authors":["Xi Wang","Haogang Chen","Zhihao Jia", "Nickolai Zeldovich","M. Frans Kaashoek"],
-   	"Link":"http://sigops.org/sosp/sosp13/papers/p260-wang.pdf",
+   	"Link":"http://pdos.csail.mit.edu/papers/ub:apsys12.pdf",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
@@ -1823,7 +1813,7 @@
   	"Program Teams": ["University of Texas at Austin"],
    	"Title":"A Parallelized Theorem Prover for a Logic with Parallel Execution",
    	"Authors":["David L. Rager","Warren A. Hunt, Jr.","Matt Kaufmann"],
-   	"Link":"http://www.cs.utexas.edu/users/ragerdl/papers/battelle-acl2p.pdf",
+   	"Link":"http://link.springer.com/chapter/10.1007/978-3-642-39634-2_31",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
@@ -1891,16 +1881,6 @@
 {
     "DARPA Program":"CRASH",
    	"Program Teams": ["University of Wisconsin - Madison"],
-   	"Title":"Declarative Temporal, and Practical Programming with Capabilities",
-   	"Authors":["W.R. Harris","S. Jha","T. Reps","J. Anderson","R.N.M. Watson"],
-   	"Link":"http://www.ieee-security.org/TC/SP2013/papers/4977a018.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
-{
-    "DARPA Program":"CRASH",
-   	"Program Teams": ["University of Wisconsin - Madison"],
    	"Title":"Secure Programming via Visibly Pushdown Safety Games",
    	"Authors":["W.R. Harris","S. Jha","T. Reps"],
    	"Link":"http://pages.cs.wisc.edu/~wrharris/tech_reports/secure_programming_via_visibly.pdf",
@@ -1921,7 +1901,7 @@
 {
     "DARPA Program":"CRASH",
    	"Program Teams": ["University of Wisconsin - Madison"],
-   	"Title":"OpenNWA: A Nested-Word-Automation Library",
+   	"Title":"OpenNWA: A Nested-Word-Automaton Library",
    	"Authors":["E. Driscoll","A. Thakur","T. Reps"],
    	"Link":"https://research.cs.wisc.edu/wpis/wpds/pubs/opennwa-tool-submission.pdf",
     "Categories":[""],
