@@ -2,13 +2,7 @@
     "DARPA Program Name": "BET",
     "Long Name":"Binary Executable Transforms (BET)",
     "Program Teams": "",
-    "Description": "The objective of the Binary Executable Transforms (BET) program is to produce revolutionary technologies for analyzing, identifying, and slicing binary executable components.  Binary executable components are defined as a fully encapsulated set of subroutines, data structures, imported APIs, objects, and global variables that accomplish a particular function. Specifically, BET is seeking innovative research in:
-	.	Automatically analyzing and identifying binary executable functional components.
-	.	Automatically slicing and extracting identified binary functional components into reusable programming modules, including defined inputs and outputs.
-	.	Combining static and dynamic binary analysis to increase understanding and function of binary executables.
-	.	Exploring formal verification methods to prove functional component properties.
-	.	Developing intermediate representation language to support program slicing.
-	.	Developing core technology to enable exploration and research for the BET program.",
+    "Description": "The objective of the Binary Executable Transforms (BET) program is to produce revolutionary technologies for analyzing, identifying, and slicing binary executable components.  Binary executable components are defined as a fully encapsulated set of subroutines, data structures, imported APIs, objects, and global variables that accomplish a particular function. Specifically, BET is seeking innovative research in: .	Automatically analyzing and identifying binary executable functional components. 	.	Automatically slicing and extracting identified binary functional components into reusable programming modules, including defined inputs and outputs. 	.	Combining static and dynamic binary analysis to increase understanding and function of binary executables. 	.	Exploring formal verification methods to prove functional component properties. 	.	Developing intermediate representation language to support program slicing. 	.	Developing core technology to enable exploration and research for the BET program.",
     "Link": "",
     "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
     "Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Dr__John_Everett.aspx",
