@@ -2107,5 +2107,135 @@
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+    "Title": "Quantitative Reasoning for Proving Lock-Freedom",
+    "Authors":["Jan Hoffmann","Mike Marmar","Zhong Shao"],
+    "Link":"http://flint.cs.yale.edu/certikos/slides/lockfreedom_darpa.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+    "Title": "Compositional Verification of a Baby Virtual Memory Manager",
+	"Authors":["Alexander Vaynberg","Zhong Shao"],
+	"Link":"http://flint.cs.yale.edu/flint/publications/babyvmm_tr.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Modular Verification of Concurrent Thread Management",
+	"Authors":["Yu Guo","Xinyu Feng","Zhong Shao","Peizhi Shi"],
+	"Link":"http://flint.cs.yale.edu/shao/papers/ctm.html",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Icebergs in the Clouds: the Other Risks of Cloud Computing",
+	"Authors":["Bryan Ford"],
+	"Link":"https://www.usenix.org/system/files/conference/hotcloud12/hotcloud12-final54.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Plugging Side-Channel Leaks with Timing Information Flow Control",
+	"Authors":["Bryan Ford"],
+	"Link":"http://dedis.cs.yale.edu/2010/det/papers/hotcloud12-tifc.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Efficient System-Enforced Deterministic Parallelism",
+	"Authors":["Amittai Aviram","Shu-Chun Weng","Sen Hu","Bryan Ford"],
+	"Link":"https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Aviram.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Proving the Correctness of Concurrent Robot Software",
+   	"Authors":["Peter Kazanzides","Yanni Kouskoulas","Anton Deguet","Zhong Shao"],
+	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06225285",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Static and User-Extensible Proof Checking",
+	"Authors":["Antonis Stampoulis","Zhong Shao"],
+	"Link":"http://astampoulis.github.io/popl2012/paper.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "CertiKOS: A Certified Kernel for Secure Cloud Computing",
+	"Authors":["Liang Gu","Alexander Vaynberg","Bryan For","Zhong Shao","David Costanzo"],
+	"Link":"http://dedis.cs.yale.edu/2010/det/papers/apsys11-ck.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Certifying the Concurrent State Table Implementation in a Surgical Robotic System",
+	"Authors":["Yanni Kouskoulas","Ming Fu","Zhong Shao","Peter Kazanzides"],
+	"Link":"http://flint.cs.yale.edu/flint/publications/statevec-tr.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Deterministic OpenMP for Race-Free Parallelism",
+	"Authors":["Amittai Aviram","Bryan Ford"],
+    "Link":"https://www.usenix.org/legacy/event/hotpar11/tech/final_files/Aviram.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Workspace Consistency: A Programming Model for Shared Memory Parallelism",
+	"Authors":["Amittai Aviram","Bryan Ford","Yu Zhang"],
+	"Link":"http://dedis.cs.yale.edu/2010/det/papers/wodet11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Weak Updates and Separation Logic",
+	"Authors":["Gang Tan","Zhong Shao","Xinyu Feng","Hongxu Cai"],
+	"Link":"http://flint.cs.yale.edu/flint/publications/wusl2.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
 }
 ]

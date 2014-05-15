@@ -2,7 +2,7 @@
     "DARPA Program Name": "MRC",
     "Long Name":"Mission-oriented Resilient Clouds (MRC)",
     "Program Teams": "",
-    "Description": "The Mission-oriented Resilient Clouds (MRC) program is addressing some of the security challenges facing cloud computing by developing technologies to detect, diagnose and respond to attacks in the cloud; effectively building a 'community health system' for the cloud.  MRC is also developing technologies intended to enable cloud applications and infrastructure to continue functioning while under attack.",
+    "Description": "The Mission-oriented Resilient Clouds (MRC) program is addressing some of the security challenges facing cloud computing by developing technologies to detect, diagnose and respond to attacks in the cloud; effectively building a 'community health system' for the cloud. MRC is also developing technologies intended to enable missions that are supported by cloud computing and other networked systems to continue functioning while under cyber attack.",
     "Link": "http://www.darpa.mil/Our_Work/I2O/Programs/Mission-oriented_Resilient_Clouds_%28MRC%29.aspx",
     "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
     "Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Dr__Robert_Laddaga.aspx",
