@@ -1,0 +1,151 @@
+[
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "Satisfiability Modulo Abstraction for Separation Logic with Linked Lists",
+   	"Authors":["Aditya Thakur", "Jason Breck", "Thomas Reps"],
+   	"Link":"http://www.cs.wisc.edu/wpis/papers/tr1800.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "Software-Architecture Recovery from Machine Code",
+   	"Authors":["Venkatesh Karthik Srinivasan", "Thomas Reps"],
+   	"Link":"http://www.cs.wisc.edu/wpis/papers/tr1800.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "Property-Directed Shape Analysis",
+   	"Authors":[""],
+   	"Link":"Not Yet Published",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "Abstract Domains of Ane Relations",
+   	"Authors":["Matt Elder","Junghee Lim","Tushar Sharma","Tycho Anderson","Thomas Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/TR1792-R1.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "TSL: A System for Generating Abstract Interpreters and its Application to Machine-Code Analysis",
+   	"Authors":["Junghee Lim","Thomas Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/toplas13-tsl-final.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "Specialization Slicing",
+   	"Authors":["Min Aung","Susan Horwitz","Rich Joiner","Thomas Reps"],
+   	"Link":"http://www.cs.wisc.edu/wpis/papers/tr1776r1.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "PostHat and All That: Automating Abstract Interpretation",
+   	"Authors":["A. Thakur","A. Lal","J. Lim","Thomas Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/tapas13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "Recovery of Class Hierarchies and Composition Relationships from Machine Code",
+   	"Authors":[""],
+   	"Link":"Not Yet Published",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "Bilateral Algorithms for Symbolic Abstraction",
+   	"Authors":["Aditya Thakur","Matt Elder","Thomas Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/sas12-bilateral-alphahat.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "A Generalization of Stalmarck's Method",
+   	"Authors":["Aditya Thakur","Thomas Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/sas12-staalmarck.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "A Method for Symbolic Computation of Abstract Operations",
+   	"Authors":["Aditya Thakur","Thomas Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/CAV12-Staalmarck.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "OpenNWA: A Nested-Word Automaton Library",
+   	"Authors":["Evan Driscoll","Aditya Thakur","Thomas Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/CAV12-OpenNWA.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "Software-Architecture Recovery from Machine Code",
+   	"Authors":["Venkatesh Karthik Srinivasan","Thomas Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/tr1781.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "An Abstract Domain for Bit-Vector Inequalities",
+   	"Authors":["Tushar Sharma","Aditya Thakur","Thomas Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/tr1789.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of Wisconsin"],
+   	"Title": "Property-Guided Shape Analysis",
+   	"Authors":[""],
+   	"Link":"Not Yet Published",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
