@@ -144,7 +144,7 @@
    	"Program Teams": ["Columbia University","Symantec"],
    	"Title": "Towards a Universal Data Provenance Framework using Dynamic Instrumentation",
    	"Authors":["Eleni Gessiou", "Vasilis Pappas", "Elias Athanasopoulos", "Angelos D. Keromytis", "Sotiris Ioannidis"],
-   	"Link":" http://www.cs.columbia.edu/~vpappas/papers/provenance.sec12.pdf",
+   	"Link":"http://www.cs.columbia.edu/~vpappas/papers/provenance.sec12.pdf",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
@@ -254,7 +254,7 @@
    	"Program Teams": ["Cornell University"],
    	"Title": "Fact-based Inter-Process Communication Primitives for Programming Distributed Systems",
    	"Authors":["Robbert van Renesse"],
-  	"Link":" http://www.cs.cornell.edu/projects/quicksilver/public_pdfs/lada2012.pdf",
+  	"Link":"http://www.cs.cornell.edu/projects/quicksilver/public_pdfs/lada2012.pdf",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
@@ -484,16 +484,6 @@
    	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
    	"Title": "VeriFlow: Verifying Network-Wide Invariants in Real Time",
    	"Authors":["Ahmed Khurshid", "Kelvin Zou", "Wenxuan Zhou", "Matthew Caesar", "P. Brighten Godfrey"],
-   	"Link":"http://web.engr.illinois.edu/~khurshi1/papers/veriflow-nsdi-2013.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
-{
-    "DARPA Program":"MRC",
-  	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
-   	"Title": "VeriFlow: Verifying Network-Wide Invariants in Real Time",
-  	"Authors":["Ahmed Khurshid", "Wenxuan Zhou", "Matthew Caesar", "P. Brighten Godfrey"],
    	"Link":"http://web.engr.illinois.edu/~khurshi1/papers/veriflow-nsdi-2013.pdf",
     "Categories":[""],
     "Subcategories":[""],
