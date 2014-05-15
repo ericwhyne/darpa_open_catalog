@@ -363,15 +363,6 @@
   "DARPA Program":"SAFER",
   "Program Teams":["Georgia Tech","Princeton University"],
   "Title":"A Slick Control Plane for Network Middleboxes",
-  "Link":"http://www.opennetsummit.org/pdf/2013/research_track/poster_papers/final/ons2013-final51.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-  },
-{
-  "DARPA Program":"SAFER",
-  "Program Teams":["Georgia Tech","Princeton University"],
-  "Title":"A Slick Control Plane for Network Middleboxes",
   "Link":"http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p147.pdf",
   "Categories":[""],
   "Subcategories":[""],
