@@ -149,3 +149,225 @@
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
 },
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of California, Berkeley"],
+   	"Title": "Hot-Patching a Web Server: a Case Study of ASAP Code Repair",
+   	"Authors":["Mathias Payer","Thomas R. Gross"],
+   	"Link":"http://bitblaze.cs.berkeley.edu/papers/payer13dynsec-pst.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of California, Berkeley"],
+   	"Title": "DynSec: On-the-fly Code Rewriting and Repair",
+   	"Authors":["Mathias Payer","Boris Bluntschli","Thomas R. Gross"],
+   	"Link":"http://bitblaze.cs.berkeley.edu/papers/payer13dynsec.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of California, Berkeley"],
+   	"Title": "BLITZ: Compositional Bounded Model Checking for Real-World Programs",
+   	"Authors":[""],
+   	"Link":"http://www.cs.berkeley.edu/~chiayuan/pubs/blitz.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of California, Berkeley"],
+   	"Title": "Transformation-aware Exploit Generation using a HI-CFG",
+   	"Authors":["Dan Caselden","Alex Bazhanyuk","Mathias Payer","Laszlo Szekeres","Stephen McCamant","Dawn Song"],
+   	"Link":"http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-85.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["University of California, Berkeley"],
+   	"Title": "Path-Exploration Lifting: Hi-Fi Tests for Lo-Fi Emulators",
+   	"Authors":["Lorenzo Martignoni","Stephen McCamant","Pongsin Poosankam","Dawn Song","Petros Maniatis"],
+   	"Link":"http://www.cs.berkeley.edu/~dawnsong/papers/2012%20Path%20Exploration%20Lifting%20Hi%20Fi%20Tests%20for%20Lo%20Fi%20Emulators.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Stanford University"],
+   	"Title": "Redundant State Detection for Dynamic Symbolic Execution",
+   	"Authors":["Suhabe Bugrara","Dawson Engler"],
+   	"Link":"http://www.stanford.edu/~suhabe/atc13-bugrara.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "Native x86 Decompilation using Semantics-Preserving Structural Analysis and Iterative Control-Flow Structuring",
+   	"Authors":["Edward J. Schwartz","JongHyup Lee","Maverick Woo","David Brumley"],
+   	"Link":"http://www.cs.cmu.edu/~maverick/files/2013-usenix-phoenix.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "Redundant State Detection for Dynamic Symbolic Execution",
+   	"Authors":["Suhabe Bugrara","Dawson Engler"],
+   	"Link":"https://www.usenix.org/publications/login/october-2013-volume-38-number-5/usenix-atc-%E2%80%9913-2013-usenix-annual-technical",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "Expression Reduction from Programs in a Symbolic Binary Executor",
+   	"Authors":["A. Romano","Dawson Engler"],
+   	"Link":"http://www.springer.com/computer/swe/book/978-3-642-39175-0",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "Native x86 Decompilation using Semantics-Preserving Structural Analysis and Iterative Control-Flow Structuring",
+   	"Authors":["E. Schwartz","J. Lee","M. Woo","D. Brumley"],
+   	"Link":"https://www.usenix.org/conference/usenixsecurity13/technical-sessions",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "Practical Floating-Point Tests with Integer Code",
+   	"Authors":["A. Romano"],
+   	"Link":"http://www.springer.com/computer/theoretical+computer+science/book/978-3-642-54012-7",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "ByteWeight: Learning to Recognize Functions in Binary Code",
+   	"Authors":["T. Bao","R. Turner","M. Woo","D. Brumley"],
+   	"Link":"Not Yet Published",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "BiTR: A Binary Type Recovery System",
+   	"Authors":["M. Maurer","D. Brumley"],
+   	"Link":"Not Yet Published",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "Real-World Patch Equivalence Checking",
+   	"Authors":["D. Ramos","D. Engler"],
+   	"Link":"Not Yet Published",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "Distributed Dynamic Slicing of End-User Software Failures",
+   	"Authors":["D. Ramos","M. Musuvathi"],
+   	"Link":"Not Yet Published",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "Finding Bugs with Cross-Checked Mass Program Analysis",
+   	"Authors":["A. Romano","D. Engler"],
+   	"Link":"Not Yet Published",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Carnegie Mellon University"],
+   	"Title": "symMMU: Symbolically Executed Runtime Libraries for Symbolic Memory Access",
+   	"Authors":["A. Romano","D. Engler"],
+   	"Link":"Not Yet Published",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Perdue University"],
+   	"Title": "BISTRO: Binary Component Extraction and Embedding for Software Security Applications",
+   	"Authors":["Z. Deng","X. Zhang","D. Xu"],
+   	"Link":"http://www.springer.com/computer/security+and+cryptology/book/978-3-642-40202-9",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Perdue University"],
+   	"Title": "SPIDER: Stealthy Binary Program Instrumentation and Debugging via Hardware Virtualization",
+   	"Authors":["Z. Deng","X. Zhang","D. Xu"],
+   	"Link":"https://www.acsac.org/2013/openconf/modules/request.php?module=oc_program&action=summary.php&id=137&OPENCONF=v61fk62b1n4gquvmqtjok5if61",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Perdue University"],
+   	"Title": "Obfuscation Resilient Binary Code Reuse through Trace-oriented Programming",
+   	"Authors":["Junyuan Zeng","Yangchun Fu","Kenneth Miller","Zhiqiang Lin","Xiangyu Zhang","Dongyan Xu"],
+   	"Link":"http://www.sigsac.org/ccs/CCS2013/program/accepted-papers/index.html",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Perdue University"],
+   	"Title": "PIEtrace: Platform Independent Executable Trace",
+   	"Authors":["Yonghwi Kwon", "Xiangyu Zhang", "Dongyan Xu"],
+   	"Link":"https://www.cs.purdue.edu/homes/dxu/pubs/ASE13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"BET",
+   	"Program Teams": ["Perdue University"],
+   	"Title": "LogGC: Garbage Collecting Audit Log",
+   	"Authors":["Kyu Hyung Lee","Xiangyu Zhang","Dongyan Xu"],
+   	"Link":"http://friends.cs.purdue.edu/pubs/LogGC.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+}
+]
