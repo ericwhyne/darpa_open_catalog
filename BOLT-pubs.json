@@ -127,7 +127,7 @@
 },
 {
   "DARPA Program":"BOLT",
-  "Program Teams":["(Team BBN) Aix-Marseille University","InfoRmation Systems and Advanced Computing Laboratory","Columbia University"],
+  "Program Teams":["(Team BBN) Aix-Marseille University","Information Systems and Advanced Computing Laboratory","Columbia University"],
   "Title":"The Effects of Factorizing Root and Pattern Mapping in Translating between Tunisian Arabic and Standard Arabic",
   "Link":"http://www.mtsummit2013.info/files/proceedings/main/mt-summit-2013-hamdi-et-al.pdf",
   "Authors":["Ahmed Hamdi","Rahma Boujelbane","Nizar Habash and Alexis Nasr"]
@@ -401,7 +401,7 @@
 {
   "DARPA Program":"BOLT",
   "Program Teams":["(Team BBN) Hong Kong University of Science and Technology"],
-  "Title":"Accuracy and robustness in measuring the lexical similarity of semantic role llers for automatic semantic MT evaluation",
+  "Title":"Accuracy and robustness in measuring the lexical similarity of semantic role fillers for automatic semantic MT evaluation",
   "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/TumuluruLoWu_Paclic2012.pdf",
   "Authors":["Anand Karthik TUMULURU","Chi-kiu LO and Dekai WU"]
 },
@@ -758,7 +758,7 @@
 {
   "DARPA Program":"BOLT",
   "Program Teams":["(Team IBM) Stanford University"],
-  "Title":"Feature-Rich Phrase-based Translation: Stanford Universitys Submission to the WMT 2013 Translation Task",
+  "Title":"Feature-Rich Phrase-based Translation: Stanford University's Submission to the WMT 2013 Translation Task",
   "Link":"http://statmt.org/wmt13/pdf/WMT17.pdf",
   "Authors":["Spence Green","Daniel Cer","Kevin Reschke","Rob Voigt","John Bauer","Sida Wang","Natalia Silveira","Julia Neidert and Christopher D. Manning"]
 },
@@ -1024,7 +1024,7 @@
 {
   "DARPA Program":"BOLT",
   "Program Teams":["(Team SRI) University of Texas at Dallas"],
-  "Title":"Normalization of Text Messages Using Character- and Phone-based Machine",
+  "Title":"Normalization of Text Messages for Text-to-Speech",
   "Link":"http://www.cslu.ogi.edu/~sproatr/Courses/TextNorm/Papers/liu.pdf",
   "Authors":["Chen Li and Yang Liu"]
 },
