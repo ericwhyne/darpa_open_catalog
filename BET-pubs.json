@@ -12,16 +12,6 @@
 {
     "DARPA Program":"BET",
    	"Program Teams": ["University of Wisconsin"],
-   	"Title": "Software-Architecture Recovery from Machine Code",
-   	"Authors":["Venkatesh Karthik Srinivasan", "Thomas Reps"],
-   	"Link":"http://www.cs.wisc.edu/wpis/papers/tr1800.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
-{
-    "DARPA Program":"BET",
-   	"Program Teams": ["University of Wisconsin"],
    	"Title": "Property-Directed Shape Analysis",
    	"Authors":[""],
    	"Link":"Not Yet Published",
@@ -32,7 +22,7 @@
 {
     "DARPA Program":"BET",
    	"Program Teams": ["University of Wisconsin"],
-   	"Title": "Abstract Domains of Ane Relations",
+   	"Title": "Abstract Domains of Affine Relations",
    	"Authors":["Matt Elder","Junghee Lim","Tushar Sharma","Tycho Anderson","Thomas Reps"],
    	"Link":"http://research.cs.wisc.edu/wpis/papers/TR1792-R1.pdf",
     "Categories":[""],
@@ -174,7 +164,7 @@
    	"Program Teams": ["University of California, Berkeley"],
    	"Title": "BLITZ: Compositional Bounded Model Checking for Real-World Programs",
    	"Authors":[""],
-   	"Link":"http://www.cs.berkeley.edu/~chiayuan/pubs/blitz.pdf",
+   	"Link":"http://www.cs.berkeley.edu/~dawnsong/papers/blitz.pdf",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
@@ -215,16 +205,6 @@
    	"Title": "Native x86 Decompilation using Semantics-Preserving Structural Analysis and Iterative Control-Flow Structuring",
    	"Authors":["Edward J. Schwartz","JongHyup Lee","Maverick Woo","David Brumley"],
    	"Link":"http://www.cs.cmu.edu/~maverick/files/2013-usenix-phoenix.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
-{
-    "DARPA Program":"BET",
-   	"Program Teams": ["Carnegie Mellon University"],
-   	"Title": "Redundant State Detection for Dynamic Symbolic Execution",
-   	"Authors":["Suhabe Bugrara","Dawson Engler"],
-   	"Link":"https://www.usenix.org/publications/login/october-2013-volume-38-number-5/usenix-atc-%E2%80%9913-2013-usenix-annual-technical",
     "Categories":[""],
     "Subcategories":[""],
     "ACM 1998 classification code":[""]
