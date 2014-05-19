@@ -1,618 +1,1434 @@
 [
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["THUnderBOLT - Sub"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "OOV and Name Detection",
-       "Internal Link": "",
-       "External Link": "",
-       "Public Code Repo": "ostendor@u.washington.edu",
-	   "Instructional Material":"",
-       "Description": "The OOV and Name Detection module detects out-of-vocabulary (OOV) and name regions in ASR output. The software developed under BOLT includes code for wrapping the MALLET and Stanford parser, for performing feature extraction and various data manipulation, and for scoring outputs. Development under BOLT also includes modifications to Stanford parser, which include grammar changes for OOV/error rules and for epsilon arcs in confusion networks, as well as code changes to train a log-linear model that is used for scoring the added rules. (Perl/Java)",
-       "License": ["UGPR"],
-       "Languages":["Perl","Java"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["OOV and Name Detection"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "THUnderBOLT - Sub"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"OOV and Name Detection",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"ostendor@u.washington.edu",
+        "Instructional Material":"",
+        "Description":"The OOV and Name Detection module detects out-of-vocabulary (OOV) and name regions in ASR output. The software developed under BOLT includes code for wrapping the MALLET and Stanford parser, for performing feature extraction and various data manipulation, and for scoring outputs. Development under BOLT also includes modifications to Stanford parser, which include grammar changes for OOV/error rules and for epsilon arcs in confusion networks, as well as code changes to train a log-linear model that is used for scoring the added rules. (Perl/Java)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "Perl",
+            "Java"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "OOV and Name Detection"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["THUnderBOLT - Sub"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "Error Processing and Answer Merging",
-       "Internal Link": "",
-       "External Link": "",
-       "Public Code Repo": "frederic.bechet@lif.univ-mrs.fr",
-	   "Instructional Material":"",
-       "Description": "The Error Processing and Answer Merging module includes error processing and answer merging. The error processing component processes and extends error segments from the ASR Error Detection component and OOV and Name Detection component so that the error segments are easy to clarify. The answer merging component merges clarification with user's initial utterance. (C++)",
-       "License": ["UGPR"],
-       "Languages":["C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Error Processing and Answer Merging"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "THUnderBOLT - Sub"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Error Processing and Answer Merging",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"frederic.bechet@lif.univ-mrs.fr",
+        "Instructional Material":"",
+        "Description":"The Error Processing and Answer Merging module includes error processing and answer merging. The error processing component processes and extends error segments from the ASR Error Detection component and OOV and Name Detection component so that the error segments are easy to clarify. The answer merging component merges clarification with user's initial utterance. (C++)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Error Processing and Answer Merging"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["THUnderBOLT - Sub"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "macaon",
-       "Internal Link": "",
-       "External Link": "http://macaon.lif.univ-mrs.fr/index.php?page=home-en",
-       "Public Code Repo": "git@gitlab.lif.univ-mrs.fr:benoit.favre/macaon.git",
-	   "Instructional Material":"",
-       "Description": "macaon is a tool suite for standard Natural Language Processing tasks (tagging, parsing...) that can process hypotheses. (C/C++)",
-       "License": ["GPL"],
-       "Languages":["C","C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Natural Language Processing"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "THUnderBOLT - Sub"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"macaon",
+        "Internal Link":"",
+        "External Link":"http://macaon.lif.univ-mrs.fr/index.php?page=home-en",
+        "Public Code Repo":"git@gitlab.lif.univ-mrs.fr:benoit.favre/macaon.git",
+        "Instructional Material":"",
+        "Description":"macaon is a tool suite for standard Natural Language Processing tasks (tagging, parsing...) that can process hypotheses. (C/C++)",
+        "License":[
+            "GPL"
+        ],
+        "Languages":[
+            "C",
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Natural Language Processing"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["THUnderBOLT - Sub"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "Word Sense Induction Suite",
-       "Internal Link": "",
-       "External Link": "",
-       "Public Code Repo": "james@cs.rochester.edu or lgalescu@ihmc.us",
-	   "Instructional Material":"",
-       "Description": "Word Sense Induction Suite is a suite of scripts used to induce word senses from bilingual alignments, and cluster senses for different words into semantically related sets. (Perl)",
-       "License": ["GPR","COTS"],
-       "Languages":["Perl"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Word Sense Induction"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "THUnderBOLT - Sub"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Word Sense Induction Suite",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"james@cs.rochester.edu or lgalescu@ihmc.us",
+        "Instructional Material":"",
+        "Description":"Word Sense Induction Suite is a suite of scripts used to induce word senses from bilingual alignments, and cluster senses for different words into semantically related sets. (Perl)",
+        "License":[
+            "GPR",
+            "COTS"
+        ],
+        "Languages":[
+            "Perl"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Word Sense Induction"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["THUnderBOLT - Sub"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "Word Sense Tagger",
-       "Internal Link": "",
-       "External Link": "",
-       "Public Code Repo": "james@cs.rochester.edu or lgalescu@ihmc.us",
-	   "Instructional Material":"",
-       "Description": "The Word Sense Tagger is used to: 1) train statistical models for tagging text with word senses; and 2) apply those models for tagging new text with word senses. (Ruby/JRuby)",
-       "License": ["GPR","CPL","GPL","LGPL","COTS"],
-       "Languages":["Ruby (JRuby)"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Word Sense Tagging"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "THUnderBOLT - Sub"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Word Sense Tagger",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"james@cs.rochester.edu or lgalescu@ihmc.us",
+        "Instructional Material":"",
+        "Description":"The Word Sense Tagger is used to: 1) train statistical models for tagging text with word senses; and 2) apply those models for tagging new text with word senses. (Ruby/JRuby)",
+        "License":[
+            "GPR",
+            "CPL",
+            "GPL",
+            "LGPL",
+            "COTS"
+        ],
+        "Languages":[
+            "Ruby (JRuby)"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Word Sense Tagging"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "BBN BOLT Arabic MT System",
-       "Internal Link": "/d4m/ears/expts/42641_arz_dec_a/sequences/42641_arz_dec_a.run.pl",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "Software translates Arabic input text to English. (C++/Perl)",
-       "License": ["UGPR"],
-       "Languages":["C++","Perl"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"BBN BOLT Arabic MT System",
+        "Internal Link":"/d4m/ears/expts/42641_arz_dec_a/sequences/42641_arz_dec_a.run.pl",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"Software translates Arabic input text to English. (C++/Perl)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C++",
+            "Perl"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "BBN BOLT Arabic MT Trainer",
-       "Internal Link": "/d4m/ears/expts/41595_tr_j/sequences/41595_tr_j.run.pl",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "Software trains models of Arabic-English MT system. (C++/Perl)",
-       "License": ["UGPR"],
-       "Languages":["C++","Perl"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"BBN BOLT Arabic MT Trainer",
+        "Internal Link":"/d4m/ears/expts/41595_tr_j/sequences/41595_tr_j.run.pl",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"Software trains models of Arabic-English MT system. (C++/Perl)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C++",
+            "Perl"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "BBN BOLT Chinese MT System",
-       "Internal Link": "/d4m/ears/expts/42642_ltr_dec_a/sequences/42642_ltr_dec_a.run.pl",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "Software translates Chinese input text to English. (C++/Perl)",
-       "License": ["UGPR"],
-       "Languages":["C++","Perl"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"BBN BOLT Chinese MT System",
+        "Internal Link":"/d4m/ears/expts/42642_ltr_dec_a/sequences/42642_ltr_dec_a.run.pl",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"Software translates Chinese input text to English. (C++/Perl)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C++",
+            "Perl"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "BBN BOLT Chinese MT Trainer",
-       "Internal Link": "/d4m/ears/expts/42591d_30m_tr/sequences/42591d_30m_tr.run.pl",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "Software trains models of Chinese-English MT system. (C++/Perl)",
-       "License": ["UGPR"],
-       "Languages":["C++","Perl"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"BBN BOLT Chinese MT Trainer",
+        "Internal Link":"/d4m/ears/expts/42591d_30m_tr/sequences/42591d_30m_tr.run.pl",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"Software trains models of Chinese-English MT system. (C++/Perl)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C++",
+            "Perl"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "Neural Network Trainer",
-       "Internal Link": "/nfs/mercury-02/u14/jdevlin/files/generic_neural_net/trunk",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "Software trains neural network models. (C++)",
-       "License": ["UGPR"],
-       "Languages":["C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Neural Network Trainer",
+        "Internal Link":"/nfs/mercury-02/u14/jdevlin/files/generic_neural_net/trunk",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"Software trains neural network models. (C++)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "Unsupervised Morphological Segmenter",
-       "Internal Link": "/d4m/home/rzbib/code/unsupervised_tokenizer/bin/lexicon-sampler-v2.1.jar",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "Software trains unsupervised models of morphological segmenter. (Java)",
-       "License": ["UGPR"],
-       "Languages":["Java"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Unsupervised Morphological Segmenter",
+        "Internal Link":"/d4m/home/rzbib/code/unsupervised_tokenizer/bin/lexicon-sampler-v2.1.jar",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"Software trains unsupervised models of morphological segmenter. (Java)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "English paraphraser",
-       "Internal Link": "/d4m/ears/developers/tlamar/Cube2/build.optimize-x86_64/src/hierarchical_mt_decoder/paraphrase_tool",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "Software generates paraphrases of English sentences. (C++)",
-       "License": ["UGPR"],
-       "Languages":["C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"English paraphraser",
+        "Internal Link":"/d4m/ears/developers/tlamar/Cube2/build.optimize-x86_64/src/hierarchical_mt_decoder/paraphrase_tool",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"Software generates paraphrases of English sentences. (C++)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "BBN BOLT IR Retrieval System",
-       "Internal Link": "",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "Software provides lists of ranked snippets from a large corpus in response to a natural language query. (C++/Python)",
-       "License": ["UGPR"],
-       "Languages":["C++","Python"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Information Retrieval"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"BBN BOLT IR Retrieval System",
+        "Internal Link":"",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"Software provides lists of ranked snippets from a large corpus in response to a natural language query. (C++/Python)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C++",
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Information Retrieval"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "BBN BOLT IR Clustering System",
-       "Internal Link": "",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "Software groups lists of snippets into thematic clusters with labels. (C++/Python)",
-       "License": ["UGPR"],
-       "Languages":["C++","Python"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Information Retrieval"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"BBN BOLT IR Clustering System",
+        "Internal Link":"",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"Software groups lists of snippets into thematic clusters with labels. (C++/Python)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C++",
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Information Retrieval"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "BBN TransTalk: Speech-to-Speech Translator with Interactive Error Detection and Resolution",
-       "Internal Link": "ssh://d212.bbn.com/d4m/ears/git/boltp2_bc_protype.git",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "The software system is a speech-to-speech translation application for Windows-based devices that allows speakers to communicate across language barriers. The system includes novel functionality to prevent communication failure that detects speech recognition and translation errors and engages in interactive dialog with the users to recover from those errors. (Java/C++)",
-       "License": ["COTS","UGPR"],
-       "Languages":["Java","C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Speech-to-Speech Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"BBN TransTalk: Speech-to-Speech Translator with Interactive Error Detection and Resolution",
+        "Internal Link":"ssh://d212.bbn.com/d4m/ears/git/boltp2_bc_protype.git",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"The software system is a speech-to-speech translation application for Windows-based devices that allows speakers to communicate across language barriers. The system includes novel functionality to prevent communication failure that detects speech recognition and translation errors and engages in interactive dialog with the users to recover from those errors. (Java/C++)",
+        "License":[
+            "COTS",
+            "UGPR"
+        ],
+        "Languages":[
+            "Java",
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Speech-to-Speech Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "WMS2 Informal Content Analyzer for Arabic",
-       "Internal Link": "",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "This is the core text content analysis engine for informal Arabic integrated into BBN Web Monitoring System. This engine integrates with the LW informal MT product. (C++/C#)",
-       "License": ["COTS"],
-       "Languages":["C++","C#"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["NLP"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"WMS2 Informal Content Analyzer for Arabic",
+        "Internal Link":"",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"This is the core text content analysis engine for informal Arabic integrated into BBN Web Monitoring System. This engine integrates with the LW informal MT product. (C++/C#)",
+        "License":[
+            "COTS"
+        ],
+        "Languages":[
+            "C++",
+            "C#"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - BBN"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "WMS2 Informal Content Analyzer for Chinese",
-       "Internal Link": "",
-       "External Link": "BOLT-software-requests@bbn.com",
-       "Public Code Repo": "BOLT-software-requests@bbn.com",
-	   "Instructional Material":"",
-       "Description": "This is the core text content analysis engine for informal Chinese integrated into BBN Web Monitoring System. This engine integrates with the LW informal MT product. (C++/C#)",
-       "License": ["COTS"],
-       "Languages":["C++","C#"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["NLP"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - BBN"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"WMS2 Informal Content Analyzer for Chinese",
+        "Internal Link":"",
+        "External Link":"BOLT-software-requests@bbn.com",
+        "Public Code Repo":"BOLT-software-requests@bbn.com",
+        "Instructional Material":"",
+        "Description":"This is the core text content analysis engine for informal Chinese integrated into BBN Web Monitoring System. This engine integrates with the LW informal MT product. (C++/C#)",
+        "License":[
+            "COTS"
+        ],
+        "Languages":[
+            "C++",
+            "C#"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - SDL"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "Informal Arabic-English MT Engine",
-       "Internal Link": "",
-       "External Link": "http://sdlgov.com",
-       "Public Code Repo": "bolt.software.requests@sdl.com",
-	   "Instructional Material":"",
-       "Description": "This is Informal Arabic-English COTS machine translation software that is commercialized by SDL Government. (C++)",
-       "License": ["COTS"],
-       "Languages":["C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - SDL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Informal Arabic-English MT Engine",
+        "Internal Link":"",
+        "External Link":"http://sdlgov.com",
+        "Public Code Repo":"bolt.software.requests@sdl.com",
+        "Instructional Material":"",
+        "Description":"This is Informal Arabic-English COTS machine translation software that is commercialized by SDL Government. (C++)",
+        "License":[
+            "COTS"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - SDL"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "Informal Chinese-English MT Engine",
-       "Internal Link": "",
-       "External Link": "http://sdlgov.com",
-       "Public Code Repo": "bolt.software.requests@sdl.com",
-	   "Instructional Material":"",
-       "Description": "This is Informal Chinese-English COTS machine translation software that is commercialized by SDL Government. (C++)",
-       "License": ["COTS"],
-       "Languages":["C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - SDL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Informal Chinese-English MT Engine",
+        "Internal Link":"",
+        "External Link":"http://sdlgov.com",
+        "Public Code Repo":"bolt.software.requests@sdl.com",
+        "Instructional Material":"",
+        "Description":"This is Informal Chinese-English COTS machine translation software that is commercialized by SDL Government. (C++)",
+        "License":[
+            "COTS"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - CADIM"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "MADAMIRA: Base Phrase Chunking Component",
-       "Internal Link": "",
-       "External Link": "cadim@ccls.columbia.edu",
-       "Public Code Repo": "cadim@ccls.columbia.edu",
-	   "Instructional Material":"",
-       "Description": "Base Phrase Chunking (BPC), also known as shallow syntactic parsing, is the process by which adjacent words are grouped together to form nonrecursive chunks in a sentence. The base chunks we currently recognize are: ADJP (Adjectival phrase), ADVP (Adverbial phrase), CONJP (Conjunctive phrase), FRAG (Fragment), INTJ (Interjective phrase), LST (List), NAC (Not a Constituent), NP (Noun phrase), PP (Prepositional phrase), PRN (Parenthetical phrase), S (Sentence marker), SBAR (Subjunctive construction), SBARQ (Subjunctive question), VP (Verb phrase), WHADVP (Adverbial phrase 'Wh' question), WHNP (Noun phrase 'Wh' question), and WHPP (Prepositional phrase 'Wh' question). (Java/Perl)",
-       "License": ["NCSLA"],
-       "Languages":["Java","Perl"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["NLP", "shallow parsing"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - CADIM"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"MADAMIRA: Base Phrase Chunking Component",
+        "Internal Link":"",
+        "External Link":"cadim@ccls.columbia.edu",
+        "Public Code Repo":"cadim@ccls.columbia.edu",
+        "Instructional Material":"",
+        "Description":"Base Phrase Chunking (BPC), also known as shallow syntactic parsing, is the process by which adjacent words are grouped together to form nonrecursive chunks in a sentence. The base chunks we currently recognize are: ADJP (Adjectival phrase), ADVP (Adverbial phrase), CONJP (Conjunctive phrase), FRAG (Fragment), INTJ (Interjective phrase), LST (List), NAC (Not a Constituent), NP (Noun phrase), PP (Prepositional phrase), PRN (Parenthetical phrase), S (Sentence marker), SBAR (Subjunctive construction), SBARQ (Subjunctive question), VP (Verb phrase), WHADVP (Adverbial phrase 'Wh' question), WHNP (Noun phrase 'Wh' question), and WHPP (Prepositional phrase 'Wh' question). (Java/Perl)",
+        "License":[
+            "NCSLA"
+        ],
+        "Languages":[
+            "Java",
+            "Perl"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "NLP",
+            "shallow parsing"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - CADIM"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "MADAMIRA: NER component",
-       "Internal Link": "",
-       "External Link": "cadim@ccls.columbia.edu",
-       "Public Code Repo": "cadim@ccls.columbia.edu",
-	   "Instructional Material":"",
-       "Description": "MADAMIRA NER component is designed to identify and classify all occurrences of named entities in an Arabic text. The three categories that a named entity can fall under are: ORGANIZATION, LOCATION, and PERSON. (Java)",
-       "License": ["NCSLA"],
-       "Languages":["Java"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["NLP", "Named Entity Identification and Classification"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - CADIM"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"MADAMIRA: NER component",
+        "Internal Link":"",
+        "External Link":"cadim@ccls.columbia.edu",
+        "Public Code Repo":"cadim@ccls.columbia.edu",
+        "Instructional Material":"",
+        "Description":"MADAMIRA NER component is designed to identify and classify all occurrences of named entities in an Arabic text. The three categories that a named entity can fall under are: ORGANIZATION, LOCATION, and PERSON. (Java)",
+        "License":[
+            "NCSLA"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "NLP",
+            "Named Entity Identification and Classification"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - CADIM"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "MADAMIRA: tokenization, lemmatization, diacritization, POS tagging",
-       "Internal Link": "http://www1.ccls.columbia.edu/~ryan/BOLT-CADIM-Tools/",
-       "External Link": "http://innovation.columbia.edu/technologies/cu14012_arabic-language-disambiguation-for-natural-language-processing-applications",
-       "Public Code Repo": "cadim@ccls.columbia.edu",
-	   "Instructional Material":"",
-       "Description": "MADAMIRA is a system for Morphological Analysis and Disambiguation for Arabic. Its primary purpose is to derive as much linguistic information as possible about each word in a given text, thereby reducing or eliminating any ambiguity surrounding the word. MADAMIRA's core functionality includes: tokenization, part-of-speech tagging, morphological disambiguation for a full range of morphological features, lemmatization, diacritization, named entity recognition, and base phrase chunking. (Java/Perl)",
-       "License": ["NCSLA"],
-       "Languages":["Java","Perl"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Tokenization", "lemmatization", "diacritization", "POS tagging", "segmentation", "MSA", "Dialectal Arabic"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - CADIM"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"MADAMIRA: tokenization, lemmatization, diacritization, POS tagging",
+        "Internal Link":"http://www1.ccls.columbia.edu/~ryan/BOLT-CADIM-Tools/",
+        "External Link":"http://innovation.columbia.edu/technologies/cu14012_arabic-language-disambiguation-for-natural-language-processing-applications",
+        "Public Code Repo":"cadim@ccls.columbia.edu",
+        "Instructional Material":"",
+        "Description":"MADAMIRA is a system for Morphological Analysis and Disambiguation for Arabic. Its primary purpose is to derive as much linguistic information as possible about each word in a given text, thereby reducing or eliminating any ambiguity surrounding the word. MADAMIRA's core functionality includes: tokenization, part-of-speech tagging, morphological disambiguation for a full range of morphological features, lemmatization, diacritization, named entity recognition, and base phrase chunking. (Java/Perl)",
+        "License":[
+            "NCSLA"
+        ],
+        "Languages":[
+            "Java",
+            "Perl"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Tokenization",
+            "lemmatization",
+            "diacritization",
+            "POS tagging",
+            "segmentation",
+            "MSA",
+            "Dialectal Arabic"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["ASTRAL - CADIM"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "MADA-ARZ",
-       "Internal Link": "http://www1.ccls.columbia.edu/~ryan/BOLT-CADIM-Tools/",
-       "External Link": "cadim@ccls.columbia.edu",
-       "Public Code Repo": "cadim@ccls.columbia.edu",
-	   "Instructional Material":"",
-       "Description": "MADA-ARZ is an adaptation of MADA (Version 3.2), built to handle the Egyptian dialect.  For the most part, the operation of MADA-ARZ is the same as MADA 3.2. MADA 3.2 is a system for Morphological Analysis and Disambiguation for Arabic. Its primary purpose is to derive as much linguistic information as possible about each word in a given text, thereby reducing or eliminating any ambiguity surrounding the word. MADA 3.2 also contains a general tokenizer. (Perl)",
-       "License": ["NCSLA"],
-       "Languages":["Perl"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Tokenization", "lemmatization", "diacritization", "POS tagging", "segmentation", "Egyptian Arabic"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "ASTRAL - CADIM"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"MADA-ARZ",
+        "Internal Link":"http://www1.ccls.columbia.edu/~ryan/BOLT-CADIM-Tools/",
+        "External Link":"cadim@ccls.columbia.edu",
+        "Public Code Repo":"cadim@ccls.columbia.edu",
+        "Instructional Material":"",
+        "Description":"MADA-ARZ is an adaptation of MADA (Version 3.2), built to handle the Egyptian dialect.  For the most part, the operation of MADA-ARZ is the same as MADA 3.2. MADA 3.2 is a system for Morphological Analysis and Disambiguation for Arabic. Its primary purpose is to derive as much linguistic information as possible about each word in a given text, thereby reducing or eliminating any ambiguity surrounding the word. MADA 3.2 also contains a general tokenizer. (Perl)",
+        "License":[
+            "NCSLA"
+        ],
+        "Languages":[
+            "Perl"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Tokenization",
+            "lemmatization",
+            "diacritization",
+            "POS tagging",
+            "segmentation",
+            "Egyptian Arabic"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["DELPHI - IBM"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "IBM Arabic Front-End Processor",
-       "Internal Link": "",
-       "External Link": "resweb@us.ibm.com",
-       "Public Code Repo": "resweb@us.ibm.com",
-	   "Instructional Material":"",
-       "Description": "Software for processing Arabic input and performing source-side analysis, including segmentation, tokenization, number classing, orthography normalization, and light spelling correction. (C++)",
-	   "License": ["GPR"],
-       "Languages":["C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Statistical Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "DELPHI - IBM"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"IBM Arabic Front-End Processor",
+        "Internal Link":"",
+        "External Link":"resweb@us.ibm.com",
+        "Public Code Repo":"resweb@us.ibm.com",
+        "Instructional Material":"",
+        "Description":"Software for processing Arabic input and performing source-side analysis, including segmentation, tokenization, number classing, orthography normalization, and light spelling correction. (C++)",
+        "License":[
+            "GPR"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Statistical Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["DELPHI - IBM"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "IBM Chinese Front-End Processor",
-       "Internal Link": "",
-       "External Link": "resweb@us.ibm.com",
-       "Public Code Repo": "resweb@us.ibm.com",
-	   "Instructional Material":"",
-       "Description": "Software for processing Chinese input and performing source-side analysis, including segmentation, tokenization, and number classing. (C++)",
-       "License": ["GPR"],
-       "Languages":["C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Statistical Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "DELPHI - IBM"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"IBM Chinese Front-End Processor",
+        "Internal Link":"",
+        "External Link":"resweb@us.ibm.com",
+        "Public Code Repo":"resweb@us.ibm.com",
+        "Instructional Material":"",
+        "Description":"Software for processing Chinese input and performing source-side analysis, including segmentation, tokenization, and number classing. (C++)",
+        "License":[
+            "GPR"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Statistical Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["DELPHI - IBM"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "IBM DTM2 Decoder",
-       "Internal Link": "",
-       "External Link": "resweb@us.ibm.com",
-       "Public Code Repo": "resweb@us.ibm.com",
-	   "Instructional Material":"",
-       "Description": "A maximum-entropy, phrase-based decoder for statistical machine translation. (C++)",
-       "License": ["GPR"],
-       "Languages":["C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Statistical Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "DELPHI - IBM"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"IBM DTM2 Decoder",
+        "Internal Link":"",
+        "External Link":"resweb@us.ibm.com",
+        "Public Code Repo":"resweb@us.ibm.com",
+        "Instructional Material":"",
+        "Description":"A maximum-entropy, phrase-based decoder for statistical machine translation. (C++)",
+        "License":[
+            "GPR"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Statistical Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["DELPHI - IBM"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "IBM ForSyn Decoder",
-       "Internal Link": "",
-       "External Link": "resweb@us.ibm.com",
-       "Public Code Repo": "resweb@us.ibm.com",
-	   "Instructional Material":"",
-       "Description": "A Formal Syntax Statistical Machine translation decoder. The decoder is a forest-to-string, hierarchical decoder. (C++)",
-       "License": ["GPR"],
-       "Languages":["C++"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Statistical Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "DELPHI - IBM"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"IBM ForSyn Decoder",
+        "Internal Link":"",
+        "External Link":"resweb@us.ibm.com",
+        "Public Code Repo":"resweb@us.ibm.com",
+        "Instructional Material":"",
+        "Description":"A Formal Syntax Statistical Machine translation decoder. The decoder is a forest-to-string, hierarchical decoder. (C++)",
+        "License":[
+            "GPR"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Statistical Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-       "DARPA Program": "BOLT",
-       "Program Teams":["DELPHI - IBM"],
-       "Contributors":[""],
-       "Sub-contractors":[""],
-       "Software": "IBM XML parsing and reformatting scripts",
-       "Internal Link": "",
-       "External Link": "resweb@us.ibm.com",
-       "Public Code Repo": "resweb@us.ibm.com",
-	   "Instructional Material":"",
-       "Description": "A collection of scripts to convert from and to the XML format required by NIST to deliver BOLT input/output. (Perl)",
-       "License": ["GPR"],
-       "Languages":["Perl"],
-       "Platform Requirements":[""],
-       "Dependent modules":[""],
-       "Dependent module URLs":[""],
-       "Component modules":[""],
-       "Component module URLs":[""],
-       "Industry":[""],
-       "Functionality":[""],
-       "Categories":["Statistical Machine Translation"]
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "DELPHI - IBM"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"IBM XML parsing and reformatting scripts",
+        "Internal Link":"",
+        "External Link":"resweb@us.ibm.com",
+        "Public Code Repo":"resweb@us.ibm.com",
+        "Instructional Material":"",
+        "Description":"A collection of scripts to convert from and to the XML format required by NIST to deliver BOLT input/output. (Perl)",
+        "License":[
+            "GPR"
+        ],
+        "Languages":[
+            "Perl"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Statistical Machine Translation"
+        ],
+        "New Date":"",
+        "Update Date":""
     }
 ]

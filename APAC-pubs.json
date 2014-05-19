@@ -1,61 +1,85 @@
 [
     {
-    "DARPA Program": "APAC",
-    "Program Teams": [
+        "DARPA Program":"APAC",
+        "Program Teams":[
             "University of Washington"
         ],
-    "Title": "JavaUI: Effects for Controlling UI Object Access",
-    "Authors": [
+        "Title":"JavaUI: Effects for Controlling UI Object Access",
+        "Authors":[
             "Colin S. Gordon",
             "Werner Dietl",
             "Michael D. Ernst",
             "Dan Grossman"
         ],
-    "Link": "http://homes.cs.washington.edu/~mernst/pubs/gui-thread-ecoop2013.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
+        "Link":"http://homes.cs.washington.edu/~mernst/pubs/gui-thread-ecoop2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
     {
-    "DARPA Program": "APAC",
-    "Program Teams": [
+        "DARPA Program":"APAC",
+        "Program Teams":[
             "University of Washington"
         ],
-    "Title": "Rely-Guarantee References for Refinement Types Over Aliased Mutable Data",
-    "Authors": [
+        "Title":"Rely-Guarantee References for Refinement Types Over Aliased Mutable Data",
+        "Authors":[
             "Colin S. Gordon",
             "Michael D. Ernst",
             "Dan Grossman"
         ],
-    "Link": "http://homes.cs.washington.edu/~mernst/pubs/rely-guarantee-ref-pldi2013.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
+        "Link":"http://homes.cs.washington.edu/~mernst/pubs/rely-guarantee-ref-pldi2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
     {
-    "DARPA Program": "APAC",
-    "Program Teams": [
+        "DARPA Program":"APAC",
+        "Program Teams":[
             "University of Washington"
         ],
-    "Title": "ReIm & ReImInfer: Checking and Inference of Reference Immutability and Method Purity",
-    "Authors": [
+        "Title":"ReIm & ReImInfer: Checking and Inference of Reference Immutability and Method Purity",
+        "Authors":[
             "Wei Huang",
             "Ana Milanova",
             "Werner Dietl",
             "Michael D. Ernst"
         ],
-    "Link": "http://homes.cs.washington.edu/~mernst/pubs/infer-refimmutability-oopsla2012.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
+        "Link":"http://homes.cs.washington.edu/~mernst/pubs/infer-refimmutability-oopsla2012.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
     {
-    "DARPA Program": "APAC",
-    "Program Teams": [
+        "DARPA Program":"APAC",
+        "Program Teams":[
             "BAE Systems"
         ],
-    "Title": "Automated Execution Control and Dynamic Behavior Monitoring for Android Applications",
-    "Authors": [
+        "Title":"Automated Execution Control and Dynamic Behavior Monitoring for Android Applications",
+        "Authors":[
             "Mike Ter Louw",
             "Marc Krull",
             "Tavaris Thomas",
@@ -63,36 +87,52 @@
             "Greg Frazier",
             "Mike Weber"
         ],
-    "Link": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6735749&url=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D6735749",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6735749&url=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D6735749",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
     {
-    "DARPA Program": "APAC",
-    "Program Teams": [
+        "DARPA Program":"APAC",
+        "Program Teams":[
             "BAE Systems"
         ],
-    "Title": "Behavior Analysis via Execution Path Clusters",
-    "Authors": [
+        "Title":"Behavior Analysis via Execution Path Clusters",
+        "Authors":[
             "Rebecca Cathey",
             "Gregory Frazier",
             "Michael Weber "
         ],
-    "Link": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6735750&url=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Farnumber%3D6735750",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
-},
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6735750&url=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Farnumber%3D6735750",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
     {
-    "DARPA Program": "APAC",
-    "Program Teams": [
+        "DARPA Program":"APAC",
+        "Program Teams":[
             "MIT",
             "Kestrel Institute",
             "GITI"
         ],
-    "Title": "Contextual Policy Enforcement in Android Applications with Permission Event Graphs",
-    "Authors": [
+        "Title":"Contextual Policy Enforcement in Android Applications with Permission Event Graphs",
+        "Authors":[
             "Kevin Zhijie Chen",
             "Noah M. Johnson",
             "Vijay D'Silva",
@@ -103,9 +143,17 @@
             "Martin Rinard",
             "Dawn Xiaodong Song"
         ],
-    "Link": "http://www.internetsociety.org/sites/default/files/06_4_0.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+        "Link":"http://www.internetsociety.org/sites/default/files/06_4_0.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     }
 ]
