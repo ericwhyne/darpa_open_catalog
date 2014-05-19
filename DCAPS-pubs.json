@@ -1,90 +1,222 @@
 [
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["USC", "ICT"],
-  "Title":"User-State Sensing for Virtual Health Agents and TeleHealth Applications",
-  "Link":"http://www.ncbi.nlm.nih.gov/pubmed/23400148",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["USC", "ICT"],
-  "Title":"Automatic Behavior Descriptors for Psychological Disorder Analysis",
-  "Link":"http://ict.usc.edu/bibtexbrowser.php?key=scherer_automatic_2013&bib=ICT.bib",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["USC", "ICT"],
-  "Title":"Crowdsourcing Micro-Level Multimedia Annotations: The Challenges of Evaluation and Interface",
-  "Link":"http://dl.acm.org/citation.cfm?id=2390816",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["USC", "ICT"],
-  "Title":"Perception Markup Language: Towards a Standardized Representation of Perceived Nonverbal Behaviors",
-  "Link":"http://ict.usc.edu/bibtexbrowser.php?key=scherer_perception_2012&bib=ICT.bib",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["USC", "ICT"],
-  "Title":"FAAST-R: Defining a core mechanic for designing gestural interfaces",
-  "Link":"http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fict.usc.edu%2Fpubs%2FFAAST-R-%2520Defining%2520a%2520Core%2520Mechanic%2520for%2520Designing%2520Gestural%2520Interfaces.pdf&ei=wNwDU6CKN8qL0QGl4oHQCw&usg=AFQjCNHqIvHx1iXpnyEuSzG4YRW-k9DYJA&bvm=bv.61535280,d.dmQ&cad=rja",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["USC", "ICT"],
-  "Title":"A Mixed-Initiative Conversational Dialogue System for Healthcare",
-  "Link":"http://aclweb.org/anthology//W/W12/W12-1620.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["USC", "ICT"],
-  "Title":"Unobtrusive measurement of subtle nonverbal behaviors with the Microsoft Kinect",
-  "Link":"http://ict.usc.edu/pubs/Unobtrusive%20Measurement%20of%20Subtle%20Nonverbal%20Behaviors%20with%20the%20Microsoft%20Kinect.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["BBN","Raytheon"],
-  "Title":"Automatic Detection of Psychological Distress Indicators from Online Forum Posts",
-  "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6412004",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["BBN","Raytheon"],
-  "Title":"Model-based parametric features for emotion recognition from speech",
-  "Link":"http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6163987",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["BBN","Raytheon"],
-  "Title":"Ensemble of SVM trees for multimodal emotion recognition",
-  "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6411794",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{ "DARPA Program":"DCAPS",
-  "Program Teams":["BBN","Raytheon"],
-  "Title":"Emotion Recognition using Acoustic and Lexical Features",
-  "Link":"http://interspeech2012.org/accepted-abstract.html?id=1130",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-}
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "USC",
+            "ICT"
+        ],
+        "Title":"User-State Sensing for Virtual Health Agents and TeleHealth Applications",
+        "Link":"http://www.ncbi.nlm.nih.gov/pubmed/23400148",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "USC",
+            "ICT"
+        ],
+        "Title":"Automatic Behavior Descriptors for Psychological Disorder Analysis",
+        "Link":"http://ict.usc.edu/bibtexbrowser.php?key=scherer_automatic_2013&bib=ICT.bib",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "USC",
+            "ICT"
+        ],
+        "Title":"Crowdsourcing Micro-Level Multimedia Annotations: The Challenges of Evaluation and Interface",
+        "Link":"http://dl.acm.org/citation.cfm?id=2390816",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "USC",
+            "ICT"
+        ],
+        "Title":"Perception Markup Language: Towards a Standardized Representation of Perceived Nonverbal Behaviors",
+        "Link":"http://ict.usc.edu/bibtexbrowser.php?key=scherer_perception_2012&bib=ICT.bib",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "USC",
+            "ICT"
+        ],
+        "Title":"FAAST-R: Defining a core mechanic for designing gestural interfaces",
+        "Link":"http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fict.usc.edu%2Fpubs%2FFAAST-R-%2520Defining%2520a%2520Core%2520Mechanic%2520for%2520Designing%2520Gestural%2520Interfaces.pdf&ei=wNwDU6CKN8qL0QGl4oHQCw&usg=AFQjCNHqIvHx1iXpnyEuSzG4YRW-k9DYJA&bvm=bv.61535280,d.dmQ&cad=rja",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "USC",
+            "ICT"
+        ],
+        "Title":"A Mixed-Initiative Conversational Dialogue System for Healthcare",
+        "Link":"http://aclweb.org/anthology//W/W12/W12-1620.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "USC",
+            "ICT"
+        ],
+        "Title":"Unobtrusive measurement of subtle nonverbal behaviors with the Microsoft Kinect",
+        "Link":"http://ict.usc.edu/pubs/Unobtrusive%20Measurement%20of%20Subtle%20Nonverbal%20Behaviors%20with%20the%20Microsoft%20Kinect.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "BBN",
+            "Raytheon"
+        ],
+        "Title":"Automatic Detection of Psychological Distress Indicators from Online Forum Posts",
+        "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6412004",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "BBN",
+            "Raytheon"
+        ],
+        "Title":"Model-based parametric features for emotion recognition from speech",
+        "Link":"http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6163987",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "BBN",
+            "Raytheon"
+        ],
+        "Title":"Ensemble of SVM trees for multimodal emotion recognition",
+        "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6411794",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"DCAPS",
+        "Program Teams":[
+            "BBN",
+            "Raytheon"
+        ],
+        "Title":"Emotion Recognition using Acoustic and Lexical Features",
+        "Link":"http://interspeech2012.org/accepted-abstract.html?id=1130",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    }
 ]

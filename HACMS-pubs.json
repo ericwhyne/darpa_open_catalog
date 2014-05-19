@@ -1,382 +1,500 @@
 [
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Carnegie Mellon University"], 
-"Title": "Motion Interference Detection in Mobile Robots",
-"Link": "http://www.cs.cmu.edu/~mmv/papers/12iros-MendozaVelosoSimmons.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Carnegie Mellon University"], 
-"Title": "Mobile Robot Fault Detection based on Redundant Information Statistics",
-"Link": "http://www.cs.cmu.edu/~mmv/papers/12irosw-MendozaVelosoSimmons.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Carnegie Mellon University"], 
-"Title": "A Vision of Collaborative Verification-Driven Engineering of Hybrid Systems",
-"Link": "http://www.cs.bham.ac.uk/research/projects/formare/events/aisb2013/submissions/stage2/99990008.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Carnegie Mellon University"], 
-"Title": "On Provably Safe Obstacle Avoidance for Autonomous Robotic Ground Vehicles",
-"Link": "http://symbolaris.com/pub/robix.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["MIT"], 
-"Title": "Combining Generative Metaprogramming and Hoare Logic in an Extensible Program Verifier",
-"Link": "http://adam.chlipala.net/papers/BedrockICFP13/BedrockICFP13.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["NICTA"], 
-"Title": "seL4: from General Purpose to a Proof of Information Flow Enforcement",
-"Link": "http://www.ieee-security.org/TC/SP2013/papers/4977a415.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["NICTA"], 
-"Title": "Binary Verification of an OS Microkernel",
-"Link": "http://www.cl.cam.ac.uk/~mom22/pldi13.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["NICTA"], 
-"Title": "File Systems Deserve Verification Too!",
-"Link": "http://plosworkshop.org/2013/preprint/keller.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["NICTA"], 
-"Title": "Towards a Verified Component Platform",
-"Link": "http://plosworkshop.org/2013/preprint/fernandez.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Princeton University"], 
-"Title": "Mostly sound type system improves a foundational program verifier",
-"Link": "http://www.cs.princeton.edu/~appel/papers/typecheck.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Princeton University"], 
-"Title": "Computational Verification of Network Programs in Coq",
-"Link": "http://www.cs.princeton.edu/~jsseven/papers/netcorewp/", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Princeton University"], 
-"Title": "Program Logics for Certified Compilers",
-"Link": "http://vst.cs.princeton.edu/PLCC-sample.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Rockwell Collins", "University of Minnesota"], 
-"Title": "Your What Is My How: Iteration and Hierarchy in System Design",
-"Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6359702", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["SRI"], 
-"Title": "Automated Reasoning, Fast and Slow?",
-"Link": "http://link.springer.com/chapter/10.1007%2F978-3-642-38574-2_10", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["SRI"], 
-"Title": "Logic and Epistemology in Safety Classes",
-"Link": "Not Yet Published", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["SRI"], 
-"Title": "ARSENAL: Automatic Requirements Specification Extraction from Natural Language",
-"Link": "Not Yet Published", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["SRI"], 
-"Title": "Reasoning about the Reliability Of Diverse Two-Channel Systems In which One Channel is `Possibly Perfect'",
-"Link": "http://openaccess.city.ac.uk/1069/", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["SRI"], 
-"Title": "Tool Integration with the Evidential Tool Bus",
-"Link": "http://cedeela.fr/~simon/files/etb.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["SRI"], 
-"Title": "Time-Aware Relational Abstractions for Hybrid Systems",
-"Link": "https://es-static.fbk.eu/people/mover/paper/relabs/time-aware.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["SRI", "University of Illinois-Urbana Champagne"], 
-"Title": "Safety Verification for Linear Systems",
-"Link": "http://www.csl.sri.com/~tiwari/papers/emsoft2013_hsalcegar.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["UCLA"], 
-"Title": "Security for control systems under sensor and actuator attacks",
-"Link": "http://www.mit.edu/~hfawzi/security_cdc2012.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["UCLA"], 
-"Title": "Non-invasive Active Sensor Signal Spoofing Attacks on ABS Operation",
-"Link": "http://www.chesworkshop.org/ches2013/presentations/CHES2013_Session1_4.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["UCLA"], 
-"Title": "Minimax Control For Cyber-Physical Systems under Network Packet Scheduling Attacks",
-"Link": "http://people.kth.se/~araujo/publications/hicons14-shoukry.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["University of Minnesota"], 
-"Title": "Compositional Verification of a Medical Device System",
-"Link": "http://www.umsec.umn.edu/publications/compositional-verification-medical-device-system", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["University of Minnesota"], 
-"Title": "Your what is my how: Why requirements and architectural design should be iterative",
-"Link": "http://www.umsec.umn.edu/publications/Your-what-my-how-Why-requirements-and", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["University of Pennsylvania"], 
-"Title": "Stochastic Game Approach for Replay Attack Detection",
-"Link": "http://rtg.cis.upenn.edu/HACMS/docs/ReplayGame_cdc13.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["University of Pennsylvania"], 
-"Title": "Resilient Adaptive Control with Application to Vehicle Cruise Control",
-"Link": "http://link.springer.com/chapter/10.1007%2F978-3-319-01159-2_11", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["University of Pennsylvania", "UCLA", "Carnegie Mellon University"], 
-"Title": "Towards Synthesis of Platform-aware Attack-Resilient Control Systems",
-"Link": "http://www.georgejpappas.org/papers/p75-pajic.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Yale University"], 
-"Title": "A Case for Behavior-Preserving Actions in Separation Logic",
-"Link": "http://flint.cs.yale.edu/flint/publications/bpsltr.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Yale University"], 
-"Title": "Modular Verification of Concurrent Thread Management",
-"Link": "http://flint.cs.yale.edu/flint/publications/ctm.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Yale University"], 
-"Title": "Characterizing Progress Properties of Concurrent Objects via Contextual Refinements",
-"Link": "http://flint.cs.yale.edu/flint/publications/eqconcur.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Yale University"], 
-"Title": "Compositional Verification of a Baby Virtual Memory Manager",
-"Link": "http://flint.cs.yale.edu/flint/publications/babyvmm_tr.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Yale University"], 
-"Title": "Quantitative Reasoning for Proving Lock-Freedom",
-"Link": "http://cs-www.cs.yale.edu/homes/hoffmann/papers/lockfree2012full.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["SRI"], 
-"Title": "The Semantics of Datalog for the Evidential Tool Bus",
-"Link": "Not Yet Published", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["Yale University"], 
-"Title": "A Separation Logic for Enforcing Declarative Information Flow  Control Policies",
-"Link": "http://flint.cs.yale.edu/certikos/slides/IFC.pdf", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["University of Pennsylvania"], 
-"Title": "Attack-Resilient Sensor Fusion",
-"Link": "Not Yet Published", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["University of Pennsylvania"], 
-"Title": "Resilient Multidimensional Sensor Fusion using Measurement History",
-"Link": "Not Yet Published", 
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-},
-
-{
-"DARPA Program": "HACMS",
-"Program Teams": ["SRI"], 
-"Title": "Safety Envelope for Security",
-"Link": "Not Yet Published",
-"Categories": "",
-"Subcategories": "",
-"ACM 1998 classification code": ""
-}
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"Motion Interference Detection in Mobile Robots",
+        "Link":"http://www.cs.cmu.edu/~mmv/papers/12iros-MendozaVelosoSimmons.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"Mobile Robot Fault Detection based on Redundant Information Statistics",
+        "Link":"http://www.cs.cmu.edu/~mmv/papers/12irosw-MendozaVelosoSimmons.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"A Vision of Collaborative Verification-Driven Engineering of Hybrid Systems",
+        "Link":"http://www.cs.bham.ac.uk/research/projects/formare/events/aisb2013/submissions/stage2/99990008.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"On Provably Safe Obstacle Avoidance for Autonomous Robotic Ground Vehicles",
+        "Link":"http://symbolaris.com/pub/robix.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "MIT"
+        ],
+        "Title":"Combining Generative Metaprogramming and Hoare Logic in an Extensible Program Verifier",
+        "Link":"http://adam.chlipala.net/papers/BedrockICFP13/BedrockICFP13.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "NICTA"
+        ],
+        "Title":"seL4: from General Purpose to a Proof of Information Flow Enforcement",
+        "Link":"http://www.ieee-security.org/TC/SP2013/papers/4977a415.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "NICTA"
+        ],
+        "Title":"Binary Verification of an OS Microkernel",
+        "Link":"http://www.cl.cam.ac.uk/~mom22/pldi13.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "NICTA"
+        ],
+        "Title":"File Systems Deserve Verification Too!",
+        "Link":"http://plosworkshop.org/2013/preprint/keller.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "NICTA"
+        ],
+        "Title":"Towards a Verified Component Platform",
+        "Link":"http://plosworkshop.org/2013/preprint/fernandez.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Princeton University"
+        ],
+        "Title":"Mostly sound type system improves a foundational program verifier",
+        "Link":"http://www.cs.princeton.edu/~appel/papers/typecheck.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Princeton University"
+        ],
+        "Title":"Computational Verification of Network Programs in Coq",
+        "Link":"http://www.cs.princeton.edu/~jsseven/papers/netcorewp/",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Princeton University"
+        ],
+        "Title":"Program Logics for Certified Compilers",
+        "Link":"http://vst.cs.princeton.edu/PLCC-sample.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Rockwell Collins",
+            "University of Minnesota"
+        ],
+        "Title":"Your What Is My How: Iteration and Hierarchy in System Design",
+        "Link":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6359702",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Automated Reasoning, Fast and Slow?",
+        "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-38574-2_10",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Logic and Epistemology in Safety Classes",
+        "Link":"Not Yet Published",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"ARSENAL: Automatic Requirements Specification Extraction from Natural Language",
+        "Link":"Not Yet Published",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Reasoning about the Reliability Of Diverse Two-Channel Systems In which One Channel is `Possibly Perfect'",
+        "Link":"http://openaccess.city.ac.uk/1069/",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Tool Integration with the Evidential Tool Bus",
+        "Link":"http://cedeela.fr/~simon/files/etb.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Time-Aware Relational Abstractions for Hybrid Systems",
+        "Link":"https://es-static.fbk.eu/people/mover/paper/relabs/time-aware.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "SRI",
+            "University of Illinois-Urbana Champagne"
+        ],
+        "Title":"Safety Verification for Linear Systems",
+        "Link":"http://www.csl.sri.com/~tiwari/papers/emsoft2013_hsalcegar.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "UCLA"
+        ],
+        "Title":"Security for control systems under sensor and actuator attacks",
+        "Link":"http://www.mit.edu/~hfawzi/security_cdc2012.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "UCLA"
+        ],
+        "Title":"Non-invasive Active Sensor Signal Spoofing Attacks on ABS Operation",
+        "Link":"http://www.chesworkshop.org/ches2013/presentations/CHES2013_Session1_4.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "UCLA"
+        ],
+        "Title":"Minimax Control For Cyber-Physical Systems under Network Packet Scheduling Attacks",
+        "Link":"http://people.kth.se/~araujo/publications/hicons14-shoukry.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "University of Minnesota"
+        ],
+        "Title":"Compositional Verification of a Medical Device System",
+        "Link":"http://www.umsec.umn.edu/publications/compositional-verification-medical-device-system",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "University of Minnesota"
+        ],
+        "Title":"Your what is my how: Why requirements and architectural design should be iterative",
+        "Link":"http://www.umsec.umn.edu/publications/Your-what-my-how-Why-requirements-and",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "University of Pennsylvania"
+        ],
+        "Title":"Stochastic Game Approach for Replay Attack Detection",
+        "Link":"http://rtg.cis.upenn.edu/HACMS/docs/ReplayGame_cdc13.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "University of Pennsylvania"
+        ],
+        "Title":"Resilient Adaptive Control with Application to Vehicle Cruise Control",
+        "Link":"http://link.springer.com/chapter/10.1007%2F978-3-319-01159-2_11",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "University of Pennsylvania",
+            "UCLA",
+            "Carnegie Mellon University"
+        ],
+        "Title":"Towards Synthesis of Platform-aware Attack-Resilient Control Systems",
+        "Link":"http://www.georgejpappas.org/papers/p75-pajic.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Yale University"
+        ],
+        "Title":"A Case for Behavior-Preserving Actions in Separation Logic",
+        "Link":"http://flint.cs.yale.edu/flint/publications/bpsltr.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Yale University"
+        ],
+        "Title":"Modular Verification of Concurrent Thread Management",
+        "Link":"http://flint.cs.yale.edu/flint/publications/ctm.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Yale University"
+        ],
+        "Title":"Characterizing Progress Properties of Concurrent Objects via Contextual Refinements",
+        "Link":"http://flint.cs.yale.edu/flint/publications/eqconcur.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Yale University"
+        ],
+        "Title":"Compositional Verification of a Baby Virtual Memory Manager",
+        "Link":"http://flint.cs.yale.edu/flint/publications/babyvmm_tr.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Yale University"
+        ],
+        "Title":"Quantitative Reasoning for Proving Lock-Freedom",
+        "Link":"http://cs-www.cs.yale.edu/homes/hoffmann/papers/lockfree2012full.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"The Semantics of Datalog for the Evidential Tool Bus",
+        "Link":"Not Yet Published",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "Yale University"
+        ],
+        "Title":"A Separation Logic for Enforcing Declarative Information Flow  Control Policies",
+        "Link":"http://flint.cs.yale.edu/certikos/slides/IFC.pdf",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "University of Pennsylvania"
+        ],
+        "Title":"Attack-Resilient Sensor Fusion",
+        "Link":"Not Yet Published",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "University of Pennsylvania"
+        ],
+        "Title":"Resilient Multidimensional Sensor Fusion using Measurement History",
+        "Link":"Not Yet Published",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"HACMS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Safety Envelope for Security",
+        "Link":"Not Yet Published",
+        "Categories":"",
+        "Subcategories":"",
+        "ACM 1998 classification code":"",
+        "New Date":"",
+        "Update Date":""
+    }
 ]

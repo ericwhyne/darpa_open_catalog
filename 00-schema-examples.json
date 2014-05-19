@@ -1,0 +1,67 @@
+[
+	{
+		"Type":"Program",
+		"Schema":
+		[
+			{
+				"DARPA Program": "XDATA",
+				"Long Name":"XDATA",
+				"Program Teams": "",
+				"Link": "http://www.darpa.mil/Our_Work/I2O/Programs/XDATA.aspx",
+				"Display Software Columns": ["Team","Project","Description","Instructional Material","Category","Code","Stats","License"],
+				"Display Pubs Columns": ["Team","Title","Link"],		
+				"Description": "XDATA is developing an open source software library for big data to help overcome the challenges of effectively scaling to modern data volume and characteristics. The program is developing the tools and techniques to process and analyze large sets of imperfect, incomplete data. Its programs and publications focus on the areas of analytics, visualization, and infrastructure to efficiently fuse, analyze and disseminate these large volumes of data.",
+				"Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Christopher_White.aspx",
+				"Program Manager": "Dr. Christopher White",
+				"Program Manager Email": "christopher.white@darpa.mil",
+				"Image":"XDATA-image.png"
+			}
+		]
+	},
+	{
+		"Type":"Software",
+		"Schema":
+		[
+			{
+				"DARPA Program": "XDATA",
+				"Program Teams":["Harvard","Kitware, Inc."],
+				"Contributors":["Johannes Kepler University Linz"],
+				"Sub-contractors":[""],
+				"Software":"LineUp Web",
+				"Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
+				"External Link":"http://lineup.caleydo.org",
+				"Public Code Repo":"2014-06",
+				"Instructional Material":"2014-07",
+				"Stats":"",
+				"Description":"LineUpWeb is the web version of the novel and scalable visualization technique. This interactive technique supports the ranking of items based on multiple heterogeneous attributes with different scales and semantics. It enables users to interactively combine attributes and flexibly refine parameters to explore the effect of changes in the attribute combination.",
+				"Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
+				"License":["BSD"],
+				"Languages":[""],
+				"Platform Requirements":[""],
+				"Dependent modules":[""],
+				"Dependent module URLs":[""],
+				"Component modules":[""],
+				"Component module URLs":[""],
+				"Industry":[""],
+				"Functionality":[""],
+				"Categories":["Visualization"]
+			}
+		]
+	},
+	{
+		"Type":"Publication",
+		"Schema":
+		[
+			{
+				"DARPA Program":"XDATA",
+				"Program Teams":["Boeing/Pitt"],
+				"Title":"Impact of Precision of Bayesian Network Parameters on Accuracy of Medical Diagnostic Systems",
+				"Authors":["A. Onisko","M. J. Druzdzel"],
+				"Link":"http://www.ncbi.nlm.nih.gov/pubmed/23466438",
+				"Categories":["Applications and Expert Systems", "Model Validation and Analysis"],
+				"Subcategories":[""],
+				"ACM 1998 classification code":["I.2.1", "I.6.4"]
+			}
+		]
+	}
+]

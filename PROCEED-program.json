@@ -5,6 +5,7 @@
     "Description": "DARPA's Programming Computation on Encrypted Data (PROCEED) program is a research effort that seeks to develop methods that allow computing with encrypted data without first decrypting it, making it possible to compute more securely in untrusted environments.",
     "Link": "http://www.darpa.mil/Our_Work/I2O/Programs/PROgramming_Computation_on_EncryptEd_Data_%28PROCEED%29.aspx",
     "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
+	"Display Pubs Columns": ["Team","Title","Link"],	
     "Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Michael_Hsieh.aspx",
     "Program Manager": "Dr. Michael Hsieh",
     "Program Manager Email": "michael.hsieh@darpa.mil",
