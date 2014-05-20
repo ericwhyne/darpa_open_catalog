@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "DARPA Program Name":"BOLT",
     "Long Name":"Broad Operational Language Translation (BOLT)",
     "Program Teams":"",
@@ -23,18 +22,3 @@
     "Program Manager Email":"boyan.onyshkevych@darpa.mil",
     "Image":"BOLT-image.png"
 }
-=======
-        "DARPA Program Name": "BOLT",
-	"Long Name":"Broad Operational Language Translation (BOLT)",
-        "Program Teams": "",
-        "Description": "The Broad Operational Language Translation (BOLT) program is aimed at enabling communication with non-English-speaking populations and identifying important information in foreign-language sources by: 1) allowing English-speakers to understand foreign-language sources of all genres, including chat, messaging and informal conversation; 2) providing English-speakers the ability to quickly identify targeted information in foreign-language sources using natural-language queries; and 3) enabling multi-turn communication in text and speech with non-English speakers. If successful, BOLT would deliver all capabilities free from domain or genre limitations.",
-	"Link": "http://www.darpa.mil/Our_Work/I2O/Programs/Broad_Operational_Language_Translation_%28BOLT%29.aspx",
-        "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
-		"Display Pubs Columns": ["Team","Title","Link"],	
-	"Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Boyan_Onyshkevych.aspx",
-	"Program Manager": "Dr. Boyan Onyshkevych",
-        "Program Manager Email": "boyan.onyshkevych@darpa.mil",
-        "Image":"BOLT-image.png"
-}
-  
->>>>>>> dae242539e3a5c144845f897a7853f150ee221b4

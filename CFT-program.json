@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "DARPA Program Name":"CFT",
     "Long Name":"Cyber Fast Track (CFT)",
     "Program Teams":"",
@@ -22,16 +21,3 @@
     "Program Manager":"Mr. Richard Guidorizzi",
     "Program Manager Email":"richard.guidorizzi@darpa.mil"
 }
-=======
-        "DARPA Program Name": "CFT",
-	"Long Name":"Cyber Fast Track (CFT)",
-        "Program Teams": "",
-        "Description": "The Cyber Fast Track (CFT) program sought revolutionary advances in cyber science, devices, and systems through low-cost, quick-turnaround projects.  To achieve this, CFT engaged a novel performer base many of whom were new to government contracting.  From August 2011 to April 2013 the program attracted 550 proposal submissions, of which 90 percent were from performers that had never previously worked with the government, and awarded 135 contracts. ",
-	"Link": "",
-        "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
-		"Display Pubs Columns": ["Team","Title","Link"],	
-        "Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Mr_Richard_Guidorizzi.aspx",
-	"Program Manager": "Mr. Richard Guidorizzi",
-        "Program Manager Email": "richard.guidorizzi@darpa.mil"
-}
->>>>>>> dae242539e3a5c144845f897a7853f150ee221b4

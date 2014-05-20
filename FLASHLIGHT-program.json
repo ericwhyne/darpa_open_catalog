@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "DARPA Program Name":"FLASHLIGHT",
     "Long Name":"FLASHLIGHT",
     "Program Teams":"",
@@ -22,25 +21,3 @@
     "Program Manager":"Richard Guidorizzi",
     "Program Manager Email":"richard.guidorizzi@darpa.mil"
 }
-=======
-    "DARPA Program Name": "FLASHLIGHT",
-	"Long Name":"FLASHLIGHT",
-<<<<<<< Updated upstream
-    "Program Teams": "",
-    "Description": "The FLASHLIGHT program prevents data exfiltration and information leakage through the use of a hardened audit and inspection capability that attests to the integrity and legitimacy of data leaving a network enclave.",
-    "Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Mr_Richard_Guidorizzi.aspx",
-    "Program Manager":"Richard Guidorizzi",
-    "Program Manager Email":"richard.guidorizzi@darpa.mil",
-    "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
-=======
-        "Program Teams": "",
-        "Description": "",
-        "Program Manager Link": "",
-        "Program Manager":"",
-        "Program Manager Email":"",
-        "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
-		"Display Pubs Columns": ["Team","Title","Link"],	
->>>>>>> Stashed changes
-	"Link": ""
-}
->>>>>>> dae242539e3a5c144845f897a7853f150ee221b4

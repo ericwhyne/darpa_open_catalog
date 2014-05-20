@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "DARPA Program Name":"AA",
     "Long Name":"Active Authentication (AA)",
     "Program Teams":"",
@@ -23,19 +22,3 @@
     "Program Manager Email":"richard.guidorizzi@darpa.mil",
     "Image":"AA-image.png"
 }
-=======
-        "DARPA Program Name": "AA",
-	"Long Name":"Active Authentication (AA)",
-        "Program Teams": "",
-        "Description": "The Active Authentication (AA) program seeks to develop novel ways of validating the identity of computer users by focusing on the unique aspects of individuals through software-based biometrics. Biometrics are defined as the characteristics used to recognize individuals based on one or more intrinsic physical or behavioral traits. This program is focused on behavioral biometrics.",
-        "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
-		"Display Pubs Columns": ["Team","Title","Link"],		
-	"Link": "http://www.darpa.mil/Our_Work/I2O/Programs/Active_Authentication.aspx",
-	"Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Mr_Richard_Guidorizzi.aspx",
-        "Program Manager": "Mr. Richard Guidorizzi",
-        "Program Manager Email": "richard.guidorizzi@darpa.mil",
-        "Image":"AA-image.png"
-}
-  
-
->>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
