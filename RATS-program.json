@@ -1,12 +1,23 @@
 {
-        "DARPA Program Name": "RATS",
-	"Long Name":"Robust Automatic Transcription of Speech (RATS)",
-        "Program Teams": "",
-        "Description": "The Robust Automatic Transcription of Speech (RATS) program will create algorithms and software for performing the following tasks on potentially speech-containing signals received over communication channels that are extremely noisy and/or highly distorted: speech activity detection, language identification, speaker identification, and key word spotting.",
-	"Link": "",
-        "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
-        "Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Bonnie_Dorr.aspx",
-	"Program Manager": "Dr. Bonnie Dorr",
-        "Program Manager Email": "bonnie.dorr@darpa.mil"
+    "DARPA Program Name":"RATS",
+    "Long Name":"Robust Automatic Transcription of Speech (RATS)",
+    "Program Teams":"",
+    "Link":"",
+    "Display Software Columns":[
+        "Team",
+        "Project",
+        "Category",
+        "Code",
+        "Description",
+        "License"
+    ],
+    "Display Pubs Columns":[
+        "Team",
+        "Title",
+        "Link"
+    ],
+    "Description":"The Robust Automatic Transcription of Speech (RATS) program will create algorithms and software for performing the following tasks on potentially speech-containing signals received over communication channels that are extremely noisy and/or highly distorted: speech activity detection, language identification, speaker identification, and key word spotting.",
+    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Bonnie_Dorr.aspx",
+    "Program Manager":"Dr. Bonnie Dorr",
+    "Program Manager Email":"bonnie.dorr@darpa.mil"
 }
-  

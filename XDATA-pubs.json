@@ -1,1162 +1,2981 @@
 [
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Boeing/Pitt"],
-  "Title":"Impact of Precision of Bayesian Network Parameters on Accuracy of Medical Diagnostic Systems",
-  "Authors":["A. Onisko","M. J. Druzdzel"],
-  "Link":"http://www.ncbi.nlm.nih.gov/pubmed/23466438",
-  "Categories":["Applications and Expert Systems", "Model Validation and Analysis"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["I.2.1", "I.6.4"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Boeing/Pitt"],
-  "Title":"An Empirical Comparison of Bayesian Network Parameter",
-  "Authors":["Parot Ratnapinda","Marek J. Druzdzel"],
-  "Link":"http://d-scholarship.pitt.edu/19109/",
-  "Categories":["Learning"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["I.2.6"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Carnegie Mellon University"],
-  "Title":"Efficient Learning on Point Sets",
-  "Authors":["Liang Xiong","Barnabas Poczos","Jeff Schneider"],
-  "Link":"http://www.autonlab.org/autonweb/21880.html",
-  "Categories":["Probability and Statistics"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Carnegie Mellon University"],
-  "Title":"Learning from Point Sets with Observational Bias",
-  "Authors":["Anonymous"],
-  "Link":"http://www.cs.cmu.edu/~schneide/cond-div.pdf",
-  "Categories":["Probability and Statistics"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Carnegie Mellon University"],
-  "Title":"On Learning from Collective Data",
-  "Authors":["Liang Xiong"],
-  "Link":"http://www.cs.cmu.edu/~schneide/xiong_PhD_draft.pdf",
-  "Categories":["Probability and Statistics"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Carnegie Mellon University"],
-  "Title":"More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server",
-  "Authors":["Qirong Ho","James Cipar","Henggang Cui","Seunghak Lee","Jin Kyu Kim","Phillip B. Gibbons","Gregory R. Ganger","Garth Gibson","Eric P. Xing"],
-  "Link":"http://reports-archive.adm.cs.cmu.edu/anon/ml2013/CMU-ML-13-103.pdf",
-  "Categories":["Probability and Statistics"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Carnegie Mellon University"],
-  "Title":"A Scalable Approach to Probabilistic Latent Space Inference of Large-Scale Networks",
-  "Authors":["Junming Yin","Qirong Ho","Eric P. Xing"],
-  "Link":"http://www.cs.cmu.edu/~junmingy/papers/Yin-Ho-Xing-NIPS13.pdf",
-  "Categories":["Probability and Statistics"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Carnegie Mellon University"],
-  "Title":"Parallel Markov Chain Monte Carlo for Nonparametric Mixture Models",
-  "Authors":["Sinead A. Williamson","Avinava Dubey","Eric P. Xing"],
-  "Link":"http://www.cs.cmu.edu/~epxing/papers/2013/Dubey_Williamson_Xing_ICML13.pdf",
-  "Categories":["Probability and Statistics"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.3"]
-},
- {
-  "DARPA Program":"XDATA",
-  "Program Teams":["Continuum Analytics","Indiana University"],
-  "Title":"Preserving Data While Rendering",
-  "Authors":["Joseph A. Cottam","Peter Wang"],
-  "Link":"http://pjim.newschool.edu/issues/2014/01/pdfs/ParsonsJournalForInformationMapping_Joseph_Cottam.pdf",
-  "Categories":["Software Architectures", "Methodology and Techniques"],
-  "Subcategories":["Data abstraction", "Graphics data structures and data types", "Ergonomics"],
-  "ACM 1998 classification code":["D.2.11", "I.3.6"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Continuum Analytics","Indiana University"],
-  "Title":"Overplotting: Unified Solutions Under Abstract Rendering",
-  "Authors":["Joseph A. Cottam","Peter Wang"],
-  "Link":"http://www.crest.iu.edu/publications/prints/2013/Cottam2013AR.pdf",
-  "Categories":["Software Architectures", "Methodology and Techniques"],
-  "Subcategories":["Data abstraction", "Graphics data structures and data types", "Ergonomics"],
-  "ACM 1998 classification code":["D.2.11", "I.3.6"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Continuum Analytics","Indiana University"],
-  "Title":"Abstract Rendering: Out-of-core Rendering for Information Visualization",
-  "Authors":["Joseph A. Cottam","Andrew Lumsdaine","Peter Wang"],
-  "Link":"http://www.crest.iu.edu/publications/prints/2014/Cottam2014OutOfCore.pdf",
-  "Categories":["Software Architectures", "Methodology and Techniques"],
-  "Subcategories":["Data abstraction", "Graphics data structures and data types"],
-  "ACM 1998 classification code":["D.2.11", "I.3.6"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"To Gather Together for a Better World: Understanding and Leveraging Communities in Micro-lending Recommendation",
-  "Authors":["Jaegul Choo","Daniel Lee","Bistra Dilkina","Hongyuan Zha","Haesun Park"],
-  "Link":"https://smartech.gatech.edu/bitstream/handle/1853/49249/GT-CSE-2013-05.pdf?sequence=1",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"A Better World for All: Understanding and Promoting Micro-finance Activities in Kiva.org",
-  "Authors":["Jaegul Choo","Daniel Lee","Bistra Dilkina","Hongyuan Zha","Haesun Park"],
-  "Link":"https://smartech.gatech.edu/bitstream/handle/1853/49182/GT-CSE-2013-03.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization",
-  "Authors":["Jaegul Choo","Changhyun Lee","C.K. Reddy","H. Park"],
-  "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6634167",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Dyadic Event Attribution in Social Networks with Mixtures of Hawkes Processes",
-  "Authors":["Liangda Li","Hongyuan Zha"],
-  "Link":"http://www.cc.gatech.edu/~zha/papers/km0600s-li-1.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Scalable Influence Estimation in Continuous-Time Diffusion Networks",
-  "Authors":["Nan Du","Le Song","Manuel Gomez-Rodriguez","Hongyuan Zha"],
-  "Link":"http://papers.nips.cc/paper/4857-scalable-influence-estimation-in-continuous-time-diffusion-networks",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Uncover Topic-Sensitive Information Diffusion Networks",
-  "Authors":["Nan Du","Le Song","Hyenkyun Woo","Hongyuan Zha"],
-  "Link":"http://jmlr.org/proceedings/papers/v31/du13a.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Hierarchical Clustering of Hyperspectral Images using Rank-Two Nonnegative Matrix Factorization",
-  "Authors":["Nicolas Gillis","Da Kuang","Haesun Park"],
-  "Link":"http://arxiv.org/abs/1310.7441",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Fast Rank-2 Nonnegative Matrix Factorization for Hierarchical Document Clustering",
-  "Authors":["Da Kuang","Haesun Park"],
-  "Link":"http://www.cc.gatech.edu/grads/d/dkuang3/pub/fp0269-kuang.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Augmenting MATLAB with Semantic Objects for an Interactive Visual Environment",
-  "Authors":["Changhyun Lee","Jaegul Choo","Duen Horng (Polo) Chau","Haesun Park"],
-  "Link":"http://poloclub.gatech.edu/idea2013/papers/p64-lee.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Mixture of Mutually Exciting Processes for Viral Diffusion",
-  "Authors":["Shuang-Hong Yang","Hongyuan Zha"],
-  "Link":"http://machinelearning.wustl.edu/mlpapers/paper_files/yang13a.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Learning Social Infectivity in Sparse Low-rank Networks Using Multi-dimensional Hawkes Processes",
-  "Authors":["Ke Zhou","Hongyuan Zha","Le Song"],
-  "Link":"http://jmlr.org/proceedings/papers/v31/zhou13a.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Georgia Tech / GTRI"],
-  "Title":"Learning Triggering Kernels for Multi-dimensional Hawkes Processes",
-  "Authors":["Ke Zhou","Hongyuan Zha","Le Song"],
-  "Link":"http://jmlr.org/proceedings/papers/v28/zhou13.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Random Projections for Support Vector Machines",
-  "Authors":["Saurabh Paul","Christos Boutsidis","Malik Magdon-Ismail","Petros Drineas"],
-  "Link":"http://arxiv.org/pdf/1211.6085",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":["statistical computing"],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Efficient Dimensionality Reduction for Canonical Correlation Analysis",
-  "Authors":["Haim Avron","Christos Boutsidis","Sivan Toledo","Anastasios Zouzias"],
-  "Link":"http://arxiv.org/pdf/1209.2185",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":["statistical computing"],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Improved Matrix Algorithms via the Subsampled Randomized Hadamard Transform",
-  "Authors":["Christos Boutsidis","Alex Gittens"],
-  "Link":"http://arxiv.org/pdf/1204.0062",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Near-optimal Coresets For Least-Squares Regression",
-  "Authors":["Christos Boutsidis","Petros Drineas","Malik Magdon-Ismail"],
-  "Link":"http://arxiv.org/pdf/1202.3505",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Deterministic Feature Selection for K-means Clustering",
-  "Authors":["Christos Boutsidis","Malik Magdon-Ismail"],
-  "Link":"http://arxiv.org/pdf/1109.5664",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":["statistical computing"],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Low-Rank Approximation and Regression in Input Sparsity Time",
-  "Authors":["Kenneth L. Clarkson","David P. Woodruff"],
-  "Link":"http://arxiv.org/pdf/1207.6365",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":["statistical computing", "robust regression"],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Subspace Embeddings and lp-Regression Using Exponential Random Variables",
-  "Authors":["David P. Woodruff","Qin Zhang"],
-  "Link":"http://homes.soic.indiana.edu/qzhangcs/papers/subspace-full.pdf",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":["statistical computing", "robust regression"],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Revisiting Asynchronous Linear Solvers: Provable Convergence Rate Through Randomization",
-  "Authors":["Haim Avron","Alex Druinsky","Anshul Gupta"],
-  "Link":"http://arxiv.org/pdf/1304.6475v2.pdf",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Highly Scalable Linear Time Estimation of Spectrograms - A Tool for Very Large Scale Data Analysis",
-  "Authors":[""],
-  "Link":"Not Yet Published",
-  "Categories":["Numerical Linear Algebra", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.1.3", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Near-Optimal Column-Based Matrix Reconstruction",
-  "Authors":["Christos Boutsidis","Petros Drineas","Malik Magdon-Ismail"],
-  "Link":"http://arxiv.org/pdf/1103.0995v3",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":["statistical computing"],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Faster Subset Selection for Matrices and Applications",
-  "Authors":["Haim Avron","Christos Boutsidis"],
-  "Link":"http://arxiv.org/pdf/1201.0127v4.pdf",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Sketching Structured Matrices for Faster Nonlinear Regression",
-  "Authors":["Haim Avron"],
-  "Link":"Not Yet Published",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":["statistical computing"],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["IBM Research"],
-  "Title":"Quantile Regression for Large-scale Applications",
-  "Authors":["Jiyan Yang","Xiangrui Meng","Michael W. Mahoney"],
-  "Link":"http://arxiv.org/pdf/1305.0087",
-  "Categories":["Numerical Linear Algebra", "Computations on Matrices", "Probabilistic Algorithms (including Monte Carlo)"],
-  "Subcategories":["statistical computing", "robust regression"],
-  "ACM 1998 classification code":["G.1.3", "F.2.1", "G.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Locality Statistics for Anomaly Detection in Time Series of Graphs",
-  "Authors":["Heng Wang","Minh Tang","Youngser Park","Carey E. Priebe"],
-  "Link":"http://arxiv.org/abs/1306.0267",
-  "Categories":["Numerical Linear Algebra"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["G.1.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Universally Consistent Vertex Classification for Latent Positions Graphs",
-  "Authors":["Minh Tang","Daniel L. Sussman","Carey E. Priebe"],
-  "Link":"http://arxiv.org/abs/1212.1182",
-  "Categories":["Machine-learning"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Seeded Graph Matching for Large Stochastic Block Model Graphs",
-  "Authors":["Vince Lyzinski","Daniel L. Sussman","Donniell E. Fishkind","Henry Pao","Joshua T. Vogelstein","Carey E. Priebe"],
-  "Link":"http://arxiv.org/pdf/1310.1297.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Perfect Clustering for Stochastic Blockmodel Graphs via Adjacency Spectral Embedding",
-  "Authors":["Vince Lyzinski", "Daniel L. Sussman", "Minh Tang","Avanti Athreya", "Carey E. Priebe"],
-  "Link":"http://arxiv.org/pdf/1310.0532.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Out-of-sample Extension for Latent Position Graphs",
-  "Authors":["Minh Tang", "Youngser Park", "Carey E. Priebe"],
-  "Link":"http://arxiv.org/abs/1305.4893",
-  "Categories":["Machine Learning"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Generalized Canonical Correlation Analysis for Classification in High Dimensions",
-  "Authors":["Cencheng Shen", "Ming Sun", "Minh Tang", "Carey E. Priebe"],
-  "Link":"http://arxiv.org/abs/1304.7981",
-  "Categories":["Machine Learning"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Seeded Graph Matching for Correlated Erdos-Renyi Graphs",
-  "Authors":["Vince Lyzinski", "Donniell E. Fishkind", "Carey E. Priebe"],
-  "Link":"http://arxiv.org/abs/1304.7844",
-  "Categories":["Optimization and Control"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"On the Incommensurability Phenomenon",
-  "Authors":["Donniell E. Fishkind", "Cencheng Shen", "Carey E. Priebe"],
-  "Link":"http://arxiv.org/abs/1301.1954",
-  "Categories":["Machine Learning"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Vertex Nomination Schemes for Membership Prediction",
-  "Authors":["Donniell E. Fishkind", "Vince Lyzinski", "Henry Pao", "Li Chen", "Carey E. Priebe"],
-  "Link":"http://arxiv.org/abs/1312.2638",
-  "Categories":["Machine Learning"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Robust Vertex Classification",
-  "Authors":["Li Chen", "Joshua Vogelstein", "Carey Priebe"],
-  "Link":"http://arxiv.org/abs/1311.5954",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Consistent Latent Position Estimation and Vertex Classification for Random Dot Product Graphs",
-  "Authors":["Daniel L. Sussman", "Minh Tang, Carey E. Priebe"],
-  "Link":"http://arxiv.org/abs/1207.6745",
-  "Categories":["Machine Learning"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"A Central Limit Theorem for Scaled Eigenvectors of Random Dot Product Graphs",
-  "Authors":["Avanti Athreya", "Vince Lyzinski", "David J. Marchette", "Carey E. Priebe", "Daniel L. Sussman", "Minh Tang"],
-  "Link":"http://arxiv.org/abs/1305.7388",
-  "Categories":["Statistics Theory"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Statistical Inference on Errorfully Observed Graphs",
-  "Authors":["Carey E. Priebe", "Daniel L. Sussman", "Minh Tang", "Joshua T. Vogelstein"],
-  "Link":"http://arxiv.org/abs/1211.3601",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Johns Hopkins University"],
-  "Title":"Seeded Graph Matching",
-  "Authors":["Donniell E. Fishkind", "Sancar Adali", "Carey E. Priebe"],
-  "Link":"http://arxiv.org/abs/1209.0367",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Harvard"],
-  "Title":"Graphlet Decomposition of a Weighted Network",
-  "Authors":["Hossein Azari","Edoardo M. Airoldi"],
-  "Link":"http://www.people.fas.harvard.edu/~airoldi/pub/journals/j024.AzariAiroldi2012JMLRWCP.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Harvard","Kitware, Inc."],
-  "Title":"Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets",
-  "Authors":["Alexander Lex", "Christian Partl", "Denis Kalkofen", "Marc Streit", "Samuel Gratzl","Anne Mai Wassermann", "Dieter Schmalstieg", "Hanspeter Pfister"],
-  "Link":"http://people.seas.harvard.edu/~alex/papers/2013_infovis_entourage.pdf",
-  "Categories":["Design Tools and Techniques"],
-  "Subcategories":["User Interfaces"],
-  "ACM 1998 classification code":["D.2.2"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Harvard","Kitware, Inc."],
-  "Title":"LineUp: Visual Analysis of Multi-Attribute Rankings",
-  "Authors":["Samuel Gratzl", "Alexander Lex", "Nils Gehlenborg", "Hanspeter Pfister", "Marc Streit"],
-  "Link":"http://people.seas.harvard.edu/~alex/papers/2013_infovis_lineup.pdf",
-  "Categories":["Design Tools and Techniques"],
-  "Subcategories":["User Interfaces"],
-  "ACM 1998 classification code":["D.2.2"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
-  "Title":"Unlocking Big Data",
-  "Authors":["Samuel L. Park","Chris A. Mattmann"],
-  "Link":"http://issuu.com/kmi_media_group/docs/gif_11-5_final/27",
-  "Categories":["Software Notations and Tools"],
-  "Subcategories":["Development Frameworks and Environments"],
-  "ACM 1998 classification code":["D.2.9", "K.6.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
-  "Title":"Mapping Semantic Workflows to Alternative Workflow Execution Engines",
-  "Authors":["Yolanda Gil"],
-  "Link":"http://www.isi.edu/~gil/papers/gil-icsc13.pdf",
-  "Categories":["Software Notations and Tools"],
-  "Subcategories":["Development Frameworks and Environments"],
-  "ACM 1998 classification code":["D.2.9", "K.6.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
-  "Title":"Capturing Data Analytics and Visualization Expertise with Workflows",
-  "Authors":["David Kale", "Yan Liu","Samuel Di","Yolanda Gil"],
-  "Link":"http://www.isi.edu/~gil/papers/kale-etal-aaaifss13.pdf",
-  "Categories":["Software Notations and Tools"],
-  "Subcategories":["Development Frameworks and Environments"],
-  "ACM 1998 classification code":["D.2.9", "K.6.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
-  "Title":"Time-Bound Analytic Tasks on Large Datasets through Dynamic",
-  "Authors":["Yolanda Gil","Varun Ratnakar","Rishi Verma","Andrew Hart","Paul Ramirez","Chris Mattmann","Arni Sumarlidason","Samuel L. Park"],
-  "Link":"http://www.isi.edu/~gil/papers/gil-etal-works13.pdf",
-  "Categories":["Software Notations and Tools"],
-  "Subcategories":["Development Frameworks and Environments"],
-  "ACM 1998 classification code":["D.2.9", "K.6.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
-  "Title":"Configuration of Workflows",
-  "Authors":[""],
-  "Link":"Not Yet Published",
-  "Categories":["Software Notations and Tools"],
-  "Subcategories":["Development Frameworks and Environments"],
-  "ACM 1998 classification code":["D.2.9", "K.6.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["MDA Information Systems, Inc.","University of Southern California"],
-  "Title":"Large-Scale Multimedia Content Analysis Using Scientific Workflows",
-  "Authors":["Ricky J. Sethi","Yolanda Gil","Andrew Philpot","Hyunjoon Jo"],
-  "Link":"http://www.isi.edu/~gil/papers/sethi-etal-mm13.pdf",
-  "Categories":["Software Notations and Tools"],
-  "Subcategories":["Development Frameworks and Environments"],
-  "ACM 1998 classification code":["D.2.9", "K.6.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["MIT-LL"],
-  "Title":"Content + Context Networks for User Classification in Twitter",
-  "Authors":["W. M. Campbell","E. Baseman","K. Greenfield"],
-  "Link":"http://snap.stanford.edu/networks2013/papers/netnips2013_submission_3.pdf",
-  "Categories":["Learning", "Natural Language Processing"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":["I.2.6", "I.2.7"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Oculus Info, Inc."],
-  "Title":"Visual Thinking Design Patterns",
-  "Authors":["Colin Ware","William Wright","Nicholas J. Pioch"],
-  "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Ware_Et_Al_VTDP_2013.pdf",
-  "Categories":["Visualization design and evaluation methods", "Visualization application domains"],
-  "Subcategories":["Visual analytics"],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Oculus Info, Inc."],
-  "Title":"Aperture: An Open Web 2.0 Visualization Framework",
-  "Authors":["David Jonker","Scott Langevin","Neil Bozowsky","William Wright"],
-  "Link":"http://www.oculusinfo.com/assets/pdfs/papers/HICSS_Aperture_Framework.pdf",
-  "Categories":["Visualization systems and tools", "Visualization application domains"],
-  "Subcategories":["Visualization toolkits", "Visual analytics"],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Oculus Info, Inc."],
-  "Title":"Tile Based Visual Analytics for Twitter Big Data Exploratory Analysis",
-  "Authors":["Daniel Cheng", "Peter Schretlen", "William Wright"],
-  "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Submitted_Oculus_Big_Data_Twitter_Plots_23Aug2013.pdf",
-  "Categories":["Visualization application domains"],
-  "Subcategories":["Visual analytics"],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Oculus Info, Inc."],
-  "Title":"Interactive Data Exploration with 'Big Data Tukey Plots',",
-  "Authors":["Peter Schretlen", "Nathan Kronenfeld", "Derek Gray", "Jesse McGeachie","Eric Hall","Daniel Cheng","Nicole Covello","William Wright"],
-  "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Submitted_Oculus_Big_Data_Scatter_Plot_EDA_9Aug2013_Final_better.pdf",
-  "Categories":["Visualization application domain"],
-  "Subcategories":["Visual analytics"],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Oculus Info, Inc."],
-  "Title":"Louvain Clustering for Big Data Graph Visual Analytics",
-  "Authors":["David Gauldie","Scott Langevin","Peter Schretlen", "David Jonker","Neil Bozowsky","William Wright"],
-  "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Submitted_Oculus_Big_Data_Louvain_Clustering_9Aug2013_Final.pdf",
-  "Categories":["Visualization application domain"],
-  "Subcategories":["Visual analytics"],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Scientific Systems Company, Inc.", "MIT", "University of Louisville"],
-  "Title":"Advanced Machine Learning and Statistical Inference Approaches for Big Data Analytics and Information Fusion",
-  "Authors":[""],
-  "Link":"Not Yet Published",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Sotera Defense Solutions"],
-  "Title":"A Survey of Big Data Methods, Assessments, and Approaches",
-  "Authors":[""],
-  "Link":"http://sotera.github.io/papers/Benchmarks_Whitepaper.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Sotera Defense Solutions"],
-  "Title":"Correlation Using Pair-wise Combinations of Multiple Data Sources and Dimensions at Ultra-Large Scales",
-  "Authors":["Jonathan Larson","Kathleen Lossau","Dale Walsh"],
-  "Link":"http://sotera.github.io/papers/PairwiseCorrelation_LarsonLossauWalsh_NSSDF_Paper.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Sotera Defense Solutions"],
-  "Title":"Movement Inference through Aggregate Trajectory Extraction",
-  "Authors":["Jonathan Larson", "Justin Gawrilow", "Eric Kimbrel", "Carla Schoepfle"],
-  "Link":"https://github.com/Sotera/aggregate-micro-paths/blob/master/AggregateMicropathing_draft.pdf?raw=true",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Hanrahan","Purdue","PNNL"],
-  "Title":"Large-Scale Exploratory Analysis, Cleaning, and Modeling for Event Detection in Real-World Power Systems Data",
-  "Authors":["Ryan Hafen","Tara D. Gibson","Kerstin Kleese van Dam","Terence Critchlow"],
-  "Link":"http://ml.stat.purdue.edu/gaby/BigData.ExploreCleanModel.2013.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Hanrahan","Purdue","PNNL"],
-  "Title":"EDA and ML - A Perfect Pair for Large-Scale Data Analysis",
-  "Authors":["Ryan Hafen", "Terence Critchlow"],
-  "Link":"http://ml.stat.purdue.edu/gaby/MLandEDAforBigData.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Hanrahan","Purdue","PNNL"],
-  "Title":"Power Grid Data Analysis with R and Hadoop",
-  "Authors":["Ryan Hafen", "Tara Gibson", "Kerstin Kleese van Dam", "Terence Critchlow"],
-  "Link":"http://ml.stat.purdue.edu/gaby/RHadoop.PowerGridDataAnalysis.2013.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Hanrahan","Purdue","PNNL"],
-  "Title":"imMens: Real-time Visual Querying of Big Data",
-  "Authors":["Zhicheng Liu", "Biye Jiang", "Jeffrey Heer"],
-  "Link":"http://ml.stat.purdue.edu/gaby/imMensEuroVis.2013.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Boyd"],
-  "Title":"Proximal Algorithms",
-  "Authors":["N. Parikh","S. Boyd"],
-  "Link":"http://www.stanford.edu/~boyd/papers/prox_algs.html",
-  "Categories":["Optimization"],
-  "Subcategories":["Constrained optimization", "Convex programming"],
-  "ACM 1998 classification code":["G.1.6"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Boyd"],
-  "Title":"A Primal-Dual Operator Splitting Method for Conic Optimization",
-  "Authors":["E. Chu", "B. O'Donoghue", "N. Parikh", "S. Boyd"],
-  "Link":"http://www.stanford.edu/~boyd/papers/pdos.html",
-  "Categories":["Optimization"],
-  "Subcategories":["Constrained optimization", "Convex programming"],
-  "ACM 1998 classification code":["G.1.6"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Boyd"],
-  "Title":"Operator Splitting for Conic Optimization via Homogeneous Self-Dual Embedding",
-  "Authors":["B. O'Donoghue", "E. Chu", "N. Parikh", "S. Boyd"],
-  "Link":"http://www.stanford.edu/~boyd/papers/scs.html",
-  "Categories":["Optimization"],
-  "Subcategories":["Constrained optimization", "Convex programming"],
-  "ACM 1998 classification code":["G.1.6"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Boyd"],
-  "Title":"ECOS: An SOCP Solver for Embedded Systems",
-  "Authors":["A. Domahidi", "E. Chu", "S. Boyd"],
-  "Link":"http://www.stanford.edu/~boyd/papers/ecos.html",
-  "Categories":["Optimization"],
-  "Subcategories":["Constrained optimization", "Convex programming"],
-  "ACM 1998 classification code":["G.1.6"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Boyd"],
-  "Title":"Code Generation for Embedded Second-Order Cone Programming",
-  "Authors":["E. Chu", "N. Parikh", "A. Domahidi", "S. Boyd"],
-  "Link":"http://www.stanford.edu/~boyd/papers/ecos_codegen_ecc.html",
-  "Categories":["Optimization"],
-  "Subcategories":["Constrained optimization", "Convex programming"],
-  "ACM 1998 classification code":["G.1.6"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Hanrahan","Purdue","PNNL"],
-  "Title":"Trelliscope: A System for Detailed Visualization in the Deep Analysis of Large Complex Data",
-  "Authors":["Ryan Hafen", "Luke Gosink","Jason McDermott","Karin Rodland","Kerstin Kleese-Van Dam", "William S. Cleveland"],
-  "Link":"http://ml.stat.purdue.edu/gaby/trelliscope.ldav.2013.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Olukotun"],
-  "Title":"NIFTY: A System for Large Scale Information Flow Tracking and Clustering",
-  "Authors":["Caroline Suen", "Sandy Huang", "Chantat Eksombatchai", "Rok Sosic", "Jure Leskovec"],
-  "Link":"http://www.stanford.edu/~shhuang/papers/nifty_www2013.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Olukotun"],
-  "Title":"Composition and Reuse with Compiled Domain-Specific Languages",
-  "Authors":["Arvind K. Sujeeth", "Tiark Rompf", "Kevin J. Brown", "HyoukJoong Lee", "Hassan Chafi", "Victoria Popic", "Michael Wu", "Aleksandar Prokopec","Vojin Jovanovic", "Martin Odersky", "Kunle Olukotun"],
-  "Link":"http://ppl.stanford.edu/papers/ecoop13_sujeeth.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Olukotun"],
-  "Title":"Dimension Independent Similarity Computation",
-  "Authors":["Reza Bosagh Zadeh", "Ashish Goel"],
-  "Link":"http://jmlr.org/papers/v14/bosagh-zadeh13a.html",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Olukotun"],
-  "Title":"On the Precision of Social and Information Networks",
-  "Authors":["Reza Bosagh Zadeh", "Ashish Goel","Kamesh Munagala","Aneesh Sharma"],
-  "Link":"http://doi.acm.org/10.1145/2512938.2512955",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Stanford University - Olukotun"],
-  "Title":"Forge: Generating a High Performance DSL Implementation from a Declarative Specification",
-  "Authors":["Arvind K. Sujeeth","Austin Gibbons","Kevin J. Brown","HyoukJoong Lee","Tiark Rompf","Martin Odersky","Kunle Olukotun"],
-  "Link":"http://dl.acm.org/citation.cfm?id=2517220",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["The New School"],
-  "Title":"IAM - Incremental Agent-Based Mapping",
-  "Authors":["Bernd Riedel"],
-  "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/NM7qycXc7l/IAM_Cognitive_Mapping_Thesis_Parsons.pdf",
-  "Categories":["Project and People Management"],
-  "Subcategories":["Strategic Information Systems Planning"],
-  "ACM 1998 classification code":["K.6.1"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["The New School"],
-  "Title":"Expediting Cooperation in Government-funded Open Source Programs: Incremental Agent-based Mapping, a Pattern Language for Collaborative Cognition",
-  "Authors":["Bernd Riedel", "Chris Goranson"],
-  "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/F6INhNz-PE/IAM_DARPA_FIN_Compiled_Parsons.pdf",
-  "Categories":["Project and People Management"],
-  "Subcategories":["Strategic Information Systems Planning"],
-  "ACM 1998 classification code":["K.6.1"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["The New School"],
-  "Title":"Design Methodology of the XDATA Program",
-  "Authors":[""],
-  "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/RyhknZGYPS/XDATA_Design_Methodology_Parsons.pdf",
-  "Categories":["Group and Organization Interfaces"],
-  "Subcategories":["Evaluation and methodology"],
-  "ACM 1998 classification code":["H.5.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["The New School"],
-  "Title":"Data Visualization Design Guidelines",
-  "Authors":["Jihoon Kang"],
-  "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/T71QA5z_iI/Data_Visualization_Design_Guidelines_Parsons_FIN.pdf",
-  "Categories":["User Interfaces", "Group and Organization Interfaces"],
-  "Subcategories":["Graphical User Interfaces (GUI)", "Style Guides", "User-centered Design", "Collaborative Computing"],
-  "ACM 1998 classification code":["H.5.2", "H.5.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["The New School"],
-  "Title":"Big Data and Knowledge Discovery Through Metapictorial Visualization",
-  "Authors":["William M. Bevington"],
-  "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/q6h5q76tfY/Big_Data_and_Knowledge_Discovery_Metapictorial_Visualization_Parsons.pdf",
-  "Categories":["Design", "Group and Organization Interfaces"],
-  "Subcategories":["Methodologies: Representation", "Collaborative Computing"],
-  "ACM 1998 classification code":["D.2.10", "H.5.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["The New School"],
-  "Title":"Design and Visualization Best Practices for Big Data: Enhancing Data Discovery through Improved Usability",
-  "Authors":["Chris Goranson", "Xinle Huang", "William Bevington", "Jihoon Kang"],
-  "Link":"http://piim.newschool.edu/_media/pdfs/Data_Visualization_for_Big_Data_Parsons.pdf",
-  "Categories":["Group and Organization Interfaces"],
-  "Subcategories":["Evaluation and methodology"],
-  "ACM 1998 classification code":["H.5.3"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"Carat: Collaborative Energy Diagnosis for Mobile Devices",
-  "Authors":["Adam Oliner", "Anand Padmanabha Iyer", "Ion Stoica", "Eemil Lagerspetz", "Sasu Tarkoma"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/carat-sensys/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"Discretized Streams: Fault-Tolerant Streaming Computation at Scale",
-  "Authors":["Matei Zaharia","Tathagata Das","Haoyuan Li","Timothy Hunter","Scott Shenker","Ion Stoica"],
-  "Link":"http://dl.acm.org/citation.cfm?doid=2517349.2522737",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"Sparrow: Distributed, Low Latency Scheduling",
-  "Authors":["Kay Ousterhout", "Patrick Wendell", "Matei Zaharia", "Ion Stoica"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/sparrow-distributed-low-latency-scheduling/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"A General Bootstrap Performance Diagnostic",
-  "Authors":["Ariel Kleiner", "Ameet Talwalkar", "Sameer Agarwal", "Ion Stoica", "Michael Jordan"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/a-general-bootstrap-performance-diagnostic/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"MLI: An API for Distributed Machine Learning",
-  "Authors":["Evan Sparks", "Ameet Talwalkar", "Virginia Smith", "Jey Kottalam", "Xinghao Pan", "Joseph Gonzalez", "Michael Franklin", "Michael Jordan", "Tim Kraska"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/mli-an-api-for-distributed-machine-learning/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"Leveraging Endpoint Flexibility in Data-Intensive Clusters",
-  "Authors":["Mosharaf Chowdhury", "Srikanth Kandula", "Ion Stoica"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/leveraging-endpoint-flexibility-in-data-intensive-clusters/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"Shark: SQL and Rich Analytics at Scale",
-  "Authors":["Reynold Xin", "Joshua Rosen", "Matei Zaharia", "Michael Franklin", "Scott Shenker", "Ion Stoica"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/shark-sql-and-rich-analytics-at-scale/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"GraphX: A Resilient Distributed Graph System on Spark",
-  "Authors":["Reynold Xin", "Joseph Gonzalez", "Michael Franklin", "Ion Stoica"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/graphx-grades/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"RTP: Robust Tenant Placement for Elastic In-Memory Database Clusters",
-  "Authors":["Jan Schaffner", "Tim Januschowski", "Megan Kercher", "Tim Kraska", "Hasso Plattner", "Michael Franklin", "Dean Jacobs"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/rtp-robust-tenant-placement-for-elastic-in-memory-database-clusters/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"Bolt-on Causal Consistency",
-  "Authors":["Peter Bailis", "Ali Ghodsi", "Joseph M. Hellerstein", "Ion Stoica"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/bolt-on-causal-consistency/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data",
-  "Authors":["Sameer Agarwal", "Barzan Mozafari", "Aurojit Panda", "Henry Milner", "Sam Madden", "Ion Stoica"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/blinkdb-queries-with-bounded-errors-and-bounded-response-times-on-very-large-data/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"MDCC: Multi-Data Center Consistency",
-  "Authors":["Tim Kraska", "Gene Pang", "Michael Franklin", "Sam Madden", "Alan Fekete"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/mdcc-multi-data-center-consistency/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"The Case for Tiny Tasks in Compute Clusters",
-  "Authors":["Kay Ousterhout", "Aurojit Panda", "Joshua Rosen", "Shivaram Venkataraman", "Reynold Xin", "Sylvia Ratnasamy", "Scott Shenker", "Ion Stoica"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/the-case-for-tiny-tasks-in-compute-clusters/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices",
-  "Authors":["Shivaram Venkataraman", "Erik Bodzsar", "Indrajit Roy", "Alvin AuYoung", "Robert S. Schreiber"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/presto-distributed-machine-learning-and-graph-processing-with-sparse-matrices/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"MLbase: A Distributed Machine-learning System",
-  "Authors":["Tim Kraska", "Ameet Talwalkar", "John Duchi", "Rean Griffith", "Michael Franklin", "Michael Jordan"],
-  "Link":"https://amplab.cs.berkeley.edu/publication/mlbase-a-distributed-machine-learning-system/",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["UC Berkeley"],
-  "Title":"Coflow: A Networking Abstraction for Cluster Applications",
-  "Authors":["Mosharaf Chowdhury", "Ion Stoica"],
-  "Link":"http://conferences.sigcomm.org/hotnets/2012/papers/hotnets12-final51.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Royal Caliber"],
-  "Title":"VertexAPI2 - A Vertex-Program API for Large Graph Computations on the GPU",
-  "Authors":["Erich Elsen","Vishal Vaidyanathan"],
-  "Link":"http://www.royal-caliber.com/vertexapi2.pdf",
-  "Categories":["Graph Theory", "Programming Techniques", "Design Tools and Techniques"],
-  "Subcategories":["Graph algorithms", "Parallel Programming", "Software Libraries"],
-  "ACM 1998 classification code":["G.2.2", "D.1.3", "D.2.2"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["Draper Laboratory"],
-  "Title":"Measuring the Value of Big Data Exploitation Systems: Quantitative, Non-Subjective Metrics with the User as a Key Component",
-  "Authors":["Jana Schwartz","Joshua C. Poore","Emily Vincent","David Reed"],
-  "Link":"http://pjim.newschool.edu/issues/2014/01/pdfs/ParsonsJournalForInformationMapping_Jana_Schwartz.pdf",
-  "Categories":["Metrics", "User/Machine Systems", "User Interfaces"],
-  "Subcategories":["Product Metrics", "Human Factors", "Human Information Processing", "Software Psychology", "Evaluation/methodology", "User-centered design"],
-  "ACM 1998 classification code":["D.2.8", "H.1.2", "H.5.2"]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["USC"],
-  "Title":"Continuous Dataflow Update Strategies for Mission-Critical Applications",
-  "Authors":["Charith Wickramaarachchi","Yogesh Simmhan"],
-  "Link":"http://ceng.usc.edu/~simmhan/pubs/wickramaarachchi-escience-2013.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["USC"],
-  "Title":"Exploiting Application Dynamism and Cloud Elasticity for Continuous Data Flows",
-  "Authors":[""],
-  "Link":"http://halcyon.usc.edu/~pk/prasannawebsite/papers/2013/SC13.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["USC"],
-  "Title":"GoFFish: A Framework for Distributed Analytics Over Timeseries Graphs",
-  "Authors":["Alok Kumbhare", "Yogesh Simmhan", "Viktor K. Prasanna"],
-  "Link":"http://www.cs.usc.edu/assets/007/87995.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["USC"],
-  "Title":"GoFFish: A Sub-Graph Centric Framework for Large-Scale Graph Analytics",
-  "Authors":["Yogesh Simmhan", "Alok Kumbhare", "Charith Wickramaarachchi", "Soonil Nagarkar", "Santosh Ravi", "Cauligi Raghavendra", "Viktor Prasanna"],
-  "Link":"http://arxiv.org/abs/1311.5949",
-  "Categories":["Distributed, Parallel, and Cluster Computing"],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["USC"],
-  "Title":"Cost-efficient and Resilient Job Life-cycle Management on Hybrid Clouds",
-  "Authors":["Hsuan-Yi Chu","Yogesh Simmhan"],
-  "Link":"http://www.serc.iisc.ernet.in/~simmhan/pubs/chu-ipdps-2014.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["USC"],
-  "Title":"Constraint-Driven Adaptive Scheduling for Dynamic Dataflows on Elastic Clouds",
-  "Authors":[""],
-  "Link":"Not Yet Published",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["USC"],
-  "Title":"Enabling Realtime Pro-Active Analytics On Time Evolving Graphs",
-  "Authors":[""],
-  "Link":"Not Yet Published",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-},
-{
-  "DARPA Program":"XDATA",
-  "Program Teams":["USC"],
-  "Title":"PLAStiCC: Predictive Look-Ahead Scheduling for Continuous Dataflows on Clouds",
-  "Authors":["Alok Kumbhare", "Yogesh Simmhan","Viktor K. Prasanna"],
-  "Link":"http://www.serc.iisc.ernet.in/~simmhan/pubs/kumbhare-ccgrid-2014.pdf",
-  "Categories":[""],
-  "Subcategories":[""],
-  "ACM 1998 classification code":[""]
-}
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Boeing/Pitt"
+        ],
+        "Title":"Impact of Precision of Bayesian Network Parameters on Accuracy of Medical Diagnostic Systems",
+        "Authors":[
+            "A. Onisko",
+            "M. J. Druzdzel"
+        ],
+        "Link":"http://www.ncbi.nlm.nih.gov/pubmed/23466438",
+        "Categories":[
+            "Applications and Expert Systems",
+            "Model Validation and Analysis"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "I.2.1",
+            "I.6.4"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Boeing/Pitt"
+        ],
+        "Title":"An Empirical Comparison of Bayesian Network Parameter",
+        "Authors":[
+            "Parot Ratnapinda",
+            "Marek J. Druzdzel"
+        ],
+        "Link":"http://d-scholarship.pitt.edu/19109/",
+        "Categories":[
+            "Learning"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "I.2.6"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"Efficient Learning on Point Sets",
+        "Authors":[
+            "Liang Xiong",
+            "Barnabas Poczos",
+            "Jeff Schneider"
+        ],
+        "Link":"http://www.autonlab.org/autonweb/21880.html",
+        "Categories":[
+            "Probability and Statistics"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"Learning from Point Sets with Observational Bias",
+        "Authors":[
+            "Anonymous"
+        ],
+        "Link":"http://www.cs.cmu.edu/~schneide/cond-div.pdf",
+        "Categories":[
+            "Probability and Statistics"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"On Learning from Collective Data",
+        "Authors":[
+            "Liang Xiong"
+        ],
+        "Link":"http://www.cs.cmu.edu/~schneide/xiong_PhD_draft.pdf",
+        "Categories":[
+            "Probability and Statistics"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server",
+        "Authors":[
+            "Qirong Ho",
+            "James Cipar",
+            "Henggang Cui",
+            "Seunghak Lee",
+            "Jin Kyu Kim",
+            "Phillip B. Gibbons",
+            "Gregory R. Ganger",
+            "Garth Gibson",
+            "Eric P. Xing"
+        ],
+        "Link":"http://reports-archive.adm.cs.cmu.edu/anon/ml2013/CMU-ML-13-103.pdf",
+        "Categories":[
+            "Probability and Statistics"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"A Scalable Approach to Probabilistic Latent Space Inference of Large-Scale Networks",
+        "Authors":[
+            "Junming Yin",
+            "Qirong Ho",
+            "Eric P. Xing"
+        ],
+        "Link":"http://www.cs.cmu.edu/~junmingy/papers/Yin-Ho-Xing-NIPS13.pdf",
+        "Categories":[
+            "Probability and Statistics"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Carnegie Mellon University"
+        ],
+        "Title":"Parallel Markov Chain Monte Carlo for Nonparametric Mixture Models",
+        "Authors":[
+            "Sinead A. Williamson",
+            "Avinava Dubey",
+            "Eric P. Xing"
+        ],
+        "Link":"http://www.cs.cmu.edu/~epxing/papers/2013/Dubey_Williamson_Xing_ICML13.pdf",
+        "Categories":[
+            "Probability and Statistics"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Continuum Analytics",
+            "Indiana University"
+        ],
+        "Title":"Preserving Data While Rendering",
+        "Authors":[
+            "Joseph A. Cottam",
+            "Peter Wang"
+        ],
+        "Link":"http://pjim.newschool.edu/issues/2014/01/pdfs/ParsonsJournalForInformationMapping_Joseph_Cottam.pdf",
+        "Categories":[
+            "Software Architectures",
+            "Methodology and Techniques"
+        ],
+        "Subcategories":[
+            "Data abstraction",
+            "Graphics data structures and data types",
+            "Ergonomics"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.11",
+            "I.3.6"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Continuum Analytics",
+            "Indiana University"
+        ],
+        "Title":"Overplotting: Unified Solutions Under Abstract Rendering",
+        "Authors":[
+            "Joseph A. Cottam",
+            "Peter Wang"
+        ],
+        "Link":"http://www.crest.iu.edu/publications/prints/2013/Cottam2013AR.pdf",
+        "Categories":[
+            "Software Architectures",
+            "Methodology and Techniques"
+        ],
+        "Subcategories":[
+            "Data abstraction",
+            "Graphics data structures and data types",
+            "Ergonomics"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.11",
+            "I.3.6"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Continuum Analytics",
+            "Indiana University"
+        ],
+        "Title":"Abstract Rendering: Out-of-core Rendering for Information Visualization",
+        "Authors":[
+            "Joseph A. Cottam",
+            "Andrew Lumsdaine",
+            "Peter Wang"
+        ],
+        "Link":"http://www.crest.iu.edu/publications/prints/2014/Cottam2014OutOfCore.pdf",
+        "Categories":[
+            "Software Architectures",
+            "Methodology and Techniques"
+        ],
+        "Subcategories":[
+            "Data abstraction",
+            "Graphics data structures and data types"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.11",
+            "I.3.6"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"To Gather Together for a Better World: Understanding and Leveraging Communities in Micro-lending Recommendation",
+        "Authors":[
+            "Jaegul Choo",
+            "Daniel Lee",
+            "Bistra Dilkina",
+            "Hongyuan Zha",
+            "Haesun Park"
+        ],
+        "Link":"https://smartech.gatech.edu/bitstream/handle/1853/49249/GT-CSE-2013-05.pdf?sequence=1",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"A Better World for All: Understanding and Promoting Micro-finance Activities in Kiva.org",
+        "Authors":[
+            "Jaegul Choo",
+            "Daniel Lee",
+            "Bistra Dilkina",
+            "Hongyuan Zha",
+            "Haesun Park"
+        ],
+        "Link":"https://smartech.gatech.edu/bitstream/handle/1853/49182/GT-CSE-2013-03.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization",
+        "Authors":[
+            "Jaegul Choo",
+            "Changhyun Lee",
+            "C.K. Reddy",
+            "H. Park"
+        ],
+        "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6634167",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"Dyadic Event Attribution in Social Networks with Mixtures of Hawkes Processes",
+        "Authors":[
+            "Liangda Li",
+            "Hongyuan Zha"
+        ],
+        "Link":"http://www.cc.gatech.edu/~zha/papers/km0600s-li-1.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"Scalable Influence Estimation in Continuous-Time Diffusion Networks",
+        "Authors":[
+            "Nan Du",
+            "Le Song",
+            "Manuel Gomez-Rodriguez",
+            "Hongyuan Zha"
+        ],
+        "Link":"http://papers.nips.cc/paper/4857-scalable-influence-estimation-in-continuous-time-diffusion-networks",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"Uncover Topic-Sensitive Information Diffusion Networks",
+        "Authors":[
+            "Nan Du",
+            "Le Song",
+            "Hyenkyun Woo",
+            "Hongyuan Zha"
+        ],
+        "Link":"http://jmlr.org/proceedings/papers/v31/du13a.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"Hierarchical Clustering of Hyperspectral Images using Rank-Two Nonnegative Matrix Factorization",
+        "Authors":[
+            "Nicolas Gillis",
+            "Da Kuang",
+            "Haesun Park"
+        ],
+        "Link":"http://arxiv.org/abs/1310.7441",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"Fast Rank-2 Nonnegative Matrix Factorization for Hierarchical Document Clustering",
+        "Authors":[
+            "Da Kuang",
+            "Haesun Park"
+        ],
+        "Link":"http://www.cc.gatech.edu/grads/d/dkuang3/pub/fp0269-kuang.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"Augmenting MATLAB with Semantic Objects for an Interactive Visual Environment",
+        "Authors":[
+            "Changhyun Lee",
+            "Jaegul Choo",
+            "Duen Horng (Polo) Chau",
+            "Haesun Park"
+        ],
+        "Link":"http://poloclub.gatech.edu/idea2013/papers/p64-lee.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"Mixture of Mutually Exciting Processes for Viral Diffusion",
+        "Authors":[
+            "Shuang-Hong Yang",
+            "Hongyuan Zha"
+        ],
+        "Link":"http://machinelearning.wustl.edu/mlpapers/paper_files/yang13a.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"Learning Social Infectivity in Sparse Low-rank Networks Using Multi-dimensional Hawkes Processes",
+        "Authors":[
+            "Ke Zhou",
+            "Hongyuan Zha",
+            "Le Song"
+        ],
+        "Link":"http://jmlr.org/proceedings/papers/v31/zhou13a.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Georgia Tech / GTRI"
+        ],
+        "Title":"Learning Triggering Kernels for Multi-dimensional Hawkes Processes",
+        "Authors":[
+            "Ke Zhou",
+            "Hongyuan Zha",
+            "Le Song"
+        ],
+        "Link":"http://jmlr.org/proceedings/papers/v28/zhou13.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Random Projections for Support Vector Machines",
+        "Authors":[
+            "Saurabh Paul",
+            "Christos Boutsidis",
+            "Malik Magdon-Ismail",
+            "Petros Drineas"
+        ],
+        "Link":"http://arxiv.org/pdf/1211.6085",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            "statistical computing"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Efficient Dimensionality Reduction for Canonical Correlation Analysis",
+        "Authors":[
+            "Haim Avron",
+            "Christos Boutsidis",
+            "Sivan Toledo",
+            "Anastasios Zouzias"
+        ],
+        "Link":"http://arxiv.org/pdf/1209.2185",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            "statistical computing"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Improved Matrix Algorithms via the Subsampled Randomized Hadamard Transform",
+        "Authors":[
+            "Christos Boutsidis",
+            "Alex Gittens"
+        ],
+        "Link":"http://arxiv.org/pdf/1204.0062",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Near-optimal Coresets For Least-Squares Regression",
+        "Authors":[
+            "Christos Boutsidis",
+            "Petros Drineas",
+            "Malik Magdon-Ismail"
+        ],
+        "Link":"http://arxiv.org/pdf/1202.3505",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Deterministic Feature Selection for K-means Clustering",
+        "Authors":[
+            "Christos Boutsidis",
+            "Malik Magdon-Ismail"
+        ],
+        "Link":"http://arxiv.org/pdf/1109.5664",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            "statistical computing"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Low-Rank Approximation and Regression in Input Sparsity Time",
+        "Authors":[
+            "Kenneth L. Clarkson",
+            "David P. Woodruff"
+        ],
+        "Link":"http://arxiv.org/pdf/1207.6365",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            "statistical computing",
+            "robust regression"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Subspace Embeddings and lp-Regression Using Exponential Random Variables",
+        "Authors":[
+            "David P. Woodruff",
+            "Qin Zhang"
+        ],
+        "Link":"http://homes.soic.indiana.edu/qzhangcs/papers/subspace-full.pdf",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            "statistical computing",
+            "robust regression"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Revisiting Asynchronous Linear Solvers: Provable Convergence Rate Through Randomization",
+        "Authors":[
+            "Haim Avron",
+            "Alex Druinsky",
+            "Anshul Gupta"
+        ],
+        "Link":"http://arxiv.org/pdf/1304.6475v2.pdf",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Highly Scalable Linear Time Estimation of Spectrograms - A Tool for Very Large Scale Data Analysis",
+        "Authors":[
+            ""
+        ],
+        "Link":"Not Yet Published",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Near-Optimal Column-Based Matrix Reconstruction",
+        "Authors":[
+            "Christos Boutsidis",
+            "Petros Drineas",
+            "Malik Magdon-Ismail"
+        ],
+        "Link":"http://arxiv.org/pdf/1103.0995v3",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            "statistical computing"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Faster Subset Selection for Matrices and Applications",
+        "Authors":[
+            "Haim Avron",
+            "Christos Boutsidis"
+        ],
+        "Link":"http://arxiv.org/pdf/1201.0127v4.pdf",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Sketching Structured Matrices for Faster Nonlinear Regression",
+        "Authors":[
+            "Haim Avron"
+        ],
+        "Link":"Not Yet Published",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            "statistical computing"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "IBM Research"
+        ],
+        "Title":"Quantile Regression for Large-scale Applications",
+        "Authors":[
+            "Jiyan Yang",
+            "Xiangrui Meng",
+            "Michael W. Mahoney"
+        ],
+        "Link":"http://arxiv.org/pdf/1305.0087",
+        "Categories":[
+            "Numerical Linear Algebra",
+            "Computations on Matrices",
+            "Probabilistic Algorithms (including Monte Carlo)"
+        ],
+        "Subcategories":[
+            "statistical computing",
+            "robust regression"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3",
+            "F.2.1",
+            "G.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Locality Statistics for Anomaly Detection in Time Series of Graphs",
+        "Authors":[
+            "Heng Wang",
+            "Minh Tang",
+            "Youngser Park",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1306.0267",
+        "Categories":[
+            "Numerical Linear Algebra"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "G.1.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Universally Consistent Vertex Classification for Latent Positions Graphs",
+        "Authors":[
+            "Minh Tang",
+            "Daniel L. Sussman",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1212.1182",
+        "Categories":[
+            "Machine-learning"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Seeded Graph Matching for Large Stochastic Block Model Graphs",
+        "Authors":[
+            "Vince Lyzinski",
+            "Daniel L. Sussman",
+            "Donniell E. Fishkind",
+            "Henry Pao",
+            "Joshua T. Vogelstein",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/pdf/1310.1297.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Perfect Clustering for Stochastic Blockmodel Graphs via Adjacency Spectral Embedding",
+        "Authors":[
+            "Vince Lyzinski",
+            "Daniel L. Sussman",
+            "Minh Tang",
+            "Avanti Athreya",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/pdf/1310.0532.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Out-of-sample Extension for Latent Position Graphs",
+        "Authors":[
+            "Minh Tang",
+            "Youngser Park",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1305.4893",
+        "Categories":[
+            "Machine Learning"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Generalized Canonical Correlation Analysis for Classification in High Dimensions",
+        "Authors":[
+            "Cencheng Shen",
+            "Ming Sun",
+            "Minh Tang",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1304.7981",
+        "Categories":[
+            "Machine Learning"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Seeded Graph Matching for Correlated Erdos-Renyi Graphs",
+        "Authors":[
+            "Vince Lyzinski",
+            "Donniell E. Fishkind",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1304.7844",
+        "Categories":[
+            "Optimization and Control"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"On the Incommensurability Phenomenon",
+        "Authors":[
+            "Donniell E. Fishkind",
+            "Cencheng Shen",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1301.1954",
+        "Categories":[
+            "Machine Learning"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Vertex Nomination Schemes for Membership Prediction",
+        "Authors":[
+            "Donniell E. Fishkind",
+            "Vince Lyzinski",
+            "Henry Pao",
+            "Li Chen",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1312.2638",
+        "Categories":[
+            "Machine Learning"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Robust Vertex Classification",
+        "Authors":[
+            "Li Chen",
+            "Joshua Vogelstein",
+            "Carey Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1311.5954",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Consistent Latent Position Estimation and Vertex Classification for Random Dot Product Graphs",
+        "Authors":[
+            "Daniel L. Sussman",
+            "Minh Tang, Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1207.6745",
+        "Categories":[
+            "Machine Learning"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"A Central Limit Theorem for Scaled Eigenvectors of Random Dot Product Graphs",
+        "Authors":[
+            "Avanti Athreya",
+            "Vince Lyzinski",
+            "David J. Marchette",
+            "Carey E. Priebe",
+            "Daniel L. Sussman",
+            "Minh Tang"
+        ],
+        "Link":"http://arxiv.org/abs/1305.7388",
+        "Categories":[
+            "Statistics Theory"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Statistical Inference on Errorfully Observed Graphs",
+        "Authors":[
+            "Carey E. Priebe",
+            "Daniel L. Sussman",
+            "Minh Tang",
+            "Joshua T. Vogelstein"
+        ],
+        "Link":"http://arxiv.org/abs/1211.3601",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Johns Hopkins University"
+        ],
+        "Title":"Seeded Graph Matching",
+        "Authors":[
+            "Donniell E. Fishkind",
+            "Sancar Adali",
+            "Carey E. Priebe"
+        ],
+        "Link":"http://arxiv.org/abs/1209.0367",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Harvard"
+        ],
+        "Title":"Graphlet Decomposition of a Weighted Network",
+        "Authors":[
+            "Hossein Azari",
+            "Edoardo M. Airoldi"
+        ],
+        "Link":"http://www.people.fas.harvard.edu/~airoldi/pub/journals/j024.AzariAiroldi2012JMLRWCP.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Harvard",
+            "Kitware, Inc."
+        ],
+        "Title":"Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets",
+        "Authors":[
+            "Alexander Lex",
+            "Christian Partl",
+            "Denis Kalkofen",
+            "Marc Streit",
+            "Samuel Gratzl",
+            "Anne Mai Wassermann",
+            "Dieter Schmalstieg",
+            "Hanspeter Pfister"
+        ],
+        "Link":"http://people.seas.harvard.edu/~alex/papers/2013_infovis_entourage.pdf",
+        "Categories":[
+            "Design Tools and Techniques"
+        ],
+        "Subcategories":[
+            "User Interfaces"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.2"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Harvard",
+            "Kitware, Inc."
+        ],
+        "Title":"LineUp: Visual Analysis of Multi-Attribute Rankings",
+        "Authors":[
+            "Samuel Gratzl",
+            "Alexander Lex",
+            "Nils Gehlenborg",
+            "Hanspeter Pfister",
+            "Marc Streit"
+        ],
+        "Link":"http://people.seas.harvard.edu/~alex/papers/2013_infovis_lineup.pdf",
+        "Categories":[
+            "Design Tools and Techniques"
+        ],
+        "Subcategories":[
+            "User Interfaces"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.2"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MDA Information Systems, Inc.",
+            "University of Southern California"
+        ],
+        "Title":"Unlocking Big Data",
+        "Authors":[
+            "Samuel L. Park",
+            "Chris A. Mattmann"
+        ],
+        "Link":"http://issuu.com/kmi_media_group/docs/gif_11-5_final/27",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MDA Information Systems, Inc.",
+            "University of Southern California"
+        ],
+        "Title":"Mapping Semantic Workflows to Alternative Workflow Execution Engines",
+        "Authors":[
+            "Yolanda Gil"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/gil-icsc13.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MDA Information Systems, Inc.",
+            "University of Southern California"
+        ],
+        "Title":"Capturing Data Analytics and Visualization Expertise with Workflows",
+        "Authors":[
+            "David Kale",
+            "Yan Liu",
+            "Samuel Di",
+            "Yolanda Gil"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/kale-etal-aaaifss13.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MDA Information Systems, Inc.",
+            "University of Southern California"
+        ],
+        "Title":"Time-Bound Analytic Tasks on Large Datasets through Dynamic",
+        "Authors":[
+            "Yolanda Gil",
+            "Varun Ratnakar",
+            "Rishi Verma",
+            "Andrew Hart",
+            "Paul Ramirez",
+            "Chris Mattmann",
+            "Arni Sumarlidason",
+            "Samuel L. Park"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/gil-etal-works13.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MDA Information Systems, Inc.",
+            "University of Southern California"
+        ],
+        "Title":"Configuration of Workflows",
+        "Authors":[
+            ""
+        ],
+        "Link":"Not Yet Published",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MDA Information Systems, Inc.",
+            "University of Southern California"
+        ],
+        "Title":"Large-Scale Multimedia Content Analysis Using Scientific Workflows",
+        "Authors":[
+            "Ricky J. Sethi",
+            "Yolanda Gil",
+            "Andrew Philpot",
+            "Hyunjoon Jo"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/sethi-etal-mm13.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Title":"Content + Context Networks for User Classification in Twitter",
+        "Authors":[
+            "W. M. Campbell",
+            "E. Baseman",
+            "K. Greenfield"
+        ],
+        "Link":"http://snap.stanford.edu/networks2013/papers/netnips2013_submission_3.pdf",
+        "Categories":[
+            "Learning",
+            "Natural Language Processing"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "I.2.6",
+            "I.2.7"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Oculus Info, Inc."
+        ],
+        "Title":"Visual Thinking Design Patterns",
+        "Authors":[
+            "Colin Ware",
+            "William Wright",
+            "Nicholas J. Pioch"
+        ],
+        "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Ware_Et_Al_VTDP_2013.pdf",
+        "Categories":[
+            "Visualization design and evaluation methods",
+            "Visualization application domains"
+        ],
+        "Subcategories":[
+            "Visual analytics"
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Oculus Info, Inc."
+        ],
+        "Title":"Aperture: An Open Web 2.0 Visualization Framework",
+        "Authors":[
+            "David Jonker",
+            "Scott Langevin",
+            "Neil Bozowsky",
+            "William Wright"
+        ],
+        "Link":"http://www.oculusinfo.com/assets/pdfs/papers/HICSS_Aperture_Framework.pdf",
+        "Categories":[
+            "Visualization systems and tools",
+            "Visualization application domains"
+        ],
+        "Subcategories":[
+            "Visualization toolkits",
+            "Visual analytics"
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Oculus Info, Inc."
+        ],
+        "Title":"Tile Based Visual Analytics for Twitter Big Data Exploratory Analysis",
+        "Authors":[
+            "Daniel Cheng",
+            "Peter Schretlen",
+            "William Wright"
+        ],
+        "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Submitted_Oculus_Big_Data_Twitter_Plots_23Aug2013.pdf",
+        "Categories":[
+            "Visualization application domains"
+        ],
+        "Subcategories":[
+            "Visual analytics"
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Oculus Info, Inc."
+        ],
+        "Title":"Interactive Data Exploration with 'Big Data Tukey Plots',",
+        "Authors":[
+            "Peter Schretlen",
+            "Nathan Kronenfeld",
+            "Derek Gray",
+            "Jesse McGeachie",
+            "Eric Hall",
+            "Daniel Cheng",
+            "Nicole Covello",
+            "William Wright"
+        ],
+        "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Submitted_Oculus_Big_Data_Scatter_Plot_EDA_9Aug2013_Final_better.pdf",
+        "Categories":[
+            "Visualization application domain"
+        ],
+        "Subcategories":[
+            "Visual analytics"
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Oculus Info, Inc."
+        ],
+        "Title":"Louvain Clustering for Big Data Graph Visual Analytics",
+        "Authors":[
+            "David Gauldie",
+            "Scott Langevin",
+            "Peter Schretlen",
+            "David Jonker",
+            "Neil Bozowsky",
+            "William Wright"
+        ],
+        "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Submitted_Oculus_Big_Data_Louvain_Clustering_9Aug2013_Final.pdf",
+        "Categories":[
+            "Visualization application domain"
+        ],
+        "Subcategories":[
+            "Visual analytics"
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Scientific Systems Company, Inc.",
+            "MIT",
+            "University of Louisville"
+        ],
+        "Title":"Advanced Machine Learning and Statistical Inference Approaches for Big Data Analytics and Information Fusion",
+        "Authors":[
+            ""
+        ],
+        "Link":"Not Yet Published",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Sotera Defense Solutions"
+        ],
+        "Title":"A Survey of Big Data Methods, Assessments, and Approaches",
+        "Authors":[
+            ""
+        ],
+        "Link":"http://sotera.github.io/papers/Benchmarks_Whitepaper.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Sotera Defense Solutions"
+        ],
+        "Title":"Correlation Using Pair-wise Combinations of Multiple Data Sources and Dimensions at Ultra-Large Scales",
+        "Authors":[
+            "Jonathan Larson",
+            "Kathleen Lossau",
+            "Dale Walsh"
+        ],
+        "Link":"http://sotera.github.io/papers/PairwiseCorrelation_LarsonLossauWalsh_NSSDF_Paper.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Sotera Defense Solutions"
+        ],
+        "Title":"Movement Inference through Aggregate Trajectory Extraction",
+        "Authors":[
+            "Jonathan Larson",
+            "Justin Gawrilow",
+            "Eric Kimbrel",
+            "Carla Schoepfle"
+        ],
+        "Link":"https://github.com/Sotera/aggregate-micro-paths/blob/master/AggregateMicropathing_draft.pdf?raw=true",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Hanrahan",
+            "Purdue",
+            "PNNL"
+        ],
+        "Title":"Large-Scale Exploratory Analysis, Cleaning, and Modeling for Event Detection in Real-World Power Systems Data",
+        "Authors":[
+            "Ryan Hafen",
+            "Tara D. Gibson",
+            "Kerstin Kleese van Dam",
+            "Terence Critchlow"
+        ],
+        "Link":"http://ml.stat.purdue.edu/gaby/BigData.ExploreCleanModel.2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Hanrahan",
+            "Purdue",
+            "PNNL"
+        ],
+        "Title":"EDA and ML - A Perfect Pair for Large-Scale Data Analysis",
+        "Authors":[
+            "Ryan Hafen",
+            "Terence Critchlow"
+        ],
+        "Link":"http://ml.stat.purdue.edu/gaby/MLandEDAforBigData.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Hanrahan",
+            "Purdue",
+            "PNNL"
+        ],
+        "Title":"Power Grid Data Analysis with R and Hadoop",
+        "Authors":[
+            "Ryan Hafen",
+            "Tara Gibson",
+            "Kerstin Kleese van Dam",
+            "Terence Critchlow"
+        ],
+        "Link":"http://ml.stat.purdue.edu/gaby/RHadoop.PowerGridDataAnalysis.2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Hanrahan",
+            "Purdue",
+            "PNNL"
+        ],
+        "Title":"imMens: Real-time Visual Querying of Big Data",
+        "Authors":[
+            "Zhicheng Liu",
+            "Biye Jiang",
+            "Jeffrey Heer"
+        ],
+        "Link":"http://ml.stat.purdue.edu/gaby/imMensEuroVis.2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Boyd"
+        ],
+        "Title":"Proximal Algorithms",
+        "Authors":[
+            "N. Parikh",
+            "S. Boyd"
+        ],
+        "Link":"http://www.stanford.edu/~boyd/papers/prox_algs.html",
+        "Categories":[
+            "Optimization"
+        ],
+        "Subcategories":[
+            "Constrained optimization",
+            "Convex programming"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.6"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Boyd"
+        ],
+        "Title":"A Primal-Dual Operator Splitting Method for Conic Optimization",
+        "Authors":[
+            "E. Chu",
+            "B. O'Donoghue",
+            "N. Parikh",
+            "S. Boyd"
+        ],
+        "Link":"http://www.stanford.edu/~boyd/papers/pdos.html",
+        "Categories":[
+            "Optimization"
+        ],
+        "Subcategories":[
+            "Constrained optimization",
+            "Convex programming"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.6"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Boyd"
+        ],
+        "Title":"Operator Splitting for Conic Optimization via Homogeneous Self-Dual Embedding",
+        "Authors":[
+            "B. O'Donoghue",
+            "E. Chu",
+            "N. Parikh",
+            "S. Boyd"
+        ],
+        "Link":"http://www.stanford.edu/~boyd/papers/scs.html",
+        "Categories":[
+            "Optimization"
+        ],
+        "Subcategories":[
+            "Constrained optimization",
+            "Convex programming"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.6"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Boyd"
+        ],
+        "Title":"ECOS: An SOCP Solver for Embedded Systems",
+        "Authors":[
+            "A. Domahidi",
+            "E. Chu",
+            "S. Boyd"
+        ],
+        "Link":"http://www.stanford.edu/~boyd/papers/ecos.html",
+        "Categories":[
+            "Optimization"
+        ],
+        "Subcategories":[
+            "Constrained optimization",
+            "Convex programming"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.6"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Boyd"
+        ],
+        "Title":"Code Generation for Embedded Second-Order Cone Programming",
+        "Authors":[
+            "E. Chu",
+            "N. Parikh",
+            "A. Domahidi",
+            "S. Boyd"
+        ],
+        "Link":"http://www.stanford.edu/~boyd/papers/ecos_codegen_ecc.html",
+        "Categories":[
+            "Optimization"
+        ],
+        "Subcategories":[
+            "Constrained optimization",
+            "Convex programming"
+        ],
+        "ACM 1998 classification code":[
+            "G.1.6"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Hanrahan",
+            "Purdue",
+            "PNNL"
+        ],
+        "Title":"Trelliscope: A System for Detailed Visualization in the Deep Analysis of Large Complex Data",
+        "Authors":[
+            "Ryan Hafen",
+            "Luke Gosink",
+            "Jason McDermott",
+            "Karin Rodland",
+            "Kerstin Kleese-Van Dam",
+            "William S. Cleveland"
+        ],
+        "Link":"http://ml.stat.purdue.edu/gaby/trelliscope.ldav.2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Olukotun"
+        ],
+        "Title":"NIFTY: A System for Large Scale Information Flow Tracking and Clustering",
+        "Authors":[
+            "Caroline Suen",
+            "Sandy Huang",
+            "Chantat Eksombatchai",
+            "Rok Sosic",
+            "Jure Leskovec"
+        ],
+        "Link":"http://www.stanford.edu/~shhuang/papers/nifty_www2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Olukotun"
+        ],
+        "Title":"Composition and Reuse with Compiled Domain-Specific Languages",
+        "Authors":[
+            "Arvind K. Sujeeth",
+            "Tiark Rompf",
+            "Kevin J. Brown",
+            "HyoukJoong Lee",
+            "Hassan Chafi",
+            "Victoria Popic",
+            "Michael Wu",
+            "Aleksandar Prokopec",
+            "Vojin Jovanovic",
+            "Martin Odersky",
+            "Kunle Olukotun"
+        ],
+        "Link":"http://ppl.stanford.edu/papers/ecoop13_sujeeth.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Olukotun"
+        ],
+        "Title":"Dimension Independent Similarity Computation",
+        "Authors":[
+            "Reza Bosagh Zadeh",
+            "Ashish Goel"
+        ],
+        "Link":"http://jmlr.org/papers/v14/bosagh-zadeh13a.html",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Olukotun"
+        ],
+        "Title":"On the Precision of Social and Information Networks",
+        "Authors":[
+            "Reza Bosagh Zadeh",
+            "Ashish Goel",
+            "Kamesh Munagala",
+            "Aneesh Sharma"
+        ],
+        "Link":"http://doi.acm.org/10.1145/2512938.2512955",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Olukotun"
+        ],
+        "Title":"Forge: Generating a High Performance DSL Implementation from a Declarative Specification",
+        "Authors":[
+            "Arvind K. Sujeeth",
+            "Austin Gibbons",
+            "Kevin J. Brown",
+            "HyoukJoong Lee",
+            "Tiark Rompf",
+            "Martin Odersky",
+            "Kunle Olukotun"
+        ],
+        "Link":"http://dl.acm.org/citation.cfm?id=2517220",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "The New School"
+        ],
+        "Title":"IAM - Incremental Agent-Based Mapping",
+        "Authors":[
+            "Bernd Riedel"
+        ],
+        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/NM7qycXc7l/IAM_Cognitive_Mapping_Thesis_Parsons.pdf",
+        "Categories":[
+            "Project and People Management"
+        ],
+        "Subcategories":[
+            "Strategic Information Systems Planning"
+        ],
+        "ACM 1998 classification code":[
+            "K.6.1"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "The New School"
+        ],
+        "Title":"Expediting Cooperation in Government-funded Open Source Programs: Incremental Agent-based Mapping, a Pattern Language for Collaborative Cognition",
+        "Authors":[
+            "Bernd Riedel",
+            "Chris Goranson"
+        ],
+        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/F6INhNz-PE/IAM_DARPA_FIN_Compiled_Parsons.pdf",
+        "Categories":[
+            "Project and People Management"
+        ],
+        "Subcategories":[
+            "Strategic Information Systems Planning"
+        ],
+        "ACM 1998 classification code":[
+            "K.6.1"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "The New School"
+        ],
+        "Title":"Design Methodology of the XDATA Program",
+        "Authors":[
+            ""
+        ],
+        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/RyhknZGYPS/XDATA_Design_Methodology_Parsons.pdf",
+        "Categories":[
+            "Group and Organization Interfaces"
+        ],
+        "Subcategories":[
+            "Evaluation and methodology"
+        ],
+        "ACM 1998 classification code":[
+            "H.5.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "The New School"
+        ],
+        "Title":"Data Visualization Design Guidelines",
+        "Authors":[
+            "Jihoon Kang"
+        ],
+        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/T71QA5z_iI/Data_Visualization_Design_Guidelines_Parsons_FIN.pdf",
+        "Categories":[
+            "User Interfaces",
+            "Group and Organization Interfaces"
+        ],
+        "Subcategories":[
+            "Graphical User Interfaces (GUI)",
+            "Style Guides",
+            "User-centered Design",
+            "Collaborative Computing"
+        ],
+        "ACM 1998 classification code":[
+            "H.5.2",
+            "H.5.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "The New School"
+        ],
+        "Title":"Big Data and Knowledge Discovery Through Metapictorial Visualization",
+        "Authors":[
+            "William M. Bevington"
+        ],
+        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/q6h5q76tfY/Big_Data_and_Knowledge_Discovery_Metapictorial_Visualization_Parsons.pdf",
+        "Categories":[
+            "Design",
+            "Group and Organization Interfaces"
+        ],
+        "Subcategories":[
+            "Methodologies: Representation",
+            "Collaborative Computing"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.10",
+            "H.5.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "The New School"
+        ],
+        "Title":"Design and Visualization Best Practices for Big Data: Enhancing Data Discovery through Improved Usability",
+        "Authors":[
+            "Chris Goranson",
+            "Xinle Huang",
+            "William Bevington",
+            "Jihoon Kang"
+        ],
+        "Link":"http://piim.newschool.edu/_media/pdfs/Data_Visualization_for_Big_Data_Parsons.pdf",
+        "Categories":[
+            "Group and Organization Interfaces"
+        ],
+        "Subcategories":[
+            "Evaluation and methodology"
+        ],
+        "ACM 1998 classification code":[
+            "H.5.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"Carat: Collaborative Energy Diagnosis for Mobile Devices",
+        "Authors":[
+            "Adam Oliner",
+            "Anand Padmanabha Iyer",
+            "Ion Stoica",
+            "Eemil Lagerspetz",
+            "Sasu Tarkoma"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/carat-sensys/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"Discretized Streams: Fault-Tolerant Streaming Computation at Scale",
+        "Authors":[
+            "Matei Zaharia",
+            "Tathagata Das",
+            "Haoyuan Li",
+            "Timothy Hunter",
+            "Scott Shenker",
+            "Ion Stoica"
+        ],
+        "Link":"http://dl.acm.org/citation.cfm?doid=2517349.2522737",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"Sparrow: Distributed, Low Latency Scheduling",
+        "Authors":[
+            "Kay Ousterhout",
+            "Patrick Wendell",
+            "Matei Zaharia",
+            "Ion Stoica"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/sparrow-distributed-low-latency-scheduling/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"A General Bootstrap Performance Diagnostic",
+        "Authors":[
+            "Ariel Kleiner",
+            "Ameet Talwalkar",
+            "Sameer Agarwal",
+            "Ion Stoica",
+            "Michael Jordan"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/a-general-bootstrap-performance-diagnostic/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"MLI: An API for Distributed Machine Learning",
+        "Authors":[
+            "Evan Sparks",
+            "Ameet Talwalkar",
+            "Virginia Smith",
+            "Jey Kottalam",
+            "Xinghao Pan",
+            "Joseph Gonzalez",
+            "Michael Franklin",
+            "Michael Jordan",
+            "Tim Kraska"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/mli-an-api-for-distributed-machine-learning/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"Leveraging Endpoint Flexibility in Data-Intensive Clusters",
+        "Authors":[
+            "Mosharaf Chowdhury",
+            "Srikanth Kandula",
+            "Ion Stoica"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/leveraging-endpoint-flexibility-in-data-intensive-clusters/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"Shark: SQL and Rich Analytics at Scale",
+        "Authors":[
+            "Reynold Xin",
+            "Joshua Rosen",
+            "Matei Zaharia",
+            "Michael Franklin",
+            "Scott Shenker",
+            "Ion Stoica"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/shark-sql-and-rich-analytics-at-scale/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"GraphX: A Resilient Distributed Graph System on Spark",
+        "Authors":[
+            "Reynold Xin",
+            "Joseph Gonzalez",
+            "Michael Franklin",
+            "Ion Stoica"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/graphx-grades/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"RTP: Robust Tenant Placement for Elastic In-Memory Database Clusters",
+        "Authors":[
+            "Jan Schaffner",
+            "Tim Januschowski",
+            "Megan Kercher",
+            "Tim Kraska",
+            "Hasso Plattner",
+            "Michael Franklin",
+            "Dean Jacobs"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/rtp-robust-tenant-placement-for-elastic-in-memory-database-clusters/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"Bolt-on Causal Consistency",
+        "Authors":[
+            "Peter Bailis",
+            "Ali Ghodsi",
+            "Joseph M. Hellerstein",
+            "Ion Stoica"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/bolt-on-causal-consistency/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data",
+        "Authors":[
+            "Sameer Agarwal",
+            "Barzan Mozafari",
+            "Aurojit Panda",
+            "Henry Milner",
+            "Sam Madden",
+            "Ion Stoica"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/blinkdb-queries-with-bounded-errors-and-bounded-response-times-on-very-large-data/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"MDCC: Multi-Data Center Consistency",
+        "Authors":[
+            "Tim Kraska",
+            "Gene Pang",
+            "Michael Franklin",
+            "Sam Madden",
+            "Alan Fekete"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/mdcc-multi-data-center-consistency/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"The Case for Tiny Tasks in Compute Clusters",
+        "Authors":[
+            "Kay Ousterhout",
+            "Aurojit Panda",
+            "Joshua Rosen",
+            "Shivaram Venkataraman",
+            "Reynold Xin",
+            "Sylvia Ratnasamy",
+            "Scott Shenker",
+            "Ion Stoica"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/the-case-for-tiny-tasks-in-compute-clusters/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices",
+        "Authors":[
+            "Shivaram Venkataraman",
+            "Erik Bodzsar",
+            "Indrajit Roy",
+            "Alvin AuYoung",
+            "Robert S. Schreiber"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/presto-distributed-machine-learning-and-graph-processing-with-sparse-matrices/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"MLbase: A Distributed Machine-learning System",
+        "Authors":[
+            "Tim Kraska",
+            "Ameet Talwalkar",
+            "John Duchi",
+            "Rean Griffith",
+            "Michael Franklin",
+            "Michael Jordan"
+        ],
+        "Link":"https://amplab.cs.berkeley.edu/publication/mlbase-a-distributed-machine-learning-system/",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "UC Berkeley"
+        ],
+        "Title":"Coflow: A Networking Abstraction for Cluster Applications",
+        "Authors":[
+            "Mosharaf Chowdhury",
+            "Ion Stoica"
+        ],
+        "Link":"http://conferences.sigcomm.org/hotnets/2012/papers/hotnets12-final51.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Royal Caliber"
+        ],
+        "Title":"VertexAPI2 - A Vertex-Program API for Large Graph Computations on the GPU",
+        "Authors":[
+            "Erich Elsen",
+            "Vishal Vaidyanathan"
+        ],
+        "Link":"http://www.royal-caliber.com/vertexapi2.pdf",
+        "Categories":[
+            "Graph Theory",
+            "Programming Techniques",
+            "Design Tools and Techniques"
+        ],
+        "Subcategories":[
+            "Graph algorithms",
+            "Parallel Programming",
+            "Software Libraries"
+        ],
+        "ACM 1998 classification code":[
+            "G.2.2",
+            "D.1.3",
+            "D.2.2"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Draper Laboratory"
+        ],
+        "Title":"Measuring the Value of Big Data Exploitation Systems: Quantitative, Non-Subjective Metrics with the User as a Key Component",
+        "Authors":[
+            "Jana Schwartz",
+            "Joshua C. Poore",
+            "Emily Vincent",
+            "David Reed"
+        ],
+        "Link":"http://pjim.newschool.edu/issues/2014/01/pdfs/ParsonsJournalForInformationMapping_Jana_Schwartz.pdf",
+        "Categories":[
+            "Metrics",
+            "User/Machine Systems",
+            "User Interfaces"
+        ],
+        "Subcategories":[
+            "Product Metrics",
+            "Human Factors",
+            "Human Information Processing",
+            "Software Psychology",
+            "Evaluation/methodology",
+            "User-centered design"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.8",
+            "H.1.2",
+            "H.5.2"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"Continuous Dataflow Update Strategies for Mission-Critical Applications",
+        "Authors":[
+            "Charith Wickramaarachchi",
+            "Yogesh Simmhan"
+        ],
+        "Link":"http://ceng.usc.edu/~simmhan/pubs/wickramaarachchi-escience-2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"Exploiting Application Dynamism and Cloud Elasticity for Continuous Data Flows",
+        "Authors":[
+            ""
+        ],
+        "Link":"http://halcyon.usc.edu/~pk/prasannawebsite/papers/2013/SC13.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"GoFFish: A Framework for Distributed Analytics Over Timeseries Graphs",
+        "Authors":[
+            "Alok Kumbhare",
+            "Yogesh Simmhan",
+            "Viktor K. Prasanna"
+        ],
+        "Link":"http://www.cs.usc.edu/assets/007/87995.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"GoFFish: A Sub-Graph Centric Framework for Large-Scale Graph Analytics",
+        "Authors":[
+            "Yogesh Simmhan",
+            "Alok Kumbhare",
+            "Charith Wickramaarachchi",
+            "Soonil Nagarkar",
+            "Santosh Ravi",
+            "Cauligi Raghavendra",
+            "Viktor Prasanna"
+        ],
+        "Link":"http://arxiv.org/abs/1311.5949",
+        "Categories":[
+            "Distributed, Parallel, and Cluster Computing"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"Cost-efficient and Resilient Job Life-cycle Management on Hybrid Clouds",
+        "Authors":[
+            "Hsuan-Yi Chu",
+            "Yogesh Simmhan"
+        ],
+        "Link":"http://www.serc.iisc.ernet.in/~simmhan/pubs/chu-ipdps-2014.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"Constraint-Driven Adaptive Scheduling for Dynamic Dataflows on Elastic Clouds",
+        "Authors":[
+            ""
+        ],
+        "Link":"Not Yet Published",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"Enabling Realtime Pro-Active Analytics On Time Evolving Graphs",
+        "Authors":[
+            ""
+        ],
+        "Link":"Not Yet Published",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"PLAStiCC: Predictive Look-Ahead Scheduling for Continuous Dataflows on Clouds",
+        "Authors":[
+            "Alok Kumbhare",
+            "Yogesh Simmhan",
+            "Viktor K. Prasanna"
+        ],
+        "Link":"http://www.serc.iisc.ernet.in/~simmhan/pubs/kumbhare-ccgrid-2014.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    }
 ]

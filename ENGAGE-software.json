@@ -1,112 +1,290 @@
 [
     {
         "DARPA Program":"ENGAGE",
-        "Program Teams": ["CMU Entertainment Technology Center"],
-        "Contributors":[""],
-        "Sub-contractors":[""],
-        "Software": "RumbleBlocks, Beanstalk, PuppyBot Rescue",
-        "Internal Link": "",
-        "External Link": "http://www.etc.cmu.edu/projects/sci-fri/",
-        "Public Code Repo": "daniel.ragsdale@darpa.mil",
+        "Program Teams":[
+            "CMU Entertainment Technology Center"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"RumbleBlocks, Beanstalk, PuppyBot Rescue",
+        "Internal Link":"",
+        "External Link":"http://www.etc.cmu.edu/projects/sci-fri/",
+        "Public Code Repo":"daniel.ragsdale@darpa.mil",
         "Instructional Material":"",
-        "Description": "SCI-FRI (Science Friction) is a project working towards inspiring young minds to pursue science and engineering as a career. Initiated by DARPA, this is a multi-year project working in conjunction with many different institutions and organizations, such as the Sesame Workshop and Carnegie Mellon's Human Computer Interaction Institute. The end-product will be a series of multi-platform games that apply adaptive, in-game analytics for Pre-K-3rd graders that inspires interest and teaches basic concepts in the field of science. (C#/HTML5/CSS/JavaScript/CreateJS Suite/Flash/Unity3D/3DS Max)",
-        "License": ["UGPR"],
-        "Languages": ["C#","HTML5","CSS","JavaScript","CreateJS Suite","Flash","Unity3D","3DS Max"],
-        "Platform Requirements":[""],
-        "Dependent modules":[""],
-        "Dependent module URLs":[""],
-        "Component modules":[""],
-        "Component module URLs":[""],
-        "Industry":[""],
-        "Functionality":[""],
-        "Categories": ["Large-scale analytics","learning assessments","adaptive learning technologies","optimum learning pathways"]
+        "Description":"SCI-FRI (Science Friction) is a project working towards inspiring young minds to pursue science and engineering as a career. Initiated by DARPA, this is a multi-year project working in conjunction with many different institutions and organizations, such as the Sesame Workshop and Carnegie Mellon's Human Computer Interaction Institute. The end-product will be a series of multi-platform games that apply adaptive, in-game analytics for Pre-K-3rd graders that inspires interest and teaches basic concepts in the field of science. (C#/HTML5/CSS/JavaScript/CreateJS Suite/Flash/Unity3D/3DS Max)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "C#",
+            "HTML5",
+            "CSS",
+            "JavaScript",
+            "CreateJS Suite",
+            "Flash",
+            "Unity3D",
+            "3DS Max"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Large-scale analytics",
+            "learning assessments",
+            "adaptive learning technologies",
+            "optimum learning pathways"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
         "DARPA Program":"ENGAGE",
-        "Program Teams": ["University of Washington"],
-        "Contributors":[""],
-        "Sub-contractors":[""],
-        "Software": "TreeFrog Treasure, Refraction, Creature Capture, DragonBox Adaptive",
-        "Internal Link": "",
-        "External Link": "http://centerforgamescience.org/games/",
-        "Public Code Repo": "daniel.ragsdale@darpa.mil",
+        "Program Teams":[
+            "University of Washington"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"TreeFrog Treasure, Refraction, Creature Capture, DragonBox Adaptive",
+        "Internal Link":"",
+        "External Link":"http://centerforgamescience.org/games/",
+        "Public Code Repo":"daniel.ragsdale@darpa.mil",
         "Instructional Material":"",
-        "Description": "The games create by the Center for Game Science at the University of Washington are highly adaptive games that also perform gameplay analytics across all game players.  Thus, the games continuously optimize and are massively scalable. (ActionScript3/Java/GWT - Java/PHP)",
-        "License": ["UGPR"],
-        "Languages": ["ActionScript3","Java","GWT - Java","PHP"],
-        "Platform Requirements":[""],
-        "Dependent modules":[""],
-        "Dependent module URLs":[""],
-        "Component modules":[""],
-        "Component module URLs":[""],
-        "Industry":[""],
-        "Functionality":[""],
-        "Categories": ["Large-scale analytics","learning assessments","adaptive learning technologies","optimum learning pathways"]
+        "Description":"The games create by the Center for Game Science at the University of Washington are highly adaptive games that also perform gameplay analytics across all game players.  Thus, the games continuously optimize and are massively scalable. (ActionScript3/Java/GWT - Java/PHP)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "ActionScript3",
+            "Java",
+            "GWT - Java",
+            "PHP"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Large-scale analytics",
+            "learning assessments",
+            "adaptive learning technologies",
+            "optimum learning pathways"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
         "DARPA Program":"ENGAGE",
-        "Program Teams": ["CMU Robotics Academy"],
-        "Contributors":[""],
-        "Sub-contractors":[""],
-        "Software": "Computer Science Student Network",
-        "Internal Link": "",
-        "External Link": "http://cs2n.org/",
-        "Public Code Repo": "daniel.ragsdale@darpa.mil",
+        "Program Teams":[
+            "CMU Robotics Academy"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Computer Science Student Network",
+        "Internal Link":"",
+        "External Link":"http://cs2n.org/",
+        "Public Code Repo":"daniel.ragsdale@darpa.mil",
         "Instructional Material":"",
-        "Description": "CS2N, or Computer Science Student Network, is a virtual center for computer science activities, robotics programming competitions, and computer science courses. CS2N provides step-by-step lessons to make programming easy for students by also providing access to virtual robots. (Unity/Maya/Ruby on Rails/Java/PHP/HTML5)",
-        "License": ["UGPR"],
-        "Languages": ["Unity","Maya","Ruby on Rails","Java","PHP","HTML5"],
-        "Platform Requirements":[""],
-        "Dependent modules":[""],
-        "Dependent module URLs":[""],
-        "Component modules":[""],
-        "Component module URLs":[""],
-        "Industry":[""],
-        "Functionality":[""],
-        "Categories": ["Large-scale analytics","learning assessments","adaptive learning technologies","optimum learning pathways"]
+        "Description":"CS2N, or Computer Science Student Network, is a virtual center for computer science activities, robotics programming competitions, and computer science courses. CS2N provides step-by-step lessons to make programming easy for students by also providing access to virtual robots. (Unity/Maya/Ruby on Rails/Java/PHP/HTML5)",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "Unity",
+            "Maya",
+            "Ruby on Rails",
+            "Java",
+            "PHP",
+            "HTML5"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Large-scale analytics",
+            "learning assessments",
+            "adaptive learning technologies",
+            "optimum learning pathways"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
         "DARPA Program":"ENGAGE",
-        "Program Teams": ["Intific"],
-        "Contributors":[""],
-        "Sub-contractors":[""],
-        "Software": "SpaceForce",
-        "Internal Link": "http://www.intific.com/index.php/products/education/our-space",
-        "External Link": "http://www.brainpopjr.com/games/spaceforce/",
-        "Public Code Repo": "daniel.ragsdale@darpa.mil",
+        "Program Teams":[
+            "Intific"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"SpaceForce",
+        "Internal Link":"http://www.intific.com/index.php/products/education/our-space",
+        "External Link":"http://www.brainpopjr.com/games/spaceforce/",
+        "Public Code Repo":"daniel.ragsdale@darpa.mil",
         "Instructional Material":"",
-        "Description": "The goal of RoboBall SpaceForce is gameplay that results in measurable metrics that demonstrate games provide an innovative approach to STEM learning and student emotional resilience. RoboBall SpaceForce runs in OurSpace, a portal built to host RoboBall SpaceForce, its data and an HTML5 level editor. Players can login & register with a unique ID to save game progress. (C++/C#/ActionScript/Lua/Python)",
-        "License": ["GPR"],
-        "Languages": ["C++","C#","ActionScript","Lua","Python"],
-        "Platform Requirements":[""],
-        "Dependent modules":[""],
-        "Dependent module URLs":[""],
-        "Component modules":[""],
-        "Component module URLs":[""],
-        "Industry":[""],
-        "Functionality":[""],
-        "Categories": ["Large-scale analytics","learning assessments","adaptive learning technologies","optimum learning pathways"]
+        "Description":"The goal of RoboBall SpaceForce is gameplay that results in measurable metrics that demonstrate games provide an innovative approach to STEM learning and student emotional resilience. RoboBall SpaceForce runs in OurSpace, a portal built to host RoboBall SpaceForce, its data and an HTML5 level editor. Players can login & register with a unique ID to save game progress. (C++/C#/ActionScript/Lua/Python)",
+        "License":[
+            "GPR"
+        ],
+        "Languages":[
+            "C++",
+            "C#",
+            "ActionScript",
+            "Lua",
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Large-scale analytics",
+            "learning assessments",
+            "adaptive learning technologies",
+            "optimum learning pathways"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
         "DARPA Program":"ENGAGE",
-        "Program Teams": ["UCLA CRESST"],
-        "Contributors":[""],
-        "Sub-contractors":[""],
-        "Software": "Go Vector Go, Team Vector",
-        "Internal Link": "",
-        "External Link": "http://engage.cse.ucla.edu/",
-        "Public Code Repo": "daniel.ragsdale@darpa.mil",
+        "Program Teams":[
+            "UCLA CRESST"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Go Vector Go, Team Vector",
+        "Internal Link":"",
+        "External Link":"http://engage.cse.ucla.edu/",
+        "Public Code Repo":"daniel.ragsdale@darpa.mil",
         "Instructional Material":"",
-        "Description": "CRESST games are designed to help young children (in grades K-3) learn advanced physics and promote scientific reasoning and socio-emotional skills. The games promote improved understanding of the physics concepts force and motion, with emphasis on force magnitude & direction, friction, mass, gravity, and slope. These games also promote improved understanding of key social and emotional skills, such as anti-bullying and empathy. (C++/C#/ActionScript/Lua/Python)",
-        "License": ["GPR"],
-        "Languages": ["C++","C#","ActionScript","Lua","Python"],
-        "Platform Requirements":[""],
-        "Dependent modules":[""],
-        "Dependent module URLs":[""],
-        "Component modules":[""],
-        "Component module URLs":[""],
-        "Industry":[""],
-        "Functionality":[""],
-        "Categories": ["Large-scale analytics","learning assessments","adaptive learning technologies","optimum learning pathways"]
+        "Description":"CRESST games are designed to help young children (in grades K-3) learn advanced physics and promote scientific reasoning and socio-emotional skills. The games promote improved understanding of the physics concepts force and motion, with emphasis on force magnitude & direction, friction, mass, gravity, and slope. These games also promote improved understanding of key social and emotional skills, such as anti-bullying and empathy. (C++/C#/ActionScript/Lua/Python)",
+        "License":[
+            "GPR"
+        ],
+        "Languages":[
+            "C++",
+            "C#",
+            "ActionScript",
+            "Lua",
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Large-scale analytics",
+            "learning assessments",
+            "adaptive learning technologies",
+            "optimum learning pathways"
+        ],
+        "New Date":"",
+        "Update Date":""
     }
 ]

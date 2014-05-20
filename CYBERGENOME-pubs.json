@@ -1,110 +1,252 @@
 [
     {
-    "DARPA Program": "CyberGenome",
-    "Program Teams": ["Invincea Labs","George Mason University"],
-    "Title": "Visualization of Shared System Call Sequence Relationships in Large Malware Corpora",
-    "Link": "http://www.cse.ohio-state.edu/~raghu/teaching/CSE5544/Visweek2012/vizsec/33-Saxe.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "Invincea Labs",
+            "George Mason University"
+        ],
+        "Title":"Visualization of Shared System Call Sequence Relationships in Large Malware Corpora",
+        "Link":"http://www.cse.ohio-state.edu/~raghu/teaching/CSE5544/Visweek2012/vizsec/33-Saxe.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-    "DARPA Program": "CyberGenome",
-    "Program Teams": ["Invincea Labs","George Mason University"],
-    "Title": "Mining Web Technical Discussions to Identify Malware Capabilities",
-    "Link": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6679853&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6679853",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "Invincea Labs",
+            "George Mason University"
+        ],
+        "Title":"Mining Web Technical Discussions to Identify Malware Capabilities",
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6679853&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6679853",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-    "DARPA Program": "CyberGenome",
-    "Program Teams": ["Invincea Labs","George Mason University"],
-    "Title": "Malware Similarity Identification Using Call Graph Based System Call Subsequence Features",
-	"Link": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6679854&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6679854",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "Invincea Labs",
+            "George Mason University"
+        ],
+        "Title":"Malware Similarity Identification Using Call Graph Based System Call Subsequence Features",
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6679854&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6679854",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-    "DARPA Program": "CyberGenome",
-    "Program Teams": ["Lockheed Martin-Advanced Technology Laboratories","Carnegie Mellon University"],
-	"Title": "ReDeBug: Finding Unpatched Code Clones in Entire OS Distributions",
-    "Link": "http://users.ece.cmu.edu/~jiyongj/papers/oakland12.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "Lockheed Martin-Advanced Technology Laboratories",
+            "Carnegie Mellon University"
+        ],
+        "Title":"ReDeBug: Finding Unpatched Code Clones in Entire OS Distributions",
+        "Link":"http://users.ece.cmu.edu/~jiyongj/papers/oakland12.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-    "DARPA Program": "CyberGenome",
-    "Program Teams": ["Lockheed Martin-Advanced Technology Laboratories","Carnegie Mellon University"],
-	"Title": "BitShred: Feature Hashing Malware for Scalable Triage and Semantic Analysis",
-    "Link": "http://www.ece.cmu.edu/~jiyongj/papers/ccs11.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "Lockheed Martin-Advanced Technology Laboratories",
+            "Carnegie Mellon University"
+        ],
+        "Title":"BitShred: Feature Hashing Malware for Scalable Triage and Semantic Analysis",
+        "Link":"http://www.ece.cmu.edu/~jiyongj/papers/ccs11.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-    "DARPA Program": "CyberGenome",
-    "Program Teams": ["Lockheed Martin-Advanced Technology Laboratories","Carnegie Mellon University"],
-    "Link": "http://users.ece.cmu.edu/~jiyongj/papers/usenixsec13.pdf",
-	"Title": "Towards Automatic Software Lineage Inference",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "Lockheed Martin-Advanced Technology Laboratories",
+            "Carnegie Mellon University"
+        ],
+        "Title":"Towards Automatic Software Lineage Inference",
+        "Link":"http://users.ece.cmu.edu/~jiyongj/papers/usenixsec13.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-    "DARPA Program": "CyberGenome",
-    "Program Teams": ["Raytheon BBN Technologies","Raytheon SI Government Solutions"],
-	"Title": "Inferring Accurate Histories of Malware Evolution from Structural Evidence",
-    "Link": "https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS13/paper/view/5884/6082",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "Raytheon BBN Technologies",
+            "Raytheon SI Government Solutions"
+        ],
+        "Title":"Inferring Accurate Histories of Malware Evolution from Structural Evidence",
+        "Link":"https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS13/paper/view/5884/6082",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
-	{
-	"DARPA Program":"CyberGenome",
-	"Program Teams": ["BAE SYSTEMS","Apogee Research", "University of North Florida", "University of Michigan"], 
-	"Title": "On Trusting Introductions from a Reputable Source: A Utility-Maximizing Probabilistic Approach",
-	"Link":"http://www.unf.edu/~n00819483/docs/globalSIP2013_final.pdf",
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+    {
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "BAE SYSTEMS",
+            "Apogee Research",
+            "University of North Florida",
+            "University of Michigan"
+        ],
+        "Title":"On Trusting Introductions from a Reputable Source: A Utility-Maximizing Probabilistic Approach",
+        "Link":"http://www.unf.edu/~n00819483/docs/globalSIP2013_final.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
-	{
-	"DARPA Program":"CyberGenome",
-	"Program Teams": ["BAE SYSTEMS","Apogee Research", "University of North Florida", "University of Michigan"],
-	"Title": "On Optimal Decisions in an Introduction-Based Reputation Protocol",
-	"Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6638202&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6638202", 
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+    {
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "BAE SYSTEMS",
+            "Apogee Research",
+            "University of North Florida",
+            "University of Michigan"
+        ],
+        "Title":"On Optimal Decisions in an Introduction-Based Reputation Protocol",
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6638202&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6638202",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
-	{
-	"DARPA Program":"CyberGenome",
-	"Program Teams": ["BAE SYSTEMS","Apogee Research", "University of North Florida", "University of Michigan"],
-	"Title": "Analyzing Incentives for Protocol Compliance in Complex Domains: A Case Study of Introduction-Based Routing",
-	"Link":"http://weis2013.econinfosec.org/papers/WellmanKimDuongWEIS2013.pdf", 
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+    {
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "BAE SYSTEMS",
+            "Apogee Research",
+            "University of North Florida",
+            "University of Michigan"
+        ],
+        "Title":"Analyzing Incentives for Protocol Compliance in Complex Domains: A Case Study of Introduction-Based Routing",
+        "Link":"http://weis2013.econinfosec.org/papers/WellmanKimDuongWEIS2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
-	{
-	"DARPA Program":"CyberGenome",
-	"Program Teams": ["BAE SYSTEMS","Apogee Research", "University of North Florida", "University of Michigan"],
-	"Title": "A Stochastic Model for Reputation Management in Introduction-Based Trust Systems",
-	"Link":"http://stoch-nets-2012.lids.mit.edu/posters/Kreidl.pdf", 
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+    {
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "BAE SYSTEMS",
+            "Apogee Research",
+            "University of North Florida",
+            "University of Michigan"
+        ],
+        "Title":"A Stochastic Model for Reputation Management in Introduction-Based Trust Systems",
+        "Link":"http://stoch-nets-2012.lids.mit.edu/posters/Kreidl.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     },
-	{
-	"DARPA Program":"CyberGenome",
-	"Program Teams": ["BAE SYSTEMS","Apogee Research", "University of North Florida", "University of Michigan"],
-	"Title": "Incentivizing Responsible Networking via Introduction-Based Routing",
-	"Link":"http://dl.acm.org/citation.cfm?id=2022274", 
-    "Categories":[""],
-    "Subcategories":[""],
-    "ACM 1998 classification code":[""]
+    {
+        "DARPA Program":"CyberGenome",
+        "Program Teams":[
+            "BAE SYSTEMS",
+            "Apogee Research",
+            "University of North Florida",
+            "University of Michigan"
+        ],
+        "Title":"Incentivizing Responsible Networking via Introduction-Based Routing",
+        "Link":"http://dl.acm.org/citation.cfm?id=2022274",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     }
 ]

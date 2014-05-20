@@ -1,376 +1,896 @@
 [
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["UT - Austin"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"ACL2",
-    "Internal Link":"",
-    "External Link":"http://www.cs.utexas.edu/users/moore/acl2/v6-3/installation/obtaining-and-installing.html",
-    "Public Code Repo":"http://www.cs.utexas.edu/users/moore/acl2/v6-3/installation/obtaining-and-installing.html#Sources",
-    "Instructional Material":"",
-    "Description":"ACL2 is both a programming language in which you can model computer systems and a tool to help you prove properties of those models. (Common Lisp)",
-    "License":["BSD"],
-    "Languages":["Common Lisp"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Theorem Prover"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["Stanford University"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"Dune",
-    "Internal Link":"",
-    "External Link":"http://dune.scs.stanford.edu/",
-    "Public Code Repo":"http://dune.scs.stanford.edu/dune.git",
-    "Instructional Material":"",
-    "Description":"Dune provides ordinary user programs with safe and efficient access to privileged CPU features that are traditionally only available to kernels. It does so by leveraging modern virtualization hardware, enabling direct execution of privileged instructions in an unprivileged context. We have implemented Dune for Linux, using Intel's VT-x virtualization architecture to expose access to exceptions, virtual memory, privilege modes, and segmentation. By making these hardware mechanisms available at user-level, Dune creates opportunities to deploy novel systems without specialized kernel modifications. (C)",
-    "License":["GPLv2"],
-    "Languages":["C"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Virtualization"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["Stanford University"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"Hails",
-    "Internal Link":"",
-    "External Link":"http://hails.scs.stanford.edu/",
-    "Public Code Repo":"ssh://github.com/scslab/hails.git",
-    "Instructional Material":"",
-    "Description":"Hails is designed for building web platforms, where it is expected that a site will comprise many mutually-distrustful components written by a variety of entities.  Hails is built around the two core principles of Separation of Policy and Mandatory Access Control. (Haskell)",
-    "License":["GPLv2"],
-    "Languages":["Haskell"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Web Platforms","Security Policy"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["Massachusetts Institute of Technology","Stanford University"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"Ori",
-    "Internal Link":"",
-    "External Link":"http://ori.scs.stanford.edu/",
-    "Public Code Repo":"http://bitbucket.org/orifs/ori",
-    "Instructional Material":"",
-    "Description":"Ori is a distributed file system built for offline operation and empowers the user with control over synchronization operations and conflict resolution. We provide history through light weight snapshots and allow users to verify the history has not been tampered with. Through the use of replication instances, it can be resilient and recover damaged data from other nodes. (C++)",
-    "License":["MIT"],
-    "Languages":["C++"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["File Systems"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["University of New Mexico","University of Virginia"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"GenProg",
-    "Internal Link":"",
-    "External Link":"http://dijkstra.cs.virginia.edu/genprog/",
-    "Public Code Repo":"http://dijkstra.cs.virginia.edu/genprog/resources/genprog-source-v3.0.zip",
-    "Instructional Material":"",
-    "Description":"GenProg uses genetic programming to search for repairs for software bugs. The evolutionary computation represents candidate repairs as sequences of edits to software source code. Each candidate in a large population is applied to the original program to produce a new program, which is evaluated using test suites. Those candidates that pass more tests are said to have a higher fitness and are iteratively subjected to computational analogs of the biological processes of mutation and crossover. This process terminates when a candidate repair is found that retains all required functionality and fixes the bug. GenProg does not require special code annotations or formal specifications, and applies to unmodified legacy software. (C)",
-    "License":["BSDv3"],
-    "Languages":["C"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Software Debugging","Genetic Algorithms"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["Massachusetts Institute of Technology"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"KINT",
-    "Internal Link":"",
-    "External Link":"http://css.csail.mit.edu/kint/",
-    "Public Code Repo":"git://g.csail.mit.edu/kint",
-    "Instructional Material":"",
-    "Description":"KINT is a tool that uses scalable static analysis to detect integer errors in C programs. KINT generates constraints from source code and user annotations, and feeds them into a constraint solver for deciding whether an integer error can occur. (C)",
-    "License":["Modified BSD"],
-    "Languages":["C"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Software Debugging"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["Massachusetts Institute of Technology"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"STACK",
-    "Internal Link":"",
-    "External Link":"http://css.csail.mit.edu/stack/",
-    "Public Code Repo":"git://github.com/xiw/stack",
-    "Instructional Material":"",
-    "Description":"STACK is a static checker that detects unstable code in C/C++ programs. (C)",
-    "License":["MIT","GPLv3"],
-    "Languages":["C"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Software Debugging"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["Massachusetts Institute of Technology"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"Aeolus",
-    "Internal Link":"",
-    "External Link":"http://www.pmg.csail.mit.edu/aeolus/",
-    "Public Code Repo":"http://www.pmg.csail.mit.edu/aeolus/aeolus-20120813.tgz",
-    "Instructional Material":"",
-    "Description":"Aeolus is a platform for building secure distributed applications using the decentralized information flow control model. (Java)",
-    "License":["GPL"],
-    "Languages":["Java"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Software Development"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["SRI International","University of Cambridge"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"Capsicum for FreeBSD",
-    "Internal Link":"",
-    "External Link":"http://www.cl.cam.ac.uk/research/security/capsicum/",
-    "Public Code Repo":"http://www.cl.cam.ac.uk/research/security/capsicum/freebsd.html",
-    "Instructional Material":"",
-    "Description":"Capsicum is a hybrid capability-system model that supports application compartmentalization, the decomposition of larger applications (such as web browsers or office suites) into a set of sandboxed components.  Capsicum is integrated into the FreeBSD operating system. (C)",
-    "License":["BSD"],
-    "Languages":["C"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Security","Operating Systems","Sandboxing","Vulnerability Mitigation"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["SRI International","University of Cambridge"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"Capsicum for Linux",
-    "Internal Link":"",
-    "External Link":"http://www.cl.cam.ac.uk/research/security/capsicum/",
-    "Public Code Repo":"http://www.cl.cam.ac.uk/research/security/capsicum/linux.html",
-    "Instructional Material":"",
-    "Description":"Capsicum is a hybrid capability-system model that supports application compartmentalization, the decomposition of larger applications (such as web browsers or office suites) into a set of sandboxed components.  Capsicum is integrated into the FreeBSD operating system, with patches adapting it to Linux developed by Google. (C)",
-    "License":["BSD","GPLv2"],
-    "Languages":["C"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Security","Operating Systems","Sandboxing","Vulnerability Mitigation"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["SRI International","University of Cambridge"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"TESLA: Temporally Enhanced System Logic Assertions",
-    "Internal Link":"",
-    "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/tesla/",
-    "Public Code Repo":"https://github.com/CTSRD-TESLA/TESLA.git",
-    "Instructional Material":"",
-    "Description":"TESLA is a description, analysis, and validation tool that allows systems programmers to describe expected temporal behaviour in low-level languages such as C. Temporal assertions can span the interfaces between libraries and even languages. TESLA exposes run-time behaviour using program instrumentation, illuminating coverage of complex state machines and detecting violations of specifications. (C/C++/Objective-C)",
-    "License":["BSD"],
-    "Languages":["C","C++","Objective-C"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Security","Operating Systems","Program Analysis","Vulnerability Detection","Compilers"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["SRI International","University of Cambridge"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"SOAAP: Security-Oriented Analysis of Application Programs",
-    "Internal Link":"",
-    "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/soaap/",
-    "Public Code Repo":"https://github.com/CTSRD-SOAAP/soaap.git",
-    "Instructional Material":"",
-    "Description":"Application compartmentalization, such as that supported by Capsicum and CHERI, remains an art rather than a science: identifying, implementing, and debugging partitioning strategies requires detailed expertise in both the application and security. SOAAP provides semi-automated techniques -- grounded in static analysis, dynamic analysis, and automated program transformation -- to improve the developer experience. (C/C++)",
-    "License":["BSD"],
-    "Languages":["C","C++"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Security","Operating Systems","Sandboxing","Program Analysis","Vulnerability Mitigation","Compilers"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["SRI International","University of Cambridge"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"Smten: Enhancing the Satisfiability Modulo Theories Experience",
-    "Internal Link":"",
-    "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/smten.html",
-    "Public Code Repo":"https://github.com/ruhler/smten",
-    "Instructional Material":"",
-    "Description":"Smten is a unified language for general-purpose functional programming and SMT query orchestration whose goal is to greatly simplify the development of practical SMT-based tools for computer aided verification. (Haskell)",
-    "License":["BSD"],
-    "Languages":["Haskell"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Formal Verification","Satisfiability Module Theories (SMT)","Hardware Verification"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["SRI International","University of Cambridge"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"BERI: Bluespec Experimental RISC Implementation",
-    "Internal Link":"",
-    "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/beri.html",
-    "Public Code Repo":"http://www.cl.cam.ac.uk/research/security/ctsrd/beri-downloads.html",
-    "Instructional Material":"",
-    "Description":"BERI is a pipelined 64-bit RISC FPGA soft-core processor designed for teaching and research in the hardware-software interface. BERI is implemented in Bluespec, a high-level hardware definition language (HDL) that compiles to efficient C simulation or Verilog descriptions suitable for FPGA implementation. (Bluespec System Verilog)",
-    "License":["BERI Open-Source Hardware-Software License (modified Apache)","BSD"],
-    "Languages":["Bluespec System Verilog"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Microprocessor", "Rapid Prototyping"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["SRI International","University of Cambridge"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"CHERI: Capability Hardware Enhanced RISC Instructions",
-    "Internal Link":"",
-    "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/cheri.html",
-    "Public Code Repo":"http://www.cl.cam.ac.uk/research/security/ctsrd/beri-downloads.html",
-    "Instructional Material":"",
-    "Description":"CHERI transposes the Capsicum hybrid capability model into the CPU architecture space, allowing fine-grained compartmentalisation within process address spaces--while continuing to support current software designs. The CHERI ISA is implemented using the Bluespec Extensible RISC Implementation (BERI) and a 64-bit MIPS FPGA soft core implemented in the Bluespec HDL. (Bluespec System Verilog)",
-    "License":["BERI Open-Source Hardware-Software License (modified Apache)","BSD"],
-    "Languages":["Bluespec System Verilog"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Security", "Microprocessor", "Vulnerability Mitigation"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["Raytheon BBN Technologies","University of Utah"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"Stackdb",
-    "Internal Link":"",
-    "External Link":"http://www.flux.utah.edu/project/a3",
-    "Public Code Repo":"http://git-public.flux.utah.edu/gitweb.cgi?p=a3/vmi.git;a=summary",
-    "Instructional Material":"",
-    "Description":"Stackdb is a VMI-enabled debugging library for multi-level software systems.  It allows one to monitor and control a whole system through multiple, coordinated 'targets'.  The current version of Stackdb can attach to Xen-based Linux guests and to local Linux processes (via ptrace). (C)",
-    "License":["GPLv2"],
-    "Languages":["C"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Virtual Machine Introspection","Debugging","System analysis"]
-},
-{
-    "DARPA Program":"CRASH",
-    "Program Teams":["Raytheon BBN Technologies","University of Utah"],
-    "Contributors":[""],
-    "Sub-contractors":[""],
-    "Software":"Weir",
-    "Internal Link":"",
-    "External Link":"http://www.flux.utah.edu/project/a3",
-    "Public Code Repo":"http://git-public.flux.utah.edu/gitweb.cgi?p=xen-analysis/pipes-lang.git;a=summary",
-    "Instructional Material":"",
-    "Description":"Weir is a stream-based programming language for system analysis. In Weir, an analysis algorithm is implemented as a graph of 'stages', where each stage operates on a stream of events that represent activity within, or measurements from, the system under study.  Weir supports analyses over multiple sources of events.  The current version of Weir includes stages for processing Xentrace logs, Apache web server logs, and PHP logs.  It also includes stages that connect to the virtual machine introspection (VMI) features of an 'A3 container', a VM-based execution environment that provides innate and adaptive protections for applications that run within the container. (C++)",
-    "License":["GPLv2"],
-    "Languages":["C++"],
-    "Platform Requirements":[""],
-    "Dependent modules":[""],
-    "Dependent module URLs":[""],
-    "Component modules":[""],
-    "Component module URLs":[""],
-    "Industry":[""],
-    "Functionality":[""],
-    "Categories":["Programming language","Scripting language","System analysis"]
-}
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "UT - Austin"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"ACL2",
+        "Internal Link":"",
+        "External Link":"http://www.cs.utexas.edu/users/moore/acl2/v6-3/installation/obtaining-and-installing.html",
+        "Public Code Repo":"http://www.cs.utexas.edu/users/moore/acl2/v6-3/installation/obtaining-and-installing.html#Sources",
+        "Instructional Material":"",
+        "Description":"ACL2 is both a programming language in which you can model computer systems and a tool to help you prove properties of those models. (Common Lisp)",
+        "License":[
+            "BSD"
+        ],
+        "Languages":[
+            "Common Lisp"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Theorem Prover"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "Stanford University"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Dune",
+        "Internal Link":"",
+        "External Link":"http://dune.scs.stanford.edu/",
+        "Public Code Repo":"http://dune.scs.stanford.edu/dune.git",
+        "Instructional Material":"",
+        "Description":"Dune provides ordinary user programs with safe and efficient access to privileged CPU features that are traditionally only available to kernels. It does so by leveraging modern virtualization hardware, enabling direct execution of privileged instructions in an unprivileged context. We have implemented Dune for Linux, using Intel's VT-x virtualization architecture to expose access to exceptions, virtual memory, privilege modes, and segmentation. By making these hardware mechanisms available at user-level, Dune creates opportunities to deploy novel systems without specialized kernel modifications. (C)",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Virtualization"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "Stanford University"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Hails",
+        "Internal Link":"",
+        "External Link":"http://hails.scs.stanford.edu/",
+        "Public Code Repo":"ssh://github.com/scslab/hails.git",
+        "Instructional Material":"",
+        "Description":"Hails is designed for building web platforms, where it is expected that a site will comprise many mutually-distrustful components written by a variety of entities.  Hails is built around the two core principles of Separation of Policy and Mandatory Access Control. (Haskell)",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            "Haskell"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Web Platforms",
+            "Security Policy"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "Massachusetts Institute of Technology",
+            "Stanford University"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Ori",
+        "Internal Link":"",
+        "External Link":"http://ori.scs.stanford.edu/",
+        "Public Code Repo":"http://bitbucket.org/orifs/ori",
+        "Instructional Material":"",
+        "Description":"Ori is a distributed file system built for offline operation and empowers the user with control over synchronization operations and conflict resolution. We provide history through light weight snapshots and allow users to verify the history has not been tampered with. Through the use of replication instances, it can be resilient and recover damaged data from other nodes. (C++)",
+        "License":[
+            "MIT"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "File Systems"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "University of New Mexico",
+            "University of Virginia"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"GenProg",
+        "Internal Link":"",
+        "External Link":"http://dijkstra.cs.virginia.edu/genprog/",
+        "Public Code Repo":"http://dijkstra.cs.virginia.edu/genprog/resources/genprog-source-v3.0.zip",
+        "Instructional Material":"",
+        "Description":"GenProg uses genetic programming to search for repairs for software bugs. The evolutionary computation represents candidate repairs as sequences of edits to software source code. Each candidate in a large population is applied to the original program to produce a new program, which is evaluated using test suites. Those candidates that pass more tests are said to have a higher fitness and are iteratively subjected to computational analogs of the biological processes of mutation and crossover. This process terminates when a candidate repair is found that retains all required functionality and fixes the bug. GenProg does not require special code annotations or formal specifications, and applies to unmodified legacy software. (C)",
+        "License":[
+            "BSDv3"
+        ],
+        "Languages":[
+            "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Software Debugging",
+            "Genetic Algorithms"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "Massachusetts Institute of Technology"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"KINT",
+        "Internal Link":"",
+        "External Link":"http://css.csail.mit.edu/kint/",
+        "Public Code Repo":"git://g.csail.mit.edu/kint",
+        "Instructional Material":"",
+        "Description":"KINT is a tool that uses scalable static analysis to detect integer errors in C programs. KINT generates constraints from source code and user annotations, and feeds them into a constraint solver for deciding whether an integer error can occur. (C)",
+        "License":[
+            "Modified BSD"
+        ],
+        "Languages":[
+            "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Software Debugging"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "Massachusetts Institute of Technology"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"STACK",
+        "Internal Link":"",
+        "External Link":"http://css.csail.mit.edu/stack/",
+        "Public Code Repo":"git://github.com/xiw/stack",
+        "Instructional Material":"",
+        "Description":"STACK is a static checker that detects unstable code in C/C++ programs. (C)",
+        "License":[
+            "MIT",
+            "GPLv3"
+        ],
+        "Languages":[
+            "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Software Debugging"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "Massachusetts Institute of Technology"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Aeolus",
+        "Internal Link":"",
+        "External Link":"http://www.pmg.csail.mit.edu/aeolus/",
+        "Public Code Repo":"http://www.pmg.csail.mit.edu/aeolus/aeolus-20120813.tgz",
+        "Instructional Material":"",
+        "Description":"Aeolus is a platform for building secure distributed applications using the decentralized information flow control model. (Java)",
+        "License":[
+            "GPL"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Software Development"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "SRI International",
+            "University of Cambridge"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Capsicum for FreeBSD",
+        "Internal Link":"",
+        "External Link":"http://www.cl.cam.ac.uk/research/security/capsicum/",
+        "Public Code Repo":"http://www.cl.cam.ac.uk/research/security/capsicum/freebsd.html",
+        "Instructional Material":"",
+        "Description":"Capsicum is a hybrid capability-system model that supports application compartmentalization, the decomposition of larger applications (such as web browsers or office suites) into a set of sandboxed components.  Capsicum is integrated into the FreeBSD operating system. (C)",
+        "License":[
+            "BSD"
+        ],
+        "Languages":[
+            "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Security",
+            "Operating Systems",
+            "Sandboxing",
+            "Vulnerability Mitigation"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "SRI International",
+            "University of Cambridge"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Capsicum for Linux",
+        "Internal Link":"",
+        "External Link":"http://www.cl.cam.ac.uk/research/security/capsicum/",
+        "Public Code Repo":"http://www.cl.cam.ac.uk/research/security/capsicum/linux.html",
+        "Instructional Material":"",
+        "Description":"Capsicum is a hybrid capability-system model that supports application compartmentalization, the decomposition of larger applications (such as web browsers or office suites) into a set of sandboxed components.  Capsicum is integrated into the FreeBSD operating system, with patches adapting it to Linux developed by Google. (C)",
+        "License":[
+            "BSD",
+            "GPLv2"
+        ],
+        "Languages":[
+            "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Security",
+            "Operating Systems",
+            "Sandboxing",
+            "Vulnerability Mitigation"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "SRI International",
+            "University of Cambridge"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"TESLA: Temporally Enhanced System Logic Assertions",
+        "Internal Link":"",
+        "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/tesla/",
+        "Public Code Repo":"https://github.com/CTSRD-TESLA/TESLA.git",
+        "Instructional Material":"",
+        "Description":"TESLA is a description, analysis, and validation tool that allows systems programmers to describe expected temporal behaviour in low-level languages such as C. Temporal assertions can span the interfaces between libraries and even languages. TESLA exposes run-time behaviour using program instrumentation, illuminating coverage of complex state machines and detecting violations of specifications. (C/C++/Objective-C)",
+        "License":[
+            "BSD"
+        ],
+        "Languages":[
+            "C",
+            "C++",
+            "Objective-C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Security",
+            "Operating Systems",
+            "Program Analysis",
+            "Vulnerability Detection",
+            "Compilers"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "SRI International",
+            "University of Cambridge"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"SOAAP: Security-Oriented Analysis of Application Programs",
+        "Internal Link":"",
+        "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/soaap/",
+        "Public Code Repo":"https://github.com/CTSRD-SOAAP/soaap.git",
+        "Instructional Material":"",
+        "Description":"Application compartmentalization, such as that supported by Capsicum and CHERI, remains an art rather than a science: identifying, implementing, and debugging partitioning strategies requires detailed expertise in both the application and security. SOAAP provides semi-automated techniques -- grounded in static analysis, dynamic analysis, and automated program transformation -- to improve the developer experience. (C/C++)",
+        "License":[
+            "BSD"
+        ],
+        "Languages":[
+            "C",
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Security",
+            "Operating Systems",
+            "Sandboxing",
+            "Program Analysis",
+            "Vulnerability Mitigation",
+            "Compilers"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "SRI International",
+            "University of Cambridge"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Smten: Enhancing the Satisfiability Modulo Theories Experience",
+        "Internal Link":"",
+        "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/smten.html",
+        "Public Code Repo":"https://github.com/ruhler/smten",
+        "Instructional Material":"",
+        "Description":"Smten is a unified language for general-purpose functional programming and SMT query orchestration whose goal is to greatly simplify the development of practical SMT-based tools for computer aided verification. (Haskell)",
+        "License":[
+            "BSD"
+        ],
+        "Languages":[
+            "Haskell"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Formal Verification",
+            "Satisfiability Module Theories (SMT)",
+            "Hardware Verification"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "SRI International",
+            "University of Cambridge"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"BERI: Bluespec Experimental RISC Implementation",
+        "Internal Link":"",
+        "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/beri.html",
+        "Public Code Repo":"http://www.cl.cam.ac.uk/research/security/ctsrd/beri-downloads.html",
+        "Instructional Material":"",
+        "Description":"BERI is a pipelined 64-bit RISC FPGA soft-core processor designed for teaching and research in the hardware-software interface. BERI is implemented in Bluespec, a high-level hardware definition language (HDL) that compiles to efficient C simulation or Verilog descriptions suitable for FPGA implementation. (Bluespec System Verilog)",
+        "License":[
+            "BERI Open-Source Hardware-Software License (modified Apache)",
+            "BSD"
+        ],
+        "Languages":[
+            "Bluespec System Verilog"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Microprocessor",
+            "Rapid Prototyping"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "SRI International",
+            "University of Cambridge"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"CHERI: Capability Hardware Enhanced RISC Instructions",
+        "Internal Link":"",
+        "External Link":"http://www.cl.cam.ac.uk/research/security/ctsrd/cheri.html",
+        "Public Code Repo":"http://www.cl.cam.ac.uk/research/security/ctsrd/beri-downloads.html",
+        "Instructional Material":"",
+        "Description":"CHERI transposes the Capsicum hybrid capability model into the CPU architecture space, allowing fine-grained compartmentalisation within process address spaces--while continuing to support current software designs. The CHERI ISA is implemented using the Bluespec Extensible RISC Implementation (BERI) and a 64-bit MIPS FPGA soft core implemented in the Bluespec HDL. (Bluespec System Verilog)",
+        "License":[
+            "BERI Open-Source Hardware-Software License (modified Apache)",
+            "BSD"
+        ],
+        "Languages":[
+            "Bluespec System Verilog"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Security",
+            "Microprocessor",
+            "Vulnerability Mitigation"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "Raytheon BBN Technologies",
+            "University of Utah"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Stackdb",
+        "Internal Link":"",
+        "External Link":"http://www.flux.utah.edu/project/a3",
+        "Public Code Repo":"http://git-public.flux.utah.edu/gitweb.cgi?p=a3/vmi.git;a=summary",
+        "Instructional Material":"",
+        "Description":"Stackdb is a VMI-enabled debugging library for multi-level software systems.  It allows one to monitor and control a whole system through multiple, coordinated 'targets'.  The current version of Stackdb can attach to Xen-based Linux guests and to local Linux processes (via ptrace). (C)",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Virtual Machine Introspection",
+            "Debugging",
+            "System analysis"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "Raytheon BBN Technologies",
+            "University of Utah"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Weir",
+        "Internal Link":"",
+        "External Link":"http://www.flux.utah.edu/project/a3",
+        "Public Code Repo":"http://git-public.flux.utah.edu/gitweb.cgi?p=xen-analysis/pipes-lang.git;a=summary",
+        "Instructional Material":"",
+        "Description":"Weir is a stream-based programming language for system analysis. In Weir, an analysis algorithm is implemented as a graph of 'stages', where each stage operates on a stream of events that represent activity within, or measurements from, the system under study.  Weir supports analyses over multiple sources of events.  The current version of Weir includes stages for processing Xentrace logs, Apache web server logs, and PHP logs.  It also includes stages that connect to the virtual machine introspection (VMI) features of an 'A3 container', a VM-based execution environment that provides innate and adaptive protections for applications that run within the container. (C++)",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Programming language",
+            "Scripting language",
+            "System analysis"
+        ],
+        "New Date":"",
+        "Update Date":""
+    }
 ]

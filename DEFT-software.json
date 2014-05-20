@@ -1,561 +1,1025 @@
 [
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Washington"],
-        "Software": "ReVerb Relation Extractor",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Automatically identifies and extracts binary relationships from English sentences. Relations are lexical, i.e. they consist of a predicate (verb phrase) and its two noun phrase arguments. (Java/Scala)",
-        "Internal Code Repo": "",
-        "License": ["ALv2","CPL","In House"],
-        "Languages":[ "Java","Scala"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Washington"
+        ],
+        "Software":"ReVerb Relation Extractor",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Automatically identifies and extracts binary relationships from English sentences. Relations are lexical, i.e. they consist of a predicate (verb phrase) and its two noun phrase arguments. (Java/Scala)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2",
+            "CPL",
+            "In House"
+        ],
+        "Languages":[
+            "Java",
+            "Scala"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Washington"],
-        "Software": "OLLIE Relation Extractor",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Extracts relations among sentences. Relations are lexical, i.e. the consist of a predicate and arguments as in 1.1 and also include lexical information about attribution and the enabling condition. (Java/Scala)",
-        "Internal Code Repo": "",
-        "License": ["ALv2","MIT","BSDv2","http://www.maltparser.org/license.html","In house"],
-        "Languages":[ "Java", "Scala"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Washington"
+        ],
+        "Software":"OLLIE Relation Extractor",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Extracts relations among sentences. Relations are lexical, i.e. the consist of a predicate and arguments as in 1.1 and also include lexical information about attribution and the enabling condition. (Java/Scala)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2",
+            "MIT",
+            "BSDv2",
+            "http://www.maltparser.org/license.html",
+            "In house"
+        ],
+        "Languages":[
+            "Java",
+            "Scala"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UMASS"],
-        "Software": "Universal Schema Relation Extraction",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Extracts relations between entities in a large document collection. Relations are drawn from an ontology (e.g. attendedSchool). (Scala)",
-        "Internal Code Repo": "",
-        "License": ["ASL"],
-        "Languages":[ "Scala"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UMASS"
+        ],
+        "Software":"Universal Schema Relation Extraction",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Extracts relations between entities in a large document collection. Relations are drawn from an ontology (e.g. attendedSchool). (Scala)",
+        "Internal Code Repo":"",
+        "License":[
+            "ASL"
+        ],
+        "Languages":[
+            "Scala"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"20140516",
+        "Update Date":"20140515"
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UMASS"],
-        "Software": "Coreference within a Document",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies coreferences (group of equivalent items) within a document. Coreference is currently performed only for selected Entity types. (Scala)",
-        "Internal Code Repo": "",
-        "License": ["ASL"],
-        "Languages":[ "Scala"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UMASS"
+        ],
+        "Software":"Coreference within a Document",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies coreferences (group of equivalent items) within a document. Coreference is currently performed only for selected Entity types. (Scala)",
+        "Internal Code Repo":"",
+        "License":[
+            "ASL"
+        ],
+        "Languages":[
+            "Scala"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UMASS"],
-        "Software": "Cross Document Coreference with Resolution to Knowledge Base(KB)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies coreferences (group of equivalent items) within a document and resolves the coreferences with a KB. Coreference is currently performed for People and Organizations. (Scala)",
-        "Internal Code Repo": "",
-        "License": ["ASL"],
-        "Languages":[ "Scala"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UMASS"
+        ],
+        "Software":"Cross Document Coreference with Resolution to Knowledge Base(KB)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies coreferences (group of equivalent items) within a document and resolves the coreferences with a KB. Coreference is currently performed for People and Organizations. (Scala)",
+        "Internal Code Repo":"",
+        "License":[
+            "ASL"
+        ],
+        "Languages":[
+            "Scala"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UTAUSTIN"],
-        "Software": "Bayesian Logic Programs for Textual Inference",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Infers new relations based on given set of relations and documents. Relations are drawn from an ontology (e.g. attendedSchool). (Java)",
-        "Internal Code Repo": "",
-        "License": ["MIT"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UTAUSTIN"
+        ],
+        "Software":"Bayesian Logic Programs for Textual Inference",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Infers new relations based on given set of relations and documents. Relations are drawn from an ontology (e.g. attendedSchool). (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "MIT"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "QCCUNY"],
-        "Software": "Labeled N-Ary Relations between Typed Text Spans",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Extracts (binary) relations from the document. Relations are drawn from an ontology (e.g. attendedSchool). (Java)",
-        "Internal Code Repo": "",
-        "License": ["GPL", "LGPL", "BSD", "ASL", "MIT", "CPL", "SUN"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "QCCUNY"
+        ],
+        "Software":"Labeled N-Ary Relations between Typed Text Spans",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Extracts (binary) relations from the document. Relations are drawn from an ontology (e.g. attendedSchool). (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPL",
+            "LGPL",
+            "BSD",
+            "ASL",
+            "MIT",
+            "CPL",
+            "SUN"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "QCCUNY"],
-        "Software": "Speech Segmentation (Prosodic Analysis for Anomaly Analysis)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Assigns segmentation at the level of sentences, prosodic phrases or discourse units as an ordered list of start time-end time pairs. (Java)",
-        "Internal Code Repo": "",
-        "License": ["GPLv3"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "QCCUNY"
+        ],
+        "Software":"Speech Segmentation (Prosodic Analysis for Anomaly Analysis)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Assigns segmentation at the level of sentences, prosodic phrases or discourse units as an ordered list of start time-end time pairs. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv3"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "QCCUNY"],
-        "Software": "Anomaly Analysis (Prosodic Analysis for Anomaly Analysis)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Annotates speech segment with confidence values denoting how uncertain the speaker is or how novel the information contained in the unit is.",
-        "Internal Code Repo": "",
-        "License": ["ASL"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "QCCUNY"
+        ],
+        "Software":"Anomaly Analysis (Prosodic Analysis for Anomaly Analysis)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Annotates speech segment with confidence values denoting how uncertain the speaker is or how novel the information contained in the unit is.",
+        "Internal Code Repo":"",
+        "License":[
+            "ASL"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Columbia"],
-        "Software": "Modality-CB Tagger",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Tags the modality of predicates (verbs) into one of six classes (ability, effort, intention, success, want, belief) and for those of the speaker/author of the text toward each proposition in the text. (Java)",
-        "Internal Code Repo": "",
-        "License": ["InHouse", "ASL", "CPL", "EPL", "LGPL", "GPL", "BSD", "MIT"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Columbia"
+        ],
+        "Software":"Modality-CB Tagger",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Tags the modality of predicates (verbs) into one of six classes (ability, effort, intention, success, want, belief) and for those of the speaker/author of the text toward each proposition in the text. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "InHouse",
+            "ASL",
+            "CPL",
+            "EPL",
+            "LGPL",
+            "GPL",
+            "BSD",
+            "MIT"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Columbia"],
-        "Software": "Sarcasm Detection",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Judges whether a sentence is sarcastic or not. (Java)",
-        "Internal Code Repo": "",
-        "License": ["Modified BSD license (LIBSVM)"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Columbia"
+        ],
+        "Software":"Sarcasm Detection",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Judges whether a sentence is sarcastic or not. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "Modified BSD license (LIBSVM)"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Columbia"],
-        "Software": "Interaction: Acoustic Analysis",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Generates a list of acoustic/prosodic characteristics from the input. (Java/C++)",
-        "Internal Code Repo": "",
-        "License": ["GPL"],
-        "Languages":[ "Java","C++"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Columbia"
+        ],
+        "Software":"Interaction: Acoustic Analysis",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Generates a list of acoustic/prosodic characteristics from the input. (Java/C++)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPL"
+        ],
+        "Languages":[
+            "Java",
+            "C++"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Columbia"],
-        "Software": "Opinion",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Tags phrases in sentences for subjectivity and polarity. (Java)",
-        "Internal Code Repo": "",
-        "License": ["GPL", "ASL", "BSD", "In house"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Columbia"
+        ],
+        "Software":"Opinion",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Tags phrases in sentences for subjectivity and polarity. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPL",
+            "ASL",
+            "BSD",
+            "In house"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Columbia"],
-        "Software": "Social Event Extraction",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Labels interaction events and their participants. There are at least two types: Interaction and Cognition. (Java/C++)",
-        "Internal Code Repo": "",
-        "License": ["ALv2", "In house"],
-        "Languages":[ "Java","C++"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Columbia"
+        ],
+        "Software":"Social Event Extraction",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Labels interaction events and their participants. There are at least two types: Interaction and Cognition. (Java/C++)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2",
+            "In house"
+        ],
+        "Languages":[
+            "Java",
+            "C++"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Oregon State"],
-        "Software": "Cross Document Co-reference of Relations and Entities",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Extracts relations, entities, and co-reference information across a set of documents. Relations are drawn from an ontology (e.g. attendedSchool). The initial focus will be on people and organizations. (Java)",
-        "Internal Code Repo": "",
-        "License": ["GPL"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Oregon State"
+        ],
+        "Software":"Cross Document Co-reference of Relations and Entities",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Extracts relations, entities, and co-reference information across a set of documents. Relations are drawn from an ontology (e.g. attendedSchool). The initial focus will be on people and organizations. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPL"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "CMUCS"],
-        "Software": "CMUCS-coref-hovy-mitamura",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Performs coreference of events (verbs and nominalizations). Coreference is typed (i.e. identity, part-of, member-of). Limited set of epistemic values attached to each event. (Java)",
-        "Internal Code Repo": "",
-        "License": ["CMUCS"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "CMUCS"
+        ],
+        "Software":"CMUCS-coref-hovy-mitamura",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Performs coreference of events (verbs and nominalizations). Coreference is typed (i.e. identity, part-of, member-of). Limited set of epistemic values attached to each event. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "CMUCS"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "CMUCS"],
-        "Software": "Novelty Detection",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Assigns either a label or a numerical score of novelty in the input stream.",
-        "Internal Code Repo": "",
-        "License": ["CMUCS"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "CMUCS"
+        ],
+        "Software":"Novelty Detection",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Assigns either a label or a numerical score of novelty in the input stream.",
+        "Internal Code Repo":"",
+        "License":[
+            "CMUCS"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "CMUCS"],
-        "Software": "KB Web, Knowledge Resolver/Event Ontology Creation.htm, Event Ontology Creation",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Generates an ontology of possible events. Event is a list of entities, each associated with statistical distribution over associated verbs and subject/object positions relative to verb. Events also include a description of pairwise relationships between entities (e.g., coreferent or other). Per communication with the PI, this algorithm will be delayed.",
-        "Internal Code Repo": "",
-        "License": ["CMUCS"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "CMUCS"
+        ],
+        "Software":"KB Web, Knowledge Resolver/Event Ontology Creation.htm, Event Ontology Creation",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Generates an ontology of possible events. Event is a list of entities, each associated with statistical distribution over associated verbs and subject/object positions relative to verb. Events also include a description of pairwise relationships between entities (e.g., coreferent or other). Per communication with the PI, this algorithm will be delayed.",
+        "Internal Code Repo":"",
+        "License":[
+            "CMUCS"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "CMUCS"],
-        "Software": "KB Web, Knowledge Resolver/Knowledge Resolver.htm, Knowledge Resolver",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Processes a document and a set of hypotheses to generate the most coherent subset of hypotheses to explain the document. (Java)",
-        "Internal Code Repo": "",
-        "License": ["CMUCS"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "CMUCS"
+        ],
+        "Software":"KB Web, Knowledge Resolver/Knowledge Resolver.htm, Knowledge Resolver",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Processes a document and a set of hypotheses to generate the most coherent subset of hypotheses to explain the document. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "CMUCS"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "CMUML"],
-        "Software": "KB Web, Knowledge Resolver/Knowledge Base Web Service.htm, Knowledge Base(KB) Web Service",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Retrieves semantic information about entities, slots, and their values. Also enables inference over the KB to determine confidence, justification, metadata, and relevant text for a given entity-slot pair. (Java)",
-        "Internal Code Repo": "",
-        "License": ["MIT"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "CMUML"
+        ],
+        "Software":"KB Web, Knowledge Resolver/Knowledge Base Web Service.htm, Knowledge Base(KB) Web Service",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Retrieves semantic information about entities, slots, and their values. Also enables inference over the KB to determine confidence, justification, metadata, and relevant text for a given entity-slot pair. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "MIT"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "JHU"],
-        "Software": "PPDB (Paraphrase Database)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Generates a ranked list of potential paraphrases for the input. (Java)",
-        "Internal Code Repo": "",
-        "License": ["BSD"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "JHU"
+        ],
+        "Software":"PPDB (Paraphrase Database)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Generates a ranked list of potential paraphrases for the input. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "BSD"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "JHU"],
-        "Software": "DAPPER (Domain Adapted Paraphraser)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Generates a database of domain-specific paraphrases using the input data.",
-        "Internal Code Repo": "",
-        "License": ["BSD"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "JHU"
+        ],
+        "Software":"DAPPER (Domain Adapted Paraphraser)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Generates a database of domain-specific paraphrases using the input data.",
+        "Internal Code Repo":"",
+        "License":[
+            "BSD"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "JHU"],
-        "Software": "NattyLo  - Recognizing Textual Entailment (RTE) System",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies entailment relations (entails, contradicts, unrelated, etc.) between pairs of passages.",
-        "Internal Code Repo": "",
-        "License": ["BSD"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "JHU"
+        ],
+        "Software":"NattyLo  - Recognizing Textual Entailment (RTE) System",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies entailment relations (entails, contradicts, unrelated, etc.) between pairs of passages.",
+        "Internal Code Repo":"",
+        "License":[
+            "BSD"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UIUC"],
-        "Software": "Recognizing Textual Entailment",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies entailment relations (entails, contradicts, unrelated, etc.) between pairs of passages or structured hypothesis and passage. (Java)",
-        "Internal Code Repo": "",
-        "License": ["LLVM"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UIUC"
+        ],
+        "Software":"Recognizing Textual Entailment",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies entailment relations (entails, contradicts, unrelated, etc.) between pairs of passages or structured hypothesis and passage. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "LLVM"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UIUC"],
-        "Software": "Extended Semantic Role Labeling",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Exctracts n-ary relations within the document. Relation set is closer semantic/linguistic relations (e.g. BENEFICIARY, Arg-0).",
-        "Internal Code Repo": "",
-        "License": ["LLVM"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UIUC"
+        ],
+        "Software":"Extended Semantic Role Labeling",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Exctracts n-ary relations within the document. Relation set is closer semantic/linguistic relations (e.g. BENEFICIARY, Arg-0).",
+        "Internal Code Repo":"",
+        "License":[
+            "LLVM"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UIUC"],
-        "Software": "Discourse (Within Document complements Coreference)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Recognizes relations between events, where events are ESRL predicate/argument structures. Relations include CAUSE/ENABLE, PART-OF. (Java)",
-        "Internal Code Repo": "",
-        "License": ["LLVM"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UIUC"
+        ],
+        "Software":"Discourse (Within Document complements Coreference)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Recognizes relations between events, where events are ESRL predicate/argument structures. Relations include CAUSE/ENABLE, PART-OF. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "LLVM"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UIUC"],
-        "Software": "Wikifier",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies a coherent set of concepts of interest in a given document, based on entities/concepts in a reference collection(Wikipedia, for now). Links entities in a document to Wikipedia URLs. (Java)",
-        "Internal Code Repo": "",
-        "License": ["LLVM"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UIUC"
+        ],
+        "Software":"Wikifier",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies a coherent set of concepts of interest in a given document, based on entities/concepts in a reference collection(Wikipedia, for now). Links entities in a document to Wikipedia URLs. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "LLVM"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UIUC"],
-        "Software": "POS Tagger",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Assigns part of speech tags to words in the input document.",
-        "Internal Code Repo": "",
-        "License": ["LLVM"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UIUC"
+        ],
+        "Software":"POS Tagger",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Assigns part of speech tags to words in the input document.",
+        "Internal Code Repo":"",
+        "License":[
+            "LLVM"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UIUC"],
-        "Software": "Chunker",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Divides the input documents into shallow parse chunks.",
-        "Internal Code Repo": "",
-        "License": ["LLVM"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UIUC"
+        ],
+        "Software":"Chunker",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Divides the input documents into shallow parse chunks.",
+        "Internal Code Repo":"",
+        "License":[
+            "LLVM"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"20140515",
+        "Update Date":"20140516"
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UIUC"],
-        "Software": "Named Entity Recognizer",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies named entities in the input document.",
-        "Internal Code Repo": "",
-        "License": ["GPLv2"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UIUC"
+        ],
+        "Software":"Named Entity Recognizer",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies named entities in the input document.",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UIUC"],
-        "Software": "Coreference (within document)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies coreferences in a document for both entities and verbs. (Java)",
-        "Internal Code Repo": "",
-        "License": ["LLVM"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UIUC"
+        ],
+        "Software":"Coreference (within document)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies coreferences in a document for both entities and verbs. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "LLVM"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "UIUC"],
-        "Software": "Profiler",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies entity mentions in a collection of documents, and generates relevant relational statistics. The relations statisics are in terms of predicate argument structure. (Java)",
-        "Internal Code Repo": "",
-        "License": ["LLVM"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "UIUC"
+        ],
+        "Software":"Profiler",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies entity mentions in a collection of documents, and generates relevant relational statistics. The relations statisics are in terms of predicate argument structure. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "LLVM"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Cornell"],
-        "Software": "Attitude Extraction",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies the attitude (positive/negative) of an entity toward other entities within a sentence. (Java, Perl)",
-        "Internal Code Repo": "",
-        "License": ["GPL", "Cornell/UNT/Pitt open-source license"],
-        "Languages":[ "Java","Perl"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Cornell"
+        ],
+        "Software":"Attitude Extraction",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies the attitude (positive/negative) of an entity toward other entities within a sentence. (Java, Perl)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPL",
+            "Cornell/UNT/Pitt open-source license"
+        ],
+        "Languages":[
+            "Java",
+            "Perl"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Cornell"],
-        "Software": "Textual Similarity",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Assigns scores between [0,1] indicating the similarity in meaning between two sentences. (Java, Perl)",
-        "Internal Code Repo": "",
-        "License": ["GPL", "BSD", "Cornell/UNT/Pitt open-source license"],
-        "Languages":[ "Java","Perl"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Cornell"
+        ],
+        "Software":"Textual Similarity",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Assigns scores between [0,1] indicating the similarity in meaning between two sentences. (Java, Perl)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPL",
+            "BSD",
+            "Cornell/UNT/Pitt open-source license"
+        ],
+        "Languages":[
+            "Java",
+            "Perl"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Stanford"],
-        "Software": "Lexical Entailment Resource - get Relation",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies entailment relation (entails, contradicts, etc.) between a given pair of phrases.",
-        "Internal Code Repo": "",
-        "License": ["GPLv2"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Software":"Lexical Entailment Resource - get Relation",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies entailment relation (entails, contradicts, etc.) between a given pair of phrases.",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Stanford"],
-        "Software": "Stanford's Coreference (Within Document)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies entity and verb coreferences within the input document. (Java)",
-        "Internal Code Repo": "",
-        "License": ["GPLv2"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Software":"Stanford's Coreference (Within Document)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies entity and verb coreferences within the input document. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Stanford"],
-        "Software": "Semantic Textual Similarity",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Calculates the semantic similarity between a pair of input text.",
-        "Internal Code Repo": "",
-        "License": ["GPLv2"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Software":"Semantic Textual Similarity",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Calculates the semantic similarity between a pair of input text.",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Stanford"],
-        "Software": "Stanford's Labeled N-Ary Relations between Typed Text Spans (v1- Relation Extraction for KBP-Slot Filling)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Extracts binary relations from a document. Relations are pulled from an ontology (e.g. attended school). (Java)",
-        "Internal Code Repo": "",
-        "License": ["GPLv2"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Software":"Stanford's Labeled N-Ary Relations between Typed Text Spans (v1- Relation Extraction for KBP-Slot Filling)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Extracts binary relations from a document. Relations are pulled from an ontology (e.g. attended school). (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Stanford"],
-        "Software": "Stanford's Coreference (Cross document with resolution to KB)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies entity coreferences across documents, and updates the KB with new found entities. System was designed for people and organizations.",
-        "Internal Code Repo": "",
-        "License": ["GPLv2"],
-        "Languages":[ ""],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Software":"Stanford's Coreference (Cross document with resolution to KB)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies entity coreferences across documents, and updates the KB with new found entities. System was designed for people and organizations.",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Stanford"],
-        "Software": "Stanford's Mention Detection (Within Document)",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies and labels entity mentions within a document. (Java)",
-        "Internal Code Repo": "",
-        "License": ["GPLv2"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Software":"Stanford's Mention Detection (Within Document)",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies and labels entity mentions within a document. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "Stanford"],
-        "Software": "Stanford Named Entity Recognizer",
-        "Internal Link": "",
-        "External Link": "http://nlp.stanford.edu/software/CRF-NER.shtml",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Identifies named entites in text. Can be used with various models. As packaged by default with Stanford CoreNLP, 12 classes are recognized: DATE, TIME, DURATION, SET, NUMBER, ORDINAL, PERSON, LOCATION, ORGANIZATION, MONEY, PERCENT, MISC. (Java)",
-        "Internal Code Repo": "",
-        "License": ["GPLv2"],
-        "Languages":[ "Java"],
-        "Categories":[ "NLP"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Software":"Stanford Named Entity Recognizer",
+        "Internal Link":"",
+        "External Link":"http://nlp.stanford.edu/software/CRF-NER.shtml",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Identifies named entites in text. Can be used with various models. As packaged by default with Stanford CoreNLP, 12 classes are recognized: DATE, TIME, DURATION, SET, NUMBER, ORDINAL, PERSON, LOCATION, ORGANIZATION, MONEY, PERCENT, MISC. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "NLP"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":[ "BBN"],
-        "Software": "ADEPT v1.6",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "Interfaces and integration framework for DEFT HLT algorithms and components. (Java)",
-        "Internal Code Repo": "",
-        "License": ["UGPR"],
-        "Languages":[ "Java"],
-        "Categories":["Interface", "API"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "BBN"
+        ],
+        "Software":"ADEPT v1.6",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"Interfaces and integration framework for DEFT HLT algorithms and components. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "Interface",
+            "API"
+        ],
+        "New Date":"",
+        "Update Date":""
     },
     {
-        "DARPA Program Name": "DEFT",
-        "Program Teams":["BBN","NextCentury"],
-        "Software": "ADEPT OWF-based Demo v1",
-        "Internal Link": "",
-        "External Link": "",
-        "Public Code Repo": "deft-software-requests@bbn.com",
-        "Description": "User interface and visulization. (Java)",
-        "Internal Code Repo": "",
-        "License": ["UGPR"],
-        "Languages":[ "Java"],
-        "Categories":[ "Visualization"]
+        "DARPA Program":"DEFT",
+        "Program Teams":[
+            "BBN",
+            "NextCentury"
+        ],
+        "Software":"ADEPT OWF-based Demo v1",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"deft-software-requests@bbn.com",
+        "Description":"User interface and visulization. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "UGPR"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Categories":[
+            "Visualization"
+        ],
+        "New Date":"20140518",
+        "Update Date":"20140518"
     }
 ]

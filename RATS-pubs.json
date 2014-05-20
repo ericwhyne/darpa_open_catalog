@@ -1,674 +1,1596 @@
 [
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["LDC"],
-  "Title":"Annotation Trees: LDC's Customizable, Extensible, Scalable Annotation Infrastructure",
-  "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-annotation-trees.pdf",
-  "Authors":["Jonathan Wright","Kira Griffitt","Joe Ellis","Stephanie Strassel","Brendan Callahan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["BBN"],
-  "Title":"Developing a Speech Activity Detection System for the DARPA RATS Program",
-  "Link":"Not Yet Published",
-  "Authors":["Ng","Tim","Bing Zhang","Long Nguyen","Spyros Matsoukas","Xinhui Zhou","Nima Mesgarani","Karel Vesel","and Pavel Matejka"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["BBN"],
-  "Title":"White Listing and Score Normalization for Keyword Spotting of Noisy Speech",
-  "Link":"Not Yet Published",
-  "Authors":["Zhang","Bing","Richard M. Schwartz","Stavros Tsakalidis","Long Nguyen","and Spyros Matsoukas."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["BBN"],
-  "Title":"Improvements in Language Identification on the RATS Noisy Speech Corpus",
-  "Link":"Not Yet Published",
-  "Authors":["Jeff Ma","Bing Zhang","Spyros Matsoukas","Sri Harish Mallidi","Feipeng Li","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) University of Cambridge"],
-  "Title":"Infinite Support Vector Machines in Speech Recognition",
-  "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
-  "Authors":["J.Yang","R.van Dalen and M.J.F.Gales"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) University of Cambridge"],
-  "Title":"An Explicit Independence Constraint for Factorised Adaptation in Speech Recognition",
-  "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
-  "Authors":["Y.-Q. Wang and M.J.F.Gales"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) University of Cambridge"],
-  "Title":"A Confidence-Based Approach for Improving Keyword Hypothesis Scores",
-  "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
-  "Authors":["M.S.Seigel","P.C.Woodland and M.J.F.Gales"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) University of Cambridge"],
-  "Title":"TANDEM System Adaptation Using Multiple Linear Feature Transforms",
-  "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
-  "Authors":["Y.-Q. Wang and M.J.F.Gales"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) University of Cambridge"],
-  "Title":"Model-Based Approaches for Degraded Channel Modelling in Robust ASR",
-  "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
-  "Authors":["M.J.F.Gales and F.Flego"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) University of Cambridge"],
-  "Title":"Using Sub-Word-Level Information for Confidence Estimation with Conditional Random Field Models",
-  "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
-  "Authors":["M.S.Seigel and P.C.Woodland"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) University of Cambridge"],
-  "Title":"Model-Based Approaches to Adaptive Training in Reverberant Environments",
-  "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
-  "Authors":["Y.-Q. Wang and M.J.F.Gales"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) University of Cambridge"],
-  "Title":"Factor Analysis Based VTS Discriminative Adaptive Training",
-  "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
-  "Authors":["F.Flego and M.J.F.Gales"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) Brno University of Technology"],
-  "Title":"Pairwise Discriminative Speaker Verification in the I -Vector Space",
-  "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6466371&userType=inst&tag=1",
-  "Authors":["Cumani","S.","Brummer","N.","Burget","L.","Laface","P.","Plchot","O.","Vasilakakis","V."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) Brno University of Technology","Brno University of Technology","Massachusetts Institute of Technology","JHU","University of Maryland","Aalborg University"],
-  "Title":"Probabilistic Linear Discriminant Analysis Of I-Vector Posterior Distributions",
-  "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2013/cumani_icassp2013_0007644.pdf",
-  "Authors":["Cumani","S.","Plchot","O.","Laface","P."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) Brno University of Technology"],
-  "Title":"Developing A Speaker Identification System For The DARPA RATS Project",
-  "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2013/plchot_icassp2013_0006768.pdf",
-  "Authors":["Plchot","O.","Matsoukas","S.","Matjka","P.","Dehak","N.","Ma","J.","Cumani","S.","Glembek","O.","Hemansk","H.","Mesgarani","N.","Soufifar","M.","M.","Thomas","S.","Zhang","B.","Zhou","X. et al."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) Brno University of Technology","Department of Electronics and Telecommunications","NTNU","Politecnico di Torino"],
-  "Title":"Regularized Subspace n-Gram Model for Phonotactic iVector Extraction",
-  "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2013/soufifar_interspeech2013_IS131171.pdf",
-  "Authors":["Soufifar","M.","M.","Burget","L.","Plchot","O.","Cumani","S.","ernock","J."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) Brno University of Technology","Politecnico di Torino","AGNITIO"],
-  "Title":"Description and analysis of the Brno276 system for LRE2011",
-  "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/brummer_odyssey2012_216-223-40.pdf",
-  "Authors":["Brummer","N.","Cumani","S.","Glembek","O.","Karafit","M.","Matjka","P.","Pen","J.","Plchot","O.","Soufifar","M.","M.","de","V.","E.","ernock","J."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) Brno University of Technology","Universidad Politcnica de Madrid"],
-  "Title":"Phonotactic Language Recognition using i-vectors and Phoneme Posteriogram Counts",
-  "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/d_haro_interspeech2012_558_pp1_4.pdf",
-  "Authors":["D'Haro","L.","F.","Glembek","O.","Plchot","O.","Matjka","P.","Soufifar","M.","M.","Cordoba","R.","ernock","J."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) Brno University of Technology","MIT"],
-  "Title":"Patrol Team Language Identification System for DARPA RATS P1 Evaluation",
-  "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/matejka_interspeech2012_1295_pp1_4.pdf",
-  "Authors":["Matjka","P.","Plchot","O.","Soufifar","M.","M.","Glembek","O.","D'Haro","L.","F.","Vesel","K.","Grzl","F.","Ma","J.","Matsoukas","S.","Dehak","N."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) Brno University of TechnologyUniversity of Maryland"],
-  "Title":"Developing a Speech Activity Detection System for the DARPA RATS Program",
-  "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/ng_interspeech2012_1052_pp_1_4.pdf",
-  "Authors":["Ng","T.","Zhang","B.","Nguyen","L.","Matsoukas","S.","Zhou","X.","Mesgarani","N.","Vesel","K.","Matjka","P."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) Brno University of Technology"],
-  "Title":"Speaker vectors from Subspace Gaussian Mixture Model as complementary features for Language Identification",
-  "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/plchot_odyssey2012_330-333-41.pdf",
-  "Authors":["Plchot","O.","Karafit","M.","Brummer","N.","Glembek","O.","Matjka","P.","de","V.","E.","ernock","J."]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Long, Deep and Wide Neural Nets  for Dealing with Unexpected Noise in Machine Recognition of Speech",
-  "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-40585-3_2#page-2",
-  "Authors":["Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Multistream Recognition of Speech: Dealing With Unknown Unknowns",
-  "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6428587&tag=1",
-  "Authors":["Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) JHU"],
-  "Title":"Robust Speaker Recognition Using Spectro-Temporal Autoregressive Models",
-  "Link":"http://old-site.clsp.jhu.edu/~sriram/papers/papers/plp2_spkr.pdf",
-  "Authors":["Sri Harish Mallidi","Sriram Ganapathy","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) LSCP","ENS/EHESS/CNRS","INRIA/ENS/CNRS","JHU"],
-  "Title":"Evaluating speech features with the Minimal-Pair ABX task: Analysis of the classical MFC/PLP pipeline",
-  "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2013c.pdf",
-  "Authors":["Thomas Schatz","Vijayaditya Peddinti","Francis Bach","Aren Jansen","Hynek Hermansky","Emmanuel Dupoux"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Multi-stream recognition of noisy speech with performance monitoring",
-  "Link":"http://old-site.clsp.jhu.edu/~variani/MSPM_Interspeech_2013.pdf",
-  "Authors":["Ehsan Variani","Feipeng Li","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Text-to-Speech Inspired Duration Modeling for Improved Whole-Word Acoustic Models",
-  "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2013a.pdf",
-  "Authors":["Keith Kintzley","Aren Jansen","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Weak Top-Down Constraints For Unsupervised Acoustic Model Training",
-  "Link":"http://old-site.clsp.jhu.edu/~samuel/pdfs/wk_const.pdf",
-  "Authors":["Aren Jansen","Samuel Thomas","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Deep Neural Network Features and Semi-Supervised Training for Low Resource Speech Recognition",
-  "Link":"http://old-site.clsp.jhu.edu/~samuel/pdfs/dnn_semisup_lr.pdf",
-  "Authors":["Samuel Thomas","Michael Seltzer","Kenneth Church","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Effect Of Filter Bandwidth and Spectral Sampling Rate of Analysis Filterbank on Automatic Phoneme Recognition",
-  "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6639044",
-  "Authors":["Feipeng Li","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Frequency Offset Correction in Speech Without Detecting Pitch",
-  "Link":"http://hltcoe.jhu.edu/uploads/publications/papers/14672_slides.pdf",
-  "Authors":["Pascal Clark","Harish Mallidi","Aren Jansen","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"A Summary Of The 2012 JHU CLSP Workshop on Zero Resource Speech Technologies and Models of Early Language Acquisition",
-  "Link":"http://www.lscp.net/persons/dupoux/papers/Jansen_DGJKCFHMRSCMVBBCDFHLLNPRST_zero_resource_workshop.ICASSP.pdf",
-  "Authors":["Aren Jansen","Emmanuel Dupoux","Sharon Goldwater","Mark Johnson","Sanjeev Khudanpur","Kenneth Church","Naomi Feldman","Hynek Hermansky","Florian Metze","Richard Rose","Michael Seltzer","Pascal Clark","Ian Mcgraw","Balakrishnan Varadarajan","Erin Bennett","Benjamin Borschinger","Justin Chiu","Ewan Dunbar","Abdellah Fourtassi","David Harwath","Chia-Ying Lee","Keith Levin","Atta Norouzian","Vijayaditya Peddinti","Rachael Richardson","Thomas Schatz","Samuel Thomas",""]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Mean Temporal Distance: Predicting ASR Error from Temporal Properties of Speech Signal",
-  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639105&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6639105",
-  "Authors":["Hynek Hermansky","Ehsan Variani","Vijayaditya Peddinti"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Filter-Bank Optimization for Frequency Domain Linear Prediction",
-  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639040&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6639040",
-  "Authors":["Vijayaditya Peddinti","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Estimating Classifier Performance in Unknown Noise",
-  "Link":"http://old-site.clsp.jhu.edu/~variani/ECPUN_Interspeech_2012.pdf",
-  "Authors":["Ehsan Variani and Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Data-driven Posterior Features for Low Resource Speech Recognition Applications",
-  "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012f.pdf",
-  "Authors":["Samuel Thomas","Sriram Ganapathy","Aren Jansen and Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Phone recognition in critical bands using sub-band temporal modulations",
-  "Link":"http://www.bibsonomy.org/bibtex/2c299b5bdd7dea9bcf9905568c4dbcaaf/dblp",
-  "Authors":["Feipeng Li","Sri Harish Mallidi","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"MAP Estimation of Whole-Word Acoustic Models with Dictionary Priors",
-  "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012c.pdf",
-  "Authors":["Keith Kintzley","Aren Jansen","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Inverting the Point Process Model for Fast Phonetic Keyword Search",
-  "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012d.pdf",
-  "Authors":["Keith Kintzley","Aren Jansen","Kenneth Church","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Analysis of Temporal Resolution in Frequency Domain Linear Prediction",
-  "Link":"http://www.bibsonomy.org/bibtex/21d0a44e428a71b13ffd600631738ecc3/dblp",
-  "Authors":["Sriram Ganapathy","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team BBN) JHU"],
-  "Title":"Multilingual MLP Features For Low-Resource LVCSR Systems",
-  "Link":"http://old-site.clsp.jhu.edu/~samuel/pdfs/multilingual.pdf",
-  "Authors":["Samuel Thomas","Sriram Ganapathy","Hynek Hermansky"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) University of Maryland"],
-  "Title":"Automatic intelligibility assessment of pathologic speech in head and neck cancer based on auditory-inspired spectro-temporal modulations",
-  "Link":"http://terpconnect.umd.edu/~zxinhui/Interspeech2011/InterSpeech12_SPEECH_PATHOLOGY_head_and_neck_cancer.pdf",
-  "Authors":["X. Zhou","D. Garcia-Romero","N. Mesgarani","M. Stone","C. Espy-Wilson","S. Shamma"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) MIT"],
-  "Title":"Bayesian Distance Metric Learning on i-vector for Speaker Verification",
-  "Link":"Not Yet Published",
-  "Authors":["X. Fang","N. Dehak","and J. Glass"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) MIT"],
-  "Title":"Gaussian Mixture Model Weight Supervector Decomposition and Adaptation",
-  "Link":"Not Yet Published",
-  "Authors":["M. H. Bahari","N. Dehak","and H. Van hamme"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"The IBM Speech Activity Detection System for the DARPA RATS Program",
-  "Link":"http://old-site.clsp.jhu.edu/~sriram/papers/papers/inter2013.pdf",
-  "Authors":["G. Saon","S. Thomas","H. Soltau","S. Ganapathy and B. Kingsbury"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"Using Polynomial Kernel Support Vector Machines for Speaker Verification, in IEEE Letters",
-  "Link":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6557422",
-  "Authors":["Sibel Yaman","Jason Pelecanos"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"The IBM RATS Phase II speaker recognition system: Overview and analysis, in proc. of Interspeech",
-  "Link":"http://www.interspeech2013.org/",
-  "Authors":["Weizhong Zhu","Sibel Yaman","Jason Pelecanos"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"Unifying PLDA and polynomial kernel SVMs, in proc. of IEEE ICASSP",
-  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639161&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6639161",
-  "Authors":["Sibel Yaman","Jason Pelecanos","Weizhong Zhu"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"Frame-based phonotactic language identification, SLT",
-  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6424240&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6424240",
-  "Authors":["Kyu Han","Jason Pelecanos"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"Noisy Channel Adaptation in Language Identification, SLT",
-  "Link":"http://old-site.clsp.jhu.edu/~sriram/papers/papers/slt.pdf",
-  "Authors":["Sriram Ganapathy","Mohamed Omar","Jason Pelecanos"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"On the Use of Non-Linear Polynomial Kernel SVMs in Language Recognition, Interspeech",
-  "Link":"http://interspeech2012.org/accepted-abstract.html?id=1244",
-  "Authors":["Sibel Yaman","Jason Pelecanos","Mohamed Omar"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"Speech Activity Detection for Noisy Data Using Adaptation Techniques, Interspeech",
-  "Link":"http://interspeech2012.org/accepted-abstract.html?id=1373",
-  "Authors":["Mohamed Omar"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"Unsupervised Channel Adaptation for Language Identification Using Co-Training, ICASSP",
-  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6638990&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6638990",
-  "Authors":["Sriram Ganapathy","Mohamed Omar","Jason Pelecanos"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"TRAP LANGUAGE IDENTIFICATION SYSTEM for RATS PHASE II EVALUATION, Interspeech",
-  "Link":"http://www.interspeech2013.org",
-  "Authors":["Kyu Han","Sriram Ganapathy","Ming Li","Mohamed Omar","Shrikanth Narayanan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["IBM"],
-  "Title":"Enhancing Frequency Shifted Speech Signals in Single Side Band Communication, IEEE Signal Processing Letters",
-  "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6627984&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F97%2F6615960%2F06627984.pdf%3Farnumber%3D6627984",
-  "Authors":["Sriram Ganapathy","Jason Pelecanos"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) University of Southern California","Technical University of Crete"],
-  "Title":"Speaker Verication using Lasso based Sparse Total Variability Supervector with PLDA modelling",
-  "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/604",
-  "Authors":["Ming Li","Charley Lu","Anne Wang and Shrikanth Narayanan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) University of Southern California"],
-  "Title":"Multi-band long-term signal variability features for robust voice activity detection",
-  "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/633",
-  "Authors":["Andreas Tsiartas","Theodora Chaspari","Nassos Katsamanis","Prasanta Ghosh","Ming Li","Maarten Van Segbroeck","Alexandros Potamianos","Shrikanth S. Narayanan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) University of Southern California"],
-  "Title":"TRAP Language Identication System for RATS Phase II Evaluation",
-  "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/617",
-  "Authors":["Kyu J. Han","Sriram Ganapathy","Ming Li","Mohamed K. Omar","Shrikanth Narayanan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) University of Southern California"],
-  "Title":"A robust frontend for VAD: exploiting contextual, discriminative and spectral cues of human voice",
-  "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/624",
-  "Authors":["Maarten Van Segbroeck","Andreas Tsiartas and Shrikanth S. Narayanan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) University of Southern California"],
-  "Title":"Simplified Supervised I-vector Modeling and Sparse Representation with application to Robust Language Recognition",
-  "Link":"Not Yet Published",
-  "Authors":["Ming Li","and Shrikanth Narayanan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) University of Southern California"],
-  "Title":"A study on the effect of prosodic emphasis transfer on overall speech translation quality",
-  "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/607",
-  "Authors":["Andreas Tsiartas","Panayiotis G. Georgiou and Shrikanth S. Narayanan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team IBM) University of Southern California"],
-  "Title":"Spectro-Temporal Directional Derivative Features for Automatic Speech Recognition",
-  "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/621",
-  "Authors":["James Gibson","Maarten Van Segbroeck","Antonio Ortega","Panayiotis G. Georgiou and Shrikanth S. Narayanan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["LDC"],
-  "Title":"LDC Forced Aligner",
-  "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-ldc-forced-aligner.pdf",
-  "Authors":["Xiaoyi Ma"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["LDC"],
-  "Title":"The RATS Radio Traffic Collection System",
-  "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/odyssey2012-rats-collection-system.pdf",
-  "Authors":["Kevin Walker","Stephanie Strassel"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of California","Los Angeles"],
-  "Title":"A Novel Approach to Soft-Mask Estimation and Log-Spectral Enhancement for Robust Speech Recognition",
-  "Link":"http://www.ee.ucla.edu/~spapl/paper/ICASSP_revised.pdf",
-  "Authors":["J. van Hout and  A. Alwan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of California, Los Angeles"],
-  "Title":"A Pitch-Based Enhancement Technique for Robust Speech Processing",
-  "Link":"http://www.ee.ucla.edu/~spapl/paper/InterSpeech2013_revised_Kaewtip.pdf",
-  "Authors":["K. Kaewtip","L. N. Tan","A. Alwan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["SRI"],
-  "Title":"Adaptive Gaussian Backend for Robust Language Identification",
-  "Link":"http://www.speech.sri.com/people/aaron/papers/rats_agb.pdf",
-  "Authors":["M. McLaren","A. Lawson","Y. Lei and N. Scheffer"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["SRI"],
-  "Title":"All For One: Feature Combination For Highly Channel-Degraded Speech Activity Detection",
-  "Link":"http://www.speech.sri.com/pubs/papers/Grac1308:One//document.pdf",
-  "Authors":["M. Graciarena","A. Alwan","D. Ellis","H. Franco","J. H.L. Hansen","A. Janin","B. Lee","Y. Lei","V. Mitra","N. Morgan","S. O. Sadjadi","TJ Tsai","N. Scheffer","L. N. Tan and B. Williams"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) Incheon National University","University of Texas at Dallas"],
-  "Title":"An Advanced Feature Compensation Method Employing Acoustic Model With Phonetically Constrained Structure",
-  "Link":"http://www.utdallas.edu/~john.hansen/Publications/CP-ICASSP13-KimHansen-RobustASR-0007083.pdf",
-  "Authors":["W. Kim and J.H.L. Hansen"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["SRI"],
-  "Title":"Bilinear Factor Analysis for iVector Based Speaker Verification",
-  "Link":"http://www.speech.sri.com/people/yunlei/papers/interspeech2012-BLFA.pdf",
-  "Authors":["Y. Lei","L. Burget and N. Scheffer"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) USC Berkeley","ICSI"],
-  "Title":"Confidence-Based Scoring: A Useful Diagnostic Tool for Detection Tasks",
-  "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3598",
-  "Authors":["T. Tsai and A. Janin"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["SRI"],
-  "Title":"Damped Oscillator Cepstral Coefficients for Robust Speech Recognition",
-  "Link":"http://www-speech.sri.com/pubs/papers/Mitr13:Damped//document.pdf",
-  "Authors":["V. Mitra","H. Franco and M. Graciarena"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["SRI"],
-  "Title":"Discriminatively Trained Phoneme Confusion Model for Keyword Spotting",
-  "Link":"http://www.speech.sri.com/papers/interspeech2012-karanasou-kws.pdf",
-  "Authors":["P. Karanasou","L. Burget","D. Vergyri","M. Akbacak and A. Mandal"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) USC Berkeley","ICSI"],
-  "Title":"Easy Does It:  Robust Spectro-Temporal Many-Stream ASR Without Fine Tuning Streams",
-  "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3242",
-  "Authors":["S. Ravuri and N. Morgan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of Texas at Dallas"],
-  "Title":"Factor Analysis of Acoustic Features Using a Mixture of Probabilistic Principal Component Analyzers for Robust Speaker Verification",
-  "Link":"http://taufiqhasan.com/research/papers/Taufiq_Odyssey2012_camera_ready.pdf",
-  "Authors":["T. Hasan and J.H.L. Hansen"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of Texas at Dallas"],
-  "Title":"Feature Compensation Employing Online GMM Adaptation for Speech Recognition in Unknown Severely Adverse Environments",
-  "Link":"http://www.utdallas.edu/~john.hansen/Publications/CP-ICASSP12-FeatureCompGMM-ASR-0004121.pdf",
-  "Authors":["W. Kim and J. H. L. Hansen"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of Texas at Dallas"],
-  "Title":"Gaussian Map based Acoustic Model Adaptation Using Untranscribed Data for Speech Recognition in Severely Adverse Environments",
-  "Link":"http://www.utdallas.edu/~john.hansen/Publications/CP-Interspeech12-KimHansen-GaussianMAP-ASR-RATS-Wed-P7b-02-Sept2012.pdf",
-  "Authors":["W. Kim and J. H. L. Hansen"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) CMU"],
-  "Title":"Histogram-Based Subband Power Warping and Spectral Averaging for Robust Speech Recognition Under Matched and Multistyle Training",
-  "Link":"http://www.cs.cmu.edu/~robust/Papers/HarvillaStern12.pdf",
-  "Authors":["M. J. Harvilla and R. M. Stern"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of Texas at Dallas"],
-  "Title":"Impact of Noise Reduction and Spectrum Estimation on Noise Robust Speaker Identification",
-  "Link":"http://crss.utdallas.edu/Publications/godin2013sid.pdf",
-  "Authors":["K. Godin","S.O. Sadjadi and J.H.L. Hansen"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["SRI"],
-  "Title":"Improving Language Identification Robustness to Highly Channel-Degraded Speech through Multiple System Fusion",
-  "Link":"http://www.speech.sri.com/people/aaron/papers/rats_lid.pdf",
-  "Authors":["A. Lawson","M. McLaren","Y. Lei","V. Mitra","N. Scheffer","L. Ferrer and M. Graciarena"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) USC Berkeley","ICSI"],
-  "Title":"Informative Spectro-Temporal Bottleneck Features for Noise-Robust Speech Recognition",
-  "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3442",
-  "Authors":["S. Y. Chang and N. Morgan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) USC Berkeley","ICSI"],
-  "Title":"Longer Features:  They Do a Speech Detector Good",
-  "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3363",
-  "Authors":["T.J. Tsai and N. Morgan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) USC Berkeley","ICSI"],
-  "Title":"Low Complexity Spectral Imputation for Noise Robust Speech Recognition",
-  "Link":"http://www.seas.ucla.edu/spapl/paper/van%20Hout_MSThesis.pdf",
-  "Authors":["J. van Hout"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of Texas at Dallas"],
-  "Title":"Mean Hilbert Envelope Coefficients (MHEC) for Robust Speaker Recognition",
-  "Link":"http://crss.utdallas.edu/Publications/Sadjadi2012.pdf",
-  "Authors":["S.O. Sadjadi and J.H.L. Hansen"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of California, Los Angeles"],
-  "Title":"Modulation Features for Noise Robust Speaker Identification",
-  "Link":"http://www.speech.sri.com/papers/vmitra_MMeDuSA_Interspeech2013.pdf",
-  "Authors":["V. Mitra","M. McLaren","H. Franco","M. Graciarena and N. Scheffer"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of California, Los Angeles"],
-  "Title":"Multi-Band Summary Correlogram-Based Pitch Detection for Noisy Speech",
-  "Link":"http://www.ee.ucla.edu/~spapl/paper/Speechcom_Tan.pdf",
-  "Authors":["L. N. Tan and A. Alwan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) Columbia University","International Computer Science Institute"],
-  "Title":"Noise Robust Pitch Tracking by Subband Autocorrelation Classification",
-  "Link":"http://www.ee.columbia.edu/~dpwe/pubs/LeeEllis12-SAcC.pdf",
-  "Authors":["B. S. Lee and D. P. W. Ellis"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["SRI"],
-  "Title":"Normalized Amplitude Modulation Features for Large Vocabulary Noise-Robust Speech Recognition",
-  "Link":"http://www.speech.sri.com/papers/ICASSP2012_vmitra_TEO_LVCSR.pdf",
-  "Authors":["V. Mitra","H. Franco","M. Graciarena and A. Mandal"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of Texas at Dallas"],
-  "Title":"Phoneme Class Based Adaptation for Distant Noisy Speech",
-  "Link":"http://www.utdallas.edu/~john.hansen/Publications/CP-Interspeech12-SeckinHansen-PCBA-KWS-DistantSpeech-Wed-P7b-06-Sept2012.pdf",
-  "Authors":["S. Uluskan and J.H.L. Hansen"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) CMU","Microsoft"],
-  "Title":"Power-Normalized Cepstral Coefficients (PNCC) for Robust Speech Recognition",
-  "Link":"http://www.cs.cmu.edu/~robust/Papers/OnlinePNCC_V25.pdf",
-  "Authors":["C. Kim and R. M. Stern"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of Texas at Dallas"],
-  "Title":"Robust Front-End Processing For Speaker Identification Over Extremely Degraded Communication Channels",
-  "Link":"http://crss.utdallas.edu/Publications/sadjadi2013front.pdf",
-  "Authors":["O. Sadjadi and J.H.L. Hansen"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) USC Berkeley","ICSI"],
-  "Title":"Spectro-Temporal Features for Robust Speech Recognition Using Power-Law Nonlinearity and Power-Bias Subtraction",
-  "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3597",
-  "Authors":["S. Y. Chang","B. Meyer and  N. Morgan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) USC Berkeley","ICSI"],
-  "Title":"Spectro-Temporal Gabor Features for Speaker Recognition",
-  "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3239",
-  "Authors":["H. Lei","B. Meyer and N. Mirghafori"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) USC Berkeley","ICSI"],
-  "Title":"Speech Activity Detection:  An Economics Approach",
-  "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3599",
-  "Authors":["T. Tsai and N. Morgan"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) USC Berkeley","ICSI"],
-  "Title":"Strategies for High Accuracy Keyword Detection in Noisy Channels",
-  "Link":"http://www.speech.sri.com/pubs/papers/Mand1308:Strategies//document.pdf",
-  "Authors":["A. Mandal","J. van Hout","Y-C. Tam","V. Mitra","Y. Lei","J. Zheng","D. Vergyri","L. Ferrer","M. Graciarena","A. Kathol and H. Franco"]
-},
-{
-  "DARPA Program":"RATS",
-  "Program Teams":["(Team SRI) University of Texas at Dallas"],
-  "Title":"Unsupervised Speech Activity Detection using Voicing Measures and Perceptual Spectral Flux",
-  "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6403507",
-  "Authors":["S.O. Sadjadi and J.H.L. Hansen"]
-}
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "LDC"
+        ],
+        "Title":"Annotation Trees: LDC's Customizable, Extensible, Scalable Annotation Infrastructure",
+        "Authors":[
+            "Jonathan Wright",
+            "Kira Griffitt",
+            "Joe Ellis",
+            "Stephanie Strassel",
+            "Brendan Callahan"
+        ],
+        "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-annotation-trees.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "BBN"
+        ],
+        "Title":"Developing a Speech Activity Detection System for the DARPA RATS Program",
+        "Authors":[
+            "Ng",
+            "Tim",
+            "Bing Zhang",
+            "Long Nguyen",
+            "Spyros Matsoukas",
+            "Xinhui Zhou",
+            "Nima Mesgarani",
+            "Karel Vesel",
+            "and Pavel Matejka"
+        ],
+        "Link":"Not Yet Published",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "BBN"
+        ],
+        "Title":"White Listing and Score Normalization for Keyword Spotting of Noisy Speech",
+        "Authors":[
+            "Zhang",
+            "Bing",
+            "Richard M. Schwartz",
+            "Stavros Tsakalidis",
+            "Long Nguyen",
+            "and Spyros Matsoukas."
+        ],
+        "Link":"Not Yet Published",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "BBN"
+        ],
+        "Title":"Improvements in Language Identification on the RATS Noisy Speech Corpus",
+        "Authors":[
+            "Jeff Ma",
+            "Bing Zhang",
+            "Spyros Matsoukas",
+            "Sri Harish Mallidi",
+            "Feipeng Li",
+            "Hynek Hermansky"
+        ],
+        "Link":"Not Yet Published",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) University of Cambridge"
+        ],
+        "Title":"Infinite Support Vector Machines in Speech Recognition",
+        "Authors":[
+            "J.Yang",
+            "R.van Dalen and M.J.F.Gales"
+        ],
+        "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) University of Cambridge"
+        ],
+        "Title":"An Explicit Independence Constraint for Factorised Adaptation in Speech Recognition",
+        "Authors":[
+            "Y.-Q. Wang and M.J.F.Gales"
+        ],
+        "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) University of Cambridge"
+        ],
+        "Title":"A Confidence-Based Approach for Improving Keyword Hypothesis Scores",
+        "Authors":[
+            "M.S.Seigel",
+            "P.C.Woodland and M.J.F.Gales"
+        ],
+        "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) University of Cambridge"
+        ],
+        "Title":"TANDEM System Adaptation Using Multiple Linear Feature Transforms",
+        "Authors":[
+            "Y.-Q. Wang and M.J.F.Gales"
+        ],
+        "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) University of Cambridge"
+        ],
+        "Title":"Model-Based Approaches for Degraded Channel Modelling in Robust ASR",
+        "Authors":[
+            "M.J.F.Gales and F.Flego"
+        ],
+        "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) University of Cambridge"
+        ],
+        "Title":"Using Sub-Word-Level Information for Confidence Estimation with Conditional Random Field Models",
+        "Authors":[
+            "M.S.Seigel and P.C.Woodland"
+        ],
+        "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) University of Cambridge"
+        ],
+        "Title":"Model-Based Approaches to Adaptive Training in Reverberant Environments",
+        "Authors":[
+            "Y.-Q. Wang and M.J.F.Gales"
+        ],
+        "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) University of Cambridge"
+        ],
+        "Title":"Factor Analysis Based VTS Discriminative Adaptive Training",
+        "Authors":[
+            "F.Flego and M.J.F.Gales"
+        ],
+        "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) Brno University of Technology"
+        ],
+        "Title":"Pairwise Discriminative Speaker Verification in the I -Vector Space",
+        "Authors":[
+            "Cumani",
+            "S.",
+            "Brummer",
+            "N.",
+            "Burget",
+            "L.",
+            "Laface",
+            "P.",
+            "Plchot",
+            "O.",
+            "Vasilakakis",
+            "V."
+        ],
+        "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6466371&userType=inst&tag=1",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) Brno University of Technology",
+            "Brno University of Technology",
+            "Massachusetts Institute of Technology",
+            "JHU",
+            "University of Maryland",
+            "Aalborg University"
+        ],
+        "Title":"Probabilistic Linear Discriminant Analysis Of I-Vector Posterior Distributions",
+        "Authors":[
+            "Cumani",
+            "S.",
+            "Plchot",
+            "O.",
+            "Laface",
+            "P."
+        ],
+        "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2013/cumani_icassp2013_0007644.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) Brno University of Technology"
+        ],
+        "Title":"Developing A Speaker Identification System For The DARPA RATS Project",
+        "Authors":[
+            "Plchot",
+            "O.",
+            "Matsoukas",
+            "S.",
+            "Matjka",
+            "P.",
+            "Dehak",
+            "N.",
+            "Ma",
+            "J.",
+            "Cumani",
+            "S.",
+            "Glembek",
+            "O.",
+            "Hemansk",
+            "H.",
+            "Mesgarani",
+            "N.",
+            "Soufifar",
+            "M.",
+            "M.",
+            "Thomas",
+            "S.",
+            "Zhang",
+            "B.",
+            "Zhou",
+            "X. et al."
+        ],
+        "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2013/plchot_icassp2013_0006768.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) Brno University of Technology",
+            "Department of Electronics and Telecommunications",
+            "NTNU",
+            "Politecnico di Torino"
+        ],
+        "Title":"Regularized Subspace n-Gram Model for Phonotactic iVector Extraction",
+        "Authors":[
+            "Soufifar",
+            "M.",
+            "M.",
+            "Burget",
+            "L.",
+            "Plchot",
+            "O.",
+            "Cumani",
+            "S.",
+            "ernock",
+            "J."
+        ],
+        "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2013/soufifar_interspeech2013_IS131171.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) Brno University of Technology",
+            "Politecnico di Torino",
+            "AGNITIO"
+        ],
+        "Title":"Description and analysis of the Brno276 system for LRE2011",
+        "Authors":[
+            "Brummer",
+            "N.",
+            "Cumani",
+            "S.",
+            "Glembek",
+            "O.",
+            "Karafit",
+            "M.",
+            "Matjka",
+            "P.",
+            "Pen",
+            "J.",
+            "Plchot",
+            "O.",
+            "Soufifar",
+            "M.",
+            "M.",
+            "de",
+            "V.",
+            "E.",
+            "ernock",
+            "J."
+        ],
+        "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/brummer_odyssey2012_216-223-40.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) Brno University of Technology",
+            "Universidad Politcnica de Madrid"
+        ],
+        "Title":"Phonotactic Language Recognition using i-vectors and Phoneme Posteriogram Counts",
+        "Authors":[
+            "D'Haro",
+            "L.",
+            "F.",
+            "Glembek",
+            "O.",
+            "Plchot",
+            "O.",
+            "Matjka",
+            "P.",
+            "Soufifar",
+            "M.",
+            "M.",
+            "Cordoba",
+            "R.",
+            "ernock",
+            "J."
+        ],
+        "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/d_haro_interspeech2012_558_pp1_4.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) Brno University of Technology",
+            "MIT"
+        ],
+        "Title":"Patrol Team Language Identification System for DARPA RATS P1 Evaluation",
+        "Authors":[
+            "Matjka",
+            "P.",
+            "Plchot",
+            "O.",
+            "Soufifar",
+            "M.",
+            "M.",
+            "Glembek",
+            "O.",
+            "D'Haro",
+            "L.",
+            "F.",
+            "Vesel",
+            "K.",
+            "Grzl",
+            "F.",
+            "Ma",
+            "J.",
+            "Matsoukas",
+            "S.",
+            "Dehak",
+            "N."
+        ],
+        "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/matejka_interspeech2012_1295_pp1_4.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) Brno University of TechnologyUniversity of Maryland"
+        ],
+        "Title":"Developing a Speech Activity Detection System for the DARPA RATS Program",
+        "Authors":[
+            "Ng",
+            "T.",
+            "Zhang",
+            "B.",
+            "Nguyen",
+            "L.",
+            "Matsoukas",
+            "S.",
+            "Zhou",
+            "X.",
+            "Mesgarani",
+            "N.",
+            "Vesel",
+            "K.",
+            "Matjka",
+            "P."
+        ],
+        "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/ng_interspeech2012_1052_pp_1_4.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) Brno University of Technology"
+        ],
+        "Title":"Speaker vectors from Subspace Gaussian Mixture Model as complementary features for Language Identification",
+        "Authors":[
+            "Plchot",
+            "O.",
+            "Karafit",
+            "M.",
+            "Brummer",
+            "N.",
+            "Glembek",
+            "O.",
+            "Matjka",
+            "P.",
+            "de",
+            "V.",
+            "E.",
+            "ernock",
+            "J."
+        ],
+        "Link":"http://www.fit.vutbr.cz/research/groups/speech/publi/2012/plchot_odyssey2012_330-333-41.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Long, Deep and Wide Neural Nets  for Dealing with Unexpected Noise in Machine Recognition of Speech",
+        "Authors":[
+            "Hynek Hermansky"
+        ],
+        "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-40585-3_2#page-2",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Multistream Recognition of Speech: Dealing With Unknown Unknowns",
+        "Authors":[
+            "Hynek Hermansky"
+        ],
+        "Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6428587&tag=1",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) JHU"
+        ],
+        "Title":"Robust Speaker Recognition Using Spectro-Temporal Autoregressive Models",
+        "Authors":[
+            "Sri Harish Mallidi",
+            "Sriram Ganapathy",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~sriram/papers/papers/plp2_spkr.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) LSCP",
+            "ENS/EHESS/CNRS",
+            "INRIA/ENS/CNRS",
+            "JHU"
+        ],
+        "Title":"Evaluating speech features with the Minimal-Pair ABX task: Analysis of the classical MFC/PLP pipeline",
+        "Authors":[
+            "Thomas Schatz",
+            "Vijayaditya Peddinti",
+            "Francis Bach",
+            "Aren Jansen",
+            "Hynek Hermansky",
+            "Emmanuel Dupoux"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2013c.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Multi-stream recognition of noisy speech with performance monitoring",
+        "Authors":[
+            "Ehsan Variani",
+            "Feipeng Li",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~variani/MSPM_Interspeech_2013.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Text-to-Speech Inspired Duration Modeling for Improved Whole-Word Acoustic Models",
+        "Authors":[
+            "Keith Kintzley",
+            "Aren Jansen",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2013a.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Weak Top-Down Constraints For Unsupervised Acoustic Model Training",
+        "Authors":[
+            "Aren Jansen",
+            "Samuel Thomas",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~samuel/pdfs/wk_const.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Deep Neural Network Features and Semi-Supervised Training for Low Resource Speech Recognition",
+        "Authors":[
+            "Samuel Thomas",
+            "Michael Seltzer",
+            "Kenneth Church",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~samuel/pdfs/dnn_semisup_lr.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Effect Of Filter Bandwidth and Spectral Sampling Rate of Analysis Filterbank on Automatic Phoneme Recognition",
+        "Authors":[
+            "Feipeng Li",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6639044",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Frequency Offset Correction in Speech Without Detecting Pitch",
+        "Authors":[
+            "Pascal Clark",
+            "Harish Mallidi",
+            "Aren Jansen",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://hltcoe.jhu.edu/uploads/publications/papers/14672_slides.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"A Summary Of The 2012 JHU CLSP Workshop on Zero Resource Speech Technologies and Models of Early Language Acquisition",
+        "Authors":[
+            "Aren Jansen",
+            "Emmanuel Dupoux",
+            "Sharon Goldwater",
+            "Mark Johnson",
+            "Sanjeev Khudanpur",
+            "Kenneth Church",
+            "Naomi Feldman",
+            "Hynek Hermansky",
+            "Florian Metze",
+            "Richard Rose",
+            "Michael Seltzer",
+            "Pascal Clark",
+            "Ian Mcgraw",
+            "Balakrishnan Varadarajan",
+            "Erin Bennett",
+            "Benjamin Borschinger",
+            "Justin Chiu",
+            "Ewan Dunbar",
+            "Abdellah Fourtassi",
+            "David Harwath",
+            "Chia-Ying Lee",
+            "Keith Levin",
+            "Atta Norouzian",
+            "Vijayaditya Peddinti",
+            "Rachael Richardson",
+            "Thomas Schatz",
+            "Samuel Thomas",
+            ""
+        ],
+        "Link":"http://www.lscp.net/persons/dupoux/papers/Jansen_DGJKCFHMRSCMVBBCDFHLLNPRST_zero_resource_workshop.ICASSP.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Mean Temporal Distance: Predicting ASR Error from Temporal Properties of Speech Signal",
+        "Authors":[
+            "Hynek Hermansky",
+            "Ehsan Variani",
+            "Vijayaditya Peddinti"
+        ],
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639105&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6639105",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Filter-Bank Optimization for Frequency Domain Linear Prediction",
+        "Authors":[
+            "Vijayaditya Peddinti",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639040&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6639040",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Estimating Classifier Performance in Unknown Noise",
+        "Authors":[
+            "Ehsan Variani and Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~variani/ECPUN_Interspeech_2012.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Data-driven Posterior Features for Low Resource Speech Recognition Applications",
+        "Authors":[
+            "Samuel Thomas",
+            "Sriram Ganapathy",
+            "Aren Jansen and Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012f.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Phone recognition in critical bands using sub-band temporal modulations",
+        "Authors":[
+            "Feipeng Li",
+            "Sri Harish Mallidi",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://www.bibsonomy.org/bibtex/2c299b5bdd7dea9bcf9905568c4dbcaaf/dblp",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"MAP Estimation of Whole-Word Acoustic Models with Dictionary Priors",
+        "Authors":[
+            "Keith Kintzley",
+            "Aren Jansen",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012c.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Inverting the Point Process Model for Fast Phonetic Keyword Search",
+        "Authors":[
+            "Keith Kintzley",
+            "Aren Jansen",
+            "Kenneth Church",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012d.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Analysis of Temporal Resolution in Frequency Domain Linear Prediction",
+        "Authors":[
+            "Sriram Ganapathy",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://www.bibsonomy.org/bibtex/21d0a44e428a71b13ffd600631738ecc3/dblp",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team BBN) JHU"
+        ],
+        "Title":"Multilingual MLP Features For Low-Resource LVCSR Systems",
+        "Authors":[
+            "Samuel Thomas",
+            "Sriram Ganapathy",
+            "Hynek Hermansky"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~samuel/pdfs/multilingual.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) University of Maryland"
+        ],
+        "Title":"Automatic intelligibility assessment of pathologic speech in head and neck cancer based on auditory-inspired spectro-temporal modulations",
+        "Authors":[
+            "X. Zhou",
+            "D. Garcia-Romero",
+            "N. Mesgarani",
+            "M. Stone",
+            "C. Espy-Wilson",
+            "S. Shamma"
+        ],
+        "Link":"http://terpconnect.umd.edu/~zxinhui/Interspeech2011/InterSpeech12_SPEECH_PATHOLOGY_head_and_neck_cancer.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) MIT"
+        ],
+        "Title":"Bayesian Distance Metric Learning on i-vector for Speaker Verification",
+        "Authors":[
+            "X. Fang",
+            "N. Dehak",
+            "and J. Glass"
+        ],
+        "Link":"Not Yet Published",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) MIT"
+        ],
+        "Title":"Gaussian Mixture Model Weight Supervector Decomposition and Adaptation",
+        "Authors":[
+            "M. H. Bahari",
+            "N. Dehak",
+            "and H. Van hamme"
+        ],
+        "Link":"Not Yet Published",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"The IBM Speech Activity Detection System for the DARPA RATS Program",
+        "Authors":[
+            "G. Saon",
+            "S. Thomas",
+            "H. Soltau",
+            "S. Ganapathy and B. Kingsbury"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~sriram/papers/papers/inter2013.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"Using Polynomial Kernel Support Vector Machines for Speaker Verification, in IEEE Letters",
+        "Authors":[
+            "Sibel Yaman",
+            "Jason Pelecanos"
+        ],
+        "Link":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6557422",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"The IBM RATS Phase II speaker recognition system: Overview and analysis, in proc. of Interspeech",
+        "Authors":[
+            "Weizhong Zhu",
+            "Sibel Yaman",
+            "Jason Pelecanos"
+        ],
+        "Link":"http://www.interspeech2013.org/",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"Unifying PLDA and polynomial kernel SVMs, in proc. of IEEE ICASSP",
+        "Authors":[
+            "Sibel Yaman",
+            "Jason Pelecanos",
+            "Weizhong Zhu"
+        ],
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639161&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6639161",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"Frame-based phonotactic language identification, SLT",
+        "Authors":[
+            "Kyu Han",
+            "Jason Pelecanos"
+        ],
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6424240&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6424240",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"Noisy Channel Adaptation in Language Identification, SLT",
+        "Authors":[
+            "Sriram Ganapathy",
+            "Mohamed Omar",
+            "Jason Pelecanos"
+        ],
+        "Link":"http://old-site.clsp.jhu.edu/~sriram/papers/papers/slt.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"On the Use of Non-Linear Polynomial Kernel SVMs in Language Recognition, Interspeech",
+        "Authors":[
+            "Sibel Yaman",
+            "Jason Pelecanos",
+            "Mohamed Omar"
+        ],
+        "Link":"http://interspeech2012.org/accepted-abstract.html?id=1244",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"Speech Activity Detection for Noisy Data Using Adaptation Techniques, Interspeech",
+        "Authors":[
+            "Mohamed Omar"
+        ],
+        "Link":"http://interspeech2012.org/accepted-abstract.html?id=1373",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"Unsupervised Channel Adaptation for Language Identification Using Co-Training, ICASSP",
+        "Authors":[
+            "Sriram Ganapathy",
+            "Mohamed Omar",
+            "Jason Pelecanos"
+        ],
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6638990&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6638990",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"TRAP LANGUAGE IDENTIFICATION SYSTEM for RATS PHASE II EVALUATION, Interspeech",
+        "Authors":[
+            "Kyu Han",
+            "Sriram Ganapathy",
+            "Ming Li",
+            "Mohamed Omar",
+            "Shrikanth Narayanan"
+        ],
+        "Link":"http://www.interspeech2013.org",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "IBM"
+        ],
+        "Title":"Enhancing Frequency Shifted Speech Signals in Single Side Band Communication, IEEE Signal Processing Letters",
+        "Authors":[
+            "Sriram Ganapathy",
+            "Jason Pelecanos"
+        ],
+        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6627984&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F97%2F6615960%2F06627984.pdf%3Farnumber%3D6627984",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) University of Southern California",
+            "Technical University of Crete"
+        ],
+        "Title":"Speaker Verication using Lasso based Sparse Total Variability Supervector with PLDA modelling",
+        "Authors":[
+            "Ming Li",
+            "Charley Lu",
+            "Anne Wang and Shrikanth Narayanan"
+        ],
+        "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/604",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) University of Southern California"
+        ],
+        "Title":"Multi-band long-term signal variability features for robust voice activity detection",
+        "Authors":[
+            "Andreas Tsiartas",
+            "Theodora Chaspari",
+            "Nassos Katsamanis",
+            "Prasanta Ghosh",
+            "Ming Li",
+            "Maarten Van Segbroeck",
+            "Alexandros Potamianos",
+            "Shrikanth S. Narayanan"
+        ],
+        "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/633",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) University of Southern California"
+        ],
+        "Title":"TRAP Language Identication System for RATS Phase II Evaluation",
+        "Authors":[
+            "Kyu J. Han",
+            "Sriram Ganapathy",
+            "Ming Li",
+            "Mohamed K. Omar",
+            "Shrikanth Narayanan"
+        ],
+        "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/617",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) University of Southern California"
+        ],
+        "Title":"A robust frontend for VAD: exploiting contextual, discriminative and spectral cues of human voice",
+        "Authors":[
+            "Maarten Van Segbroeck",
+            "Andreas Tsiartas and Shrikanth S. Narayanan"
+        ],
+        "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/624",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) University of Southern California"
+        ],
+        "Title":"Simplified Supervised I-vector Modeling and Sparse Representation with application to Robust Language Recognition",
+        "Authors":[
+            "Ming Li",
+            "and Shrikanth Narayanan"
+        ],
+        "Link":"Not Yet Published",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) University of Southern California"
+        ],
+        "Title":"A study on the effect of prosodic emphasis transfer on overall speech translation quality",
+        "Authors":[
+            "Andreas Tsiartas",
+            "Panayiotis G. Georgiou and Shrikanth S. Narayanan"
+        ],
+        "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/607",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team IBM) University of Southern California"
+        ],
+        "Title":"Spectro-Temporal Directional Derivative Features for Automatic Speech Recognition",
+        "Authors":[
+            "James Gibson",
+            "Maarten Van Segbroeck",
+            "Antonio Ortega",
+            "Panayiotis G. Georgiou and Shrikanth S. Narayanan"
+        ],
+        "Link":"http://sail.usc.edu/aigaion2/index.php/attachments/single/621",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "LDC"
+        ],
+        "Title":"LDC Forced Aligner",
+        "Authors":[
+            "Xiaoyi Ma"
+        ],
+        "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-ldc-forced-aligner.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "LDC"
+        ],
+        "Title":"The RATS Radio Traffic Collection System",
+        "Authors":[
+            "Kevin Walker",
+            "Stephanie Strassel"
+        ],
+        "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/odyssey2012-rats-collection-system.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of California",
+            "Los Angeles"
+        ],
+        "Title":"A Novel Approach to Soft-Mask Estimation and Log-Spectral Enhancement for Robust Speech Recognition",
+        "Authors":[
+            "J. van Hout and  A. Alwan"
+        ],
+        "Link":"http://www.ee.ucla.edu/~spapl/paper/ICASSP_revised.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of California, Los Angeles"
+        ],
+        "Title":"A Pitch-Based Enhancement Technique for Robust Speech Processing",
+        "Authors":[
+            "K. Kaewtip",
+            "L. N. Tan",
+            "A. Alwan"
+        ],
+        "Link":"http://www.ee.ucla.edu/~spapl/paper/InterSpeech2013_revised_Kaewtip.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Adaptive Gaussian Backend for Robust Language Identification",
+        "Authors":[
+            "M. McLaren",
+            "A. Lawson",
+            "Y. Lei and N. Scheffer"
+        ],
+        "Link":"http://www.speech.sri.com/people/aaron/papers/rats_agb.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"All For One: Feature Combination For Highly Channel-Degraded Speech Activity Detection",
+        "Authors":[
+            "M. Graciarena",
+            "A. Alwan",
+            "D. Ellis",
+            "H. Franco",
+            "J. H.L. Hansen",
+            "A. Janin",
+            "B. Lee",
+            "Y. Lei",
+            "V. Mitra",
+            "N. Morgan",
+            "S. O. Sadjadi",
+            "TJ Tsai",
+            "N. Scheffer",
+            "L. N. Tan and B. Williams"
+        ],
+        "Link":"http://www.speech.sri.com/pubs/papers/Grac1308:One//document.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) Incheon National University",
+            "University of Texas at Dallas"
+        ],
+        "Title":"An Advanced Feature Compensation Method Employing Acoustic Model With Phonetically Constrained Structure",
+        "Authors":[
+            "W. Kim and J.H.L. Hansen"
+        ],
+        "Link":"http://www.utdallas.edu/~john.hansen/Publications/CP-ICASSP13-KimHansen-RobustASR-0007083.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Bilinear Factor Analysis for iVector Based Speaker Verification",
+        "Authors":[
+            "Y. Lei",
+            "L. Burget and N. Scheffer"
+        ],
+        "Link":"http://www.speech.sri.com/people/yunlei/papers/interspeech2012-BLFA.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) USC Berkeley",
+            "ICSI"
+        ],
+        "Title":"Confidence-Based Scoring: A Useful Diagnostic Tool for Detection Tasks",
+        "Authors":[
+            "T. Tsai and A. Janin"
+        ],
+        "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3598",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Damped Oscillator Cepstral Coefficients for Robust Speech Recognition",
+        "Authors":[
+            "V. Mitra",
+            "H. Franco and M. Graciarena"
+        ],
+        "Link":"http://www-speech.sri.com/pubs/papers/Mitr13:Damped//document.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Discriminatively Trained Phoneme Confusion Model for Keyword Spotting",
+        "Authors":[
+            "P. Karanasou",
+            "L. Burget",
+            "D. Vergyri",
+            "M. Akbacak and A. Mandal"
+        ],
+        "Link":"http://www.speech.sri.com/papers/interspeech2012-karanasou-kws.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) USC Berkeley",
+            "ICSI"
+        ],
+        "Title":"Easy Does It:  Robust Spectro-Temporal Many-Stream ASR Without Fine Tuning Streams",
+        "Authors":[
+            "S. Ravuri and N. Morgan"
+        ],
+        "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3242",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of Texas at Dallas"
+        ],
+        "Title":"Factor Analysis of Acoustic Features Using a Mixture of Probabilistic Principal Component Analyzers for Robust Speaker Verification",
+        "Authors":[
+            "T. Hasan and J.H.L. Hansen"
+        ],
+        "Link":"http://taufiqhasan.com/research/papers/Taufiq_Odyssey2012_camera_ready.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of Texas at Dallas"
+        ],
+        "Title":"Feature Compensation Employing Online GMM Adaptation for Speech Recognition in Unknown Severely Adverse Environments",
+        "Authors":[
+            "W. Kim and J. H. L. Hansen"
+        ],
+        "Link":"http://www.utdallas.edu/~john.hansen/Publications/CP-ICASSP12-FeatureCompGMM-ASR-0004121.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of Texas at Dallas"
+        ],
+        "Title":"Gaussian Map based Acoustic Model Adaptation Using Untranscribed Data for Speech Recognition in Severely Adverse Environments",
+        "Authors":[
+            "W. Kim and J. H. L. Hansen"
+        ],
+        "Link":"http://www.utdallas.edu/~john.hansen/Publications/CP-Interspeech12-KimHansen-GaussianMAP-ASR-RATS-Wed-P7b-02-Sept2012.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) CMU"
+        ],
+        "Title":"Histogram-Based Subband Power Warping and Spectral Averaging for Robust Speech Recognition Under Matched and Multistyle Training",
+        "Authors":[
+            "M. J. Harvilla and R. M. Stern"
+        ],
+        "Link":"http://www.cs.cmu.edu/~robust/Papers/HarvillaStern12.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of Texas at Dallas"
+        ],
+        "Title":"Impact of Noise Reduction and Spectrum Estimation on Noise Robust Speaker Identification",
+        "Authors":[
+            "K. Godin",
+            "S.O. Sadjadi and J.H.L. Hansen"
+        ],
+        "Link":"http://crss.utdallas.edu/Publications/godin2013sid.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Improving Language Identification Robustness to Highly Channel-Degraded Speech through Multiple System Fusion",
+        "Authors":[
+            "A. Lawson",
+            "M. McLaren",
+            "Y. Lei",
+            "V. Mitra",
+            "N. Scheffer",
+            "L. Ferrer and M. Graciarena"
+        ],
+        "Link":"http://www.speech.sri.com/people/aaron/papers/rats_lid.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) USC Berkeley",
+            "ICSI"
+        ],
+        "Title":"Informative Spectro-Temporal Bottleneck Features for Noise-Robust Speech Recognition",
+        "Authors":[
+            "S. Y. Chang and N. Morgan"
+        ],
+        "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3442",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) USC Berkeley",
+            "ICSI"
+        ],
+        "Title":"Longer Features:  They Do a Speech Detector Good",
+        "Authors":[
+            "T.J. Tsai and N. Morgan"
+        ],
+        "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3363",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) USC Berkeley",
+            "ICSI"
+        ],
+        "Title":"Low Complexity Spectral Imputation for Noise Robust Speech Recognition",
+        "Authors":[
+            "J. van Hout"
+        ],
+        "Link":"http://www.seas.ucla.edu/spapl/paper/van%20Hout_MSThesis.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of Texas at Dallas"
+        ],
+        "Title":"Mean Hilbert Envelope Coefficients (MHEC) for Robust Speaker Recognition",
+        "Authors":[
+            "S.O. Sadjadi and J.H.L. Hansen"
+        ],
+        "Link":"http://crss.utdallas.edu/Publications/Sadjadi2012.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of California, Los Angeles"
+        ],
+        "Title":"Modulation Features for Noise Robust Speaker Identification",
+        "Authors":[
+            "V. Mitra",
+            "M. McLaren",
+            "H. Franco",
+            "M. Graciarena and N. Scheffer"
+        ],
+        "Link":"http://www.speech.sri.com/papers/vmitra_MMeDuSA_Interspeech2013.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of California, Los Angeles"
+        ],
+        "Title":"Multi-Band Summary Correlogram-Based Pitch Detection for Noisy Speech",
+        "Authors":[
+            "L. N. Tan and A. Alwan"
+        ],
+        "Link":"http://www.ee.ucla.edu/~spapl/paper/Speechcom_Tan.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) Columbia University",
+            "International Computer Science Institute"
+        ],
+        "Title":"Noise Robust Pitch Tracking by Subband Autocorrelation Classification",
+        "Authors":[
+            "B. S. Lee and D. P. W. Ellis"
+        ],
+        "Link":"http://www.ee.columbia.edu/~dpwe/pubs/LeeEllis12-SAcC.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "SRI"
+        ],
+        "Title":"Normalized Amplitude Modulation Features for Large Vocabulary Noise-Robust Speech Recognition",
+        "Authors":[
+            "V. Mitra",
+            "H. Franco",
+            "M. Graciarena and A. Mandal"
+        ],
+        "Link":"http://www.speech.sri.com/papers/ICASSP2012_vmitra_TEO_LVCSR.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of Texas at Dallas"
+        ],
+        "Title":"Phoneme Class Based Adaptation for Distant Noisy Speech",
+        "Authors":[
+            "S. Uluskan and J.H.L. Hansen"
+        ],
+        "Link":"http://www.utdallas.edu/~john.hansen/Publications/CP-Interspeech12-SeckinHansen-PCBA-KWS-DistantSpeech-Wed-P7b-06-Sept2012.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) CMU",
+            "Microsoft"
+        ],
+        "Title":"Power-Normalized Cepstral Coefficients (PNCC) for Robust Speech Recognition",
+        "Authors":[
+            "C. Kim and R. M. Stern"
+        ],
+        "Link":"http://www.cs.cmu.edu/~robust/Papers/OnlinePNCC_V25.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of Texas at Dallas"
+        ],
+        "Title":"Robust Front-End Processing For Speaker Identification Over Extremely Degraded Communication Channels",
+        "Authors":[
+            "O. Sadjadi and J.H.L. Hansen"
+        ],
+        "Link":"http://crss.utdallas.edu/Publications/sadjadi2013front.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) USC Berkeley",
+            "ICSI"
+        ],
+        "Title":"Spectro-Temporal Features for Robust Speech Recognition Using Power-Law Nonlinearity and Power-Bias Subtraction",
+        "Authors":[
+            "S. Y. Chang",
+            "B. Meyer and  N. Morgan"
+        ],
+        "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3597",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) USC Berkeley",
+            "ICSI"
+        ],
+        "Title":"Spectro-Temporal Gabor Features for Speaker Recognition",
+        "Authors":[
+            "H. Lei",
+            "B. Meyer and N. Mirghafori"
+        ],
+        "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3239",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) USC Berkeley",
+            "ICSI"
+        ],
+        "Title":"Speech Activity Detection:  An Economics Approach",
+        "Authors":[
+            "T. Tsai and N. Morgan"
+        ],
+        "Link":"https://www.icsi.berkeley.edu/icsi/publication_details?n=3599",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) USC Berkeley",
+            "ICSI"
+        ],
+        "Title":"Strategies for High Accuracy Keyword Detection in Noisy Channels",
+        "Authors":[
+            "A. Mandal",
+            "J. van Hout",
+            "Y-C. Tam",
+            "V. Mitra",
+            "Y. Lei",
+            "J. Zheng",
+            "D. Vergyri",
+            "L. Ferrer",
+            "M. Graciarena",
+            "A. Kathol and H. Franco"
+        ],
+        "Link":"http://www.speech.sri.com/pubs/papers/Mand1308:Strategies//document.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"RATS",
+        "Program Teams":[
+            "(Team SRI) University of Texas at Dallas"
+        ],
+        "Title":"Unsupervised Speech Activity Detection using Voicing Measures and Perceptual Spectral Flux",
+        "Authors":[
+            "S.O. Sadjadi and J.H.L. Hansen"
+        ],
+        "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6403507",
+        "New Date":"",
+        "Update Date":""
+    }
 ]

@@ -1,12 +1,24 @@
 {
-    "DARPA Program Name": "ADAMS",
+    "DARPA Program Name":"ADAMS",
     "Long Name":"Anomaly Detection at Multiple Scales (ADAMS)",
-    "Program Teams": "",
-    "Description": "The Anomaly Detection at Multiple Scales (ADAMS) program creates, adapts, and applies technology to anomaly characterization and detection in massive data sets. Anomalies in data cue the collection of additional, actionable information in a wide variety of real world contexts.",
-    "Link": "http://www.darpa.mil/Our_Work/I2O/Programs/Anomaly_Detection_at_Multiple_Scales_%28ADAMS%29.aspx",
-    "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
-    "Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Rand_Waltzman.aspx",
-    "Program Manager": "Dr. Rand Waltzman",
-    "Program Manager Email": "rand.waltzman@darpa.mil",
+    "Program Teams":"",
+    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/Anomaly_Detection_at_Multiple_Scales_%28ADAMS%29.aspx",
+    "Display Software Columns":[
+        "Team",
+        "Project",
+        "Category",
+        "Code",
+        "Description",
+        "License"
+    ],
+    "Display Pubs Columns":[
+        "Team",
+        "Title",
+        "Link"
+    ],
+    "Description":"The Anomaly Detection at Multiple Scales (ADAMS) program creates, adapts, and applies technology to anomaly characterization and detection in massive data sets. Anomalies in data cue the collection of additional, actionable information in a wide variety of real world contexts.",
+    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Rand_Waltzman.aspx",
+    "Program Manager":"Dr. Rand Waltzman",
+    "Program Manager Email":"rand.waltzman@darpa.mil",
     "Image":""
 }
