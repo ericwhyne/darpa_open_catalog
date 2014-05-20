@@ -4,7 +4,11 @@
 		"Schema":
 		[
 			{
+<<<<<<< HEAD
 				"DARPA Program Name": "XDATA",
+=======
+				"DARPA Program": "XDATA",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
 				"Long Name":"XDATA",
 				"Program Teams": "",
 				"Link": "http://www.darpa.mil/Our_Work/I2O/Programs/XDATA.aspx",

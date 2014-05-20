@@ -1,3 +1,2248 @@
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+[
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["BAE Systems","University of Pennsylvania","Northeastern University","Harvard University"],
+   	"Title": "Testing Noninterference, Quickly",
+   	"Authors":["Catalin Hritcu","John Hughes","Ernst Kummer","Benjamin C. Pierce","Antal Spector-Zabusk", "Dimitrios Vytiniotis", "Arthur Azevedo De Amorim", "Leonidas Lampropoulos"],
+  	"Link":"http://www.crash-safe.org/node/24",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+	"Program Teams": ["BAE Systems","University of Pennsylvania","Northeastern University","Harvard University"],
+   	"Title": "A Theory of Information-Flow Labels",
+	"Authors":["Benoit Montagu","Benjamin C. Pierce","Randy Pollack","Adrien Suree"],
+    "Link":"http://www.cis.upenn.edu/~bcpierce/papers/csf2013.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["BAE Systems","University of Pennsylvania","Northeastern University","Harvard University"],
+   	"Title": "All Your IFCException Are Belong To Us",
+    "Authors":["Catalin Hritcu", "Michael Greenberg", "Ben Karel", "Benjamin C. Pierce", "Greg Morrisett"],
+    "Link":"http://www.crash-safe.org/node/23",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["BAE Systems","University of Pennsylvania","Northeastern University","Harvard University"],
+   	"Title": "Area-Efficient Near-Associative Memories on FPGAs",
+   	"Authors":["Udit Dhawan", "Andre DeHon"],
+   	"Link":"http://www.crash-safe.org/node/21",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["BAE Systems","University of Pennsylvania","Northeastern University","Harvard University"],
+   	"Title": "Hardware Support for Safety Interlocks and Introspection",
+   	"Authors":["Udit Dhawan",  "Albert Kwon", "Edin Kadric", "Catalin Hritcu", "Benjamin C. Pierce", "Jonathan M. Smith", "Gregory Malecha", "Greg Morrisett", "Thomas F. Knight, Jr.", "Andrew Sutherland", "Tom Hawkins", "Amanda Zyxnfryx", "David Wittenberg", "Peter Trei", "Sumit Ray", "Greg Sullivan", "Andre DeHon"],
+   	"Link":"http://www.crash-safe.org/node/18",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["BAE Systems","University of Pennsylvania","Northeastern University","Harvard University"],
+   	"Title": "Preliminary Design of the SAFE Platform",
+   	"Authors":["Andre DeHon", "Ben Karel", "Thomas F. Knight, Jr.", "Gregory Malecha", "Benoit Montagu", "Robin Morisset", "Greg Morrisett", "Benjamin C. Pierce", "Randy Pollack", "Sumit Ray", "Olin Shivers", "Jonathan M. Smith", "Greg Sullivan"],
+   	"Link":"http://www.crash-safe.org/node/9",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Raytheon BBN Technologies","University of Utah"],
+   	"Title": "Advanced Adaptive Application (A3) Environment: Initial Experience",
+   	"Authors":["Partha Pal", "Rick Schantz", "Aaron Paulos", "John Regehr", "Mike Hibler"],
+   	"Link":"http://dl.acm.org/citation.cfm?doid=2090181.2090186",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Raytheon BBN Technologies","University of Utah"],
+   	"Title": "A3: An Environment for Self-Adaptive Diagnosis and Immunization of Novel Attacks",
+  	"Authors":["Partha Pal", "Rick Schantz", "Aaron Paulos", "Brett Benyo", "David Johnson", "Mike Hibler", "Eric Eide"],
+   	"Link":"https://dist-systems.bbn.com/papers/2012/a3_new/index.shtml",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Raytheon BBN Technologies","University of Utah"],
+   	"Title": "Moving Target Defense (MTD) in an Adaptive Execution Environment",
+   	"Authors":["Andrew Paulos", "Partha Pal", "Rick Schantz", "Brett Benyo"],
+   	"Link":"http://dx.doi.org/10.1145/2459976.2460045",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Raytheon BBN Technologies","University of Utah"],
+   	"Title": "Isolation of Malicious External Inputs in a Security Focused Adaptive Execution Environment",
+   	"Authors":["Andrew Paulos", "Partha Pal", "Rick Schantz", "Brett Benyo", "David Johnson", "Mike Hibler", "Eric Eide"],
+   	"Link":"https://dist-systems.bbn.com/papers/2013/Isolation/index.shtml",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Raytheon BBN Technologies","University of Utah"],
+   	"Title": "A Recipe for Deterministic Replay",
+   	"Authors":["Aston Burtsev", "David Johnson", "Mike Hibler", "Eric Eide", "John Regehr"],
+   	"Link":"http://www.cs.utah.edu/~aburtsev/doc/recipe13-submit.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Raytheon BBN Technologies","University of Utah"],
+	"Title": "XenTT: Deterministic System Analysis in Xen",
+   	"Authors":["Anton Burtsev"],
+   	"Link":"http://www.slideshare.net/xen_com_mgr/xentt-deterministic-systems-analysis-in-xen",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title": "On the Feasibility of Hardware Malware Detection with Performance Counters",
+   	"Authors":["John Demme","Matthew Maycock","Jared Schmitz","Adrian Tang","Adam Waksman","Sal Stolfo","Simha Sethumadhavan"],
+   	"Link":"http://www.cs.columbia.edu/~jdd/papers/isca13_malware.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"A Quantitative, Experimental Approach to Measuring Processor Side-Channel Security",
+   	"Authors":["John Demme","Robert Martin","Adam Waksman","Simha Sethumadhavan"],
+   	"Link":"http://www.cs.columbia.edu/~jdd/papers/micro13_svf.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Time Warp: Rethinking Timekeeping and Performance Measurement Mechanisms to Mitigate Side Channels",
+   	"Authors":["Robert Martin","John Demme","Simha Sethumadhavan"],
+   	"Link":"http://www.cs.columbia.edu/~simha/preprint_isca12_tw.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Side-Channel Vulnerability Factor: A Metric for Measuring Information Leakage",
+   	"Authors":["John Demme","Robert Martin","Adam Waksman","Simha Sethumadhavan"],
+   	"Link":"http://www.cs.columbia.edu/~simha/preprint_isca12_svf.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Rapid Identification of Architectural Bottlenecks via Precise Event Counting",
+   	"Authors":["John Demme","Simha Sethumadhavan"],
+   	"Link":"http://www.cs.columbia.edu/~simha/preprint_isca11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Approximate Graph Clustering for Program Characterization",
+   	"Authors":["John Demme","Simha Sethumadhavan"],
+   	"Link":"http://www.cs.columbia.edu/~simha/preprint_taco12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"The SPARCHS Project: Hardware Support for Software Security",
+   	"Authors":["Simha Sethumadhavan","Sal Stolfo","David August","Angelos Keromytis","Junfeng Yang"],
+   	"Link":"http://www.cs.columbia.edu/~simha/sparchs.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Verifying Systems Rules Using Rule-Directed Symbolic Execution",
+   	"Authors":["Heming Cui","Gang Hu","Jingyue Wu"],
+   	"Link":"http://www.cs.columbia.edu/~junfeng/papers/woodpecker-asplos13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Sound and Precise Analysis of Parallel Programs through Schedule Specialization",
+   	"Authors":["Jingyue Wu","Yang Tang","Gang Hu","Heming Cui","Junfeng Yang"],
+   	"Link":"http://www.cs.columbia.edu/~junfeng/papers/wu-pldi12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Concurrency Attacks",
+   	"Authors":["Junfeng Yang","Ang Cui","Sal Stolfo","Simha Sethumadhavan"],
+   	"Link":"http://www.cs.columbia.edu/~junfeng/papers/con-hotpar12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Efficient Deterministic Multithreading through Schedule Relaxation",
+   	"Authors":["Heming Cui","Jingyue Wu","John Gallagher","Huayang Guo","Junfeng Yang"],
+   	"Link":"http://www.cs.columbia.edu/~junfeng/papers/peregrine-sosp11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Pervasive Detection of Process Races in Deployed Systems",
+   	"Authors":["Oren Laadan","Nicolas Viennot","Chia-che Tsai","Chris Blinn","Junfeng Yang","Jason Nieh"],
+   	"Link":"http://www.cs.columbia.edu/~nieh/pubs/sosp2011_racepro.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Practical Software Model Checking via Dynamic Interface Reduction",
+   	"Authors":["Huayang Guo","Ming Wu","Lidong Zhou","Gang Hu","Junfeng Yang","Lintao Zhang"],
+   	"Link":"http://www.cs.columbia.edu/~junfeng/papers/demeter-sosp11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Finding Concurrency Errors in Sequential Code--OS-level, In-vivo Model Checking of Process Races",
+   	"Authors":["Oren Laadan","Chia-che Tsai","Nicolas Viennot","Chris Blinn","Peter Senyao Du","Junfeng Yang","Jason Nieh"],
+   	"Link":"https://www.usenix.org/legacy/event/hotos11/tech/final_files/Laadan.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Stable Deterministic Multithreading through Schedule Memorization",
+   	"Authors":["Heming Cui","Jingyue Wu","Chia-Che Tsai","Junfeng Yang"],
+   	"Link":"https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Cui.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Bypassing Races in Live Applications with Execution Filters",
+   	"Authors":["Jingyue Wu","Heming Cui","Junfeng Yang"],
+   	"Link":"https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Wu.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"kGuard: Lightweight Kernel Protection",
+   	"Authors":["Vasileios P. Kemerlis","Georgios Portokalidis","Elias Athanasopoulos","Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/nsl/papers/2012/kguard.login12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"kGuard: Lightweight Kernel Protection against Return-to-user Attacks",
+   	"Authors":["Vasileios P. Kemerlis","Georgios Portokalidis","Angelos D. Keromytis"],
+   	"Link":"https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final143.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Smashing the Gadgets: Hindering Return-Oriented Programming Using In-Place Code Randomization",
+   	"Authors":["Vasilis Pappas","Michalis Polychronakis","Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/~vpappas/papers/smash.sp12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"libdft: Practical Dynamic Data Flow Tracking for Commodity Systems",
+   	"Authors":["Vasileios P. Kemerlis","Georgios Portokalidis","Kangkook Jee","Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/~angelos/Papers/2012/libdft_vee2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"A General Approach for Efficiently Accelerating Software-based Dynamic Data Flow Tracking on Commodity Hardware",
+  	"Authors":["Kangkook Jee","Georgios Portokalidis","Vasileios P. Kemerlis","Soumyadeep Ghosh","David I. August","Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/~angelos/Papers/2012/dta.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"ROP Payload Detection Using Speculative Code Execution",
+   	"Authors":["Michalis Polychronakis","Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/~mikepo/papers/ropscan.malware11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Retrofitting Security in COTS Software with Binary Rewriting",
+  	"Authors":["Padraig O'Sullivan","Kapil Anand","Aparna Kothan","Matthew Smithson","Rajeev Barua","Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/nsl/papers/2011/secondwrite.sec11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Practical Software Diversification Using In-Place Code Randomization",
+   	"Authors":["Vasilis Pappas","Michalis Polychronakis","Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/~angelos/Papers/2012/orp_MTD.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+  	"Title":"Global ISR: Toward a Comprehensive Defense Against Unauthorized Code Execution",
+   	"Authors":["Georgios Portokalidis","Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/nsl/papers/2010/global_isr.aro10.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Practical Automatic Loop Specialization",
+   	"Authors":["Taewook Oh","Hanjun Kim","Nick P. Johnson","Jae W. Lee","David I. August"],
+   	"Link":"http://liberty.princeton.edu/Publications/asplos13_ipls.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Automatically Exploiting Cross-Invocation Parallelism Using Runtime Information",
+   	"Authors":["Jialu Huang","Thomas B. Jablin","Stephen R. Beard","Nick P. Johnson","David I. August"],
+   	"Link":"http://liberty.princeton.edu/Publications/cgo13_domore.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Speculative Separation for Privatization and Reductions",
+   	"Authors":["Nick P. Johnson","Hanjun Kim","Prakash Prabhu","Ayal Zaks","David I. August"],
+   	"Link":"http://dl.acm.org/citation.cfm?id=2254107",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Runtime Asynchronous Fault Tolerance via Speculation",
+   	"Authors":["Yun Zhang","Soumyadeep Ghosh","Jialu Huang","Jae W. Lee","Scott A. Mahlke","David I. August"],
+   	"Link":"http://liberty.princeton.edu/Publications/cgo12_raft.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Dynamically Managed Data for CPU-GPU Architectures",
+  	"Authors":["Thomas B. Jablin","James A. Jablin","Prakash Prabhu","Feng Liu","David I. August"],
+   	"Link":"http://liberty.princeton.edu/Publications/cgo12_dymand.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+  	"Title":"Automatic Speculative DOALL for Clusters",
+  	"Authors":["Hanjun Kim","Nick P. Johnson","Jae W. Lee","Scott A. Mahlke","David I. August"],
+   	"Link":"http://dl.acm.org/citation.cfm?id=2259029",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"When Firmware Modification Attack: A Case Study of Embedded Exploitation",
+   	"Authors":["Ang Cui","Michael Costello","Salvatore J. Stolfo"],
+   	"Link":"http://ids.cs.columbia.edu/sites/default/files/ndss-2013.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Hacking Cisco Phones: Just because You Are Paranoid Doesn't Mean Your Phone Isn't Listening to Everything You Say",
+  	"Authors":["Ang Cui","Michael Costello","Salvatore J. Stolfo"],
+   	"Link":"http://www.youtube.com/watch?v=f3zUOZcewtA",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Symbiotes and Defensive Mutualism: Moving Target Defense",
+   	"Authors":["Ang Cui","Salvatore J. Stolfo"],
+   	"Link":"http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_5",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Print Me If You Dare: Firmware Modification Attacks and the Rise of Printer Malware",
+   	"Authors":["Ang Cui","Salvatore J. Stolfo"],
+   	"Link":"http://ids.cs.columbia.edu/sites/default/files/CuiPrintMeIfYouDare.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"ALDR: A New Metric for Measuring Effective Layering of Defenses; Layered Assurance Workshop",
+   	"Authors":["Nathaniel Boggs","Salvatore J. Stolfo"],
+   	"Link":"http://fm.csl.sri.com/LAW/2011/law2011-wip-slides-boggs.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"From Prey To Hunter: Transforming Legacy Embedded Devices Into Exploitation Sensor Grids",
+   	"Authors":["Ang Cui","Jatin Kataria","Salvatore J. Stolfo"],
+   	"Link":"http://ids.cs.columbia.edu/sites/default/files/acsac.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Defending Embedded Systems with Software Symbiotes",
+   	"Authors":["Ang Cui","Salvatore J. Stolfo"],
+   	"Link":"http://ids.cs.columbia.edu/sites/default/files/paper_2.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Cross-domain Collaborative Anomaly Detection: So Far Yet So Close",
+   	"Authors":["Nathaniel Boggs","Sharath Hiremagalore","Angelos Stavrou","Salvatore J. Stolfo"],
+   	"Link":"http://ids.cs.columbia.edu/sites/default/files/colaborative_RAID11_1.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Killing the Myth of Cisco IOS Diversity: Recent Advances in Reliable Shellcode Design",
+   	"Authors":["Ang Cui","Jatin Kataria","Salvatore J. Stolfo"],
+   	"Link":"https://www.usenix.org/legacy/event/woot11/tech/final_files/Cui.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Killing the Myth of Cisco IOS Diversity: Towards Reliable, Large-Scale Exploitation of Cisco IOS",
+   	"Authors":["Ang Cui","Salvatore J. Stolfo","Jatin Kataria"],
+   	"Link":"http://ids.cs.columbia.edu/sites/default/files/CuiBH2011_0.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Reflections on the Engineering and Operation of a Large-scale Embedded Device Vulnerability Scanner; Building Analysis Datasets and Gathering Experience Returns for Security",
+   	"Authors":["Ang Cui","Salvatore J. Stolfo"],
+   	"Link":"http://academiccommons.columbia.edu/item/ac:153210",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"A Quantitative Analysis of the Insecurity of Embedded Network Devices: Results of a Wide-Area Scan",
+   	"Authors":["Ang Cui","Salvatore J. Stolfo"],
+   	"Link":"http://ids.cs.columbia.edu/sites/default/files/paper-acsac.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"Experimental Results of Cross-Site Exchange of Web Content Anomaly Detector Alerts",
+   	"Authors":["Nathaniel Boggs","Salvatore J. Stolfo","Sharath Hiremagalore","Angelos Stavrou"],
+	"Link":"http://secgate-b.hacktory.cs.columbia.edu/sites/default/files/hst10autosense.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Columbia University","Princeton University"],
+   	"Title":"MOTAG: Moving Target Defense Against Internet Denial of Service Attacks",
+   	"Authors":["Quan Jia","Kun Sun","Angelos Stavrou"],
+   	"Link":"http://cs.gmu.edu/~astavrou/research/motag_icccn13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Cornell University","ATC-NY"],
+   	"Title":"Formal Program Optimization in Nuprl Using Computational Equivalence and Partial Types",
+   	"Authors":["Vincent Rahli","Abhishek Anand","Mark Bickford"],
+   	"Link":"http://www.cs.cornell.edu/~rahli/articles/optimization_ITP_2013_04_22.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Cornell University","ATC-NY"],
+   	"Title":"Byzantine Chain Replication",
+   	"Authors":["Robbert van Renesse","Chi Ho","Nicolas Schiper"],
+   	"Link":"http://www.cs.cornell.edu/~ns672/publications/2012OPODIS.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Cornell University","ATC-NY"],
+   	"Title":"A Diversified and Correct-by-Construction Broadcast Service",
+   	"Authors":["Vincent Rahli","Nicolas Schiper","Robbert van Renesse","Mark Bickford","Robert L. Constable"],
+   	"Link":"http://www.cs.cornell.edu/~ns672/publications/2012WRIPE.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Cornell University","ATC-NY"],
+   	"Title":"ShadowDB: A Replicated Database on a Synthesized Consensus Core",
+   	"Authors":["Nicolas Schiper","Vincent Rahli","Robbert van Renesse","Mark Bickford","Robert L. Constable"],
+  	"Link":"https://www.usenix.org/system/files/conference/hotdep12/hotdep12-final14.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Cornell University","ATC-NY"],
+   	"Title":"Interfacing with Proof Assistants for Domain Specific Programming Using EventML",
+   	"Authors":["Vincent Rahli"],
+   	"Link":"http://www.cs.cornell.edu/~rahli/articles/eml-interface-slides.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Cornell University","ATC-NY"],
+   	"Title":"On Building Constructive Formal Theories of Computation Noting the Roles of Turing, Church, and Brouwer",
+   	"Authors":["Robert L. Constable"],
+   	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6280416",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Cornell University","ATC-NY"],
+   	"Title":"Proof Assistants and the Dynamic Nature of Formal Theories",
+   	"Authors":["Robert L. Constable"],
+	"Link":"http://www.nuprl.org/documents/Constable/Proof_Assistants_and_the_Dynamic_Nature_of_Formal_Theories.pdf",
+	"Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Cornell University","ATC-NY"],
+   	"Title":"The Logic of Events, a Framework to Reason about Distributed Systems",
+   	"Authors":["Mark Bickford","Vincent Rahli","Robert L. Constable"],
+	"Link":"http://www.cs.cornell.edu/~rahli/articles/lada-position-paper-LADA2012-2011-12-28.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Cornell University","ATC-NY"],
+   	"Title":"Intuitionistic Completeness of First-Order Logic",
+   	"Authors":["Robert L. Constable","Mark Bickford"],
+	"Link":"http://www.nuprl.org/documents/Constable/IntuitionisticCompletenessofFirst-OrderLogic20111005.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"Beyond Disk Encryption: Protection on Security Enhanced Commodity Processors",
+   	"Authors":["M. Henson","S. Taylor"],
+   	"Link":"http://dl.acm.org/citation.cfm?id=2524549",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"Attacking Mitigation through Memory Encryption of Security Enhanced Commodity Processors",
+   	"Authors":["M. Henson","S. Taylor"],
+   	"Link":"http://connection.ebscohost.com/c/articles/86139919/attack-mitigation-through-memory-encryption-security-enhanced-commodity-processors",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"Automated Forensic Techniques for Locating Zero-day Exploits",
+   	"Authors":["S. Kuhn","S. Taylor"],
+   	"Link":"http://engineering.dartmouth.edu/~d1266j2/resources/Theses/Kuhn-thesis.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"Increasing Attacker Workload with Virtual Machines",
+   	"Authors":["S. Kuhn","S. Taylor"],
+   	"Link":"http://thayer.Dartmouth.edu/tr/reports/tr11-002.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"Computational Resiliency for Distributed Applications",
+   	"Authors":["K. McGill","S. Taylor"],
+    "Link":"http://www.researchgate.net/publication/229034329_Computational_resiliency_for_distributed_applications",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"Application Resilience with Process Failures",
+   	"Authors":["K. McGill","S. Taylor"],
+   	"Link":"http://thayer.Dartmouth.edu/tr/reports/tr11-006.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"Robot Algorithms for Localization of Multiple Emission Sources",
+   	"Authors":["K. McGill","S. Taylor"],
+   	"Link":"http://dl.acm.org/citation.cfm?id=1922652",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"Diffuse Algorithm for Robotic Multi-Source Localization",
+   	"Authors":["K. McGill","S. Taylor"],
+   	"Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5753493",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"A Concurrent Algorithm for Real-Time Tactical LiDAR",
+   	"Authors":["C. Nichols","S. Taylor","J. Keranen","G. Schultz"],
+   	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5747399",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Dartmouth College"],
+   	"Title":"Comparing Swarm Algorithms for Multi-Source Localization",
+   	"Authors":["K. McGill","S. Taylor"],
+   	"Link":"http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5424171",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Kestrel Institute"],
+   	"Title":"Derivational Software Engineering of the Future of Software Engineering Workshop (FoSER)",
+   	"Authors":["Douglas R. Smith","Louis Hoebel"],
+   	"Link":"http://www.nitrd.gov/SUBCOMMITTEE/sdp/foser/FOSER%20December%202011.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Kestrel Institute"],
+   	"Title":"Cost-Based Learning for Planning",
+   	"Authors":["Srinivas Nedunuri","Douglas R. Smith","William Cook"],
+   	"Link":"http://www.cs.utexas.edu/~wcook/Drafts/2011/CBL.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Kestrel Institute"],
+   	"Title":"Theory and Techniques for Synthesizing Efficient Breadth-First Search Algorithms",
+   	"Authors":["Srinivas Nedunuri","Douglas R. Smith","William Cook"],
+   	"Link":"http://repositories.lib.utexas.edu/bitstream/handle/2152/ETD-UT-2012-08-6242/NEDUNURI-DISSERTATION.pdf?sequence=1",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Kestrel Institute"],
+   	"Title":"Theory and Techniques for Synthesizing a Family of Graph Algorithms",
+   	"Authors":["Srinivas Nedunuri","Douglas R. Smith","William Cook"],
+   	"Link":"http://www.cs.utexas.edu/~wcook/Drafts/2012/Synt.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Kestrel Institute"],
+   	"Title":"Coalgebraic Specification and Refinement",
+   	"Authors":["Peter Pepper","Douglas R. Smith","Stephen J. Westfold"],
+   	"Link":"http://fpt.wdfiles.com/local--files/upcoming-conferences-dagstuhl-seminars-and-workshops/Smith.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Linux Kernel Vulnerabilities: State-of-the-art Defenses and Open Problems",
+   	"Authors":["Haogang Chen","Yandong Mao","Xi Wang","Dong Zhou","Nickolai Zeldovich","M. Frans Kaashoek"],
+   	"Link":"http://pdos.csail.mit.edu/papers/chen-kbugs.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Retroactive Auditing",
+   	"Authors":["Xi Wang","Dong Zhou","Nickolai Zeldovich","M. Frans Kaashoek"],
+   	"Link":"http://people.csail.mit.edu/nickolai/papers/wang-rad.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Massachusetts Institute of Technology","Stanford University","MIT Lincoln Laboratory"],
+   	"Title":"Experiences in Cyber Security Education: the MIT Lincoln Laboratory Capture-the-Flag Exercise",
+   	"Authors":["Joseph Werther","Michael Zhivich","Tim Leek","Nickolai Zeldovich"],
+   	"Link":"http://people.csail.mit.edu/nickolai/papers/werther-llctf.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Software Fault Isolation with API Integrity and Multi-Principal Modules",
+   	"Authors":["Yandong Mao","Haogang Chen","Dong Zhou","Xi Wang","Nickolai Zeldovich","M. Frans Kaashoek"],
+   	"Link":"http://people.csail.mit.edu/nickolai/papers/mao-lxfi.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Intrusion Recovery for Database-backed Web Applications",
+  	"Authors":["Ramesh Chandra","Taesoo Kim","Meelap Shah","Neha Narula","Nickolai Zeldovich"],
+   	"Link":"http://people.csail.mit.edu/nickolai/papers/chandra-warp.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Language Support for Efficient Computation over Encrypted Data",
+   	"Authors":["Meelap Shah","Emily Stark","Raluca Ada Popa","Nickolai Zeldovich"],
+   	"Link":"http://people.csail.mit.edu/nickolai/papers/shah-cryptapp.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Abstractions for Usable Information Flow Control In Aeolus",
+   	"Authors":["Winnie Cheng","Dan R. K. Ports","David Schultz","Victoria Popic","Aaron Blankstein","James Cowling","Dorothy Curtis","Liuba Shrira","Barbara Liskov"],
+   	"Link":"https://www.usenix.org/system/files/tech-schedule/atc12_proceedings_0.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Recovering from Intrusions in Distributed Systems with Dare",
+   	"Authors":["Taesoo Kim","Ramesh Chandra","Nickolai Zeldovich"],
+   	"Link":"http://skyjs.org/~taesoo/pubs/2012/dare/dare.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Undefined Behavior: What Happened to My Code?",
+   	"Authors":["Xi Wang","Haogang Chen","Zhihao Jia", "Nickolai Zeldovich","M. Frans Kaashoek"],
+   	"Link":"http://pdos.csail.mit.edu/papers/ub:apsys12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Improving Integer Security for Systems with Kint",
+   	"Authors":["Xi Wang","Haogang Chen","Zaihao Jia", "Nickolai Zeldovich","M. Frans Kaashoek"],
+   	"Link":"http://people.csail.mit.edu/nickolai/papers/wang-kint.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Efficient Patch-Based Auditing for Web Application Vulnerabilities",
+   	"Authors":["Taesoo Kim","Ramesh Chandra", "Nickolai Zeldovich"],
+   	"Link":"http://people.csail.mit.edu/nickolai/papers/kim-poirot.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"A Secure Processor Architecture for Encrypted Computation on Untrusted Programs",
+   	"Authors":["Christopher Fletcher","Marten van Dijk","Srinivas Devadas"],
+  	"Link":"http://people.csail.mit.edu/devadas/pubs/ascend-stc12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Towards an Interpreter for Efficient Encrypted Computation",
+   	"Authors":["Christopher Fletcher","Marten van Dijk","Srinivas Devadas"],
+   	"Link":"http://people.csail.mit.edu/devadas/pubs/stack-fhe.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"IFDB: Decentralized Information Flow Control for Databases",
+   	"Authors":["David Schultz","Barbara Liskov"],
+   	"Link":"http://pmg.csail.mit.edu/papers/ifdb.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Massachusetts Institute of Technology","Stanford University"],
+   	"Title":"Reusable Garbled Circuits and Succinct Functional Encryption",
+   	"Authors":["Shafi Goldwasser","Yael Kalai","Raluca Ada Popa","Vinod Vaikuntanathan","Nickolai Zeldovich"],
+   	"Link":"http://eprint.iacr.org/2012/733.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Ordering Multiple Continuations on the Stack",
+   	"Authors":["Dimitrios Vardoulakis","Olin Shivers"],
+  	"Link":"http://www.ccs.neu.edu/home/shivers/papers/ordered-cont.ps",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"EigenCFA: Accelerating Flow Analysis with GPUs",
+   	"Authors":["Tarun Prabhu","Shreyas Ramalingam","Matthew Might","Mary Hall"],
+   	"Link":"http://matt.might.net/papers/prabhu2011eigencfa.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Northeastern University"],
+   	"Title":"Bottom-up beta-reduction: Uplinks and lambda-DAGs",
+   	"Authors":["Olin Shivers","Mitchell Wand"],
+   	"Link":"http://www.brics.dk/RS/04/38/BRICS-RS-04-38.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Northeastern University"],
+   	"Title":"The ACL2 Sedan Theorem Proving System",
+   	"Authors":["Harsh Chamurthi","Peter Dillinger","Panagiotis Manolios","Daron Vroon"],
+   	"Link":"http://www.ccs.neu.edu/home/pete/pub/tacas-acl2-sedan.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Northeastern University"],
+   	"Title":"Parsing Reflective Grammars",
+   	"Authors":["Paul Stansifer","Mitchell Wand"],
+   	"Link":"http://www.ccs.neu.edu/home/pauls/prg.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Languages as Libraries",
+   	"Authors":["Sam Tobin-Hochstadt","Vincent St-Amour","Ryan Culpepper","Matthew Flatt","Matthias Felleisen"],
+   	"Link":"http://www.ccs.neu.edu/racket/pubs/pldi11-thacff.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Correct Blame for Contracts: No More Scapegoating",
+   	"Authors":["Christos Dimoulas","Robby Findler","Cormac Flanagan","Matthias Felleisen"],
+   	"Link":"http://www.ccs.neu.edu/racket/pubs/popl11-dfff.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Abstracting Abstract Machines",
+   	"Authors":["David Van Horn","Matthew Might"],
+   	"Link":"http://matt.might.net/papers/vanhorn2010abstract.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Northeastern University"],
+   	"Title":"A Family of Abstract Interpretations for Static Analysis of Concurrent Higher-Order Programs",
+   	"Authors":["David Van Horn","Matthew Might"],
+   	"Link":"http://www.ccs.neu.edu/home/dvanhorn/pubs/might-vanhorn-sas11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Pushdown Flow Analysis of First-Class Control",
+   	"Authors":["Dimitrios Vardoulakis","Olin Shivers"],
+   	"Link":"http://www.ccs.neu.edu/home/dimvar/papers/cfa2-1st-class.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Modular Rollback Through Control Logging: A Pair of Twin Functional Pearls",
+   	"Authors":["Olin Shivers","Aaron Turon"],
+   	"Link":"http://www.mpi-sws.org/~turon/rollback.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Northeastern University"],
+   	"Title":"Flow-Sensitive Type Recovery in Linear-Log Time",
+   	"Authors":["Michael  D. Adams","Andrew W. Keep","Jan Midtgaard","Matthew Might","Arun Chauhan","R. Kent Dybvig"],
+   	"Link":"http://www.cs.indiana.edu/~dyb/pubs/type-recovery.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Functional Pearl: Parsing with Derivatives",
+   	"Authors":["Matthew Might","David Darais","Daniel Spiewak"],
+   	"Link":"http://matt.might.net/papers/might2011derivatives.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Integrating Testing and Interactive Theorem Proving",
+  	"Authors":["Harsh Chamarthi","Peter C. Dillinger","Matt Kaufmann","Panagiotis Manolios"],
+   	"Link":"http://www.ccs.neu.edu/home/harshrc/ITaITP.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Northeastern University"],
+   	"Title":"Automated Specification Analysis Using an Interactive Theorem Prover",
+  	"Authors":["Harsh Chamarthi","Panagiotis Manolios"],
+   	"Link":"http://www.cs.utexas.edu/~ragerdl/fmcad11/papers/92.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Typing the Numeric Tower",
+   	"Authors":["Vincent St-Amour","Sam Tobin-Hochstadt","Matthew Flatt","Matthias Felleisen"],
+   	"Link":"http://www.ccs.neu.edu/racket/pubs/padl12-stff.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Run Your Research: On the Effectiveness of Lightweight Mechanization",
+   	"Authors":["Casey Klein","John Clements","Christos Dimoulas","Carl Eastlund","Matthias Felleisen","Matthew Flatt","Jay A. McCarthy","Jon Rafkind","Sam Tobin-Hochstadt","Robert Bruce Findler"],
+   	"Link":"http://eecs.northwestern.edu/~robby/lightweight-metatheory/popl2012-kcdeffmrtf.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Complete Monitors for Behavioral Contracts",
+   	"Authors":["Christos Dimoulas","Sam Tobin-Hochstadt","Matthias Felleisen"],
+   	"Link":"http://www.ccs.neu.edu/racket/pubs/esop12-dthf.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Hash-Flow Taint Analysis of Higher-Order Programs",
+   	"Authors":["Shuying Liang","Matthew Might"],
+   	"Link":"http://matt.might.net/papers/liang2012taint.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Introspective Pushdown Analysis of Higher-Order Programs",
+   	"Authors":["Christopher Earl","Ilya Sergey","Matthew Might","David Van Horn"],
+  	"Link":"http://www.ccs.neu.edu/home/dvanhorn/pubs/earl-sergey-might-vanhorn-icfp12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"A Structural Soundness Proof for Shivers' Escape Technique: A Case for Galois Connections",
+  	"Authors":["Jan Midtgaard","Michael D. Adams","Matthew Might"],
+   	"Link":"http://cs.au.dk/~jmi/Midtgaard-Adams-Might%3ASAS12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Gradual Typing for First-Class Classes",
+   	"Authors":["Asumu Takikawa","T. Stephen Strickland","Christos Dimoulas","Sam Tobin-Hochstadt","Matthias Felleisen"],
+   	"Link":"http://www.ccs.neu.edu/home/chrdimo/pubs/oopsla12-tsdthf.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Chaperones and Impersonators: Runtime Support for Reasonable Interposition",
+   	"Authors":["T. Stephen Strickland","Sam Tobin-Hochstadt","Robert Bruce Findler","Matthew Flatt"],
+   	"Link":"http://www.cs.umd.edu/~sstrickl/chaperones/chaperones-oopsla2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Higher-Order Symbolic Execution via Contracts",
+   	"Authors":["Sam Tobin-Hochstadt","David Van Horn"],
+   	"Link":"http://www.ccs.neu.edu/home/dvanhorn/pubs/tobin-hochstadt-vanhorn-oopsla12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Northeastern University"],
+   	"Title":"Constraining Delimited Control with Contracts",
+   	"Authors":["Asumu Takikawa","T. Stephen Strickland","Sam Tobin-Hochstadt"],
+   	"Link":"http://www.ccs.neu.edu/racket/pubs/esop13-tsth.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Northeastern University"],
+   	"Title":"Monadic Abstract Interpreters",
+   	"Authors":["Ilya Sergey","Dominique Devriese","Matthew Might","Jan Midtgaard","David Darais","Dave Clark","Frank Piessens"],
+   	"Link":"http://matt.might.net/papers/sergey2013monalysis.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Smart Information Flow Technologies"],
+   	"Title":"Fuzzbuster: Towards Adaptive Immunity from Cyber Threats",
+   	"Authors":["D.J. Musliner","J.M. Rye","D. Thomsen","D.D. McDonald","M.H. Burstein"],
+   	"Link":"http://www.sift.net/sites/default/files/documents/2011-SASO-MRTMB.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Smart Information Flow Technologies"],
+   	"Title":"Using Concolic Testing to Refine Vulnerability Profiles in FUZZBUSTER",
+   	"Authors":["D.J. Musliner","J.M. Rye","T. Marble"],
+   	"Link":"http://www.musliner.com/david/papers/ahans12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title":"Capabilities Revisited: A Holistic Approach to Bottom-to-Top Assurance of Trustworthy Systems",
+   	"Authors":["Peter G. Neumann","Robert N. M. Watson"],
+   	"Link":"http://www.csl.sri.com/users/neumann/law10.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title":"CHERI: A Research Platform Deconflating Hardware Virtualization and Protection",
+   	"Authors":["Robert N. M. Watson","Peter G. Neumann","Jonathan Woodruff","Jonathan Anderson","Ross Anderson","Nirav Dave","Ben Laurie","Simon W. Moore","Steven J. Murdoch","Philip Paeps","Michael Roe","Hassen Saidi"],
+   	"Link":"http://www.csl.sri.com/users/neumann/2012resolve-cheri.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title":"Automatic Generation of Hardware/Software Interfaces",
+   	"Authors":["Myron King","Nirav Dave"],
+   	"Link":"http://people.csail.mit.edu/mdk/papers/asplos_2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["SRI International","University of Cambridge"],
+  	"Title":"Smten: Automatic Translation of High-Level Symbolic Computations into SMT Queries",
+   	"Authors":["Richard Uhler","Nirav Dave"],
+   	"Link":"https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20130718-smten-cav13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title":"The Foresight Saga, Redux",
+   	"Authors":["Peter G. Neumann"],
+   	"Link":"http://cacm.acm.org/magazines/2012/10/155535-the-foresight-saga-redux/fulltext",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title":"Inside Risks: More Sight on Foresight",
+   	"Authors":["Peter G. Neumann"],
+   	"Link":"http://cacm.acm.org/magazines/2013/2/160154-more-sight-on-foresight/fulltext",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+  	"Title":"Memory Segmentation to Support Secure Applications",
+   	"Authors":["Jon Woodruff","Simon Moore","Robert Watson"],
+   	"Link":"http://ceur-ws.org/Vol-965/paper03-essos2013.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title":"A Decade of OS Access-Control Extensibility: Open-Source Security Foundations for Mobile and Embedded Devices",
+   	"Authors":["Robert N.M. Watson"],
+   	"Link":"https://queue.acm.org/detail.cfm?id=2430732",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title":"Towards a Theory of Application Compartmentalisation",
+   	"Authors":["Robert N.M. Watson","Steven J. Murdoch","Khilan Gudka","Jonathan Anderson","Peter G. Neuman","Ben Laurie"],
+   	"Link":"http://www.cl.cam.ac.uk/~kg365/pubs/2013spw-compartmentalisation.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["SRI International","University of Cambridge","University of Wisconsin - Madison"],
+   	"Title":"Declarative, Temporal, and Practical Programming with Capabilities",
+   	"Authors":["William R. Harris","Somesh Jha","Thomas Reps","Jonathan Anderson","Robert N. M. Watson"],
+   	"Link":"http://www.ieee-security.org/TC/SP2013/papers/4977a018.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title":"The CHERI Capability Model: Revisiting RISC in an Age of Risk",
+  	"Authors":["Jonathan Woodruff","Robert N. M. Watson","David Chisnall","Simon W. Moore","Jonathan Anderson","Brooks Davis","Ben Laurie","Peter G. Neumann","Robert Norton","Michael Roe"],
+   	"Link":"https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cheri.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title":"TESLA: Temporally Enhanced System Logic Assertions",
+   	"Authors":["Jonathan Anderson","Robert N. M. Watson","David Chisnall","Khilan Gudka","Brooks Davis","Ilias Marinos"],
+   	"Link":"https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201404-eurosys2014-tesla.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Stanford University","Massachusetts Institute of Technology"],
+   	"Title":"Toward Principled Browser Security",
+   	"Authors":["Edward Z. Yang","Deian Stefan","John Mitchell","David Mazieres","Petr Marchenko","Brad Karp"],
+   	"Link":"http://www.scs.stanford.edu/~dm/home/papers/yang:browser-sec.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Stanford University","Massachusetts Institute of Technology"],
+   	"Title":"EyeQ: Practical Network Performance Isolation at the Edge",
+   	"Authors":["Vimalkumar Jeyakumar","Mohammad Alizadeh","David Mazieres","Balaji Prabhakar","Changhoon Kim","Albert Greenberg"],
+   	"Link":"http://www.stanford.edu/~jvimal/EyeQ-NSDI13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Stanford University","Massachusetts Institute of Technology"],
+   	"Title":"Dune: Safe User-Level Access to Privileged CPU Features",
+   	"Authors":["Adam Belay","Andrea Bittau","Ali Mashtizadeh","David Terei","David Mazieres","Christos Kozyrakis"],
+   	"Link":"http://www.scs.stanford.edu/~dm/home/papers/belay:dune.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Stanford University","Massachusetts Institute of Technology"],
+   	"Title":"Hails: Protecting Data Privacy in Untrusted Web Applications",
+   	"Authors":["Daniel B. Griffin","Amit Levy","Deian Stefan","David Terei","David Mazieres","John Mitchell","Alejandro Russo"],
+   	"Link":"https://www.usenix.org/sites/default/files/conference/protected-files/giffin_osdi12_slides.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Stanford University","Massachusetts Institute of Technology"],
+   	"Title":"Safe Haskell",
+   	"Authors":["David Terei","Simon Marlow","Simon Peyton Jones","David Mazieres"],
+   	"Link":"http://research.microsoft.com/en-us/um/people/simonpj/papers/safe-haskell/safe-haskell.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Stanford University","Massachusetts Institute of Technology"],
+   	"Title":"Addressing Covert Termination and Timing Channels in Concurrent Information Flow Systems",
+   	"Authors":["Deian Stefan","Alejandro Russo","Pablo Buiras","Amit Levy","John C. Mitchell","David Mazieres"],
+   	"Link":"http://www.scs.stanford.edu/~dm/home/papers/stefan:addressing-covert.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Stanford University","Massachusetts Institute of Technology"],
+   	"Title":"Disjunction Category Labels",
+   	"Authors":["Deian Stefan","Alejandro Russo","David Mazieres","John C. Mitchell"],
+   	"Link":"http://www.scs.stanford.edu/~dm/home/papers/stefan:dclabels.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Stanford University","Massachusetts Institute of Technology"],
+   	"Title":"Flexible Dynamic Information Flow Control in Haskell",
+   	"Authors":["Deian Stefan","Alejandro Russo","John C. Mitchell","David Mazieres"],
+   	"Link":"http://www.scs.stanford.edu/~dm/home/papers/stefan:lio.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of California, Irvine"],
+   	"Title":"Towards Precise and Efficient Information Flow Control in Web Browsers",
+   	"Authors":["Christoph Kerschbaumer","Eric Hennigan","Per Larsen","Stefan Brunthaler","Michael Franz"],
+   	"Link":"http://link.springer.com/chapter/10.1007/978-3-642-38908-5_14#page-1",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of California, Irvine"],
+   	"Title":"First-Class Labels: Using Information Flow to Debug Security Holes",
+   	"Authors":["Eric Hennigan","Christoph Kerschbaumer","Stefan Brunthaler","Per Larsen","Michael Franz"],
+   	"Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-38908-5_12#page-1",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of California, Irvine"],
+   	"Title":"Profile-Guided Automatic Software Diversity",
+   	"Authors":["Andrei Homescu","Stefan Brunthaler","Per Larsen","Michael Franz"],
+   	"Link":"http://www.ics.uci.edu/~ahomescu/multicompiler_cgo13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of California, Irvine"],
+   	"Title":"Microgadgets: Size Does Matter in Turing-Complete Return-Oriented Programming",
+   	"Authors":["Andrei Homescu","Michael Stewart","Per Larsen","Stefan Brunthaler","Michael Franz"],
+   	"Link":"https://www.usenix.org/system/files/conference/woot12/woot12-final9.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of California, Irvine"],
+   	"Title":"Diversifying the Software Stack Using Randomized NOP Insertion",
+   	"Authors":["Todd Jackson","Andrei Homescu","Stephen Crane","Per Larsen","Stefan Brunthaler","Michael Franz","editors - Sushil Jajodia","Anup K. Ghosh","V.S. Subrahmanian","Vipin Swarup","Cliff Wang","Xiaoyang Sean Wang"],
+   	"Link":"http://link.springer.com/chapter/10.1007%2F978-1-4614-5416-8_8",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of California, Irvine"],
+   	"Title":"Compiler-Generated Software Diversity",
+   	"Authors":["Todd Jackson","Babak Salamat","Andrei Homescu","Karthikeyan Manivannan","Gregor Wagner","Andreas Gal","Stefan Brunthaler","Christian Wimmer","Michael Franz"],
+   	"Link":"http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_4",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Application-Level Reconnaissance: Timing Channel Attacks Against Antivirus Software",
+   	"Authors":["Mohammed I. Al-Saleh","Jedidiah R. Crandall"],
+   	"Link":"http://www.cs.unm.edu/~crandall/leet2011cameraready.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Biologically Inspired Design Principles for Scalable Robust Adaptive Distributed Search and Automated Response (RADAR)",
+  	"Authors":["M. Moses","S. Banerjee"],
+   	"Link":"http://arxiv.org/ftp/arxiv/papers/1011/1011.4199.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Reducing Energy and Increasing Performance with Traffic Optimization in Many-Core Systems",
+   	"Authors":["G. Bezerra","S. Forrest","P. Zarkesh-Ha"],
+   	"Link":"http://www.cs.unm.edu/~forrest/publications/slip2011_final.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Modeling Internet-Scale Policies for Cleaning Up Malware",
+   	"Authors":["S. Hofmeyr","T. Moore","S. Forrest","B. Edwards","G. Stelle"],
+   	"Link":"http://link.springer.com/chapter/10.1007%2F978-1-4614-1981-5_7#page-1",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Self-Repairing Programs",
+   	"Authors":["Mauro Pezz","Martin C. Rinard","Westley Weimer","Andreas Zeller"],
+   	"Link":"http://drops.dagstuhl.de/opus/volltexte/2011/3152/pdf/dagrep_v001_i002_p016_s11062.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Privacy-Preserving Network Flow Recording",
+   	"Authors":["Bilal Shebaro","Jedidiah R. Crandall"],
+   	"Link":"https://www.cs.unm.edu/~crandall/billydissertation.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Work-in-Progress: Automated Named Entity Extraction for Tracking Censorship of Current Events",
+   	"Authors":["Antonio M. Espinoza","Jedidiah R. Crandall"],
+  	"Link":"https://www.usenix.org/legacy/event/foci11/tech/final_files/Espinoza.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Three Researchers, Five Conjectures: An Empirical Analysis of TOM Skype Censorship and Surveillance",
+   	"Authors":["Jeffrey Knockel","Jedidiah R. Crandall","Jared Saia"],
+   	"Link":"https://www.cs.unm.edu/~crandall/foci11knockel.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"GenProg: Automatic Bug Correction in Real Programs",
+  	"Authors":["C. Le Goues","T. Nguyen","S. Forrest","W. Weimer"],
+   	"Link":"http://www.cs.virginia.edu/~weimer/p/weimer-tse2012-genprog.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Enhancing Privacy in Participatory Sensing Applications with Multidimensional Data",
+   	"Authors":["M. Groat","B. Edwards","J. Horey","W. He","S. Forrest"],
+   	"Link":"http://cda.ornl.gov/publications_2012/Publication_32207.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Diversity and Resistance in a Model Network with Adaptive Software",
+   	"Authors":["Neal J. Holtschulte","Melanie Moses"],
+   	"Link":"http://link.springer.com/article/10.1186%2F2190-8532-1-19#page-1",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Beyond Biology",
+  	"Authors":["M. Moses","S. Forrest"],
+   	"Link":"http://onlinelibrary.wiley.com/doi/10.1002/9781119968535.ch24/summary",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"A Systematic Study of Automated Program Repair: Fixing 55 out of 105 Bugs for $8.00 Each",
+   	"Authors":["C. Le Goues","M. Dewey-Vogt","S. Forrest","W. Weimer"],
+   	"Link":"http://www.genetic-programming.org/hc2012/LeGoues-Paper-1.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+  	"Title":"Synthesizing API Usage Examples",
+   	"Authors":["Raymond P.L. Buse","Westley Weimer"],
+   	"Link":"https://www.cs.virginia.edu/~weimer/p/apidoc-icse12-final.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Using Dynamic Analysis to Discover Polynomial and Array Invariants",
+   	"Authors":["T. Nguyen","D. Kapur","W. Weimer","S. Forrest"],
+   	"Link":"http://www.cs.virginia.edu/~weimer/p/weimer-icse2012-invariants.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Representations and Operators for Improving Evolutionary Software Repair",
+   	"Authors":["Claire Le Goues","Westley Weimer","Stephanie Forrest"],
+   	"Link":"http://www.cs.virginia.edu/~weimer/p/weimer-gecco2012-preprint.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Protecting Free and Open Communications on the Internet Against Man-in-the-Middle Attacks on Third-Party Software: We're FOCI'd",
+   	"Authors":["Jeffrey Knockel","Jedidiah R. Crandall"],
+   	"Link":"http://www.cs.unm.edu/~crandall/foci2012asymm.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Whiskey, Weed, and Wukan on the World Wide Web: On Measuring Censors' Resources and Motivations",
+   	"Authors":["Nicholas Aase","Jedidiah R. Crandall","Alvaro Diaz","Jeffrey Knockel","Jorge Ocana Molinero","Jared Saia","Dan Wallach","Tao Zhu"],
+   	"Link":"https://www.cs.unm.edu/~crandall/foci2012combined.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"In Vivo, In Silico, In Machine: Ants Balance Memory and Communication to Collectively Exploit Information",
+   	"Authors":["M. E. Moses","K. Letendre","T.P. Flanagan","J.P. Hecker"],
+   	"Link":"http://www.springer.com/physics/complexity/book/978-3-319-00394-8",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Formica ex Machina: Ant Swarm Foraging From Physical to Virtual and Back Again",
+   	"Authors":["J.P. Hecker","K. Letendre","K. Stolleis","D. Washington","M.E. Moses"], "Link":"http://www.cs.unm.edu/~melaniem/Publications_files/Hecker_etal_FormicaExMachina_2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Holographic Vulnerability Studies: Vulnerabilities as Fractures in Interpretation as Information Flows Across Abstraction Boundaries",
+   	"Authors":["Daniela Oliveira","Jedidiah R. Crandall"],
+   	"Link":"http://www.cs.unm.edu/~crandall/nspw2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Automated Repair of Binary and Assembly Programs for Cooperating Embedded Devices",
+   	"Authors":["E. Schulte","J. DiLorenzo","W. Weimer","S. Forrest"],
+   	"Link":"http://www.cs.virginia.edu/~weimer/p/schulte2013embedded.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Beyond the Blacklist: Modeling Malware Spread and the Effect of Interventions",
+   	"Authors":["B. Edwards","T. Moore","G. Stelle","S. Hofmeyr","S. Forrest"],
+   	"Link":"http://arxiv.org/pdf/1202.3987.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of New Mexico","University of Virginia"],
+   	"Title":"Moving Target Defenses in the Helix Self-Regenerative Architecture",
+   	"Authors":["C. Le Goues","A. Nguyen-Tuong","H. Chen","J.W. Davidson","S. Forrest","J.D. Hiser","J.C. Knight","M. Van Gundy"],
+  	"Link":"http://link.springer.com/chapter/10.1007%2F978-1-4614-5416-8_7",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Guided Merging of Sequence Diagrams",
+   	"Authors":["Magdalena Widl","Armin Biere","Petra Brosch","Uwe Egly","Marijn Heule","Gerti Kappel","Martina Seidl","Hans Tompits"],
+   	"Link":"http://modelevolution.org/publications/sle12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Concurrent Cube-and-Conquer",
+   	"Authors":["Peter van der Tak","Marijn J.H. Heule","Armin Biere"],
+   	"Link":"http://fmv.jku.at/papers/TakHeuleBiere-POS12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"A Formal Model of a Large Memory that Supports Efficient Execution",
+   	"Authors":["Warren A. Hunt","Matt Kaufmann"],
+   	"Link":"http://www.cs.utexas.edu/~hunt/FMCAD/FMCAD12/014.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Towards a Formal Model of the x86 ISA",
+   	"Authors":["Warren A. Hunt","Matt Kaufmann"],
+   	"Link":"http://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2075.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Automated Reencoding of Boolean Formulas",
+   	"Authors":["Norbert Manthey","Marijn J.H. Heule","Armin Biere"],
+   	"Link":"https://www.research.ibm.com/haifa/conferences/hvc2012/papers/paper16.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Revisiting Hyper Binary Resolution",
+   	"Authors":["Marijn J.H. Heule","Matti Jarvisalo","Armin Biere"],
+   	"Link":"http://www.cs.utexas.edu/~marijn/cpaior2013.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Enhancements to ACL2 in Versions 5.0, 6.0, and 6.1",
+   	"Authors":["Matt Kaufmann","J. Strother Moore"],
+	"Link":"http://www.cs.utexas.edu/users/kaufmann/talks/acl2-workshop-2013/annotated-paper.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"A Parallelized Theorem Prover for a Logic with Parallel Execution",
+   	"Authors":["David L. Rager","Warren A. Hunt, Jr.","Matt Kaufmann"],
+   	"Link":"http://link.springer.com/chapter/10.1007/978-3-642-39634-2_31",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Abstract Stobjs and Their Application to ISA Modeling",
+   	"Authors":["Shilpi Goel","Warren A. Hunt, Jr.","Matt Kaufmann"],
+   	"Link":"http://arxiv.org/pdf/1304.7858.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Automated Code Proofs on a Formal Model of the x86",
+   	"Authors":["Shilpi Goel","Warren A. Hunt, Jr."],
+   	"Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-54108-7_12#page-1",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Verifying Refutations with Extended Resolution",
+   	"Authors":["Marijn J.H. Heule","Warren A. Hunt, Jr.","Nathan Wetzler"],
+   	"Link":"http://www.cs.utexas.edu/~marijn/publications/rat.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"Mechanical Verification of SAT Refutations with Extended Resolution",
+   	"Authors":["Nathan Wetzler","Marijn J.H. Heule","Warren A. Hunt, Jr."],
+   	"Link":"http://www.cs.utexas.edu/~marijn/publications/itp13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Texas at Austin"],
+   	"Title":"A SAT Approach to Clique-Width",
+   	"Authors":["Marijn J.H. Heule","Stefan Szeider"],
+   	"Link":"http://www.cs.utexas.edu/~marijn/publications/cliquewidth.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Wisconsin - Madison"],
+   	"Title":"Validating Library Usage Interactively",
+   	"Authors":["William R. Harris","Guoliang Jin","Shan Lu","Somesh Jha"],
+   	"Link":"http://pages.cs.wisc.edu/~wrharris/publications/validating_library_usage.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Wisconsin - Madison"],
+   	"Title":"Secure Programming via Visibly Pushdown Safety Games",
+   	"Authors":["W.R. Harris","S. Jha","T. Reps"],
+   	"Link":"http://pages.cs.wisc.edu/~wrharris/tech_reports/secure_programming_via_visibly.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Wisconsin - Madison"],
+   	"Title":"Efficient Runtime Policy Enforcement Using Counterexample-Guided Abstraction Refinement",
+   	"Authors":["M. Fredrikson","R. Joiner","S. Jha","T. Reps","P. Porras","H. Saidi","V. Yegneswaran"],
+   	"Link":"http://research.cs.wisc.edu/wpis/wpds/pubs/jam-submission.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Wisconsin - Madison"],
+   	"Title":"OpenNWA: A Nested-Word-Automaton Library",
+   	"Authors":["E. Driscoll","A. Thakur","T. Reps"],
+   	"Link":"https://research.cs.wisc.edu/wpis/wpds/pubs/opennwa-tool-submission.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Wisconsin - Madison"],
+   	"Title":"Checking Compatibility of a Producer and a Consumer",
+   	"Authors":["E. Driscoll","A. Burton","T. Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/tr1674r.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Wisconsin - Madison"],
+   	"Title":"ConSeq: Detecting Concurrency Bugs through Sequential Errors",
+   	"Authors":["W. Zhang","J. Lim","R. Olichandran","J. Scherpelz", "G. Jin","S. Lu","T. Reps"],
+   	"Link":"http://pages.cs.wisc.edu/~wzh/asplos11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["University of Wisconsin - Madison"],
+   	"Title":"TSL: A System for Generating Abstract Interpreters and Its Application to Machine-Code Analysis",
+   	"Authors":["J. Lim","T. Reps"],
+   	"Link":"http://research.cs.wisc.edu/wpis/papers/toplas13-tsl-final.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Quantitative Reasoning for Proving Lock-Freedom",
+   	"Authors":["Jan Hoffmann","Mike Marmar","Zhong Shao"],
+   	"Link":"http://flint.cs.yale.edu/certikos/slides/lockfreedom_darpa.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Compositional Verification of a Baby Virtual Memory Manager",
+   	"Authors":["Alexander Vaynberg","Zhong Shao"],
+   	"Link":"http://flint.cs.yale.edu/flint/publications/babyvmm_tr.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"A Case for Behavior-Preserving Actions in Separation Logic",
+   	"Authors":["David Costanzo","Zhong Shao"],
+   	"Link":"http://flint.cs.yale.edu/shao/papers/bpsl.html",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Modular Verification of Concurrent Thread Management",
+   	"Authors":["Yu Guo","Xinyu Feng","Zhong Shao","Peizhi Shi"],
+   	"Link":"http://flint.cs.yale.edu/shao/papers/ctm.html",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Icebergs in the Clouds: The Other Risks of Cloud Computing",
+   	"Authors":["Bryan Ford"],
+   	"Link":"https://www.usenix.org/system/files/conference/hotcloud12/hotcloud12-final54.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Plugging Side-Channel Leaks with Timing Information Flow Control",
+   	"Authors":["Bryan Ford"],
+   	"Link":"http://dedis.cs.yale.edu/2010/det/papers/hotcloud12-tifc.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Efficient System-Enforced Deterministic Parallelism",
+   	"Authors":["Amittai Aviram","Shu-Chun Weng","Sen Hu","Bryan Ford"],
+   	"Link":"https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Aviram.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Proving the Correctness of Concurrent Robot Software",
+   	"Authors":["Peter Kazanzides","Yanni Kouskoulas","Anton Deguet","Zhong Shao"],
+   	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06225285",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Static and User-Extensible Proof Checking",
+   	"Authors":["Antonis Stampoulis","Zhong Shao"],
+   	"Link":"http://astampoulis.github.io/popl2012/paper.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"A Simple Model for Certifying Assembly Programs with First-Class Function Pointers",
+   	"Authors":["Wei Wang","Zhong Shao","Xinyu Jiang","Yu Guo"],
+   	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6042070",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+  	"Program Teams": ["Yale University"],
+   	"Title":"CertiKOS: A Certified Kernel for Secure Cloud Computing",
+   	"Authors":["Liang Gu","Alexander Vaynberg","Bryan Ford","Zhong Shao","David Costanzo"],
+   	"Link":"http://dedis.cs.yale.edu/2010/det/papers/apsys11-ck.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"A Virtual Memory Foundation for Scalable Deterministic Parallelism",
+   	"Authors":["Yu Zhang","Bryan Ford"],
+   	"Link":"http://dedis.cs.yale.edu/2010/det/papers/apsys11-vm.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Certifying the Concurrent State Table Implementation in a Surgical Robotic System",
+   	"Authors":["Yanni Kouskoulas","Ming Fu","Zhong Shao","Peter Kazanzides"],
+   	"Link":"http://flint.cs.yale.edu/flint/publications/statevec-tr.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Deterministic OpenMP for Race-Free Parallelism",
+   	"Authors":["Amittai Aviram","Bryan Ford"],
+   	"Link":"https://www.usenix.org/legacy/event/hotpar11/tech/final_files/Aviram.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+  	"Title":"Workspace Consistency: A Programming Model for Shared Memory Parallelism",
+   	"Authors":["Amittai Aviram","Bryan Ford","Yu Zhang"],
+   	"Link":"http://dedis.cs.yale.edu/2010/det/papers/wodet11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Weak Updates and Separation Logic",
+   	"Authors":["Gang Tan","Zhong Shao","Xinyu Feng","Hongxu Cai"],
+  	"Link":"http://flint.cs.yale.edu/flint/publications/wusl2.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+   	"Title":"Certified Software",
+   	"Authors":["Zhong Shao"],
+   	"Link":"http://flint.cs.yale.edu/flint/publications/certsoft.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+    "Title": "Quantitative Reasoning for Proving Lock-Freedom",
+    "Authors":["Jan Hoffmann","Mike Marmar","Zhong Shao"],
+    "Link":"http://flint.cs.yale.edu/certikos/slides/lockfreedom_darpa.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+    "Title": "Compositional Verification of a Baby Virtual Memory Manager",
+	"Authors":["Alexander Vaynberg","Zhong Shao"],
+	"Link":"http://flint.cs.yale.edu/flint/publications/babyvmm_tr.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Modular Verification of Concurrent Thread Management",
+	"Authors":["Yu Guo","Xinyu Feng","Zhong Shao","Peizhi Shi"],
+	"Link":"http://flint.cs.yale.edu/shao/papers/ctm.html",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Icebergs in the Clouds: the Other Risks of Cloud Computing",
+	"Authors":["Bryan Ford"],
+	"Link":"https://www.usenix.org/system/files/conference/hotcloud12/hotcloud12-final54.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Plugging Side-Channel Leaks with Timing Information Flow Control",
+	"Authors":["Bryan Ford"],
+	"Link":"http://dedis.cs.yale.edu/2010/det/papers/hotcloud12-tifc.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Efficient System-Enforced Deterministic Parallelism",
+	"Authors":["Amittai Aviram","Shu-Chun Weng","Sen Hu","Bryan Ford"],
+	"Link":"https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Aviram.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Proving the Correctness of Concurrent Robot Software",
+   	"Authors":["Peter Kazanzides","Yanni Kouskoulas","Anton Deguet","Zhong Shao"],
+	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06225285",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Static and User-Extensible Proof Checking",
+	"Authors":["Antonis Stampoulis","Zhong Shao"],
+	"Link":"http://astampoulis.github.io/popl2012/paper.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "CertiKOS: A Certified Kernel for Secure Cloud Computing",
+	"Authors":["Liang Gu","Alexander Vaynberg","Bryan For","Zhong Shao","David Costanzo"],
+	"Link":"http://dedis.cs.yale.edu/2010/det/papers/apsys11-ck.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Certifying the Concurrent State Table Implementation in a Surgical Robotic System",
+	"Authors":["Yanni Kouskoulas","Ming Fu","Zhong Shao","Peter Kazanzides"],
+	"Link":"http://flint.cs.yale.edu/flint/publications/statevec-tr.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Deterministic OpenMP for Race-Free Parallelism",
+	"Authors":["Amittai Aviram","Bryan Ford"],
+    "Link":"https://www.usenix.org/legacy/event/hotpar11/tech/final_files/Aviram.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Workspace Consistency: A Programming Model for Shared Memory Parallelism",
+	"Authors":["Amittai Aviram","Bryan Ford","Yu Zhang"],
+	"Link":"http://dedis.cs.yale.edu/2010/det/papers/wodet11.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"CRASH",
+   	"Program Teams": ["Yale University"],
+	"Title": "Weak Updates and Separation Logic",
+	"Authors":["Gang Tan","Zhong Shao","Xinyu Feng","Hongxu Cai"],
+	"Link":"http://flint.cs.yale.edu/flint/publications/wusl2.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+}
+=======
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
 [
     {
         "DARPA Program":"CRASH",
@@ -46,7 +2291,11 @@
             "Randy Pollack",
             "Adrien Suree"
         ],
+<<<<<<< HEAD
         "Link":"http://www.cis.upenn.edu/~bcpierce/papers/csf2013.pdf",
+=======
+        "Link":"http://www.cis.upenn.edu/~montagu/publications/2013/csf2013-submission.pdf",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Categories":[
             ""
         ],
@@ -626,7 +2875,11 @@
             "Huayang Guo",
             "Junfeng Yang"
         ],
+<<<<<<< HEAD
         "Link":"http://www.cs.columbia.edu/~junfeng/papers/peregrine-sosp11.pdf",
+=======
+        "Link":"http://rcs.cs.columbia.edu/papers/peregrine-sosp11.pdf",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Categories":[
             ""
         ],
@@ -1770,7 +4023,11 @@
             "M. Henson",
             "S. Taylor"
         ],
+<<<<<<< HEAD
         "Link":"http://connection.ebscohost.com/c/articles/86139919/attack-mitigation-through-memory-encryption-security-enhanced-commodity-processors",
+=======
+        "Link":"http://link.springer.com/chapter/10.1007/978-3-642-38980-1_19",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Categories":[
             ""
         ],
@@ -1972,6 +4229,32 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
+<<<<<<< HEAD
+=======
+            "Dartmouth College"
+        ],
+        "Title":"Comparing Swarm Algorithms for Multi-Source Localization",
+        "Authors":[
+            "K. McGill",
+            "S. Taylor"
+        ],
+        "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5424171",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
             "Kestrel Institute"
         ],
         "Title":"Derivational Software Engineering of the Future of Software Engineering Workshop (FoSER)",
@@ -2027,7 +4310,11 @@
             "Douglas R. Smith",
             "William Cook"
         ],
+<<<<<<< HEAD
         "Link":"http://repositories.lib.utexas.edu/bitstream/handle/2152/ETD-UT-2012-08-6242/NEDUNURI-DISSERTATION.pdf?sequence=1",
+=======
+        "Link":"http://www.cs.utexas.edu/~wcook/Drafts/2012/Synt.pdf",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Categories":[
             ""
         ],
@@ -2320,7 +4607,11 @@
             "Nickolai Zeldovich",
             "M. Frans Kaashoek"
         ],
+<<<<<<< HEAD
         "Link":"http://pdos.csail.mit.edu/papers/ub:apsys12.pdf",
+=======
+        "Link":"http://sigops.org/sosp/sosp13/papers/p260-wang.pdf",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Categories":[
             ""
         ],
@@ -4672,7 +6963,11 @@
             "Warren A. Hunt, Jr.",
             "Matt Kaufmann"
         ],
+<<<<<<< HEAD
         "Link":"http://link.springer.com/chapter/10.1007/978-3-642-39634-2_31",
+=======
+        "Link":"http://www.cs.utexas.edu/users/ragerdl/papers/battelle-acl2p.pdf",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Categories":[
             ""
         ],
@@ -4833,6 +7128,35 @@
         "Program Teams":[
             "University of Wisconsin - Madison"
         ],
+<<<<<<< HEAD
+=======
+        "Title":"Declarative Temporal, and Practical Programming with Capabilities",
+        "Authors":[
+            "W.R. Harris",
+            "S. Jha",
+            "T. Reps",
+            "J. Anderson",
+            "R.N.M. Watson"
+        ],
+        "Link":"http://www.ieee-security.org/TC/SP2013/papers/4977a018.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"CRASH",
+        "Program Teams":[
+            "University of Wisconsin - Madison"
+        ],
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Title":"Secure Programming via Visibly Pushdown Safety Games",
         "Authors":[
             "W.R. Harris",
@@ -4885,7 +7209,11 @@
         "Program Teams":[
             "University of Wisconsin - Madison"
         ],
+<<<<<<< HEAD
         "Title":"OpenNWA: A Nested-Word-Automaton Library",
+=======
+        "Title":"OpenNWA: A Nested-Word-Automation Library",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Authors":[
             "E. Driscoll",
             "A. Thakur",
@@ -5383,6 +7711,7 @@
         ],
         "New Date":"",
         "Update Date":""
+<<<<<<< HEAD
     },
     {
         "DARPA Program":"CRASH",
@@ -5696,4 +8025,8 @@
         "New Date":"",
         "Update Date":""
     }
+=======
+    }
+>>>>>>> Stashed changes
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
 ]

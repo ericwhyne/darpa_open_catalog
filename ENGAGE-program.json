@@ -1,6 +1,7 @@
 {
     "DARPA Program Name":"ENGAGE",
     "Long Name":"ENGAGE",
+<<<<<<< HEAD
     "Program Teams":"",
     "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/ENGAGE.aspx",
     "Display Software Columns":[
@@ -20,5 +21,15 @@
     "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Daniel_Ragsdale.aspx",
     "Program Manager":"Dr. Daniel Ragsdale",
     "Program Manager Email":"daniel.ragsdale@darpa.mil",
+=======
+    "Program Teams": "",
+    "Description": "DARPA created the ENGAGE program to enable the development of education and training systems that are better, faster, continuously optimized, and massively scalable.  ENGAGE is exploring software- and data-intensive education and training methods that harness the power of large user populations to optimize instruction.",
+    "Link": "http://www.darpa.mil/Our_Work/I2O/Programs/ENGAGE.aspx",
+    "Display Software Columns": ["Team","Project","Category","Code","Description","License"],
+	"Display Pubs Columns": ["Team","Title","Link"],	
+    "Program Manager Link": "http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Daniel_Ragsdale.aspx",
+    "Program Manager": "Dr. Daniel Ragsdale",
+    "Program Manager Email": "daniel.ragsdale@darpa.mil",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
     "Image":""
 }

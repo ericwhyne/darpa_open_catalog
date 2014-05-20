@@ -1,3 +1,570 @@
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+[
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Applied Communication Sciences"],
+   	"Title": "Multi-Resource Allocation: Fairness-Efficiency Tradeoffs in a Unifying Framework",
+   	"Authors":["C. Joe-Wong", "S. Sen", "T. Lan", "M. Chiang"],
+   	"Link":"http://www.tc.umn.edu/~ssen/papers/Infocom2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Applied Communication Sciences"],
+   	"Title": "Autonomous, Collaborative Control for Resilient Cyber Defense",
+   	"Authors":["Stuart Wagner","Eric van den Berg","Jim Giacopelli","Andrei Ghetie","Jim Burns","Miriam Tauil","Soumya Sen","Michael Wang","Mung Chiang","Tian Lan","Robert Laddaga","Paul Robertson","Prakash Manghwani"],
+   	"Link":"http://www.princeton.edu/~mwseven/ACCORD2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Adventium Enterprises"],
+   	"Title": "Constraint-Based Allocation of Cloud Resources to Maximize Mission Effectiveness",
+   	"Authors":["M. Boddy"],
+   	"Link":"http://www.adventiumlabs.com/sites/adventiumlabs.com/files/publication/Boddy_COPLAS-12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["BAE Systems","University of Pennsylvania","Portland State University"],
+   	"Title": "Private and Verifiable Interdomain Routing Decisions",
+   	"Authors":["Mingchen Zhao", "Wenchao Zhou", "Alexander J.T. Gurney", "Andreas Haeberlen", "Micah Sherr", "Boon Thau Loo"],
+   	"Link":"http://www.cis.upenn.edu/~ahae/papers/pvr-sigcomm2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "Cloudopsy: An Autopsy of Data Flows in the Cloud",
+   	"Authors":["Angeliki Zavou", "Vasilis Pappas", "Vasileios P. Kemerlis", "Michalis Polychronakis", "Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/~vpappas/papers/cloudopsy.hci13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "Sound and Precise Analysis of Parallel Programs through Schedule Specialization",
+   	"Authors":["Jingyue Wu", "Yang Tang", "Gang Hu", "Heming Cui", "Junfeng Yang"],
+   	"Link":"http://www.cs.columbia.edu/~junfeng/papers/wu-pldi12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "Concurrency Attacks",
+   	"Authors":["Junfeng Yang", "Ang Cui", "Sal Stolfo", "Simha Sethumadhavan"],
+   	"Link":"http://www.cs.columbia.edu/~junfeng/papers/con-hotpar12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "CleanOS: Limiting Mobile Data Exposure with Idle Eviction",
+   	"Authors":["Yang Tang", "Philip Ames", "Sravan Bhamidipati", "Ashish Bijlani", "Roxana Geambasu", "Nikhil Sarda"],
+	"Link":"http://www.cs.columbia.edu/~roxana/research/projects/cleanos/osdi2012cleanos.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "Self-healing Multitier Architectures Using Cascading Rescue Points",
+   	"Authors":["Angeliki Zavou", "Georgios Portokalidis", "Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/nsl/papers/2012/crp.acsac12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "Exploiting Split Browsers for Efficiently Protecting User Data",
+   	"Authors":["Angeliki Zavou", "Elias Athanasopoulos", "Georgios Portokalidis", "Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/~angelos/Papers/2012/split_browser.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "Adaptive Defenses for Commodity Software through Virtual Application Partitioning",
+   	"Authors":["Dimitris Geneiatakis", "Georgios Portokalidis", "Vasileios P. Kemerlis", "Angelos D. Keromytis"],
+   	"Link":"http://www.cs.columbia.edu/nsl/papers/2012/vap.ccs12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+  	"Title": "Lost in Translation: Improving Decoy Documents via Automated Translation",
+   	"Authors":["Jonathan Voris", "Nathaniel Boggs", "Salvatore J. Stolfo"],
+  	"Link":"http://ids.cs.columbia.edu/sites/default/files/writ_12_0.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "Fog Computing: Mitigating Insider Data Theft Attacks in the Cloud",
+   	"Authors":["Salvatore J. Stolfo", "Malek Ben Salem", "Angelos D. Keromytis"],
+   	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6227695",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "Position Paper: The MEERKATS Cloud Security Architecture",
+  	"Authors":["Angelos D. Keromytis", "Roxana Geambasu", "Simha Sethumadhavan", "Salvatore J. Stolfo", "Junfeng Yang", "Azzedine Benameur", "Marc Dacier", "Matthew Elder", "Darrell Kienzle", "Angelos Stavrou"],
+	"Link":"http://www.cs.columbia.edu/~roxana/research/projects/evade/meerkats-position.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Columbia University","Symantec"],
+   	"Title": "Towards a Universal Data Provenance Framework using Dynamic Instrumentation",
+   	"Authors":["Eleni Gessiou", "Vasilis Pappas", "Elias Athanasopoulos", "Angelos D. Keromytis", "Sotiris Ioannidis"],
+   	"Link":"http://www.cs.columbia.edu/~vpappas/papers/provenance.sec12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "Application-Driven TCP Recovery",
+   	"Authors":["Robert Surton", "Ken Birman", "Robbert van Renesse"],
+   	"Link":"http://www.cs.cornell.edu/projects/quicksilver/public_pdfs/tcpr.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "SoNIC: Precise Realtime Software Access and Control of Wired Networks",
+  	"Authors":["Ki Suh Lee", "Han Wang", "Hakim Weatherspoon"],
+   	"Link":"http://fireless.cs.cornell.edu/sonic/sonic_nsdi2013.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "Secure Abstraction with Code Capabilities",
+   	"Authors":["Robbert van Renesse", "Havard Johansen", "Nihar Naigaonkar", "Dag Johansen"],
+   	"Link":"http://www.cs.cornell.edu/projects/quicksilver/public_pdfs/pdp2013.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+  	"Program Teams": ["Cornell University"],
+   	"Title": "Gecko: Contention-Oblivious Disk Arrays for Cloud Storage",
+   	"Authors":["Ji-Yong Shin", "Mahesh Balakrishnan", "Tudor Marian", "Hakim Weatherspoon"],
+   	"Link":"https://www.usenix.org/system/files/conference/hotstorage12/hotstorage12-final57.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "Byzantine Chain Replication",
+   	"Authors":["Robbert van Renesse", "Chi Ho", "Nicolas Schiper"],
+   	"Link":"http://www.cs.cornell.edu/~ns672/publications/2012OPODIS.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "A Diversified and Correct-by-Construction Broadcast Service",
+   	"Authors":["Vincent Rahli", "Nicolas Schiper", "Robbert van Renesse", "Mark Bickford", "Robert L. Constable"],
+  	"Link":"http://www.cs.cornell.edu/~ns672/publications/2012WRIPE.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "ShadowDB: A Replicated Database on a Synthesized Consensus Core",
+   	"Authors":["Nicolas Schiper", "Vincent Rahli", "Robbert van Renesse", "Mark Bickford", "Robert L. Constable"],
+   	"Link":"https://www.usenix.org/system/files/conference/hotdep12/hotdep12-final14.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "Live Network Streaming with Utilities and Cost",
+   	"Authors":["Ymir Vigfusson", "Annie Liu", "Winnie Liu", "Yuanchao Zhu", "Gunnar Sigurbjornsson", "Kristjan Jonsson", "Qi Huang", "Ken Birman", "Daniel A. Freedman"],
+   	"Link":"http://www.ymsir.com/papers/gradient-ladis.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "The Xen-Blanket: Virtualize Once, Run Everywhere",
+   	"Authors":["Dan Williams", "Hani Jamjoom", "Hakim Weatherspoon"],
+   	"Link":"http://www.cs.cornell.edu/courses/CS5412/2014sp/papers/xen_blanket_eurosys_2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "Overcoming CAP with Consistent Soft-State Replication",
+   	"Authors":["Kenneth Birman", "Dan Freedman", "Qi Huang", "Patrick Dowell"],
+   	"Link":"https://www.cs.cornell.edu/Projects/mrc/IEEE-CAP.16.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "Fact-based Inter-Process Communication Primitives for Programming Distributed Systems",
+   	"Authors":["Robbert van Renesse"],
+  	"Link":"http://www.cs.cornell.edu/projects/quicksilver/public_pdfs/lada2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "Virtually Synchronous Methodology for Dynamic Service Replication",
+   	"Authors":["Ken Birman", "Dahlia Malkhi", "Robbert van Renesse"],
+   	"Link":"http://www.cs.cornell.edu/projects/quicksilver/public_pdfs/vs-submit.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "Routers for the Cloud. Can the Internet Achieve 5-Nines Availability?",
+  	"Authors":["Andrei Agapi", "Ken Birman", "Robert Broberg", "Chase Cotton", "Thilo Kielmann", "Martin Millnert", "Rick Payne", "Robert Surton", "Robbert van Renesse"],
+   	"Link":"http://www.cs.cornell.edu/~burgess/tcpr/routers-for-the-cloud.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Cornell University"],
+   	"Title": "Plug into the Supercloud",
+   	"Authors":["Dan Williams", "Hani Jamjoom", "Hakim Weatherspoon"],
+   	"Link":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6365162&sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6488666%29",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Johns Hopkins University","Purdue University"],
+   	"Title": "Intrusion-Tolerant Cloud Monitoring and Control",
+   	"Authors":["D. Obenshain", "T. Tantillo", "A. Newell", "C. Nita-Rotaru", "Y. Amir"],
+   	"Link":"http://www.cnds.jhu.edu/pub/papers/LADIS2012.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Johns Hopkins University","Purdue University"],
+   	"Title": "Increasing Network Resiliency by Optimally Assigning Diverse Variants to Routing Nodes",
+   	"Authors":["A. Newell", "D. Obenshain", "T. Tantillo", "C. Nita-Rotaru", "Y. Amir"],
+   	"Link":"http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2766&context=cstech",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Johns Hopkins University","Purdue University"],
+   	"Title": "How to Catch L2-Heavy-Hitters on Sliding Windows",
+   	"Authors":["V. Braverman", "R. Gelles", "R. Ostrovsky"],
+   	"Link":"http://arxiv.org/pdf/1012.3130.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Johns Hopkins University","Purdue University"],
+   	"Title": "How Hard is Counting Triangles in the Streaming Model",
+   	"Authors":["V. Braverman", "R. Ostrovsky", "D. Vilenchik"],
+   	"Link":"http://arxiv.org/pdf/1304.1458.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Massachusetts Institute of Technology"],
+   	"Title": "Dancing with Uncertainty",
+   	"Authors":["Sasa Misailovic", "Stelios Sidiroglou", "Martin Rinard"],
+   	"Link":"http://people.csail.mit.edu/stelios/papers/races12.dubstep.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Massachusetts Institute of Technology"],
+   	"Title": "Automatic Input Rectification",
+  	"Authors":["Fan Long", "Vijay Ganesh", "Michael Carbin", "Stelios Sidiroglou", "Martin Rinard"],
+   	"Link":"http://people.csail.mit.edu/stelios/papers/input_rect_icse12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Massachusetts Institute of Technology"],
+   	"Title": "Bolt: On-Demand Infinite Loop Escape in Unmodified Binaries",
+   	"Authors":["Michael King", "Sasa Misailovic", "Michael Carbin", "Martin C. Rinard"],
+   	"Link":"http://people.csail.mit.edu/rinard/paper/oopsla12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Smart Information Flow Technologies","DOLL"],
+   	"Title": "STRATUS: Strategic and Tactical Resiliency Against Threats to Ubiquitous Systems",
+   	"Authors":["M. Burstein", "R. Goldman", "P. Robertson", "R. Laddaga", "R. Balzer", "N. Goldman", "C. Geib", "U. Kuter", "D. McDonald", "J. Maraist", "P. Keller", "D. Wile"],
+   	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6498378",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Smart Information Flow Technologies","DOLL"],
+   	"Title": "Adaptive Security and Trust",
+   	"Authors":["P. Robertson", "R. Laddaga"],
+   	"Link":"http://sdiwc.net/digital-library/web-admin/upload-pdf/00000557.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["Smart Information Flow Technologies","DOLL"],
+  	"Title": "The GoDeL Planning System: A More Perfect Union of Domain-Independent and Hierarchical Planning",
+   	"Authors":["V. Shivashankar", "R. Alford", "U. Kuter", "D. Nau"],
+   	"Link":"http://www.cs.umd.edu/~nau/papers/shivashankar2013godel.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title": "FRESCO: Modular Composable Security Services for Software-Defined Networking",
+  	"Authors":["Seungwon Shin", "Phil Porras", "Vinod Yegneswaran", "Martin Fong", "Guofei Gu", "Mabry Tyson"],
+   	"Link":"http://www.csl.sri.com/users/vinod/papers/fresco.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title": "Unikernels: Library Operating System for the Cloud",
+   	"Authors":["Anil Madhavapeddy", "Richard Mortier", "Charalampos Rotsos", "David Scott", "Balraj Singh", "Thomas Gazagnaire", "Steven Smith", "Steven Hand", "Jon Crowcroft"],
+   	"Link":"http://anil.recoil.org/papers/2013-asplos-mirage.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title": "Declarative, Temporal, and Practical Programming with Capabilities",
+   	"Authors":["William R. Harris", "Somesh Jha", "Thomas Reps", "Jonathan Anderson", "Robert N. M. Watson"],
+   	"Link":"http://www.ieee-security.org/TC/SP2013/papers/4977a018.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title": "AVANT-GUARD: Scalable and Vigilant Switch Flow Management in Software-Defined Networks",
+   	"Authors":["Seungwon Shin", "Guofei Gu", "Phil Porras", "Vinod Yegneswaran"],
+   	"Link":"http://faculty.cse.tamu.edu/guofei/paper/AvantGuard-CCS13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+   	"Title": "Authentication for Resilience: The Case of SDN",
+   	"Authors":["Ross Anderson", "Dongting Yu"],
+   	"Link":"https://www.cl.cam.ac.uk/~rja14/Papers/sdnresilience-spw2013-yu.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["SRI International","University of Cambridge"],
+  	"Title": "Enabling Hardware Exploration in Software-Defined Networking: A Flexible Portable OpenFlow Switch",
+  	"Authors":["Asif Khan", "Nirav Dave"],
+   	"Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6546009",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "Scalable Network Virtualization in Software-Defined Networks",
+   	"Authors":["Dmitry Drutskoy", "Eric Keller", "Jennifer Rexford"],
+   	"Link":"http://www.cs.princeton.edu/~jrex/papers/ieeeinternet12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "Live Migration of an Entire Network (And Its Hosts)",
+   	"Authors":["Eric Keller", "Soudeh Ghorbani", "Matthew Caesar", "Jennifer Rexford"],
+   	"Link":"http://www.cs.princeton.edu/~jrex/papers/lime-hotnets12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "DEFINED: Deterministic Execution for Interactive Control-Plane Debugging",
+   	"Authors":["Chia-Chi Lin", "Virajith Jalaparti", "Matthew Caesar", "Kobus van der Merwe"],
+   	"Link":"http://web.engr.illinois.edu/~jalapar1/papers/defined_atc13.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "VeriFlow: Verifying Network-Wide Invariants in Real Time",
+   	"Authors":["Ahmed Khurshid", "Kelvin Zou", "Wenxuan Zhou", "Matthew Caesar", "P. Brighten Godfrey"],
+   	"Link":"http://web.engr.illinois.edu/~khurshi1/papers/veriflow-nsdi-2013.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "Walk the Line: Consistent Network Updates with Bandwidth Guarantees",
+   	"Authors":["Soudeh Ghorbani", "Matthew Caesar"],
+   	"Link":"http://web.engr.illinois.edu/~ghorban2/papers/hot18-ghorbani.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "SybilControl: Practical Sybil Defense with Computational Puzzles",
+   	"Authors":["Frank Li", "Prateek Mittal", "Mathew Caesar", "Nikita Borisov"],
+   	"Link":"https://www.eecs.berkeley.edu/~frankli/li-sybilcontrol.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "Tiresias: Online Anomaly Detection for Hierarchical Operational Network Data",
+   	"Authors":["Chi-Yao Hong", "Matthew Caesar", "Nick Duffield", "Jia Wang"],
+   	"Link":"http://www.research.att.com/techdocs/TD_100295.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "SMOG: A Cloud Platform for Seamless Wide area Migration of Networked Games",
+   	"Authors":["Virajith Jalaparti", "Matthew Caesar", "Seungjoon Lee", "Jeffrey Pang", "Kobus van der Merwe"],
+   	"Link":"http://www2.research.att.com/~slee/pubs/smog-netgames12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "Programmable Host/Network Traffic Management",
+   	"Authors":["Peng Sun", "Minian Yu", "Michael Freedman", "Jennifer Rexford", "David Walker"],
+   	"Link":"http://www.cs.princeton.edu/~jrex/papers/hone12.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "Transparent, Live Migration of a Software-Defined Network",
+   	"Authors":["Soudeh Ghorbani", "Cole Schlesinger", "Matthew Monaco", "Eric Keller", "Matthew Caesar", "Jennifer Rexford", "David Walker"],
+   	"Link":"http://www.cs.princeton.edu/~cschlesi/nwmig.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+},
+{
+    "DARPA Program":"MRC",
+   	"Program Teams": ["University of Illinois at Urbana-Champaign","Princeton University"],
+   	"Title": "HotSwap: Correct and Efficient Controller Upgrades for Software-Defined Networks",
+   	"Authors":["Laurent Vanbever", "Joshua Reich", "Theophilus Benson", "Nate Foster", "Jennifer Rexford"],
+   	"Link":"http://www.cs.cornell.edu/~jnfoster/papers/frenetic-hotswap.pdf",
+    "Categories":[""],
+    "Subcategories":[""],
+    "ACM 1998 classification code":[""]
+}
+]
+=======
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
 [
     {
         "DARPA Program":"MRC",
@@ -390,7 +957,11 @@
             "Angelos D. Keromytis",
             "Sotiris Ioannidis"
         ],
+<<<<<<< HEAD
         "Link":"http://www.cs.columbia.edu/~vpappas/papers/provenance.sec12.pdf",
+=======
+        "Link":" http://www.cs.columbia.edu/~vpappas/papers/provenance.sec12.pdf",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Categories":[
             ""
         ],
@@ -665,7 +1236,11 @@
         "Authors":[
             "Robbert van Renesse"
         ],
+<<<<<<< HEAD
         "Link":"http://www.cs.cornell.edu/projects/quicksilver/public_pdfs/lada2012.pdf",
+=======
+        "Link":" http://www.cs.cornell.edu/projects/quicksilver/public_pdfs/lada2012.pdf",
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Categories":[
             ""
         ],
@@ -1289,6 +1864,35 @@
             "University of Illinois at Urbana-Champaign",
             "Princeton University"
         ],
+<<<<<<< HEAD
+=======
+        "Title":"VeriFlow: Verifying Network-Wide Invariants in Real Time",
+        "Authors":[
+            "Ahmed Khurshid",
+            "Wenxuan Zhou",
+            "Matthew Caesar",
+            "P. Brighten Godfrey"
+        ],
+        "Link":"http://web.engr.illinois.edu/~khurshi1/papers/veriflow-nsdi-2013.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"MRC",
+        "Program Teams":[
+            "University of Illinois at Urbana-Champaign",
+            "Princeton University"
+        ],
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
         "Title":"Walk the Line: Consistent Network Updates with Bandwidth Guarantees",
         "Authors":[
             "Soudeh Ghorbani",
@@ -1469,4 +2073,9 @@
         "New Date":"",
         "Update Date":""
     }
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> Stashed changes
+>>>>>>> dae242539e3a5c144845f897a7853f150ee221b4
