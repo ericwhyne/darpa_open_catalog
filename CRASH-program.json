@@ -16,7 +16,7 @@
         "Title",
         "Link"
     ],
-    "Description":"The Clean-Slate Design of Resilient, Adaptive, Secure Hosts (CRASH) program is focused on the design of new computer systems that are highly resistant to cyber-attack, can adapt after a successful attack to continue rendering useful services, learn from previous attacks how to guard against and cope with future attacks, and can repair themselves after attacks have succeeded. This program addresses computer architectures from processors and instruction sets, includes operating systems and programming languages, and extends up to application level tools.",
+    "Description":"The Clean-Slate Design of Resilient, Adaptive, Secure Hosts (CRASH) program is focused on the design of new computer systems that are highly resistant to cyberattack, can adapt after a successful attack to continue rendering useful services, learn from previous attacks how to guard against and cope with future attacks, and can repair themselves after attacks have succeeded. This program addresses computer architectures from processors and instruction sets, includes operating systems and programming languages, and extends up to application level tools.",
     "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr__Robert_Laddaga.aspx",
     "Program Manager":"Dr. Robert Laddaga",
     "Program Manager Email":"Robert.Laddaga@darpa.mil",
