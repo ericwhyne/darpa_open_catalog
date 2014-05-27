@@ -115,7 +115,7 @@
         "External Link":"http://hails.scs.stanford.edu/",
         "Public Code Repo":"ssh://github.com/scslab/hails.git",
         "Instructional Material":"",
-        "Description":"Hails is designed for building web platforms, where it is expected that a site will comprise many mutually-distrustful components written by a variety of entities.  Hails is built around the two core principles of Separation of Policy and Mandatory Access Control. (Haskell)",
+        "Description":"Hails is designed for building web platforms, where it is expected that a site will comprise many mutually-distrustful components written by a variety of entities.  Hails is built around the two core principles of Separation of Policy and Mandatory Access Contrl. (Haskell)",
         "License":[
             "GPLv2"
         ],
