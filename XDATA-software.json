@@ -2787,6 +2787,58 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+            "Sotera Defense Solutions, Inc."
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Graphene",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link":"https://github.com/Sotera/graphene",
+        "Public Code Repo":"https://github.com/Sotera/graphene",
+        "Instructional Material":"2014-07",
+        "Stats":"graphene",
+        "Description":"A general purpose web application framework for searching and visualizing lists and graphs of properties and events.",
+        "Internal Code Repo":"tools\\analytics\\sotera\\Graphene",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java, JavaScript"
+        ],
+        "Platform Requirements":[
+            "Java 7, Tomcat"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Visualization, Graph"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
             "Stanford University - Boyd"
         ],
         "Contributors":[
