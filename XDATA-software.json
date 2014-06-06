@@ -695,10 +695,10 @@
         ],
         "Software":"SKYLARK: Randomized Numerical Linear Algebra and ML",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=2752591",
-        "External Link":"http://xdata-skylark.github.io/",
-        "Public Code Repo":"2014-06",
+        "External Link":"http://xdata-skylark.github.io/libskylark/",
+        "Public Code Repo":"https://github.com/xdata-skylark/libskylark.git",
         "Instructional Material":"2014-07",
-        "Stats":"",
+        "Stats":"libskylark",
         "Description":"SKYLARK implements Numerical Linear Algebra (NLA) kernels based on sketching for distributed computing platforms.  Sketching reduces dimensionality through randomization, and includes Johnson-Lindenstrauss random projection (JL); a faster version of JL based on fast transform techniques; sparse techniques that can be applied in time proportional to the number of nonzero matrix entries; and methods for approximating kernel functions and Gram matrices arising in nonlinear statistical modeling problems. We have a library of such sketching techniques, built using MPI in C++ and callable from Python, and are applying the library to regression, low-rank approximation,   and kernel-based machine learning tasks, among other problems. (C++/Python)",
         "Internal Code Repo":"tools\\analytics\\ibm\\skylark",
         "License":[
