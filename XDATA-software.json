@@ -589,7 +589,7 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"libNMF: A high-performance library for nonnegative matrix factorization and hierarchical clustering",
+        "Software":"SmallK: A high-performance library for nonnegative matrix factorization and hierarchical clustering",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274597",
         "External Link":"",
         "Public Code Repo":"Not Ready for Release",
