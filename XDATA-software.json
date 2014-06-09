@@ -2856,6 +2856,7 @@
         "Description":"An analytic for creating networks from geo-temporal track data based on time/space co-occurrence. Includes UI for visualization of communities and tracks.",
         "Internal Code Repo":"",
         "License":[
+            "ALv2"
         ],
         "Languages":[
             "Python",
