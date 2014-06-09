@@ -2839,6 +2839,61 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+            "Sotera Defense Solutions, Inc."
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Track Communities",
+        "Internal Link":"",
+        "External Link":"https://github.com/Sotera/track-communities",
+        "Public Code Repo":"https://github.com/Sotera/track-communities.git",
+        "Instructional Material":"",
+        "Stats":"track-communities",
+        "Description":"An analytic for creating networks from geo-temporal track data based on time/space co-occurrence. Includes UI for visualization of communities and tracks.",
+        "Internal Code Repo":"",
+        "License":[
+        ],
+        "Languages":[
+            "Python",
+            "JavaScript"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            "Aggregate Micro Paths",
+            "Distributed Louvain Modularity"
+        ],
+        "Dependent module URLs":[
+            "http://sotera.github.io/aggregate-micro-paths/",
+            "http://sotera.github.io/distributed-louvain-modularity/"
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics",
+            "Visualization”
+        ],
+        "New Date":"",
+        "Update Date":""
+    },	
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
             "Stanford University - Boyd"
         ],
         "Contributors":[
