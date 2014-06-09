@@ -589,13 +589,13 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"libNMF: A high-performance library for nonnegative matrix factorization and hierarchical clustering",
+        "Software":"SmallK",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274597",
         "External Link":"",
-        "Public Code Repo":"Not Ready for Release",
-        "Instructional Material":"2014-07",
+        "Public Code Repo":"https://github.com/smallk/smallk.github.io/tree/master/code",
+        "Instructional Material":"http://smallk.github.io/",
         "Stats":"",
-        "Description":"LibNMF is a high-performance, parallel library for nonnegative matrix factorization on both dense and sparse matrices written in C++. Implementations of several different NMF algorithms are provided, including multiplicative updating, hierarchical alternating least squares, nonnegative least squares with block principal pivoting, and a new rank2 algorithm. The library provides an implementation of hierarchical clustering based on the rank2 NMF algorithm.",
+        "Description":"SmallK is a high-performance, parallel library for nonnegative matrix factorization on both dense and sparse matrices written in C++. Implementations of several different NMF algorithms are provided, including multiplicative updating, hierarchical alternating least squares, nonnegative least squares with block principal pivoting, and a new rank2 algorithm. The library provides an implementation of hierarchical clustering based on the rank2 NMF algorithm. (C++)",
         "Internal Code Repo":"tools\\analytics\\gatech\\_x000D_\n",
         "License":[
             "ALv2"
