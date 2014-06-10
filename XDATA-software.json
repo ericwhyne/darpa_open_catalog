@@ -1419,18 +1419,22 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "MDA Information Systems, Inc.",
-            "Jet Propulsion Laboratory",
-            "USC/Information Sciences Institute"
+            "Jet Propulsion Laboratory"
         ],
         "Contributors":[
-            ""
+            "Dr. Chris A. Mattmann", 
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani", 
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
         ],
         "Sub-contractors":[
             ""
         ],
-        "Software":"OODT",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
+        "Software":"Apache OODT",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
         "External Link":"http://oodt.apache.org/",
         "Public Code Repo":"https://svn.apache.org/repos/asf/oodt/",
         "Instructional Material":"2014-07",
@@ -1441,10 +1445,11 @@
             "ALv2"
         ],
         "Languages":[
-            "Java"
+            "Java",
+            "Python"
         ],
         "Platform Requirements":[
-            ""
+            "*nix Environment"
         ],
         "Dependent modules":[
             ""
@@ -1453,13 +1458,65 @@
             ""
         ],
         "Component modules":[
-            ""
+            "agility",
+            "app",
+            "balance",
+            "catalog",
+            "cli",
+            "commons",
+            "core",
+            "crawler",
+            "curator",
+            "filemgr",
+            "grid",
+            "metadata",
+            "mvn",
+            "opendapps",
+            "pcs",
+            "pge",
+            "product",
+            "profile",
+            "protocol",
+            "pushpull",
+            "resource",
+            "sso",
+            "tools",
+            "webapp",
+            "workflow",
+            "xmlps",
+            "xmlquery"
         ],
         "Component module URLs":[
-            ""
+            "http://svn.apache.org/repos/asf/oodt/trunk/agility/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/app/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/balance/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/catalog/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/cli/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/commons/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/core/"
+            "http://svn.apache.org/repos/asf/oodt/trunk/crawler/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/curator/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/filemgr/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/grid/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/metadata/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/mvn/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/opendapps/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/pcs/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/pge/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/product/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/profile/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/protocol/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/pushpull/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/resource/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/sso/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/tools/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/webapp/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/workflow/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/xmlps/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/xmlquery/"
         ],
         "Industry":[
-            ""
+            "Federally Funded Research and Development Centre"
         ],
         "Functionality":[
             ""
@@ -1473,12 +1530,16 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "MDA Information Systems, Inc.",
-            "Jet Propulsion Laboratory",
-            "USC/Information Sciences Institute"
+            "Jet Propulsion Laboratory"
         ],
         "Contributors":[
-            ""
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
         ],
         "Sub-contractors":[
             ""
@@ -1515,6 +1576,160 @@
         ],
         "Industry":[
             ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Contributors":[
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Apache Tika",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
+        "External Link":"http://tika.apache.org",
+        "Public Code Repo":"http://svn.apache.org/repos/asf/tika/trunk/",
+        "Instructional Material":"2014-07",
+        "Stats":"tika",
+        "Description":"The Apache Tika™ toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries.",
+        "Internal Code Repo":"tools\\utilities\\tika",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            "Java Virtual Machine"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            "tika-app",
+            "tika-bundle",
+            "tika-core",
+            "tika-dotnet",
+            "tika-java7",
+            "tika-parent",
+            "tika-parsers",
+            "tika-serialization",
+            "tika-server",
+            "tika-translate",
+            "tika-xmp"
+        ],
+        "Component module URLs":[
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-app/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-bundle/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-core/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-dotnet/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-java7/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-parent/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-parsers/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-serialization/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-server/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-translate/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-xmp/"
+        ],
+        "Industry":[
+            "Federally Funded Research and Development Centre"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Contributors":[
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Apache Gora",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
+        "External Link":"http://gora.apache.org",
+        "Public Code Repo":"https://git-wip-us.apache.org/repos/asf/gora.git",
+        "Instructional Material":"2014-07",
+        "Stats":"gora",
+        "Description":"The Apache Gora open source framework provides an in-memory data model and persistence for big data. Gora supports persisting to column stores, key value stores, document stores and RDBMSs, and analyzing the data with extensive Apache Hadoop™ MapReduce support.",
+        "Internal Code Repo":"tools\\utilities\\gora",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            "Java Virtual Machine"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            "gora-compiler",
+            "gora-compiler-cli",
+            "gora-core",
+            "gora-accumulo",
+            "gora-cassandra",
+            "gora-hbase",
+            "gora-lucene",
+            "gora-mongodb",
+            "gora-solr",
+            "gora-dynamodb"
+        ],
+        "Component module URLs":[
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-accumulo;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-cassandra;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-compiler-cli;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-compiler;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-core;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-dynamodb;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-hbase;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-mongodb;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-solr;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-sql;hb=HEAD"
+        ],
+        "Industry":[
+            "Federally Funded Research and Development Centre"
         ],
         "Functionality":[
             ""
