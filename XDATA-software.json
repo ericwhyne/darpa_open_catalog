@@ -543,7 +543,7 @@
         "Public Code Repo":"https://github.com/gocircuit/circuit.git",
         "Instructional Material":"2014-07",
         "Stats":"",
-        "Description":"Go Circuit reduces the human development and sustenance costs of complex massively-scaled systems nearly to the level of their single-process counterparts. It is a combination of proven ideas from the Erlang ecosystem of distributed embedded devices and Go's ecosystem of Internet application development. Go Circuit extends the reach of Go's linguistic environment to multi-host/multi-process applications. (Go)",
+        "Description":"Circuit reduces the human development and sustenance costs of complex massively-scaled systems nearly to the level of their single-process counterparts. It is a combination of proven ideas from the Erlang ecosystem of distributed embedded devices and Go's ecosystem of Internet application development. Circuit extends the reach of Go's linguistic environment to multi-host/multi-process applications. (Go)",
         "Internal Code Repo":"",
         "License":[
             "ALv2"
