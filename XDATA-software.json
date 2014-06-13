@@ -1609,7 +1609,7 @@
         "Public Code Repo":"http://svn.apache.org/repos/asf/tika/trunk/",
         "Instructional Material":"2014-07",
         "Stats":"tika",
-        "Description":"The Apache Tika™ toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries.",
+        "Description":"The Apache Tika(TM) toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries.",
         "Internal Code Repo":"tools\\utilities\\tika",
         "License":[
             "ALv2"
@@ -1687,7 +1687,7 @@
         "Public Code Repo":"https://git-wip-us.apache.org/repos/asf/gora.git",
         "Instructional Material":"2014-07",
         "Stats":"gora",
-        "Description":"The Apache Gora open source framework provides an in-memory data model and persistence for big data. Gora supports persisting to column stores, key value stores, document stores and RDBMSs, and analyzing the data with extensive Apache Hadoop™ MapReduce support.",
+        "Description":"The Apache Gora open source framework provides an in-memory data model and persistence for big data. Gora supports persisting to column stores, key value stores, document stores and RDBMSs, and analyzing the data with extensive Apache Hadoop(TM) MapReduce support.",
         "Internal Code Repo":"tools\\utilities\\gora",
         "License":[
             "ALv2"
@@ -1738,7 +1738,7 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-13"
     },
     {
         "DARPA Program":"XDATA",
