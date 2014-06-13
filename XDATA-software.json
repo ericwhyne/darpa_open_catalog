@@ -791,6 +791,110 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+            "USC"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Parallel Louvain Community",
+        "Internal Link":"",
+        "External Link":"https://github.com/usc-cloud/parallel-louvain-modularity",
+        "Public Code Repo":"https://github.com/usc-cloud/parallel-louvain-modularity.git",
+        "Instructional Material":"2014-07",
+        "Stats":"parallel-louvain-modularity",
+        "Description":"Fast MPI based parallel Louvain community detection algorithm easily mappable to Map Reduce.",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"2014-06-13",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Parallel High Betweenness Nodes identification",
+        "Internal Link":"",
+        "External Link":"https://github.com/usc-cloud/parallel-high-betweenness-centrality",
+        "Public Code Repo":"https://github.com/usc-cloud/parallel-high-betweenness-centrality.git",
+        "Instructional Material":"2014-07",
+        "Stats":"parallel-high-betweenness-centrality",
+        "Description":"Fast MPI based high betweenness centrality identification algorithm extendible to cloud graph processing platforms such as Giraph++ or GoFFish.",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"2014-06-13",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
             "Johns Hopkins University"
         ],
         "Contributors":[
@@ -4272,7 +4376,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "University of Southern California"
+            "USC"
         ],
         "Contributors":[
             ""
