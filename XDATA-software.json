@@ -1743,6 +1743,65 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Contributors":[
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"DRAT",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
+        "External Link":"http://github.com/chrismattmann/drat",
+        "Public Code Repo":"https://github.com/chrismattmann/drat.git",
+        "Instructional Material":"2014-06",
+        "Stats":"drat",
+        "Description":"A distributed, parallelized (Map Reduce) wrapper around Apache™ RAT to allow it to complete on large code repositories of multiple file types where Apache™ RAT hangs forever",
+        "Internal Code Repo":"tools\\utilities\\drat",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java",
+            "Python"
+        ],
+        "Platform Requirements":[
+            "Java Virtual Machine"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+       "Component modules":[
+            "drat",
+        ],
+        "Component module URLs":[
+            "https://github.com/chrismattmann/drat/"
+        ],
+        "Industry":[
+            "Federally Funded Research and Development Centre"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
             "MIT-LL"
         ],
         "Contributors":[
