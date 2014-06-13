@@ -2562,7 +2562,7 @@
         ],
         "Software":"Linux VMA Monitor (LVM)",
         "Internal Link":"",
-        "External Link":"http://bitlackeys.blogspot.com/",
+        "External Link":"http://www.bitlackeys.org/",
         "Public Code Repo":"CFTdata@darpa.mil",
         "Instructional Material":"",
         "Description":"Detects user space memory infections in a Linux environment. Its unique heuristics analyzer identifies complex and atypical infections and produces an unpacked executable version for analysis.",
