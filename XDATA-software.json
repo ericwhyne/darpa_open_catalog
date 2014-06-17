@@ -3269,112 +3269,6 @@
         ],
         "New Date":"",
         "Update Date":""
-    },	
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Stanford University - Boyd"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"QCML (Quadratic Cone Modeling Language)",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
-        "External Link":"https://github.com/cvxgrp/qcml",
-        "Public Code Repo":"https://github.com/cvxgrp/qcml.git",
-        "Instructional Material":"2014-07",
-        "Stats":"qcml",
-        "Description":"Seamless transition from prototyping to code generation. Enable ease and expressiveness of convex optimization across scales with little change in code. (Pyhton/Matlab/C)",
-        "Internal Code Repo":"tools\\analytics\\stanford-b\\qcml",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Python",
-            "Matlab",
-            "C"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Stanford University - Boyd"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"PDOS (Primal-dual operator splitting)",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
-        "External Link":"https://github.com/cvxgrp/pdos",
-        "Public Code Repo":"https://github.com/cvxgrp/pdos.git",
-        "Instructional Material":"2014-07",
-        "Stats":"pdos",
-        "Description":"Concise algorithm for solving convex problems; solves problems passed from QCML. (C)",
-        "Internal Code Repo":"tools\\analytics\\stanford-b\\pdos",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "C"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
     },
     {
         "DARPA Program":"XDATA",
@@ -3491,20 +3385,19 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Proximal Operators",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
-        "External Link":"https://github.com/cvxgrp/proximal",
-        "Public Code Repo":"https://github.com/cvxgrp/proximal.git",
+        "Software":"CVXPY",
+        "Internal Link":"",
+        "External Link":"http://www.cvxpy.org/",
+        "Public Code Repo":"https://github.com/cvxgrp/cvxpy.git",
         "Instructional Material":"2014-07",
-        "Stats":"ecos",
-        "Description":"This library contains sample implementations of various proximal operators in Matlab. These implementations are intended to be pedagogical, not the most performant. This code is associated with the paper Proximal Algorithms by Neal Parikh and Stephen Boyd. (Matlab/C)",
+        "Stats":"cvxpy",
+        "Description":"CVXPY is a Python-embedded modeling language for convex optimization problems. It allows you to express your problem in a natural way that follows the math, rather than in the restrictive standard form required by solvers.",
         "Internal Code Repo":"",
         "License":[
-            "ALv2"
+            "GPLv3"
         ],
         "Languages":[
-            "Matlab",
-            "C"
+            "Python"
         ],
         "Platform Requirements":[
             ""
