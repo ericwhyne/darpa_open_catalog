@@ -492,7 +492,7 @@
         "Internal Link":"",
         "External Link":"",
         "Public Code Repo":"Not Ready for Release",
-        "Description":"Open source Spiral package running on the core Spiral engine.  Provides sensor fusion and consistency algorithms, optimized interval arithmetic, and code generation capabilities for advanced Intel instruction sets (SSE, AVX). Includes example specifications in the "Hybrid control operator language (HCOL)" and an Eclipse-based GUI.",
+        "Description":"Open source Spiral package running on the core Spiral engine.  Provides sensor fusion and consistency algorithms, optimized interval arithmetic, and code generation capabilities for advanced Intel instruction sets (SSE, AVX). Includes example specifications in the 'Hybrid control operator language (HCOL)' and an Eclipse-based GUI.",
         "Internal Code Repo":"",
         "License":[
             "Open Source License TBD"
