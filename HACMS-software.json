@@ -7,8 +7,8 @@
         "Software":"FM Workbench",
         "Internal Link":"",
         "External Link":"http://crisys.cs.umn.edu/Tools.shtml",
-        "Public Code Repo":"http://crisys.cs.umn.edu/downloads/oldprojects/fm-workbench.zip",
-        "Description":"This software package contains the AADL model and some verification properties for the unmanned aerial system used as part of the Secure Mathematically-Assured Composition of Control Models (SMACCM) research project under the HACMS program. This package also contains the Lute plug-in for OSATE, in which the properties are encoded.",
+        "Public Code Repo":"http://github.com/smaccm/smaccm",
+        "Description":"This repository contains 1) the AADL models with verification properties for the research air vehicle (quadcopter), 2) the AGREE analysis tool for compositional verification of behavioral properties, and 3) the Resolute tool for constructing and checking assurance cases on AADL models.",
         "Internal Code Repo":"",
         "License":[
             "BSDv3"
@@ -20,7 +20,7 @@
             "Research Integration"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-18"
     },
     {
         "DARPA Program":"HACMS",
@@ -126,7 +126,7 @@
         "Description":"Tower is a language for composing Ivory programs into real-time tasks.  Tower is both a specification language and a code generator. A Tower program describes communication channels and tasks, and provides an Ivory implementation of each task.  Tower compiles the specification for the program and delegates code generation to an operating-system specific back end. (C)",
         "Internal Code Repo":"",
         "License":[
-            "BDS3"
+            "BSDv3"
         ],
         "Languages":[
             "C"
@@ -135,7 +135,7 @@
             "Control Systems"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-18"
     },
     {
         "DARPA Program":"HACMS",
@@ -304,10 +304,10 @@
         "Program Teams":[
             "The Charles Stark Draper Laboratory, Inc."
         ],
-        "Software":"LLVM decompiler",
+        "Software":"Fracture Tool / LLVM decompiler",
         "Internal Link":"",
         "External Link":"",
-        "Public Code Repo":"Not Ready for Release",
+        "Public Code Repo":"https://github.com/draperlaboratory/fracture",
         "Description":"Draper's HACMS Decompiler is a software tool based on the LLVM open source compiler project. The HACMS Decompiler is a set of modifications to the LLVM compiler that make it run backwards. The HACMS Decompiler converts computer program instructions for a specific machine (binary software program) into generic machine instructions (machine-independent assembly program) called LLVM intermediate representation (IR). The HACMS Decompiler enables a user to directly analyze and modify the resulting LLVM IR.  Near term additions to the HAMCS Decompiler include the ability to emit a C program representation from the IR. The HACMS Decompiler currently supports ARM architectures, however it will be extended to include X86, PowerPC, MIPS, and other ISAs as required by the program.",
         "Internal Code Repo":"",
         "License":[
@@ -320,7 +320,7 @@
             "Red Team"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-18"
     },
     {
         "DARPA Program":"HACMS",
@@ -492,7 +492,7 @@
         "Internal Link":"",
         "External Link":"",
         "Public Code Repo":"Not Ready for Release",
-        "Description":"Open source package that runs on top of the core Spiral Engine and does everything HACMS-specific.",
+        "Description":"Open source Spiral package running on the core Spiral engine.  Provides sensor fusion and consistency algorithms, optimized interval arithmetic, and code generation capabilities for advanced Intel instruction sets (SSE, AVX). Includes example specifications in the "Hybrid control operator language (HCOL)" and an Eclipse-based GUI.",
         "Internal Code Repo":"",
         "License":[
             "Open Source License TBD"
@@ -504,6 +504,6 @@
             "Control Systems"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-18"
     }
 ]

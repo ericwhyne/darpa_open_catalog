@@ -201,19 +201,19 @@
             "SRI"
         ],
         "Title":"ARSENAL: Automatic Requirements Specification Extraction from Natural Language",
-        "Link":"Not Yet Published",
+        "Link":"http://arxiv.org/pdf/1403.3142.pdf",
         "Categories":"",
         "Subcategories":"",
         "ACM 1998 classification code":"",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-18"
     },
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
             "SRI"
         ],
-        "Title":"Reasoning about the Reliability Of Diverse Two-Channel Systems In which One Channel is `Possibly Perfect'",
+        "Title":"Reasoning about the Reliability Of Diverse Two-Channel Systems In which One Channel is 'Possibly Perfect'",
         "Link":"http://openaccess.city.ac.uk/1069/",
         "Categories":"",
         "Subcategories":"",
@@ -438,12 +438,12 @@
             "SRI"
         ],
         "Title":"The Semantics of Datalog for the Evidential Tool Bus",
-        "Link":"Not Yet Published",
+        "Link":"http://stijnheymans.net/pubs/sas2014.pdf",
         "Categories":"",
         "Subcategories":"",
         "ACM 1998 classification code":"",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-18"
     },
     {
         "DARPA Program":"HACMS",
@@ -464,12 +464,12 @@
             "University of Pennsylvania"
         ],
         "Title":"Attack-Resilient Sensor Fusion",
-        "Link":"Not Yet Published",
+        "Link":"http://repository.upenn.edu/cgi/viewcontent.cgi?article=1815&context=cis_papers",
         "Categories":"",
         "Subcategories":"",
         "ACM 1998 classification code":"",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-18"
     },
     {
         "DARPA Program":"HACMS",
@@ -477,12 +477,12 @@
             "University of Pennsylvania"
         ],
         "Title":"Resilient Multidimensional Sensor Fusion using Measurement History",
-        "Link":"Not Yet Published",
+        "Link":"http://repository.upenn.edu/cgi/viewcontent.cgi?article=1816&context=cis_papers",
         "Categories":"",
         "Subcategories":"",
         "ACM 1998 classification code":"",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-18"
     },
     {
         "DARPA Program":"HACMS",
@@ -490,11 +490,11 @@
             "SRI"
         ],
         "Title":"Safety Envelope for Security",
-        "Link":"Not Yet Published",
+        "Link":"http://www.csl.sri.com/users/tiwari/papers/hicons14.pdf",
         "Categories":"",
         "Subcategories":"",
         "ACM 1998 classification code":"",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-18"
     }
 ]
