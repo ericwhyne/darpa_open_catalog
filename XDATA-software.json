@@ -576,7 +576,7 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-12"
     },
     {
         "DARPA Program":"XDATA",
@@ -1629,7 +1629,7 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-10"
     },
     {
         "DARPA Program":"XDATA",
@@ -1765,7 +1765,7 @@
         "Categories":[
             "Infrastructure"
         ],
-        "New Date":"",
+        "New Date":"2014-06-10",
         "Update Date":""
     },
     {
@@ -1900,7 +1900,7 @@
         "Categories":[
             "Infrastructure"
         ],
-        "New Date":"",
+        "New Date":"2014-06-12",
         "Update Date":""
     },
     {
@@ -3424,7 +3424,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"2014-06-17"
     },
     {
         "DARPA Program":"XDATA",
@@ -3704,7 +3704,7 @@
         "Public Code Repo":"https://github.com/HazyResearch/deepdive.git",
         "Instructional Material":"2014-07",
         "Stats":"DeepDive",
-        "Description":"DeepDive is a new type of knowledge base construction system that enables developers to analyze data on a deeper level than ever before. Many applications have been built using DeepDive to extract data from millions of documents, Web pages, PDFs, tables, and figures. DeepDive is a trained system, which means that it uses machine-learning techniques to incorporate domain-specific knowledge and user feedback to improve the quality of its analysis. DeepDive can deal with noisy and imprecise data by producing calibrated probabilities for every assertion it makes. DeepDive offers a scalable, high-performance learning engine.",
+        "Description":"DeepDive is a new type of knowledge base construction system that enables developers to analyze data on a deeper level than ever before. Many applications have been built using DeepDive to extract data from millions of documents, Web pages, PDFs, tables, and figures. DeepDive is a trained system, which means that it uses machine-learning techniques to incorporate domain-specific knowledge and user feedback to improve the quality of its analysis. DeepDive can deal with noisy and imprecise data by producing calibrated probabilities for every assertion it makes. DeepDive offers a scalable, high-performance learning engine. (SQL, Python, C++)",
         "Internal Code Repo":"",
         "License":[
             "ALv2"
@@ -3738,8 +3738,8 @@
         "Categories":[
             "Infrastructure"
         ],
-        "New Date":"",
-        "Update Date":""
+        "New Date":"2014-06-18",
+        "Update Date":"2014-06-18"
     },
     {
         "DARPA Program":"XDATA",
