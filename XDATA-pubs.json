@@ -2939,9 +2939,62 @@
         ],
         "Title":"Enabling Realtime Pro-Active Analytics On Time Evolving Graphs",
         "Authors":[
+            "Charith Wickramaarachchi",
+		"Marc Fruncu",
+                "Viktor K. Prasanna"
+        ],
+        "Link":"http://www.cs.usc.edu/assets/007/91140.pdf",
+        "Categories":[
             ""
         ],
-        "Link":"Not Yet Published",
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+      {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"Efficient Extraction of High Centrality Vertices in Distributed Graphs",
+        "Authors":[
+            "Alok Kumbhare",
+	    "Marc Frincu",
+	    "Cauligi S. Raghavendra",
+            "Viktor K. Prasanna",		
+        ],
+        "Link":"http://www-scf.usc.edu/~kumbhare/pubs/kumbhare-hpec-2014.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },    
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"Fast Parallel Algorithm For Unfolding Of
+Communities In Large Graphs",
+        "Authors":[
+            "Charith Wickramaarachchi",
+		"Marc Fruncu",
+                "Patrick Small",
+                "Viktor K. Prasanna"
+        ],
+        "Link":"http://www-scf.usc.edu/~cwickram/pubs/wickramaarachchi_hpec_2014.pdf",
         "Categories":[
             ""
         ],
