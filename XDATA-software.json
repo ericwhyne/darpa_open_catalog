@@ -171,7 +171,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
         "External Link":"https://github.com/ContinuumIO/blaze",
         "Public Code Repo":"https://github.com/ContinuumIO/blaze.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"http://blaze.pydata.org/docs/",
         "Stats":"blaze",
         "Description":"Blaze is the next-generation of NumPy. It is designed as a foundational set of abstractions on which to build out-of-core and distributed algorithms over a wide variety of data sources and to extend the structure of NumPy itself. Blaze allows easy composition of low level computation kernels (C, Fortran, Numba) to form complex data transformations on large datasets. In Blaze, computations are described in a high-level language (Python) but executed on a low-level runtime (outside of Python), enabling the easy mapping of high-level expertise to data without sacrificing low-level performance. Blaze aims to bring Python and NumPy into the massively-multicore arena, allowing it to leverage many CPU and GPU cores across computers, virtual machines and cloud services. (Python)",
         "Internal Code Repo":"tools\\analytics\\continuum\\blaze",
@@ -223,7 +223,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
         "External Link":"https://github.com/numba/numba",
         "Public Code Repo":"https://github.com/numba/numba.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"http://numba.pydata.org/",
         "Stats":"numba",
         "Description":"Numba is an Open Source NumPy-aware optimizing compiler for Python sponsored by Continuum Analytics, Inc. It uses the LLVM compiler infrastructure to compile Python syntax to machine code.<br/><br/>It is aware of NumPy arrays as typed memory regions and so can speed-up code using NumPy arrays. Other, less well-typed code is translated to Python C-API calls effectively removing the \"interpreter\" but not removing the dynamic indirection.<br/><br/>Numba is also not a tracing just in time (JIT) compiler. It compiles your code before it runs either using run-time type information or type information you provide in the decorator.<br/><br/>Numba is a mechanism for producing machine code from Python syntax and typed data structures such as those that exist in NumPy. (Python)",
         "Internal Code Repo":"tools\\analytics\\continuum\\numba",
@@ -275,7 +275,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
         "External Link":"http://bokeh.pydata.org",
         "Public Code Repo":"https://github.com/ContinuumIO/bokeh.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"http://bokeh.pydata.org",
         "Stats":"bokeh",
         "Description":"Bokeh (pronounced bo-Kay or bo-Kuh) is a Python interactive visualization library for large datasets that natively uses the latest web technologies. Its goal is to provide elegant, concise construction of novel graphics in the style of Protovis/D3, while delivering high-performance interactivity over large data to thin clients. (Python/JavaScript/Coffeescript)",
         "Internal Code Repo":"tools/visualization/continuum/bokeh; tools/visualization/continuum/bokehjs",
@@ -286,166 +286,6 @@
             "Python",
             "JavaScript",
             "Coffeescript"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Continuum Analytics",
-            "Indiana University"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Abstract Rendering",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
-        "External Link":"http://www.github.com/JosephCottam/AbstractRendering",
-        "Public Code Repo":"https://github.com/JosephCottam/AbstractRendering.git",
-        "Instructional Material":"2014-07",
-        "Stats":"AbstractRendering",
-        "Description":"Information visualization rests on the idea that a meaningful relationship can be drawn between pixels and data. This is most often mediated by geometric entities (such as circles, squares and text) but always involves pixels eventually to display. In most systems, the pixels are tucked away under levels of abstraction in the rendering system. Abstract Rendering takes the opposite approach: expose the pixels and gain powerful pixel-level control. This pixel-level power is a complement to many existing visualization techniques. It is an elaboration on rendering, not an analytic or projection step, so it can be used as an epilogue to many existing techniques. In standard rendering, geometric objects are projected to an image and represented on that image's discrete pixels. The source space is an abstract canvas that contains logically continuous geometric primitives and the target space is an image that contains discrete colors. Abstract Rendering fits between these two states. It introduces a discretization of the data at the pixel-level, but not necessarily all the way to colors. This enables many pixel-level concerns to be efficiently and concisely captured. (Java)",
-        "Internal Code Repo":"/tools/visualization/continuum/AbstractRendering/",
-        "License":[
-            "BSD"
-        ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Continuum Analytics"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"CDX",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
-        "External Link":"https://github.com/ContinuumIO/cdx",
-        "Public Code Repo":"https://github.com/ContinuumIO/cdx.git",
-        "Instructional Material":"2014-07",
-        "Stats":"cdx",
-        "Description":"Software to visualize the structure of large or complex datasets / produce guides that help users or algorithms gauge the quality of various kinds of graphs & plots. (JavaScript/Coffeescript/Python)",
-        "Internal Code Repo":"/tools/visualization/continuum/",
-        "License":[
-            "BSD"
-        ],
-        "Languages":[
-            "JavaScript",
-            "Coffeescript",
-            "Python"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Continuum Analytics",
-            "Indiana University"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Stencil",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
-        "External Link":"https://github.com/JosephCottam/Stencil",
-        "Public Code Repo":"https://github.com/JosephCottam/Stencil.git",
-        "Instructional Material":"2014-07",
-        "Stats":"Stencil",
-        "Description":"Stencil is a grammar-based approach to visualization specification at a higher-level. (Clojure)",
-        "Internal Code Repo":"tools\\visualizations\\continuum\\Stencil",
-        "License":[
-            "BSD"
-        ],
-        "Languages":[
-            "Clojure"
         ],
         "Platform Requirements":[
             ""
