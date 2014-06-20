@@ -487,7 +487,7 @@
         "Public Code Repo":"https://github.com/giantoak/MMPP.git",
         "Instructional Material":"http://giantoak.github.io/MMPP_Tutorial/",
         "Stats":"MMPP",
-        "Description":"R-implementation of Markov Modulated Poisson Process for unsupervised event detection in time series of counts data. (R)",
+        "Description":"Markov Modulated Poisson Process for Event Detection allows R users to accurately detect unusual events and anomalies in time series of counts. (R)",
         "Internal Code Repo":"",
         "License":[
             "GPLv2"
