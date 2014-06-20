@@ -6,7 +6,8 @@
     "Display Software Columns":[
         "Team",
         "Project",
-        "Description",
+		     "",
+		"Description",
         "Instructional Material",
         "Category",
         "Code",
