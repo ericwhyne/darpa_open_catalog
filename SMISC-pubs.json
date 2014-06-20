@@ -1,2510 +1,4435 @@
 [
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Characterizing Retweeting Behaviors in Twitter: On the use of Text vs. Concepts",
-        "Link":"http://www.research.rutgers.edu/~sofmac/paper/ecml2012-colisd/macskassy-colisd2012-preprint.pdf",
-        "Categories":[
+        ], 
+        "Title": "Characterizing Retweeting Behaviors in Twitter: On the use of Text vs. Concepts", 
+        "Authors": [
+            "S. Macskassy"
+        ], 
+        "Link": "http://www.research.rutgers.edu/~sofmac/paper/ecml2012-colisd/macskassy-colisd2012-preprint.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"On the Study of Social Interactions in Twitter",
-        "Link":"http://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4575/4987",
-        "Categories":[
+        ], 
+        "Title": "On the Study of Social Interactions in Twitter", 
+        "Authors": [
+            "S. Macskassy"
+        ], 
+        "Link": "http://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4575/4987", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Sequential Hypothesis Testing and Change-point Detection: Past and Future",
-        "Link":"http://soandos.mi.ras.ru/materials/tartakovsky.pdf",
-        "Categories":[
+        ], 
+        "Title": "Sequential Hypothesis Testing and Change-point Detection: Past and Future", 
+        "Authors": [
+            "A.G. Tartakovsky"
+        ], 
+        "Link": "http://soandos.mi.ras.ru/materials/tartakovsky.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Using Lists to Measure Homophily on Twitter",
-        "Link":"http://www.isi.edu/integration/people/lerman/papers/AAAI2012_homophily.pdf",
-        "Categories":[
+        ], 
+        "Title": "Using Lists to Measure Homophily on Twitter", 
+        "Authors": [
+            "J. H. Kang", 
+            "K. Lerman"
+        ], 
+        "Link": "http://www.isi.edu/integration/people/lerman/papers/AAAI2012_homophily.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"How Limited Visibility and Divided Attention Constrain Social Contagion",
-        "Link":"http://arxiv.org/abs/1205.2736",
-        "Categories":[
+        ], 
+        "Title": "How Limited Visibility and Divided Attention Constrain Social Contagion", 
+        "Authors": [
+            "N. Hodas", 
+            "K. Lerman"
+        ], 
+        "Link": "http://arxiv.org/abs/1205.2736", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Sparse-GEV: Sparse Latent Space Model for Multivariate Extreme Value Time Series Modeling",
-        "Link":"http://arxiv.org/abs/1206.4685",
-        "Categories":[
+        ], 
+        "Title": "Sparse-GEV: Sparse Latent Space Model for Multivariate Extreme Value Time Series Modeling", 
+        "Authors": [
+            "Y. Liu", 
+            "M.T. Bahadori", 
+            "H. Li"
+        ], 
+        "Link": "http://arxiv.org/abs/1206.4685", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Information transfer in social media",
-        "Link":"http://arxiv.org/abs/1110.2724",
-        "Categories":[
+        ], 
+        "Title": "Information transfer in social media", 
+        "Authors": [
+            "Greg Ver Steeg", 
+            "Aram Galstyan"
+        ], 
+        "Link": "http://arxiv.org/abs/1110.2724", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Community discovery and profiling with social messages",
-        "Link":"http://wan.poly.edu/KDD2012/docs/p388.pdf",
-        "Categories":[
+        ], 
+        "Title": "Community discovery and profiling with social messages", 
+        "Authors": [
+            "Wenjun Zhou", 
+            "Hongxia Jin", 
+            "Yan Liu"
+        ], 
+        "Link": "http://wan.poly.edu/KDD2012/docs/p388.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Almost Minimax Sequential Tests of Composite Hypotheses",
-        "Link":"http://arxiv.org/abs/1204.5291",
-        "Categories":[
+        ], 
+        "Title": "Almost Minimax Sequential Tests of Composite Hypotheses", 
+        "Authors": [
+            "G. Fellouris", 
+            "A.G. Tartakovsky"
+        ], 
+        "Link": "http://arxiv.org/abs/1204.5291", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Social dynamics of Digg",
-        "Link":"http://www.epjdatascience.com/content/1/1/5",
-        "Categories":[
+        ], 
+        "Title": "Social dynamics of Digg", 
+        "Authors": [
+            "Kristina Lerman", 
+            "Tad Hogg"
+        ], 
+        "Link": "http://www.epjdatascience.com/content/1/1/5", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Network structure, topology, and dynamics in generalized models of synchronization",
-        "Link":"http://arxiv.org/abs/1203.1338",
-        "Categories":[
+        ], 
+        "Title": "Network structure, topology, and dynamics in generalized models of synchronization", 
+        "Authors": [
+            "Kristina Lerman", 
+            "Rumi Ghosh"
+        ], 
+        "Link": "http://arxiv.org/abs/1203.1338", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Socially Relevant Venue Clustering from Check-in Data",
-        "Link":"http://snap.stanford.edu/mlg2013/submissions/mlg2013_submission_22.pdf",
-        "Categories":[
+        ], 
+        "Title": "Socially Relevant Venue Clustering from Check-in Data", 
+        "Authors": [
+            "Yoon Sik Cho", 
+            "Greg Ver Steeg", 
+            "Aram Galstyan"
+        ], 
+        "Link": "http://snap.stanford.edu/mlg2013/submissions/mlg2013_submission_22.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Information-theoretic measures of influence based on content dynamics",
-        "Link":"http://arxiv.org/abs/1208.4475",
-        "Categories":[
+        ], 
+        "Title": "Information-theoretic measures of influence based on content dynamics", 
+        "Authors": [
+            "Greg Ver Steeg", 
+            "Aram Galstyan"
+        ], 
+        "Link": "http://arxiv.org/abs/1208.4475", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Modeling Temporal Activity Patterns in Dynamic Social Networks",
-        "Link":"http://arxiv.org/abs/1305.1980",
-        "Categories":[
+        ], 
+        "Title": "Modeling Temporal Activity Patterns in Dynamic Social Networks", 
+        "Authors": [
+            "Vasanthan Raghavan", 
+            "Greg ver Steeg", 
+            "Aram Galstyan", 
+            "Alexander G. Tartakovsky"
+        ], 
+        "Link": "http://arxiv.org/abs/1305.1980", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Sentiment Prediction using Collaborative Filtering",
-        "Link":"http://www.isi.edu/~galstyan/papers/icwsm-CF.pdf",
-        "Categories":[
+        ], 
+        "Title": "Sentiment Prediction using Collaborative Filtering", 
+        "Authors": [
+            "Jihie Kim", 
+            "Jaebong Yoo", 
+            "Ho Lim", 
+            "Huida Qiu", 
+            "Zornitsa Kozareva", 
+            "Aram Galstyan"
+        ], 
+        "Link": "http://www.isi.edu/~galstyan/papers/icwsm-CF.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Fast structure learning in generalized stochastic processes with latent factors",
-        "Link":"http://www.cs.cmu.edu/~epxing/papers/2013/Bahadori_Liu_Xing_KDD13.pdf",
-        "Categories":[
+        ], 
+        "Title": "Fast structure learning in generalized stochastic processes with latent factors", 
+        "Authors": [
+            "Mohammad Taha Bahadori", 
+            "Yan Liu", 
+            "Eric P. Xing"
+        ], 
+        "Link": "http://www.cs.cmu.edu/~epxing/papers/2013/Bahadori_Liu_Xing_KDD13.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"An Examination of Practical Granger Causality Inference",
-        "Link":"http://www-bcf.usc.edu/~liu32/sdm_theory.pdf",
-        "Categories":[
+        ], 
+        "Title": "An Examination of Practical Granger Causality Inference", 
+        "Authors": [
+            "Mohammad Taha Bahadori", 
+            "Yan Liu"
+        ], 
+        "Link": "http://www-bcf.usc.edu/~liu32/sdm_theory.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Towards Twitter context summarization with user influence models",
-        "Link":"http://www-personal.umich.edu/~qmei/pub/wsdm2013-chang.pdf",
-        "Categories":[
+        ], 
+        "Title": "Towards Twitter context summarization with user influence models", 
+        "Authors": [
+            "Yi Chang", 
+            "Xuanhui Wang", 
+            "Qiaozhu Mei", 
+            "Yan Liu"
+        ], 
+        "Link": "http://www-personal.umich.edu/~qmei/pub/wsdm2013-chang.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Determining Leadership in Contentious Discussions",
-        "Link":"http://isi.edu/~galstyan/smisc/pubs/Hovy2013.pdf",
-        "Categories":[
+        ], 
+        "Title": "Determining Leadership in Contentious Discussions", 
+        "Authors": [
+            "Siddharth Jain", 
+            "Eduard Hovy"
+        ], 
+        "Link": "http://isi.edu/~galstyan/smisc/pubs/Hovy2013.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Friendship Paradox Redux: Your Friends Are More Interesting Than You",
-        "Link":"http://arxiv.org/abs/1304.3480",
-        "Categories":[
+        ], 
+        "Title": "Friendship Paradox Redux: Your Friends Are More Interesting Than You", 
+        "Authors": [
+            "Nathan O. Hodas", 
+            "Farshad Kooti", 
+            "Kristina Lerman"
+        ], 
+        "Link": "http://arxiv.org/abs/1304.3480", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Stochastic Models Predict User Behavior in Social Media",
-        "Link":"http://arxiv.org/abs/1308.2705",
-        "Categories":[
+        ], 
+        "Title": "Stochastic Models Predict User Behavior in Social Media", 
+        "Authors": [
+            "Tad Hogg", 
+            "Kristina Lerman", 
+            "Laura M. Smith"
+        ], 
+        "Link": "http://arxiv.org/abs/1308.2705", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Structural and cognitive bottlenecks to information access in social networks",
-        "Link":"http://arxiv.org/abs/1303.0861",
-        "Categories":[
+        ], 
+        "Title": "Structural and cognitive bottlenecks to information access in social networks", 
+        "Authors": [
+            "Kristina Lerman", 
+            "Jeon-Hyung Kang"
+        ], 
+        "Link": "http://arxiv.org/abs/1303.0861", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"LA-LDA: A Limited Attention Topic Model for Social Recommendation",
-        "Link":"http://arxiv.org/abs/1301.6277",
-        "Categories":[
+        ], 
+        "Title": "LA-LDA: A Limited Attention Topic Model for Social Recommendation", 
+        "Authors": [
+            "Jeon-Hyung Kang", 
+            "Kristina Lerman", 
+            "Lise Getoor"
+        ], 
+        "Link": "http://arxiv.org/abs/1301.6277", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"LA-CTR: A Limited Attention Collaborative Topic Regression for Social Media",
-        "Link":"http://www.isi.edu/integration/people/lerman/papers/AAAI2013.pdf",
-        "Categories":[
+        ], 
+        "Title": "LA-CTR: A Limited Attention Collaborative Topic Regression for Social Media", 
+        "Authors": [
+            "Jeon-Hyung Kang", 
+            "Kristina Lerman"
+        ], 
+        "Link": "http://www.isi.edu/integration/people/lerman/papers/AAAI2013.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"The Role of Social Media in the Discussion of Controversial Topics",
-        "Link":"http://www.isi.edu/integration/people/lerman/papers/Smith13socialcom.pdf",
-        "Categories":[
+        ], 
+        "Title": "The Role of Social Media in the Discussion of Controversial Topics", 
+        "Authors": [
+            "Laura M. Smith", 
+            "Linhong Zhu", 
+            "Kristina Lerman", 
+            "Zornitsa Kozareva"
+        ], 
+        "Link": "http://www.isi.edu/integration/people/lerman/papers/Smith13socialcom.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Limited Attention and Centrality in Social Networks",
-        "Link":"http://arxiv.org/abs/1303.4451",
-        "Categories":[
+        ], 
+        "Title": "Limited Attention and Centrality in Social Networks", 
+        "Authors": [
+            "Kristina Lerman", 
+            "Prachi Jain", 
+            "Rumi Ghosh", 
+            "Jeon-Hyung Kang", 
+            "Ponnurangam Kumaraguru"
+        ], 
+        "Link": "http://arxiv.org/abs/1303.4451", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Unstructured Sequential Testing in Sensor Networks",
-        "Link":"http://isi.edu/~galstyan/smisc/pubs/Fell&Tartak_IEEE_CDC2013.pdf",
-        "Categories":[
+        ], 
+        "Title": "The simple rules of social contagion", 
+        "Authors": [
+            "Nathan O. Hodas Kristina Lerman"
+        ], 
+        "Link": "http://dx.doi.org/10.1038/srep04343", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Coupled Hidden Markov Models for User Activity in Social Networks",
-        "Link":"http://isi.edu/~galstyan/smisc/pubs/Raghavan2013a.pdf",
-        "Categories":[
+        ], 
+        "Title": "Identifying transformative scientific research", 
+        "Authors": [
+            "Yi hung Huang", 
+            "Chun-Nan Hsu", 
+            "Kristina Lerman"
+        ], 
+        "Link": "http://www.isi.edu/integration/people/lerman/papers/ICDM13.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Latent Point Process Models for Spatial-Temporal Networks",
-        "Link":"http://arxiv.org/abs/1302.2671",
-        "Categories":[
+        ], 
+        "Title": "Unstructured Sequential Testing in Sensor Networks", 
+        "Authors": [
+            "G. Fellouris", 
+            "A.G. Tartakovsky"
+        ], 
+        "Link": "http://isi.edu/~galstyan/smisc/pubs/Fell&Tartak_IEEE_CDC2013.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Opinion Dynamics with Confirmation Bias",
-        "Link":"http://isi.edu/~galstyan/smisc/pubs/confirmation-bias_plos.pdf",
-        "Categories":[
+        ], 
+        "Title": "Coupled Hidden Markov Models for User Activity in Social Networks", 
+        "Authors": [
+            "Vasanthan Raghavan", 
+            "Greg ver Steeg", 
+            "Aram Galstyan", 
+            "Alexander G. Tartakovsky"
+        ], 
+        "Link": "http://isi.edu/~galstyan/smisc/pubs/Raghavan2013a.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "University of Southern California"
-        ],
-        "Title":"Explaining Away Stylistic Coordination",
-        "Link":"http://isi.edu/~galstyan/smisc/pubs/Gao2013coordination.pdf",
-        "Categories":[
+        ], 
+        "Title": "Latent Point Process Models for Spatial-Temporal Networks", 
+        "Authors": [
+            "Yoon-Sik Cho", 
+            "Aram Galstyan", 
+            "Jeff Brantingham", 
+            "George Tita"
+        ], 
+        "Link": "http://arxiv.org/abs/1302.2671", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "University of Southern California"
+        ], 
+        "Title": "Explaining Away Stylistic Coordination", 
+        "Authors": [
+            "Shuyang Gao", 
+            "Greg Ver Steeg", 
+            "Aram Galstyan"
+        ], 
+        "Link": "http://isi.edu/~galstyan/smisc/pubs/Gao2013coordination.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "University of Southern California"
+        ], 
+        "Title": "Tripartite Graph Clustering for Dynamic Sentiment Analysis on Social Media", 
+        "Authors": [
+            "Linhong Zhu", 
+            "Aram Galstyan", 
+            "James Cheng", 
+            "Kristina Lerman"
+        ], 
+        "Link": "http://arxiv.org/abs/1402.6010", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "University of Southern California"
+        ], 
+        "Title": "Modeling Temporal Activity Patterns in Dynamic Social Networks", 
+        "Authors": [
+            "Vasanthan Raghavan", 
+            "Greg ver Steeg", 
+            "Aram Galstyan", 
+            "Alexander G. Tartakovsky"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?doid=2492517.2492651", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "University of Southern California"
+        ], 
+        "Title": "Graph-based informative-sentence selection for opinion summarization", 
+        "Authors": [
+            "Linhong Zhu", 
+            "Sheng Gao", 
+            "Sinno Jialin Pan", 
+            "Haizhou Li", 
+            "Dingxiong Deng", 
+            "Cyrus Shahabi"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?doid=2492517.2492651", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"Clustering Memes in Social Media",
-        "Link":"http://www.emilio.ferrara.name/wp-content/uploads/2013/08/079_0108.pdf",
-        "Categories":[
+        ], 
+        "Title": "Clustering Memes in Social Media", 
+        "Authors": [
+            "E. Ferrara", 
+            "M. JafariAsbagh", 
+            "O. Varol", 
+            "V. Qazvinian", 
+            "F. Menczer", 
+            "A. Flammini"
+        ], 
+        "Link": "http://www.emilio.ferrara.name/wp-content/uploads/2013/08/079_0108.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"Design and prototyping of a social media observatory",
-        "Link":"http://dl.acm.org/citation.cfm?id=2487788.2488174",
-        "Categories":[
+        ], 
+        "Title": "Design and prototyping of a social media observatory", 
+        "Authors": [
+            "K. McKelvey", 
+            "F. Menczer"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2487788.2488174", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"Interoperability of Social Media Observatories",
-        "Link":"http://cnets.indiana.edu/wp-content/uploads/websci13.pdf",
-        "Categories":[
+        ], 
+        "Title": "Interoperability of Social Media Observatories", 
+        "Authors": [
+            "K. McKelvey", 
+            "F. Menczer"
+        ], 
+        "Link": "http://cnets.indiana.edu/wp-content/uploads/websci13.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"Truthy: Enabling the study of online social networks",
-        "Link":"http://dl.acm.org/citation.cfm?id=2441955.2441962",
-        "Categories":[
+        ], 
+        "Title": "Truthy: Enabling the study of online social networks", 
+        "Authors": [
+            "K. R. McKelvey", 
+            "F. Menczer"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2441955.2441962", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"The Role of Information Diffusion in the Evolution of Social Networks",
-        "Link":"http://dl.acm.org/citation.cfm?id=2487575.2487607",
-        "Categories":[
+        ], 
+        "Title": "The Role of Information Diffusion in the Evolution of Social Networks", 
+        "Authors": [
+            "L. Weng", 
+            "J. Ratkiewicz", 
+            "N. Perra", 
+            "B. Gonalves", 
+            "C. Castillo", 
+            "F. Bonchi", 
+            "R. Schifanella", 
+            "F. Menczer", 
+            "A. Flammini"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2487575.2487607", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"The geospatial characteristics of a social movement communication network",
-        "Link":"http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0055957",
-        "Categories":[
+        ], 
+        "Title": "The geospatial characteristics of a social movement communication network", 
+        "Authors": [
+            "M. D. Conover", 
+            "C. Davis", 
+            "E. Ferrara", 
+            "K. McKelvey", 
+            "F. Menczer", 
+            "A. Flammini"
+        ], 
+        "Link": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0055957", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"The Digital Evolution of Occupy Wall Street",
-        "Link":"http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0064679",
-        "Categories":[
+        ], 
+        "Title": "The Digital Evolution of Occupy Wall Street", 
+        "Authors": [
+            "M. D. Conover", 
+            "E. Ferrara", 
+            "F. Menczer", 
+            "A. Flammini"
+        ], 
+        "Link": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0064679", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"Travelling Trends: Social Butterflies or Frequent Fliers?",
-        "Link":"http://dl.acm.org/citation.cfm?id=2512956",
-        "Categories":[
+        ], 
+        "Title": "Traveling Trends: Social Butterflies or Frequent Fliers?", 
+        "Authors": [
+            "E. Ferrara", 
+            "O. Varol", 
+            "F. Menczer", 
+            "A. Flammini"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2512956", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"SAX-VSM: Interpretable Time Series Classification Using SAX and Vector Space Model",
-        "Link":"http://www2.hawaii.edu/~senin/assets/papers/sax-vsm-icdm13-short.FINAL_DRAFT.pdf",
-        "Categories":[
+        ], 
+        "Title": "SAX-VSM: Interpretable Time Series Classification Using SAX and Vector Space Model", 
+        "Authors": [
+            "Pavel Senin Sergey Malinchik"
+        ], 
+        "Link": "http://www2.hawaii.edu/~senin/assets/papers/sax-vsm-icdm13-short.FINAL_DRAFT.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"Questions about questions: an empirical analysis of information needs on Twitter",
-        "Link":"http://dl.acm.org/citation.cfm?id=2488388.2488523",
-        "Categories":[
+        ], 
+        "Title": "Questions about questions: an empirical analysis of information needs on Twitter", 
+        "Authors": [
+            "Zhe Zhao Qiaozhu Mei"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2488388.2488523", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"Supporting Social Data Observatory with Customizable Index Structures on HBase - Architecture and Performance",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Supporting Social Data Observatory with Customizable Index Structures on HBase - Architecture and Performance", 
+        "Authors": [
+            "Xiaoming Gao", 
+            "Judy Qiu", 
+            "Evan Roth", 
+            "Karissa McKelvey", 
+            "Clayton Davis", 
+            "Andrew Younge", 
+            "Emilio Ferrara", 
+            "Fil Menczer"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Indiana University"
-        ],
-        "Title":"Comparing IndexedHBase and Riak for Serving Truthy: Performance of Data Loading and Query Evaluation",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Comparing IndexedHBase and Riak for Serving Truthy: Performance of Data Loading and Query Evaluation", 
+        "Authors": [
+            "Xiaoming Gao Judy Qiu"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Indiana University"
+        ], 
+        "Title": "Diffusion of innovations revisited: from social network to innovation network", 
+        "Authors": [
+            "X Rong", 
+            "Q Mei"
+        ], 
+        "Link": "http://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9365771350234840920&btnI=Lucky", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Indiana University"
+        ], 
+        "Title": "A User-in-the-Loop Process for Investigational Search: Foreseer in TREC 2013 Microblog Track", 
+        "Authors": [
+            "Cheng Li", 
+            "Yue Wang", 
+            "Qiaozhu Mei"
+        ], 
+        "Link": "http://trec.nist.gov/pubs/trec22/papers/foreseer-microblog.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Indiana University"
+        ], 
+        "Title": "Supporting a Social Media Observatory with Customizable Index Structures-Architecture and Performance", 
+        "Authors": [
+            "Xiaoming Gao", 
+            "Evan Roth", 
+            "Karissa McKelvey", 
+            "Clayton Davis", 
+            "Andrew Younge", 
+            "Emilio Ferrara", 
+            "Filippo Menczer", 
+            "Judy Qiu"
+        ], 
+        "Link": "http://salsaproj.indiana.edu/IndexedHBase/publications.html", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Indiana University"
+        ], 
+        "Title": "Topicality and Social Impact: Diverse Messages but Focused Messengers", 
+        "Authors": [
+            "Lilian Weng Filippo Menczer"
+        ], 
+        "Link": "http://arxiv.org/pdf/1402.5443v1.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Systems and Technology Research"
-        ],
-        "Title":"Visual Thinking Design Patterns",
-        "Link":"http://www.stresearch.com/Documents/WareEtAl_VTDP_6.pdf",
-        "Categories":[
+        ], 
+        "Title": "Visual Thinking Design Patterns", 
+        "Authors": [
+            "Colin Ware", 
+            "William Wright", 
+            "Nicholas J. Pioch"
+        ], 
+        "Link": "http://www.stresearch.com/Documents/WareEtAl_VTDP_6.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Systems and Technology Research"
-        ],
-        "Title":"Visual Thinking Algorithms for Visualization of Social Media Memes, Topics, and Communities",
-        "Link":"http://www.stresearch.com/Documents/WarePiochJones-SocMedVis2013-final.pdf",
-        "Categories":[
+        ], 
+        "Title": "Visual Thinking Algorithms for Visualization of Social Media Memes, Topics, and Communities", 
+        "Authors": [
+            "Colin Ware", 
+            "Nicholas J. Pioch Eric K. Jones"
+        ], 
+        "Link": "http://www.stresearch.com/Documents/WarePiochJones-SocMedVis2013-final.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Systems and Technology Research"
-        ],
-        "Title":"From Task to Visualization: Application of a Design Methodology to Meme Visualization",
-        "Link":"http://www.stresearch.com/Documents/From Task to Visualization.pdf",
-        "Categories":[
+        ], 
+        "Title": "From Task to Visualization: Application of a Design Methodology to Meme Visualization", 
+        "Authors": [
+            "Colin Ware", 
+            "Nicholas J. Pioch Eric K. Jones"
+        ], 
+        "Link": "http://www.stresearch.com/Documents/From%20Task%20to%20Visualization.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Systems and Technology Research"
-        ],
-        "Title":"Two-stage classification for tracking memes in microblogs",
-        "Link":"http://www.stresearch.com/Documents/deception_spie_final.pdf",
-        "Categories":[
+        ], 
+        "Title": "Two-stage classification for tracking memes in microblogs", 
+        "Authors": [
+            "Nils F. Sandell", 
+            "Mark Luettgen", 
+            "George Cybenko"
+        ], 
+        "Link": "http://www.stresearch.com/Documents/deception_spie_final.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Systems and Technology Research"
+        ], 
+        "Title": "Automatic gazetteer enrichment with user geo-coded data", 
+        "Authors": [
+            "J. Gelernter", 
+            "G. Ganesh", 
+            "H. Zhang Krishnakumar"
+        ], 
+        "Link": "http://www.cs.cmu.edu/~gelern/pdfs/GeoCrowd_Upload.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Systems and Technology Research"
+        ], 
+        "Title": "Cross-lingual geo-parsing for non-structured data", 
+        "Authors": [
+            "J. Zhang Gelernter"
+        ], 
+        "Link": "http://www.cs.cmu.edu/~gelern/pdfs/GIR%202013%20upload%202.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"Cues to Deception in Social Media Communications",
-        "Link":"https://dl.dropboxusercontent.com/u/39515687/Briscoe_HICCS_AcceptedNotRevised.pdf",
-        "Categories":[
+        ], 
+        "Title": "Cues to Deception in Social Media Communications", 
+        "Authors": [
+            "E. Briscoe", 
+            "S. Appling", 
+            "H. Hayes"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/39515687/Briscoe_HICCS_AcceptedNotRevised.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"Determining Credibility from Social Network Structure",
-        "Link":"https://dl.dropboxusercontent.com/u/39515687/Briscoe_Credibility_ASONAM.pdf",
-        "Categories":[
+        ], 
+        "Title": "Determining Credibility from Social Network Structure", 
+        "Authors": [
+            "E. Briscoe", 
+            "S. Appling", 
+            "R. Mappus", 
+            "H. Hayes"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/39515687/Briscoe_Credibility_ASONAM.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"Estimating Deception Cues in Social Media",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Estimating Deception Cues in Social Media", 
+        "Authors": [
+            "S. Appling", 
+            "E. Briscoe"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"Beyond Sentiment: The Manifold of Human Emotions",
-        "Link":"http://arxiv.org/pdf/1202.1568.pdf",
-        "Categories":[
+        ], 
+        "Title": "Beyond Sentiment: The Manifold of Human Emotions", 
+        "Authors": [
+            "S. Kim", 
+            "F. Li", 
+            "G. Lebanon", 
+            "I. Essa"
+        ], 
+        "Link": "http://arxiv.org/pdf/1202.1568.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"The Language that Gets People to Give: Phrases that Predict Success on Kickstarter",
-        "Link":"https://dl.dropboxusercontent.com/u/39515687/cscw2014_crowdfunding.pdf",
-        "Categories":[
+        ], 
+        "Title": "The Language that Gets People to Give: Phrases that Predict Success on Kickstarter", 
+        "Authors": [
+            "T. Mitra", 
+            "E. Gilbert"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/39515687/cscw2014_crowdfunding.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"Specialization, Homophily, and Gender in a Social Curation Site: Findings from Pinterest",
-        "Link":"http://www-users.cs.umn.edu/~schang/papers/cscw14.pdf",
-        "Categories":[
+        ], 
+        "Title": "Specialization, Homophily, and Gender in a Social Curation Site: Findings from Pinterest", 
+        "Authors": [
+            "S. Chang", 
+            "V. Kumar", 
+            "E. Gilbert", 
+            "L. Terveen"
+        ], 
+        "Link": "http://www-users.cs.umn.edu/~schang/papers/cscw14.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"A Statistical Framework for Streaming Graph Analysis",
-        "Link":"http://comp.social.gatech.edu/papers/Streaming-Twitter-Stats.pdf",
-        "Categories":[
+        ], 
+        "Title": "A Statistical Framework for Streaming Graph Analysis", 
+        "Authors": [
+            "J. Fairbanks", 
+            "D. Ediger", 
+            "R. McColl", 
+            "D. Bader", 
+            "E. Gilbert"
+        ], 
+        "Link": "http://comp.social.gatech.edu/papers/Streaming-Twitter-Stats.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"A Longitudinal Study of Follow Predictors on Twitter",
-        "Link":"http://comp.social.gatech.edu/papers/follow_chi13_final.pdf",
-        "Categories":[
+        ], 
+        "Title": "A Longitudinal Study of Follow Predictors on Twitter", 
+        "Authors": [
+            "C. Hutto", 
+            "S. Yardi", 
+            "E. Gilbert"
+        ], 
+        "Link": "http://comp.social.gatech.edu/papers/follow_chi13_final.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"How Tie Strength Affects Information Diffusion on a Social Network Site",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "How Tie Strength Affects Information Diffusion on a Social Network Site", 
+        "Authors": [
+            "E. Gilbert"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"Search and Tell: Topic Distributions in Queries and Tweets",
-        "Link":"https://dl.dropboxusercontent.com/u/39515687/searchq_twitter_rr.pdf",
-        "Categories":[
+        ], 
+        "Title": "Search and Tell: Topic Distributions in Queries and Tweets", 
+        "Authors": [
+            "T. Mitra", 
+            "D. Shamma", 
+            "E. Gilbert"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/39515687/searchq_twitter_rr.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"Different Colors Diffuse Differently: Color and the Spread of Images on Pinterest",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Different Colors Diffuse Differently: Color and the Spread of Images on Pinterest", 
+        "Authors": [
+            "S. Bakhshi", 
+            "E. Gilbert"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/24335420/chi2014/bakhshi-colors-chi2014.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"The Engaging Power of Faces: A Quantitative Study on Instagram Photos",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "The Engaging Power of Faces: A Quantitative Study on Instagram Photos", 
+        "Authors": [
+            "S. Bakhshi", 
+            "E. Gilbert"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/24335420/chi2014/bakhshi_faces_chi2014.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Georgia Tech Research Institute"
-        ],
-        "Title":"Filtered Engagement: The Role of Visual Effects on Mobile Photo Engagement",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Filtered Engagement: The Role of Visual Effects on Mobile Photo Engagement", 
+        "Authors": [
+            "S. Bakhshi", 
+            "E. Gilbert", 
+            "A. Shamma"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/24335420/chi2014/bakhshi_filters_chi2014.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "Computing and Building Around Tie Strength in Social Media", 
+        "Authors": [
+            "E. Gilbert"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/15504661/tie.fnchi.13.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text", 
+        "Authors": [
+            "C. Hutto", 
+            "E. Gilbert"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/15504661/vader_icwsm2014.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "Faces Engage Us: Photos with Faces Attract More Likes and Comments on Instagram", 
+        "Authors": [
+            "S. Bakhshi", 
+            "D. Shamma", 
+            "E. Gilbert"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/15504661/paper2417.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "What If We Ask A Different Question?: Social Inferences Create Ratings Faster", 
+        "Authors": [
+            "E. Gilbert"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/15504661/camera.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "Demographics, Weather and Online Participation: A Study of Restaurant Reviews", 
+        "Authors": [
+            "S. Bakhshi", 
+            "P. Kanuparthy", 
+            "E. Gilbert"
+        ], 
+        "Link": "https://dl.dropboxusercontent.com/u/15504661/fp650-bakhshi.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "The Language that Gets People to Give: Phrases that Predict Success on Kickstarter", 
+        "Authors": [
+            "T. Mitra", 
+            "E. Gilbert"
+        ], 
+        "Link": "http://comp.social.gatech.edu/papers/mitra.cscw14.kickstarter.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "Specialization, Homophily, and Gender in a Social Curation Site: Findings from Pinterest", 
+        "Authors": [
+            "S. Chang", 
+            "V. Kumar", 
+            "E. Gilbert", 
+            "L. Terveen"
+        ], 
+        "Link": "http://comp.social.gatech.edu/papers/chang.cscw14.pinterest.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "Cues to Deception in Social Media Communications", 
+        "Authors": [
+            "E. Briscoe", 
+            "S. Appling", 
+            "H. Hayes"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6758783&tag=1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "Determining credibility from social network structure", 
+        "Authors": [
+            "E. Briscoe", 
+            "S. Appling", 
+            "R. Mappus", 
+            "H. Hayes"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2492574", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "STINGER: High Performance Data Structure for Streaming Graphs", 
+        "Authors": [
+            "D. Ediger", 
+            "R. McColl", 
+            "D.A. Bader"
+        ], 
+        "Link": "http://www.cc.gatech.edu/~bader/papers/STINGER-HPEC2012.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "A Fast Algorithm for Streaming Betweenness Centrality", 
+        "Authors": [
+            "O. Green", 
+            "R. McColl", 
+            "D. Bader"
+        ], 
+        "Link": "http://www.cc.gatech.edu/~ogreen3/_docs/A%20Fast%20Algorithm%20For%20Streaming%20Betweenness%20Centrality.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "Faster Betweenness Centrality Based on Data Structure Experimentation", 
+        "Authors": [
+            "O. Green", 
+            "D. Bader"
+        ], 
+        "Link": "http://www.cc.gatech.edu/~ogreen3/_docs/Faster_BC_2013.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "A New Parallel Algorithm for Connected Components in Dynamic Graphs", 
+        "Authors": [
+            "R. McColl", 
+            "O. Green", 
+            "D.A. Bader"
+        ], 
+        "Link": "http://www.cc.gatech.edu/grads/o/ogreen3/_docs/2013DynamicConnectedComponents.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Georgia Tech Research Institute"
+        ], 
+        "Title": "Load Balanced Clustering Coefficients", 
+        "Authors": [
+            "O. Green", 
+            "L.M. Munguia", 
+            "D. Bader"
+        ], 
+        "Link": "http://www.cc.gatech.edu/~ogreen3/_docs/2014LoadBalancecClusteringCoefficients.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Exploiting Synchronicity Networks for Finding Valuables in Heterogeneous Networks",
-        "Link":"http://knowledgecenter.siam.org/32SDM/1",
-        "Categories":[
+        ], 
+        "Title": "Exploiting Synchronicity Networks for Finding Valuables in Heterogeneous Networks", 
+        "Authors": [
+            "Z Wen", 
+            "CY Lin"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.1-finding-valuables-in-heterogeneous-networks.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Socialization and Trust Formation: A Mutual Reinforcement? An Exploratory Analysis in an Online Virtual Setting",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Socialization and Trust Formation: A Mutual Reinforcement? An Exploratory Analysis in an Online Virtual Setting", 
+        "Authors": [
+            "A. Roy", 
+            "Z. Borbora", 
+            "J. Srivatava"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Guilt by Association? Network Based Propagation Approaches for Gold Farmer Detection",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Guilt by Association? Network Based Propagation Approaches for Gold Farmer Detection", 
+        "Authors": [
+            "M. A. Ahmad", 
+            "B. Keegan", 
+            "A. Roy", 
+            "D. Williams", 
+            "J. Srivastava", 
+            "N. S. Contractor"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Robust Features of Trust in Social Networks",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Robust Features of Trust in Social Networks", 
+        "Authors": [
+            "Z. H. Borbora", 
+            "M. A. Ahmad", 
+            "K. Z. Haigh", 
+            "J. Srivastava", 
+            "Z. Wen"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Resolving Entity Morphs in Censored Data",
-        "Link":"http://www.bibsonomy.org/bibtex/20b9ca5180570d61a99f81c8c6fb080a5/dblp",
-        "Categories":[
+        ], 
+        "Title": "Resolving Entity Morphs in Censored Data", 
+        "Authors": [
+            "H. Huang", 
+            "Z. Wen", 
+            "D. Yu", 
+            "H. Ji", 
+            "Y. Sun", 
+            "J. Han", 
+            "H. Li"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.3-resolving-entity-morphs.pd", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Foraging under conditions of short-term exploitative competition: the case of stock traders",
-        "Link":"http://rspb.royalsocietypublishing.org/content/280/1755/20122901.short",
-        "Categories":[
+        ], 
+        "Title": "Foraging under conditions of short-term exploitative competition: the case of stock traders", 
+        "Authors": [
+            "S. Saavedra", 
+            "R. D. Malmgren", 
+            "N. Switanek", 
+            "B. Uzzi"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.4-foraging-under-conditions.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Emergence of Bimodality in Controlling Complex Networks",
-        "Link":"http://www.nature.com/ncomms/2013/130618/ncomms3002/full/ncomms3002.html",
-        "Categories":[
+        ], 
+        "Title": "Emergence of Bimodality in Controlling Complex Networks", 
+        "Authors": [
+            "T Jia", 
+            "YY Liu", 
+            "E Csoka", 
+            "M Posfai", 
+            "JJ Slotine", 
+            "AL Barabasi"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.5-bimodality-in-controcontrolling-complex-network.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Observability of Complex Systems",
-        "Link":"http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201301-28_PNAS-Observability/201301-28_PNAS-Observability.pdf",
-        "Categories":[
+        ], 
+        "Title": "Observability of Complex Systems", 
+        "Authors": [
+            "YY Liu", 
+            "JJ Slotine", 
+            "AL Barabasi"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.5-observability-of-complex-systems-PNAS-cover-article.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Stuff IBMers Say: Microblogs as an Expression of Organizational Culture",
-        "Link":"https://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/viewFile/4654/5066",
-        "Categories":[
+        ], 
+        "Title": "Stuff IBMers Say: Microblogs as an Expression of Organizational Culture", 
+        "Authors": [
+            "J. Thom", 
+            "D. Millen"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.5-observability-of-complex-systems-PNAS-cover-article.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Cultural Differences in Psychological Ownership",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Cultural Differences in Psychological Ownership", 
+        "Authors": [
+            "P. Kinnaird", 
+            "J. Thom"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Using Q&A for Brainstorming",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Using Q&A for Brainstorming", 
+        "Authors": [
+            "J. Thom", 
+            "D. Millen", 
+            "S. Ross", 
+            "D. Gruen"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Universality in Network Dynamics",
-        "Link":"http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201309-08_NaturePhys-Universality/201309-08_NaturePhys-Universality.pdf",
-        "Categories":[
+        ], 
+        "Title": "Universality in Network Dynamics", 
+        "Authors": [
+            "B Barzel", 
+            "AL Barabasi"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.7-universality-in-network-dynamics.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Competing Memes Propagation on Networks: A Network Science Perspective",
-        "Link":"http://www.cs.ucr.edu/~neamtiu/pubs/jsac13wei.pdf",
-        "Categories":[
+        ], 
+        "Title": "Competing Memes Propagation on Networks: A Network Science Perspective", 
+        "Authors": [
+            "X Wei", 
+            "N Valler", 
+            "BA Prakash", 
+            "I Neamtiu", 
+            "M Faloutsos", 
+            "C Faloutsos"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.8-competing-memes-propagation.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Which Topic Will You Follow?",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Which Topic Will You Follow? Machine Learning and Knowledge Discovery in Databases", 
+        "Authors": [
+            "D. Yang", 
+            "Y. Xiao", 
+            "B. Xu", 
+            "H. Tong", 
+            "W. Wang", 
+            "S. Huang"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"When Will You Answer This? Estimating Response Time in Twitter",
-        "Link":"http://www.jeffreynichols.com/papers/response-time-icwsm-2013.pdf",
-        "Categories":[
+        ], 
+        "Title": "When Will You Answer This? Estimating Response Time in Twitter", 
+        "Authors": [
+            "J Mahmud", 
+            "J Chen", 
+            "J Nichols"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.9-estimating-response-time-in-twitter.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Competing Memes Propagation on Networks: A Case Study of Composite Networks",
-        "Link":"http://www.cs.cmu.edu/~badityap/papers/composite-ccr12.pdf",
-        "Categories":[
+        ], 
+        "Title": "Competing Memes Propagation on Networks: A Case Study of Composite Networks", 
+        "Authors": [
+            "X Wei", 
+            "N Valler", 
+            "B A Prakash", 
+            "I Neamtiu", 
+            "M Faloutsos", 
+            "C Faloutsos"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T1.10-competing-mems-case-study.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Counting and Sampling Triangles from a Graph Stream",
-        "Link":"http://www.vldb.org/pvldb/vol6/p1870-aduri.pdf",
-        "Categories":[
+        ], 
+        "Title": "Counting and Sampling Triangles from a Graph Stream", 
+        "Authors": [
+            "A. Pavan", 
+            "K. Tangwongsan", 
+            "S. Tirthapura", 
+            "K.-L. Wu"
+        ], 
+        "Link": "http://www.vldb.org/pvldb/vol6/p1870-aduri.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Efficient Processing of Streaming Graphs for Evolution-Aware Clustering",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Efficient Processing of Streaming Graphs for Evolution-Aware Clustering", 
+        "Authors": [
+            "M. Yuan", 
+            "K.-L. Wu", 
+            "G. Jacques-Silva", 
+            "Y. Lu."
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Streaming Algorithms for k-Core Decomposition",
-        "Link":"http://www.cse.ohio-state.edu/~sariyuce/file/Publications_files/VLDB13.pdf",
-        "Categories":[
+        ], 
+        "Title": "Streaming Algorithms for k-Core Decomposition", 
+        "Authors": [
+            "E. Sariyuce", 
+            "B. Gedik", 
+            "G. Jacques-Silva", 
+            "K.-L. Wu", 
+            "U. V. Catalyurek"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Adaptive Schemes for Clustering Streaming Graphs",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Adaptive Schemes for Clustering Streaming Graphs", 
+        "Authors": [
+            "Y. Xia", 
+            "K.-L. Wu", 
+            "J. Wang"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"System G Data Store: Big, Rich Graph Data Analytics in the Cloud",
-        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6529300&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6511064%2F6529250%2F06529300.pdf%3Farnumber%3D6529300",
-        "Categories":[
+        ], 
+        "Title": "System G Data Store: Big, Rich Graph Data Analytics in the Cloud", 
+        "Authors": [
+            "M. Canim", 
+            "Y.C. Chang"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.1-system-G-data-store-for-large-graphs.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Network Similarity via Multiple Social Theories",
-        "Link":"http://www.cs.cmu.edu/~dkoutra/papers/asonam_network_similarity_via_multiple_social_theories.pdf",
-        "Categories":[
+        ], 
+        "Title": "Network Similarity via Multiple Social Theories", 
+        "Authors": [
+            "M Berlingerio", 
+            "D Koutra", 
+            "T Eliassi-Rad", 
+            "C. Faloutsos"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.2-network-similarity-via-social-theory.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Fast and Effective Pattern Matching on Weighted Attributed Graphs",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Fast and Effective Pattern Matching on Weighted Attributed Graphs", 
+        "Authors": [
+            "S Basu Roy", 
+            "T Eliassi-Rad", 
+            "S Papadimitriou"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.2-pattern-matching-on-weighted-attributed-graph.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Guided Learning for Role Discovery (GLRD): Framework, Algorithms, and Applications",
-        "Link":"http://www.cs.ucdavis.edu/~davidson/Publications/KDD13a.pdf",
-        "Categories":[
+        ], 
+        "Title": "Guided Learning for Role Discovery (GLRD): Framework, Algorithms, and Applications", 
+        "Authors": [
+            "T Eliassi-Rad Gilpin", 
+            "I Davidson"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.2-guided-learning-for-role-discovery.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Entelecheia: Detecting P2P Botnets in their Waiting Stage",
-        "Link":"http://eliassi.org/papers/networking13-entelecheia.pdf",
-        "Categories":[
+        ], 
+        "Title": "Entelecheia: Detecting P2P Botnets in their Waiting Stage", 
+        "Authors": [
+            "H Hang", 
+            "X Wei", 
+            "M Faloutsos", 
+            "T Eliassi-Rad"
+        ], 
+        "Link": "http://eliassi.org/papers/networking13-entelecheia.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"RolX: Structural Role Extraction and Mining in Large Networks",
-        "Link":"http://www.cs.cmu.edu/~dkoutra/papers/12-kdd-recursiverole.pdf",
-        "Categories":[
+        ], 
+        "Title": "RolX: Structural Role Extraction and Mining in Large Networks", 
+        "Authors": [
+            "K Henderson", 
+            "B Gallagher", 
+            "T Eliassi-Rad", 
+            "H Tong", 
+            "S Basu", 
+            "L Akoglu", 
+            "D Koutra", 
+            "C Faloutsos", 
+            "L Li"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.2-structural-role-extraction-in-large-network.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Measuring Tie Strength in Implicit Social Networks",
-        "Link":"http://arxiv.org/pdf/1112.2774.pdf",
-        "Categories":[
+        ], 
+        "Title": "Measuring Tie Strength in Implicit Social Networks", 
+        "Authors": [
+            "M Gupte", 
+            "T Eliassi-Rad"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.2-measuring-ties-in-social-network.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"An Analysis of Socware Cascades in Online Social Networks",
-        "Link":"http://www.cs.cmu.edu/~ribeiro/pdf/TingKai_WWW2013.pdf",
-        "Categories":[
+        ], 
+        "Title": "An Analysis of Socware Cascades in Online Social Networks", 
+        "Authors": [
+            "TK Huang", 
+            "M Sazzadur Rahman", 
+            "H Madhyastha", 
+            "M Faloutsos", 
+            "B Ribeiro"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.3-socware-cascades-in-OSN.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"FRAppE: Detecting Malicious Facebook Applications",
-        "Link":"http://www.cs.ucr.edu/~rahmanm/papers/frappe.pdf",
-        "Categories":[
+        ], 
+        "Title": "FRAppE: Detecting Malicious Facebook Applications", 
+        "Authors": [
+            "M Sazzadur Rahman", 
+            "TK Huang", 
+            "H Madhyastha", 
+            "M Faloutsos"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.3-detecting-malicious-facebook-applications.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Efficient and Scalable Socware Detection in Online Social Networks",
-        "Link":"http://www.cs.ucr.edu/~rahmanm/papers/USENIXSecurity12.pdf",
-        "Categories":[
+        ], 
+        "Title": "Efficient and Scalable Socware Detection in Online Social Networks", 
+        "Authors": [
+            "M Sazzadur Rahman", 
+            "TK Huang", 
+            "H Madhyastha", 
+            "M Faloutsos"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.3-efficient-scalable-socware-detection.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Large-scale Distributed Non-negative Sparse Coding and Dictionary Learning",
-        "Link":"http://vikas.sindhwani.org/DistributedSparseNMFkdd2012.pdf",
-        "Categories":[
+        ], 
+        "Title": "Large-scale Distributed Non-negative Sparse Coding and Dictionary Learning", 
+        "Authors": [
+            "V. Sindhwani", 
+            "A. Ghoting"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.4-large-scale-distributed-sparse-coding.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Fast Conical Hull Algorithms for Near-separable Non-negative Matrix Factorization",
-        "Link":"http://jmlr.org/proceedings/papers/v28/kumar13b.pdf",
-        "Categories":[
+        ], 
+        "Title": "Fast Conical Hull Algorithms for Near-separable Non-negative Matrix Factorization", 
+        "Authors": [
+            "V. Sindhwani Kumar", 
+            "P. Kambadur"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.4-non-negative-factorization.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Large-scale Visual Sentiment Ontology and Detectors using Adjective Noun Pairs",
-        "Link":"http://www.ee.columbia.edu/ln/dvmm/vso/download/visual_sentiment_ontology_FINAL.pdf",
-        "Categories":[
+        ], 
+        "Title": "Large-scale Visual Sentiment Ontology and Detectors using Adjective Noun Pairs", 
+        "Authors": [
+            "D Borth", 
+            "R Ji", 
+            "T Chen", 
+            "T Breuel", 
+            "SF Chang"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.5-visual_sentiment_and_emotion.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"SentiBank: Large-scale Ontology and Classifiers for Detecting Sentiment and Emotions in Visual Content",
-        "Link":"http://www.ee.columbia.edu/ln/dvmm/vso/download/demo.pdf",
-        "Categories":[
+        ], 
+        "Title": "SentiBank: Large-scale Ontology and Classifiers for Detecting Sentiment and Emotions in Visual Content", 
+        "Authors": [
+            "D Borth", 
+            "T Chen", 
+            "R Ji", 
+            "SF Chang"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.5_visual_sentiment_ontology.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Early Warning Signals of System Change from Expert Communication Networks",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Early Warning Signals of System Change from Expert Communication Networks", 
+        "Authors": [
+            "D. Romero", 
+            "B. Uzzi"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Distributed K-Core View Materialization and Maintenance for Graphs",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Distributed K-Core View Materialization and Maintenance for Graphs", 
+        "Authors": [
+            "H. Aksu", 
+            "M. Canim", 
+            "Y.-C. Chang", 
+            "I. Korpeoglu", 
+            "O. Ulusoy"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Multi-resolution Social Network Community Identification and Maintenance on Big Data Platform",
-        "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6597125&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6597125",
-        "Categories":[
+        ], 
+        "Title": "Multi-resolution Social Network Community Identification and Maintenance on Big Data Platform", 
+        "Authors": [
+            "H. Aksu", 
+            "M. Canim", 
+            "Y.-C. Chang", 
+            "I. Korpeoglu", 
+            "O. Ulusoy"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"GenDeR: A Generic Diversified Ranking Algorithm",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "GenDeR: A Generic Diversified Ranking Algorithm", 
+        "Authors": [
+            "J. He", 
+            "H. Tong", 
+            "Q. Mei", 
+            "B. Szymanski"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"On the interplay between social and topical structure",
-        "Link":"http://www.cs.cornell.edu/~chenhao/pub/social-topical-structure.pdf",
-        "Categories":[
+        ], 
+        "Title": "On the interplay between social and topical structure", 
+        "Authors": [
+            "D. Romero", 
+            "T. Chenhao Tan", 
+            "J. Ugander"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T2.8-interplay-between-social-and-topical-structure-.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Cloud Service Placement via Subgraph Matching",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Cloud Service Placement via Subgraph Matching", 
+        "Authors": [
+            "B Zong", 
+            "R Raghavendra", 
+            "M Srivatsa", 
+            "X Yan", 
+            "A K Singh", 
+            "K Lee"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Recommending Targeted Strangers from Whom to Solicit Information on Social Media",
-        "Link":"http://dl.acm.org/citation.cfm?id=2449403",
-        "Categories":[
+        ], 
+        "Title": "Recommending Targeted Strangers from Whom to Solicit Information on Social Media", 
+        "Authors": [
+            "J Mahmud", 
+            "M Zhou", 
+            "N Megiddo", 
+            "J Nichols", 
+            "C Drews"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T3.1-recommending-targeted-strangers-to-solicit-info-on-social-media.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"CrowdE: Filtering Tweets for Direct Customer Engagements",
-        "Link":"http://www.jeffreynichols.com/papers/crowde_icwsm2013.pdf",
-        "Categories":[
+        ], 
+        "Title": "CrowdE: Filtering Tweets for Direct Customer Engagements", 
+        "Authors": [
+            "J Chen", 
+            "A Cypher", 
+            "C Drews J Nichols"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T3.1-filtering-tweets-for-engagement.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Analyzing the quality of information solicited from targeted strangers on social media",
-        "Link":"http://www.jeffreynichols.com/papers/product-reviews-cscw2013.pdf",
-        "Categories":[
+        ], 
+        "Title": "Analyzing the quality of information solicited from targeted strangers on social media", 
+        "Authors": [
+            "J Nichols", 
+            "M Zhou", 
+            "H Yang", 
+            "JH Kang", 
+            "X Sun"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T3.2-analyzing-the-quality-of-info-in-social-media.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Social Capital: The Power of Influencers",
-        "Link":"http://www.ifaamas.org/Proceedings/aamas2013/docs/p1243.pdf",
-        "Categories":[
+        ], 
+        "Title": "Social Capital: The Power of Influencers", 
+        "Authors": [
+            "K. Subbian", 
+            "D. Sharma", 
+            "Z. Wen", 
+            "J. Srivastava"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T3.3-social-capital-power-of-influencers.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Finding influencers using social capital",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Finding influencers using social capital", 
+        "Authors": [
+            "K. Subbian", 
+            "D. Sharma", 
+            "Z. Wen", 
+            "J. Srivastava"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Content-Centric Flow Mining for Influence Analysis in Social Streams",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Content-Centric Flow Mining for Influence Analysis in Social Streams", 
+        "Authors": [
+            "K. Subbian", 
+            "C. Aggarwal", 
+            "J. Srivastava"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Finding communities using prior knowledge",
-        "Link":"http://charuaggarwal.net/sdm2013.pdf",
-        "Categories":[
+        ], 
+        "Title": "Finding communities using prior knowledge", 
+        "Authors": [
+            "K. Subbian", 
+            "C. Aggarwal", 
+            "J. Srivastava", 
+            "P. S. Yu"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T3.3-finding-communities-using-prior-knowledge.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Who Will Retweet This? Identifying Strangers on Twitter to Retweet Information",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Who Will Retweet This? Identifying Strangers on Twitter to Retweet Information", 
+        "Authors": [
+            "K Lee", 
+            "J Mahmud", 
+            "J Chen", 
+            "M Zhou", 
+            "J Nichols"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"SocialHelix: Visualization of Public Conflicts in Social Media",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "SocialHelix: Visualization of Public Conflicts in Social Media", 
+        "Authors": [
+            "L. Lu", 
+            "N. Cao", 
+            "Z. Wen", 
+            "F. Wang", 
+            "YR Lin", 
+            "H. Qu"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Slicing Indirect Correlations for Link Prediction",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Slicing Indirect Correlations for Link Prediction", 
+        "Authors": [
+            "B Barzel", 
+            "AL Barabasi"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T3.6-slicing-indirect-correlations-for-link-prediction.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Gelling, and Melting, Large Graphs by Edge Manipulation",
-        "Link":"http://www.cs.cmu.edu/~christos/PUBLICATIONS/cikm12-netgel.pdf",
-        "Categories":[
+        ], 
+        "Title": "Gelling, and Melting Large Graphs by Edge Manipulation", 
+        "Authors": [
+            "H Tong", 
+            "B Prakash", 
+            "T Eliassi-Rad", 
+            "M Faloutsos", 
+            "C Faloutsos"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T3.7-geiling-and-melting-large-graph-cikm2012-best-paper.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Gateway Finder in Large Graphs: Problem Definitions and Fast Solutions",
-        "Link":"http://eliassi.org/papers/tong-ir12.pdf",
-        "Categories":[
+        ], 
+        "Title": "Gateway Finder in Large Graphs: Problem Definitions and Fast Solutions", 
+        "Authors": [
+            "H Tong", 
+            "S Papadimitriou", 
+            "C Faloutsos", 
+            "PS Yu", 
+            "T Eliassi-Rad"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T3.7-gateway-finding-in-large-graphs.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Fractional Immunization on Networks",
-        "Link":"http://www.cs.cmu.edu/~badityap/papers/smartalloc-sdm13.pdf",
-        "Categories":[
+        ], 
+        "Title": "Fractional Immunization on Networks", 
+        "Authors": [
+            "B. Aditya Prakash", 
+            "L. Adamic", 
+            "T. Iwashnya", 
+            "H. Tong", 
+            "C. Faloutsos"
+        ], 
+        "Link": "http://systemg.ibm.com/papers/T3.7-fractional-immunization-on-networks.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Atypical Combinations and Scientific Impact",
-        "Link":"http://www.kellogg.northwestern.edu/faculty/uzzi/htm/papers/Science-2013-Uzzi-468-72.pdf",
-        "Categories":[
+        ], 
+        "Title": "Atypical Combinations and Scientific Impact", 
+        "Authors": [
+            "B. Uzzi", 
+            "S. Mukerjee", 
+            "M. Stringer", 
+            "B. Jones"
+        ], 
+        "Link": "http://www.kellogg.northwestern.edu/faculty/uzzi/htm/papers/Science-2013-Uzzi-468-72.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Linguistic Style Matching and 3rd Party Influence: Mimicry is Presidential",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Linguistic Style Matching and 3rd Party Influence: Mimicry is Presidential", 
+        "Authors": [
+            "D. Romero", 
+            "R. Swaab", 
+            "A. Galinsky", 
+            "B. Uzzi"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Emotional Contagion in Social Networks and Decision Performance",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Emotional Contagion in Social Networks and Decision Performance", 
+        "Authors": [
+            "B. Liu", 
+            "R. Govindin", 
+            "B. Uzzi"
+        ], 
+        "Link": "", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "IBM"
-        ],
-        "Title":"Network link prediction by global silencing of indirect correlations",
-        "Link":"http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201307-14_NatureBio-Silencing/201307-14_NatureBio-Silencing.pdf",
-        "Categories":[
+        ], 
+        "Title": "Network link prediction by global silencing of indirect correlations", 
+        "Authors": [
+            "B. Barzel", 
+            "AL Barabasi"
+        ], 
+        "Link": "http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201307-14_NatureBio-Silencing/201307-14_NatureBio-Silencing.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Understanding Individual's Personal Values from Social Media Word Use", 
+        "Authors": [
+            "J. Chen", 
+            "G. Hsieh", 
+            "J. Mahmud", 
+            "J. Nichols"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2531608", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Who Will Retweet This? Automatically Identifying and Engaging Strangers on Twitter to Spread Information", 
+        "Authors": [
+            "K Lee", 
+            "J Mahmud", 
+            "J Chen", 
+            "M Zhou", 
+            "J Nichols"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2557502", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "You Read What You Value: Understanding Personal Values and Reading Interests", 
+        "Authors": [
+            "Gary Hsieh", 
+            "Jilin Chen", 
+            "Jalal Mahmud", 
+            "Jeffrey Nichols"
+        ], 
+        "Link": "", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Modeling User Attitude toward Controversial Topics in Online Social Media", 
+        "Authors": [
+            "Huiji Gao", 
+            "Jalal Mahmud", 
+            "Jilin Chen", 
+            "Jeffrey Nichols", 
+            "Michelle Zhou"
+        ], 
+        "Link": "", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Why Do You Spread This Message? Understanding Users Sentiment in Social Media Campaigns", 
+        "Authors": [
+            "Jalal Mahmud", 
+            "Huiji Gao"
+        ], 
+        "Link": "", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "KnowMe and ShareMe: Understanding Automatically Discovered Personality Traits from Social Media and User Sharing Preferences", 
+        "Authors": [
+            "Liang Gou", 
+            "Michelle Zhou", 
+            "Huahai Yang"
+        ], 
+        "Link": "", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Counting and Sampling Triangles from a Graph Stream", 
+        "Authors": [
+            "K. Tangwongsan Pavan", 
+            "S. Tirthapura", 
+            "K.-L. Wu"
+        ], 
+        "Link": "http://www.vldb.org/pvldb/vol6/p1870-aduri.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Efficient Processing of Streaming Graphs for Evolution-Aware Clustering", 
+        "Authors": [
+            "M. Yuan", 
+            "K.-L. Wu", 
+            "G. Jacques-Silva", 
+            "Y. Lu"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2505750", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Predicting Viewer Affective Comments Based on Image Content in Social Media", 
+        "Authors": [
+            "Y.-Y. Chen", 
+            "T. Chen", 
+            "W. H. Hsu", 
+            "H.-Y. M. Liao", 
+            "SF Chang"
+        ], 
+        "Link": "", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Distributed k-Core View Materialization and Maintenance for Large Dynamic Graphs", 
+        "Authors": [
+            "H. Aksu", 
+            "M. Canim", 
+            "Y.-C. Chang", 
+            "I. Korpeoglu", 
+            "O. Ulusoy"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6702486&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6702486", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Target Control of Complex Networks", 
+        "Authors": [
+            "Jianxi Gao", 
+            "Yang-Yu Liu", 
+            "Raissa M. D'Souza", 
+            "Albert-Laszlo Barabasi"
+        ], 
+        "Link": "", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Hyperlocal: Inferring Location of IP Addresses in Real-time Bid Requests for Mobile Ads", 
+        "Authors": [
+            "Long T. Le", 
+            "Tina Eliassi-Rad", 
+            "Foster Provost", 
+            "Lauren Moores"
+        ], 
+        "Link": "http://eliassi.org/papers/le-lbsn13.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "A Guide to Selecting a Network Similarity Method", 
+        "Authors": [
+            "Sucheta Soundarajan", 
+            "Tina Eliassi-Rad", 
+            "B. Gallagher"
+        ], 
+        "Link": "http://eliassi.org/papers/soundarajan-sdm14.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Future Activity Prediction for Multi-Actor Collaborations: A Hypergraph Based Approach", 
+        "Authors": [
+            "A. Sharma", 
+            "J. Srivasatava", 
+            "A. Chandra"
+        ], 
+        "Link": "http://arxiv.org/abs/1401.6404", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Robust Features of Trust in Social Networks. Social Network and Analysis and Mining", 
+        "Authors": [
+            "Z. H Borbora", 
+            "M. A. Ahmad", 
+            "K. Z. Haigh", 
+            "J. Srivastava", 
+            "Z. Wen"
+        ], 
+        "Link": "http://link.springer.com/article/10.1007%2Fs13278-013-0136-6", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "BIG-ALIGN: Fast Bipartite Graph Alignment", 
+        "Authors": [
+            "D. Koutra", 
+            "H. Tong", 
+            "D. Lubensky"
+        ], 
+        "Link": "http://www.cs.cmu.edu/~dkoutra/papers/BiG-Align.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Demonstrating Interactive Multi-resolution Large Graph Exploration", 
+        "Authors": [
+            "Z. Lin", 
+            "N. Cao", 
+            "H. Tong", 
+            "F. Wang", 
+            "U. Kang", 
+            "D. H. (Polo) Chau"
+        ], 
+        "Link": "http://www.cc.gatech.edu/~dchau/bubblenet/bubblenet_icdm2013.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Multi-Aspect+ Transitivity+ Bias: An Integral Trust Inference Model", 
+        "Authors": [
+            "Y. Yao", 
+            "H. Tong", 
+            "X. Yan", 
+            "F. Xu", 
+            "J. Lu"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6585254", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Structure and dynamics of core-periphery networks", 
+        "Authors": [
+            "Peter. Csermely", 
+            "Andres. London", 
+            "Ling.-Yun. Uzzi Wu"
+        ], 
+        "Link": "http://arxiv.org/abs/1309.6928", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "The Retraction Penalty: Evidence from the Web of Science", 
+        "Authors": [
+            "Susan Lu", 
+            "Ginger Zhe Jin", 
+            "Brian Uzzi", 
+            "Benjamin F Jones"
+        ], 
+        "Link": "http://www.nature.com/srep/2013/131106/srep03146/pdf/srep03146.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "IBM"
+        ], 
+        "Title": "Critical transitions in social network activity", 
+        "Authors": [
+            "Christian Kuehn", 
+            "Erik A. Martens", 
+            "Daniel M. Romero"
+        ], 
+        "Link": "http://arxiv.org/abs/1307.8250", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Getting the Dirt on Big Data, Big Data",
-        "Link":"http://online.liebertpub.com/doi/abs/10.1089/big.2013.0026",
-        "Categories":[
+        ], 
+        "Title": "Getting the Dirt on Big Data, Big Data", 
+        "Authors": [
+            "K. Krasnow", 
+            "J. Hendler"
+        ], 
+        "Link": "http://online.liebertpub.com/doi/abs/10.1089/big.2013.0026", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Peta vs. Meta, Big Data",
-        "Link":"http://online.liebertpub.com/doi/abs/10.1089/big.2013.0013",
-        "Categories":[
+        ], 
+        "Title": "Peta vs. Meta", 
+        "Authors": [
+            "J. Hendler"
+        ], 
+        "Link": "http://online.liebertpub.com/doi/abs/10.1089/big.2013.0013", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Web Science: A new frontier, Philosophical Transactions of the Royal Society",
-        "Link":"http://rsta.royalsocietypublishing.org/content/371/1987/20120512.full.pdf+html",
-        "Categories":[
+        ], 
+        "Title": "Web Science: A new frontier, Philosophical Transactions of the Royal Society", 
+        "Authors": [
+            "N. Shadbolt", 
+            "W. Hall", 
+            "J. Hendler", 
+            "W. Dutton"
+        ], 
+        "Link": "http://rsta.royalsocietypublishing.org/content/371/1987/20120512.full.pdf+html", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Broad Data, Big Data",
-        "Link":"http://online.liebertpub.com/doi/abs/10.1089/big.2013.1506",
-        "Categories":[
+        ], 
+        "Title": "Broad Data: Exploring the Emerging Web of Data", 
+        "Authors": [
+            "J. Hendler"
+        ], 
+        "Link": "http://online.liebertpub.com/doi/abs/10.1089/big.2013.1506", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"The Web Science Observatory",
-        "Link":"http://wstweb1.ecs.soton.ac.uk/wp-content/uploads/2013/08/The-Web-Science-Observatory.pdf",
-        "Categories":[
+        ], 
+        "Title": "The Web Science Observatory", 
+        "Authors": [
+            "T. Thanassis", 
+            "W. Hall", 
+            "N. Shadbolt", 
+            "D. DeRoure", 
+            "N. Contractor", 
+            "J. Hendler"
+        ], 
+        "Link": "http://www.computer.org/portal/web/computingnow/content?g=53319&type=article&urlTitle=the-web-science-observatory", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"The Performativity of Data: Re-conceptualizing the Web of Data",
-        "Link":"http://tw.rpi.edu/media/2013/05/15/aa0d/Performativity_CR_FINAL.pdf",
-        "Categories":[
+        ], 
+        "Title": "The Performativity of Data: Re-conceptualizing the Web of Data", 
+        "Authors": [
+            "K Gloria", 
+            "D. Difranzo", 
+            "M. Navarro", 
+            "J. Hendler"
+        ], 
+        "Link": "http://tw.rpi.edu/media/2013/05/15/aa0d/Performativity_CR_FINAL.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Exploration in Web Science: Instruments for Web Observatories",
-        "Link":"http://tw.rpi.edu/media/2013/05/15/aeb0/WebSciObsv_ACM_CAMERA.pdf",
-        "Categories":[
+        ], 
+        "Title": "Exploration in Web Science: Instruments for Web Observatories", 
+        "Authors": [
+            "K. Gloria", 
+            "D.L. McGuinness", 
+            "J.S. Luciano", 
+            "Q. Zhang"
+        ], 
+        "Link": "http://tw.rpi.edu/media/2013/05/15/aeb0/WebSciObsv_ACM_CAMERA.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Characterizing Investor Attention on the Social Web",
-        "Link":"http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2256400",
-        "Categories":[
+        ], 
+        "Title": "Characterizing Investor Attention on the Social Web", 
+        "Authors": [
+            "Xian Li", 
+            "James Hendler", 
+            "John Teall"
+        ], 
+        "Link": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2256400", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Information Cartography: Creating Zoomable, Large-Scale Maps of Information",
-        "Link":"http://cs.stanford.edu/people/jure/pubs/metro-kdd13.pdf",
-        "Categories":[
+        ], 
+        "Title": "Information Cartography: Creating Zoomable, Large-Scale Maps of Information", 
+        "Authors": [
+            "D. Shahaf", 
+            "J. Yang", 
+            "C. Suen", 
+            "J. Jacobs", 
+            "H. Wang", 
+            "J. Leskovec"
+        ], 
+        "Link": "http://cs.stanford.edu/people/jure/pubs/metro-kdd13.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"No Country for Old Members: User lifecycle and linguistic change in online communities",
-        "Link":"http://cs.stanford.edu/people/jure/pubs/language-www13.pdf",
-        "Categories":[
+        ], 
+        "Title": "No Country for Old Members: User lifecycle and linguistic change in online communities", 
+        "Authors": [
+            "C. Danescu-Niculescu-Mizil", 
+            "R. West", 
+            "D. Jurafsky", 
+            "J. Leskovec", 
+            "C. Potts"
+        ], 
+        "Link": "http://cs.stanford.edu/people/jure/pubs/language-www13.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"What's in a name? Understanding the Interplay between Titles, Content, and Communities in Social Media",
-        "Link":"http://cs.stanford.edu/people/jure/pubs/reddit-icwsm13.pdf",
-        "Categories":[
+        ], 
+        "Title": "Whats in a name? Understanding the Interplay between Titles, Content, and Communities in Social Media", 
+        "Authors": [
+            "H. Lakkaraju", 
+            "J. McAuley", 
+            "J. Leskovec"
+        ], 
+        "Link": "http://cs.stanford.edu/people/jure/pubs/reddit-icwsm13.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Clash of the Contagions: Cooperation and Competition in Information Diffusion",
-        "Link":"http://cs.stanford.edu/people/jure/pubs/topicmix-icdm12.pdf",
-        "Categories":[
+        ], 
+        "Title": "Clash of the Contagions: Cooperation and Competition in Information Diffusion", 
+        "Authors": [
+            "S. Myers", 
+            "J. Leskovec"
+        ], 
+        "Link": "http://cs.stanford.edu/people/jure/pubs/topicmix-icdm12.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Structure and Dynamics of Information Pathways in Online Media",
-        "Link":"http://cs.stanford.edu/people/jure/pubs/infopath-wsdm13.pdf",
-        "Categories":[
+        ], 
+        "Title": "Structure and Dynamics of Information Pathways in Online Media", 
+        "Authors": [
+            "M. Gomez-Rodriguez", 
+            "J. Leskovec", 
+            "B. Schoelkopf"
+        ], 
+        "Link": "http://cs.stanford.edu/people/jure/pubs/infopath-wsdm13.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"NIFTY: A System for Large Scale Information Flow Tracking and Clustering",
-        "Link":"http://cs.stanford.edu/people/jure/pubs/nifty-www13.pdf",
-        "Categories":[
+        ], 
+        "Title": "NIFTY: A System for Large Scale Information Flow Tracking and Clustering", 
+        "Authors": [
+            "C. Suen", 
+            "S. Huang", 
+            "C. Eksombatchai", 
+            "R. Sosic", 
+            "J. Leskovec"
+        ], 
+        "Link": "http://cs.stanford.edu/people/jure/pubs/nifty-www13.pdf", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
     {
-        "DARPA Program":"SMISC",
-        "Program Teams":[
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
             "Sentimetrix"
-        ],
-        "Title":"Large Scale Social Network Analysis Using Semantic Web Technologies",
-        "Link":"Not Yet Published",
-        "Categories":[
+        ], 
+        "Title": "Large Scale Social Network Analysis Using Semantic Web Technologies", 
+        "Authors": [
+            "Dominic Difranzo", 
+            "Q. Zhang", 
+            "M.J.K. Gloria", 
+            "James Hendler"
+        ], 
+        "Link": "http://www.aaai.org/ocs/index.php/FSS/FSS13/paper/viewFile/7614/7546", 
+        "Categories": [
             ""
-        ],
-        "Subcategories":[
+        ], 
+        "Subcategories": [
             ""
-        ],
-        "ACM 1998 classification code":[
+        ], 
+        "ACM 1998 classification code": [
             ""
-        ],
-        "New Date":"",
-        "Update Date":""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Sentimetrix"
+        ], 
+        "Title": "A computational approach to politeness with application to social factors", 
+        "Authors": [
+            "C. Danescu-Niculescu-Mizil", 
+            "M. Sudhof", 
+            "D. Jurafsky", 
+            "J. Leskovec", 
+            "C. Potts"
+        ], 
+        "Link": "http://cs.stanford.edu/people/jure/pubs/politeness-acl13.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Sentimetrix"
+        ], 
+        "Title": "Information Cartography: Creating Zoomable, Large-Scale Maps of Information", 
+        "Authors": [
+            "D. Shahaf", 
+            "J. Yang", 
+            "C. Suen", 
+            "J. Jacobs", 
+            "H. Wang", 
+            "J. Leskovec"
+        ], 
+        "Link": "http://cs.stanford.edu/people/jure/pubs/metro-kdd13.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Sentimetrix"
+        ], 
+        "Title": "Hidden Factors and Hidden Topics: Understanding Rating Dimensions with Review Text", 
+        "Authors": [
+            "J. McAuley", 
+            "J. Leskovec"
+        ], 
+        "Link": "http://cs.stanford.edu/people/jure/pubs/reviews-recsys13.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "SMISC", 
+        "Program Teams": [
+            "Sentimetrix"
+        ], 
+        "Title": "Web Science: Understanding the Emergence of Macro-Level Features on the World Wide Web", 
+        "Authors": [
+            "K. O'Hara", 
+            "N. S. Contractor", 
+            "W. Hall", 
+            "J. A. Hendler", 
+            "N. Shadbolt"
+        ], 
+        "Link": "http://dx.doi.org/10.1561/1800000017", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
     }
 ]

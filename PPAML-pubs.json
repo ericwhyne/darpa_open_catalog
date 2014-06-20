@@ -1,0 +1,332 @@
+[
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Charles River Analytics"
+        ], 
+        "Title": "Hierarchical Reasoning with Probabilistic Programming", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Indiana University"
+        ], 
+        "Title": "Designing a MCMC library for Probabilistic Programming", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Approximate Bayesian Image Interpretation via Generative Probabilistic Graphics Programming ", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://papers.nips.cc/paper/4881-approximate-bayesian-image-interpretation-using-generative-probabilistic-graphics-programs.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "A New Approach to Probabilistic Programming Inference ", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://www.robots.ox.ac.uk/~fwood/assets/pdf/Wood-AISTATS-2014.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Building fast, Bayesian computing machines out of intentionally stochastic, digital parts", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://arxiv.org/pdf/1402.4914.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Venture: a higher-order probabilistic programming system with programmable inference", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://arxiv.org/pdf/1404.0099.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Princeton University"
+        ], 
+        "Title": "Bayesian nonparametric Poisson factorization for recommendation systems", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://www.cs.princeton.edu/~blei/papers/GopalanRuizRanganathBlei2014.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Princeton University"
+        ], 
+        "Title": "Black box variational inference", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://arxiv.org/pdf/1401.0118v1.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Princeton University"
+        ], 
+        "Title": "Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models ", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-022513-115657", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Princeton University"
+        ], 
+        "Title": "The inverse regression topic model", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://www.cs.princeton.edu/~blei/papers/RabinovichBlei2014.pdf\n\n\n\n\n\n\n", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "University of TX Dallas"
+        ], 
+        "Title": "Lifted MAP Inference for Markov Logic Networks", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://www.hlt.utdallas.edu/~vgogate/papers/aistats14-1.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "University of TX Dallas"
+        ], 
+        "Title": "Loopy Belief Propagation in the Presence of Determinism", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://www.hlt.utdallas.edu/~vgogate/papers/aistats14-2.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "University of CA Irvine"
+        ], 
+        "Title": "Marginal Structured SVM with Hidden Variables", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "University of CA Berkeley"
+        ], 
+        "Title": "Unifying Logic and Probability: Recent Developments", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "University of CA Riverside"
+        ], 
+        "Title": "Deterministic Anytime Inference for Stochastic Continuous-Time Markov Processes", 
+        "Authors": [
+            ""
+        ], 
+        "Link": "http://www.cs.ucr.edu/~cshelton/papers/index.cgi?CelShe14", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }
+]

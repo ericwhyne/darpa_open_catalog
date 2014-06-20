@@ -1,0 +1,24 @@
+{
+    "DARPA Program Name":"PPAML",
+    "Long Name":"Probabilistic Programming for Advancing Machine Learning (PPAML)",
+    "Program Teams":"",
+    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/Probabilistic_Programming_for_Advanced_Machine_Learning_%28PPAML%29.aspx",
+    "Display Software Columns":[
+        "Team",
+        "Project",
+        "Category",
+        "Code",
+        "Description",
+        "License"
+    ],
+    "Display Pubs Columns":[
+        "Team",
+        "Title",
+        "Link"
+    ],
+    "Description":".",
+    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr__Kathleen_Fisher.aspx",
+    "Program Manager":"Dr. Kathleen Fisher",
+    "Program Manager Email":"kathleen.fisher@darpa.mil",
+    "Image":""
+}

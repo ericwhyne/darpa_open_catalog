@@ -1,0 +1,2028 @@
+[
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Applied Communication Sciences"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "DREtool 1.0 (DILEGENT team)", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Probability density ratio estimation tool. Given two samples of data, provides estimate of the density ratio between corresponding probability densities. To be used  as the core module for other developed applications, such as conditional probability estimation.", 
+        "License": [
+            "Mathworks Matlab"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Machine Learning"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "BAE Systems"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Prob", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Probabilistic programming language built within Racket system, featuring intentional contracts.", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "BAE Systems"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "CP MATLAB", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "MATLAB solutions to first 3 TA1 challenge problems.", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "BAE Systems"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "CP Prob", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Prob solutions to first 3 TA1 challenge problems.", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Charles River Analytics"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Figaro", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/p2t2/figaro", 
+        "Public Code Repo": "https://github.com/p2t2/figaro.git", 
+        "Instructional Material": "", 
+        "Description": "Figaro PPS", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Charles River Analytics"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "BLOG", 
+        "Internal Link": "", 
+        "External Link": "https://sites.google.com/site/bloginference/", 
+        "Public Code Repo": "https://sites.google.com/site/bloginference/download/blog-0.8-bin.zip?attredirects=0&d=1", 
+        "Instructional Material": "", 
+        "Description": "BLOG PPS", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Charles River Analytics"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "APPRIL", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Performance Optimizer", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Charles River Analytics"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "PRM++ ", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "PRM PPS", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Galois"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "PPAML Tracer", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/GaloisInc/ppaml-tracer", 
+        "Public Code Repo": "https://github.com/GaloisInc/ppaml-tracer.git", 
+        "Instructional Material": "", 
+        "Description": "PPAML Tracer  is a lightweight tracing library designed for explicit instrumentation of generated code.", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Domain Experts"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Galois"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "PPAML Evaluation Tools", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/GaloisInc/ppaml-eval-tools", 
+        "Public Code Repo": "https://github.com/GaloisInc/ppaml-eval-tools.git", 
+        "Instructional Material": "", 
+        "Description": "The PPAML client tools are a set of libraries and scripts that allow PPAML TA2–4 teams to evaluate their own probabilistic programming systems in the same way that we will at Galois.", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Domain Experts"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Galois"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "PPAML VREP Automobile Plugin", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/GaloisInc/ppaml-vrep-automobile-plugin", 
+        "Public Code Repo": "https://github.com/GaloisInc/ppaml-vrep-automobile-plugin.git", 
+        "Instructional Material": "", 
+        "Description": "This package provides a data collection plugin for the V-REP robotics simulator http://coppeliarobotics.com/. The plugin is targeted at data collection following the model described at http://prism2.mem.drexel.edu/~vefa/courses/SLAM/nebotJournal.pdf, but it may be useful for other projects as well.", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Domain Experts"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Dimple: Java and Matlab libraries for probabilistic inference", 
+        "Internal Link": "", 
+        "External Link": "http://dimple.probprog.org/", 
+        "Public Code Repo": "https://github.com/AnalogDevicesLyricLabs/dimple.git", 
+        "Instructional Material": "", 
+        "Description": "Dimple Source and Demos with small datasets.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Chimple, a Probabilistic Programming Java API", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/AnalogDevicesLyricLabs/chimple", 
+        "Public Code Repo": "https://github.com/AnalogDevicesLyricLabs/chimple.git", 
+        "Instructional Material": "", 
+        "Description": "Chimple Source - a lightweight trace MH implementation in Java.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Demos of Chimple", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/AnalogDevicesLyricLabs/chimple/tree/master/demo", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Description": "Chimple Demos.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Team Challenge Problem on Agile/Amortized Inference", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Agile/Amortized Inference Team Challenge Problem.", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Phase transitions in BP", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/gamelanlabs/phase-change", 
+        "Public Code Repo": "https://github.com/gamelanlabs/phase-change.git", 
+        "Instructional Material": "", 
+        "Description": "Demonstrating phase transitions in belief propagation convergence in the stochastic block model.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "HMM implemented with multiple solvers", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/gamelanlabs/HMM-implementations", 
+        "Public Code Repo": "https://github.com/gamelanlabs/HMM-implementations.git", 
+        "Instructional Material": "", 
+        "Description": "HMM demos for dimple and chimple.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Demos of Dimple with large datasets", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/AnalogDevicesLyricLabs/dimpleDemos", 
+        "Public Code Repo": "https://github.com/AnalogDevicesLyricLabs/dimpleDemos.git", 
+        "Instructional Material": "", 
+        "Description": "Dimple Demos (large datasets).", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Webchurch source", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/probmods/webchurch", 
+        "Public Code Repo": "https://github.com/probmods/webchurch.git", 
+        "Instructional Material": "", 
+        "Description": "A compiler for the Church programming language into JavaScript for in-browser execution.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "User Manual for Chimple", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/AnalogDevicesLyricLabs/chimple/tree/master/doc", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Description": "Chimple user documentation.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Probabilistic Models of Cognition", 
+        "Internal Link": "", 
+        "External Link": "https://probmods.org/", 
+        "Public Code Repo": "https://github.com/probmods/chapters.git", 
+        "Instructional Material": "", 
+        "Description": "Instructional Materials for Webchurch.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Forest: a repository for generative models", 
+        "Internal Link": "", 
+        "External Link": "http://forestdb.org/", 
+        "Public Code Repo": "https://github.com/forestdb/forestdb.org.git", 
+        "Instructional Material": "", 
+        "Description": "Demo examples for WebChurch.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Elastic Beanstalk monitor for mixing and convergence streaming data", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Mixing and Convergence Feedback visualization infrastructure.", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Gamelan"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Docker container for Java JDK and Flask-Sockets", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Cloud Infrastructure for visualization.", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Indiana University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Sample visualizer", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "An HTTP server that communicates with any Web browser and any sampler to plot inference progress using histograms, correlation matrices, and other pluggable widgets.", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Indiana University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "MCMC library", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "A library of combinators in Haskell for building Markov Chain Monte Carlo samplers from reusable proposal distributions and transition kernels.", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Indiana University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Density calculator", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "A program that computes the probability density of a probabilistic program, combining the accuracy of Bhat et al's exact algorithm and the generality of Pfeffer's approximate algorithm.", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Indiana University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Tagless interpreters", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Interpreters of the lambda calculus with a measure monad and conditioning, by importance sampling and by Markov Chain Monte Carlo, without expression dispatch overhead.", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Venture", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "http://probcomp.csail.mit.edu/venture/venture-0.1.1.tgz", 
+        "Instructional Material": "", 
+        "Description": "A general-purpose, higher-order probabilistic programming platform with programmable inference.", 
+        "License": [
+            "GPLv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "BayesDB", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/mit-probabilistic-computing-project/bayesdb", 
+        "Public Code Repo": "https://github.com/mit-probabilistic-computing-project/BayesDB.git", 
+        "Instructional Material": "", 
+        "Description": "A Bayesian database for querying the probable implications of data tables.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Probabilistic Programming", 
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "SRI"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "aic-expresso", 
+        "Internal Link": "", 
+        "External Link": "https://code.google.com/p/aic-expresso/", 
+        "Public Code Repo": "https://code.google.com/p/aic-expresso/source/checkout", 
+        "Instructional Material": "", 
+        "Description": "Symbolic evaluation library.", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Machine Learning"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "SRI"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "aic-util", 
+        "Internal Link": "", 
+        "External Link": "https://code.google.com/p/aic-util/", 
+        "Public Code Repo": "https://code.google.com/p/aic-util/source/checkout", 
+        "Instructional Material": "", 
+        "Description": "Miscellaneous Java library.", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Machine Learning"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "SRI"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "aic-praise", 
+        "Internal Link": "", 
+        "External Link": "https://code.google.com/p/aic-praise/", 
+        "Public Code Repo": "https://code.google.com/p/aic-praise/source/checkout", 
+        "Instructional Material": "", 
+        "Description": "Probabilistic Reasoning as Symbolic Evaluation.", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Machine Learning"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "SRI"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Alchemy 2.0", 
+        "Internal Link": "", 
+        "External Link": "https://code.google.com/p/alchemy-2/", 
+        "Public Code Repo": "https://code.google.com/p/alchemy-2/source/checkout", 
+        "Instructional Material": "", 
+        "Description": "Learning and Inference engine for Markov Logic Networks.", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Machine Learning"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Stanford University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Optimal Experiment Design", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/lydaniel/oed_py", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Optimal experiment design for probabilistic models.", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Stanford University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Forest", 
+        "Internal Link": "", 
+        "External Link": "http://forestdb.org/", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Description": "Collaborative repository for generative models.", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Stanford University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "STOKE", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Stochastic Optimizer for x86_64 binaries.", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Stanford University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "shred", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release", 
+        "Instructional Material": "", 
+        "Description": "Tracing MH, Church->SMT, FAUST, etc. (on top of Vicare Scheme).", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "Stanford University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "shred-js", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Ready for Release (but in public github repo)", 
+        "Instructional Material": "", 
+        "Description": "Javascript tracing primitives (built on top of webchurch).", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Inference Engine"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PPAML", 
+        "Program Teams": [
+            "University of CA Riverside"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "CTBN-RLE", 
+        "Internal Link": "", 
+        "External Link": "http://mloss.org/software/", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Description": "Continuous-time reasoning and learning library.", 
+        "License": [
+            "GPLv3"
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Machine Learning"
+        ], 
+        "New Date": "2014-06-20", 
+        "Update Date": ""
+    }
+]
