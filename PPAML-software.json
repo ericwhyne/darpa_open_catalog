@@ -472,7 +472,7 @@
         "External Link": "https://github.com/GaloisInc/ppaml-eval-tools", 
         "Public Code Repo": "https://github.com/GaloisInc/ppaml-eval-tools.git", 
         "Instructional Material": "", 
-        "Description": "The PPAML client tools are a set of libraries and scripts that allow PPAML TA2–4 teams to evaluate their own probabilistic programming systems in the same way that we will at Galois.", 
+        "Description": "The PPAML client tools are a set of libraries and scripts that allow PPAML TA2-4 teams to evaluate their own probabilistic programming systems in the same way that we will at Galois.", 
         "License": [
             "BSDv3"
         ], 
