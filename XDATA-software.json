@@ -3321,7 +3321,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Stanford University - Hanrahan"
+            "PNNL", "Purdue University"
         ],
         "Contributors":[
             ""
@@ -3329,72 +3329,22 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"trelliscope",
+        "Software":"Tessera",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
-        "External Link":"http://hafen.github.io/trelliscope/",
-        "Public Code Repo":"https://github.com/hafen/trelliscope.git",
+        "External Link":"http://www.tesseradata.org/",
+        "Public Code Repo":"https://github.com/tesseradata",
         "Instructional Material":"2014-07",
-        "Stats":"trelliscope",
-        "Description":"Trellis Display, developed in the 90s, also divides the data. A visualization method is applied to each subset and shown on one panel of a multi-panel trellis display.  This framework is a very powerful mechanism for all data, large and small.  Trelliscope, a layer that uses datadr, extends Trellis to large complex data.  An interactive viewer is available for viewing subsets of very large displays, and the software provides the capability to sample subsets of panels from rigorous sampling plans.  Sampling is often necessary because in most applications, there are too many subsets to look at them all. (R)",
+        "Stats":"Tessera",
+        "Description":"Tessera is an open source environment for deep analysis of big data. At the front end, the analyst programs in R, and has access to the thousands of methods of statistics, machine learning, and visualization implemented in R. At the back end is a distributed parallel computational environment such as Hadoop, that enables scaling to big data. In between are three Tessera packages: datadr, Trelliscope, and RHIPE (R and Hadoop Integrated Programming Environment). These packages enable the data analyst to communicate with the back end by simple R commands, and not have to worry about the details of distributed parallel computation. Tessera is powered by a statistical approach to large complex data, Divide and Recombine (D&R). The data are parallelized, not the thousands of methods, which makes back end computation typically very nearly embarrassingly parallel, and therefore very fast. But at the same time, D&R statistical division and recombination methods ensure good statistical performance.",
         "Internal Code Repo":"tools\\analytics\\stanford-h",
         "License":[
-            "BSD"
-        ],
-        "Languages":[
-            "R"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Stanford University - Hanrahan"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"RHIPE: R and Hadoop Integrated Programming Environment",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
-        "External Link":"http://www.datadr.org/",
-        "Public Code Repo":"https://github.com/saptarshiguha/RHIPE.git",
-        "Instructional Material":"2014-07",
-        "Stats":"RHIPE",
-        "Description":"In Divide and Recombine (D&R), big data are divided into subsets in one or more ways, forming divisions. Analytic methods, numeric-categorical methods of machine learning and statistics plus visualization methods, are applied to each of the subsets of a division. Then the subset outputs for each method are recombined.  D&R methods of division and recombination seek to make the statistical accuracy of recombinations as large as possible, ideally close to that of the hypothetical direct, all-data application of the methods. The D&R computational environment starts with RHIPE, a merger of R and Hadoop. RHIPE allows an analyst to carry out D&R analysis of big data wholly from within R, and use any of the thousands of methods available in R. RHIPE communicates with Hadoop to carry out the big, parallel computations. (Java/R)",
-        "Internal Code Repo":"tools\\analytics\\stanford-h",
-        "License":[
+            "BSD",
             "ALv2"
         ],
         "Languages":[
+            "R",
             "Java",
-            "R"
+            "C"
         ],
         "Platform Requirements":[
             ""
@@ -3418,7 +3368,7 @@
             ""
         ],
         "Categories":[
-            "Infrastructure"
+            "Infrastructure", "Analytics", "Visualization"
         ],
         "New Date":"",
         "Update Date":""
