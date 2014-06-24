@@ -2165,6 +2165,31 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+            "Stanford University - Olukotun"
+        ],
+        "Title":"Elementary: Large-scale Knowledge-base Construction via Machine Learning and Statistical Inference",
+        "Authors":[
+            "Feng Niu",
+            "Ce Zhang",
+            "Christopher Re",
+            "Jude Shavlik"
+        ],
+        "Link":"http://i.stanford.edu/hazy/papers/elementary_journal.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
             "The New School"
         ],
         "Title":"IAM - Incremental Agent-Based Mapping",
