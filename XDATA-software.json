@@ -2585,530 +2585,408 @@
         "Update Date":""
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
+        "DARPA Program": "XDATA",
+        "Program Teams": [
             "Sotera Defense Solutions, Inc."
         ],
-        "Contributors":[
+        "Contributors": [
             ""
         ],
-        "Sub-contractors":[
+        "Sub-contractors": [
             ""
         ],
-        "Software":"Zephyr",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"http://github.com/Sotera/zephyr",
-        "Public Code Repo":"http://github.com/Sotera/zephyr",
-        "Instructional Material":"2014-07",
-        "Stats":"zephyr",
-        "Description":"Zephyr is a big data, platform agnostic ETL API, with Hadoop MapReduce, Storm, and other big data bindings. (Java)",
-        "Internal Code Repo":"tools\\utilities\\sotera\\zephyr; tools\\utilties\\sotera\\zephyr-xdata-ingest",
-        "License":[
+        "Software": "Zephyr",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "http://sotera.github.io/zephyr/",
+        "Public Code Repo": "http://github.com/Sotera/zephyr",
+        "Instructional Material": "2014-07",
+        "Stats": "zephyr",
+        "Description": "Zephyr is a big data, platform agnostic ETL API, with Hadoop MapReduce, Storm, and other big data bindings.",
+        "Internal Code Repo": "tools\\utilities\\sotera\\zephyr; tools\\utilties\\sotera\\zephyr-xdata-ingest",
+        "License": [
             "ALv2"
         ],
-        "Languages":[
+        "Languages": [
             "Java"
         ],
-        "Platform Requirements":[
+        "Platform Requirements": [
             ""
         ],
-        "Dependent modules":[
+        "Dependent modules": [
+            "Zephyr Sample Project"
+        ],
+        "Dependent module URLs": [
+            "http://sotera.github.io/zephyr/Examples/"
+        ],
+        "Component modules": [
+            "GIT",
+            "Gradle",
+            "Java 7",
+            "Cloudera CDH 5.0.0 (MRv1) OR CDH 4.x.x (MRv1)"
+        ],
+        "Component module URLs": [
+            "http://git-scm.com/",
+            "http://www.gradle.org/",
+            "https://www.java.com/en/download/",
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html"
+        ],
+        "Industry": [
             ""
         ],
-        "Dependent module URLs":[
+        "Functionality": [
             ""
         ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
+        "Categories": [
             "Infrastructure"
         ],
-        "New Date":"",
-        "Update Date":""
+        "New Date": "",
+        "Update Date": ""
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+          "Sotera Defense Solutions, Inc."
         ],
-        "Contributors":[
-            ""
+        "Contributors": [
+          ""
         ],
-        "Sub-contractors":[
-            ""
+        "Sub-contractors": [
+          ""
         ],
-        "Software":"Page Rank",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/page-rank",
-        "Public Code Repo":"https://github.com/Sotera/page-rank.git",
-        "Instructional Material":"2014-07",
-        "Stats":"page-rank",
-        "Description":"Sotera Page Rank is a Giraph/Hadoop implementation of a distributed version of the Page Rank algorithm. (Java)",
-        "Internal Code Repo":"tools\\utilities\\sotera\\",
-        "License":[
+        "Software": "Aggregate Micro Paths",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "http://sotera.github.io/aggregate-micro-paths/",
+        "Public Code Repo": "https://github.com/Sotera/aggregate-micro-paths.git",
+        "Instructional Material": "2014-07",
+        "Stats": "aggregate-micro-paths",
+        "Description": "An analytic to help infer movement patterns from large amounts of geo-temporal data in a cloud environment.",
+        "Internal Code Repo": "tools\\analytics\\sotera\\SparkMicroPath\\",
+        "License": [
             "ALv2"
         ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"High Betweenness Set Extraction",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/high-betweenness-set-extraction",
-        "Public Code Repo":"https://github.com/Sotera/high-betweenness-set-extraction.git",
-        "Instructional Material":"2014-07",
-        "Stats":"high-betweenness-set-extraction",
-        "Description":"Betweenness Centrality is a useful property when searching for critical nodes in a network. The exact calculation of betweenness is however computationally expensive, which leaves us with the need for approximate methods. If you want to discover nodes that are most import for connectivity in a large network this project is for you. (Java)",
-        "Internal Code Repo":"",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Louvain Modularity",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"http://sotera.github.io/distributed-louvain-modularity/",
-        "Public Code Repo":"https://github.com/Sotera/distributed-louvain-modularity.git",
-        "Instructional Material":"2014-07",
-        "Stats":"distributed-louvain-modularity",
-        "Description":"Giraph/Hadoop implementation of a distributed version of the Louvain community detection algorithm. (Java)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\LouvainModularity\\giraph_1.0\\",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Spark MicroPath",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"http://sotera.github.io/aggregate-micro-paths/",
-        "Public Code Repo":"https://github.com/Sotera/aggregate-micro-paths.git",
-        "Instructional Material":"2014-07",
-        "Stats":"aggregate-micro-paths",
-        "Description":"The Spark implementation of the micropath analytic. (Scala/Python)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\SparkMicroPath\\",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Scala",
-            "Python"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"ARIMA",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/rhipe-arima",
-        "Public Code Repo":"https://github.com/Sotera/rhipe-arima",
-        "Instructional Material":"2014-07",
-        "Stats":"rhipe-arima",
-        "Description":"Hive and RHIPE implementation of an ARIMA analytic. (R)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\arima\\",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "R"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":" Leaf Compression",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/leaf-compression",
-        "Public Code Repo":"https://github.com/Sotera/leaf-compression.git",
-        "Instructional Material":"2014-07",
-        "Stats":"leaf-compression",
-        "Description":"Recursive algorithm to remove nodes from a network where degree centrality is 1. (Python/Java)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\leaf_compression",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
+        "Languages": [
             "Python",
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Correlation Approximation",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/correlation-approximation",
-        "Public Code Repo":"https://github.com/Sotera/correlation-approximation",
-        "Instructional Material":"2014-07",
-        "Stats":"correlation-approximation",
-        "Description":"Spark implementation of an algorithm to find highly correlated vectors using an approximation algorithm. (Scala)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\CorrelationApproximation",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
             "Scala"
         ],
-        "Platform Requirements":[
+        "Platform Requirements": [
             ""
         ],
-        "Dependent modules":[
+        "Dependent modules": [
+            "Track Communities"
+        ],
+        "Dependent module URLs": [
+            "https://github.com/Sotera/track-communities"
+        ],
+        "Component modules": [
+            "Cloudera CDH",
+            "Apache Hive"
+        ],
+        "Component module URLs": [
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html",
+            "http://hive.apache.org/"
+        ],
+        "Industry": [
             ""
         ],
-        "Dependent module URLs":[
+        "Functionality": [
             ""
         ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
+        "Categories": [
             "Analytics"
         ],
-        "New Date":"",
-        "Update Date":""
+        "New Date": "",
+        "Update Date": ""
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
+        "DARPA Program": "XDATA",
+        "Program Teams": [
             "Sotera Defense Solutions, Inc."
         ],
-        "Contributors":[
+        "Contributors": [
             ""
         ],
-        "Sub-contractors":[
+        "Sub-contractors": [
             ""
         ],
-        "Software":"Graphene",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/graphene",
-        "Public Code Repo":"https://github.com/Sotera/graphene",
-        "Instructional Material":"2014-07",
-        "Stats":"graphene",
-        "Description":"A general purpose web application framework for searching and visualizing lists and graphs of properties and events.",
-        "Internal Code Repo":"tools\\analytics\\sotera\\Graphene",
-        "License":[
+        "Software": "Rhipe ARIMA",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "https://github.com/Sotera/rhipe-arima",
+        "Public Code Repo": "https://github.com/Sotera/rhipe-arima",
+        "Instructional Material": "2014-07",
+        "Stats": "rhipe-arima",
+        "Description": "This implementation of the ARIMA (AutoRegressive Integrated Moving \nAverage) algorithm is based on R, Hadoop, and the RHIPE (Hree-pay) framework.",
+        "Internal Code Repo": "tools\\analytics\\sotera\\arima\\",
+        "License": [
             "ALv2"
         ],
-        "Languages":[
-            "Java, JavaScript"
+        "Languages": [
+            "R"
         ],
-        "Platform Requirements":[
-            "Java 7, Tomcat"
-        ],
-        "Dependent modules":[
+        "Platform Requirements": [
             ""
         ],
-        "Dependent module URLs":[
+        "Dependent modules": [
             ""
         ],
-        "Component modules":[
+        "Dependent module URLs": [
             ""
         ],
-        "Component module URLs":[
+        "Component modules": [
+            "Cloudera CDH",
+            "RHIPE",
+            "R"
+        ],
+        "Component module URLs": [
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html",
+            "http://www.datadr.org/install.html",
+            "http://www.r-project.org/"
+        ],
+        "Industry": [
             ""
         ],
-        "Industry":[
+        "Functionality": [
             ""
         ],
-        "Functionality":[
-            ""
+        "Categories": [
+            "Analytics"
         ],
-        "Categories":[
-            "Visualization, Graph"
-        ],
-        "New Date":"",
-        "Update Date":""
+        "New Date": "",
+        "Update Date": ""
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
+        "DARPA Program": "XDATA",
+        "Program Teams": [
             "Sotera Defense Solutions, Inc."
         ],
-        "Contributors":[
+        "Contributors": [
             ""
         ],
-        "Sub-contractors":[
+        "Sub-contractors": [
             ""
         ],
-        "Software":"Track Communities",
-        "Internal Link":"",
-        "External Link":"https://github.com/Sotera/track-communities",
-        "Public Code Repo":"https://github.com/Sotera/track-communities.git",
-        "Instructional Material":"",
-        "Stats":"track-communities",
-        "Description":"An analytic for creating networks from geo-temporal track data based on time/space co-occurrence. Includes UI for visualization of communities and tracks.",
-        "Internal Code Repo":"",
-        "License":[
+        "Software": "Correlation Approximation",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "https://github.com/Sotera/correlation-approximation",
+        "Public Code Repo": "https://github.com/Sotera/correlation-approximation",
+        "Instructional Material": "2014-07",
+        "Stats": "correlation-approximation",
+        "Description": "Spark implementation of the Google Correlate algorithm to quickly find highly correlated vectors in huge datasets.",
+        "Internal Code Repo": "tools\\analytics\\sotera\\CorrelationApproximation",
+        "License": [
             "ALv2"
         ],
-        "Languages":[
+        "Languages": [
+            "Scala"
+        ],
+        "Platform Requirements": [
+            ""
+        ],
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Gradle",
+            "Cloudera CDH",
+            "Spark"
+        ],
+        "Component module URLs": [
+            "http://www.gradle.org/",
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html",
+            "http://http//spark.incubator.apache.org/"
+        ],
+        "Industry": [
+            ""
+        ],
+        "Functionality": [
+            ""
+        ],
+        "Categories": [
+            "Analytics"
+        ],
+        "New Date": "",
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+            "Sotera Defense Solutions, Inc."
+        ],
+        "Contributors": [
+            ""
+        ],
+        "Sub-contractors": [
+            ""
+        ],
+        "Software": "Graphene",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "https://github.com/Sotera/graphene",
+        "Public Code Repo": "https://github.com/Sotera/graphene",
+        "Instructional Material": "2014-07",
+        "Stats": "graphene",
+        "Description": "A general purpose web application framework for searching and visualizing lists and graphs of properties and events.",
+        "Internal Code Repo": "tools\\analytics\\sotera\\Graphene",
+        "License": [
+            "ALv2"
+        ],
+        "Languages": [
+            "Java",
+            "JavaScript"
+        ],
+        "Platform Requirements": [
+            "Java 7",
+            "Tomcat"
+        ],
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Apache Maven"
+        ],
+        "Component module URLs": [
+            "http://maven.apache.org/"
+        ],
+        "Industry": [
+            ""
+        ],
+        "Functionality": [
+            ""
+        ],
+        "Categories": [
+            "Visualization"
+        ],
+        "New Date": "",
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+            "Sotera Defense Solutions, Inc."
+        ],
+        "Contributors": [
+            ""
+        ],
+        "Sub-contractors": [
+            ""
+        ],
+        "Software": "Distributed Graph Analytics",
+        "Internal Link": "",
+        "External Link": "http://sotera.github.io/distributed-graph-analytics/",
+        "Public Code Repo": "https://github.com/Sotera/distributed-graph-analytics",
+        "Instructional Material": "2014-07",
+        "Stats": "distributed-graph-analytics",
+        "Description": "Graph analytics for Big Data - Louvain Modularity, Weakly Connected \nComponents, High Betweenness Set Extraction, Leaf Compression and Page Rank.",
+        "Internal Code Repo": "",
+        "License": [
+            "ALv2"
+        ],
+        "Languages": [
             "Python",
             "JavaScript"
         ],
-        "Platform Requirements":[
+        "Platform Requirements": [
             ""
         ],
-        "Dependent modules":[
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Git",
+            "Gradle",
+            "Java 7",
+            "Apache Giraph 1.1.0-SNAPSHOT (Built for CDH\n        5.0.0 or CDH\n        4.7.0)\n        ",
+            "CDH 5.0.0 (MRv1)"
+        ],
+        "Component module URLs": [
+            "http://git-scm.com/",
+            "http://www.gradle.org/",
+            "https://www.java.com/en/download/",
+            "https://giraph.apache.org/",
+            "http://www.cloudera.com/content/cloudera/en/home.html"
+        ],
+        "Industry": [
+            ""
+        ],
+        "Functionality": [
+            ""
+        ],
+        "Categories": [
+            "Analytics"
+        ],
+        "New Date": "",
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+            "Sotera Defense Solutions, Inc."
+        ],
+        "Contributors": [
+            ""
+        ],
+        "Sub-contractors": [
+            ""
+        ],
+        "Software": "Track Communities",
+        "Internal Link": "",
+        "External Link": "https://github.com/Sotera/track-communities",
+        "Public Code Repo": "https://github.com/Sotera/track-communities.git",
+        "Instructional Material": "2014-07",
+        "Stats": "track-communities",
+        "Description": "An analytic for creating networks from geo-temporal track data based on time/space co-occurrence. Includes UI for visualization of communities and tracks.",
+        "Internal Code Repo": "",
+        "License": [
+            "ALv2"
+        ],
+        "Languages": [
+            "Python",
+            "JavaScript"
+        ],
+        "Platform Requirements": [
+            ""
+        ],
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Cloudera CDH",
+            "Cloudera Impala",
+            "Apache Hive",
             "Aggregate Micro Paths",
-            "Distributed Louvain Modularity"
+            "Distributed Louvain Modularity",
+            "Tangelo Web Framework"
         ],
-        "Dependent module URLs":[
+        "Component module URLs": [
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html",
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html",
+            "https://hive.apache.org/",
             "http://sotera.github.io/aggregate-micro-paths/",
-            "http://sotera.github.io/distributed-louvain-modularity/"
+            "http://sotera.github.io/distributed-louvain-modularity/",
+            "http://tangelo.kitware.com/"
         ],
-        "Component modules":[
+        "Industry": [
             ""
         ],
-        "Component module URLs":[
+        "Functionality": [
             ""
         ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
+        "Categories": [
             "Analytics",
             "Visualization"
         ],
-        "New Date":"",
-        "Update Date":""
+        "New Date": "",
+        "Update Date": ""
     },
     {
         "DARPA Program":"XDATA",
