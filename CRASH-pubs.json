@@ -195,7 +195,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"Advanced Adaptive Application (A3) Environment: Initial Experience",
@@ -222,7 +222,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"A3: An Environment for Self-Adaptive Diagnosis and Immunization of Novel Attacks",
@@ -251,7 +251,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"Moving Target Defense (MTD) in an Adaptive Execution Environment",
@@ -277,7 +277,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"Isolation of Malicious External Inputs in a Security Focused Adaptive Execution Environment",
@@ -306,7 +306,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"A Recipe for Deterministic Replay",
@@ -333,7 +333,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"XenTT: Deterministic System Analysis in Xen",
@@ -2147,7 +2147,7 @@
         "Program Teams":[
             "Massachusetts Institute of Technology",
             "Stanford University",
-            "MIT Lincoln Laboratory"
+            "MIT-LL"
         ],
         "Title":"Experiences in Cyber Security Education: the MIT Lincoln Laboratory Capture-the-Flag Exercise",
         "Authors":[

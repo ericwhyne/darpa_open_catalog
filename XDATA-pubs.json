@@ -1279,7 +1279,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Harvard"
+            "Harvard University"
         ],
         "Title":"Graphlet Decomposition of a Weighted Network",
         "Authors":[
@@ -1302,7 +1302,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Harvard",
+            "Harvard University",
             "Kitware, Inc."
         ],
         "Title":"Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets",
@@ -1332,7 +1332,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Harvard",
+            "Harvard University",
             "Kitware, Inc."
         ],
         "Title":"LineUp: Visual Analysis of Multi-Attribute Rankings",
