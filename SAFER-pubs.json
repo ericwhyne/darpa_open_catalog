@@ -62,7 +62,7 @@
         "DARPA Program":"SAFER",
         "Program Teams":[
             "Stanford University",
-            "UT Austin"
+            "UT - Austin"
         ],
         "Title":"The most dangerous code in the world: validating SSL certificates in non-browser software",
         "Link":"Not Yet Published",
@@ -159,7 +159,7 @@
     {
         "DARPA Program":"SAFER",
         "Program Teams":[
-            "UT Austin"
+            "UT - Austin"
         ],
         "Title":"The Parrot is Dead: Observing Unobservable Network Communications",
         "Link":"http://dedis.cs.yale.edu/dissent/papers/parrot-slides.pdf",
@@ -178,7 +178,7 @@
     {
         "DARPA Program":"SAFER",
         "Program Teams":[
-            "UT Austin"
+            "UT - Austin"
         ],
         "Title":"I want my voice to be heard: IP over Voice-over-IP for unobservable censorship circumvention",
         "Link":"http://dedis.cs.yale.edu/dissent/papers/freewave.pdf",
@@ -507,7 +507,7 @@
         "DARPA Program":"SAFER",
         "Program Teams":[
             "Yale University",
-            "UT Austin",
+            "UT - Austin",
             "Naval Research Laboratory"
         ],
         "Title":"Probabilistic  Analysis of Onion Routing in a Black-box Model",
@@ -643,7 +643,7 @@
     {
         "DARPA Program":"SAFER",
         "Program Teams":[
-            "UT Austin",
+            "UT - Austin",
             "Naval Research Laboratory"
         ],
         "Title":"Privacy-Preserving Data Exploration in Genome-Wide Association Studies",
@@ -664,7 +664,7 @@
         "DARPA Program":"SAFER",
         "Program Teams":[
             "Yale University",
-            "UT Austin",
+            "UT - Austin",
             "Naval Research Laboratory"
         ],
         "Title":"Security Analysis of Accountable Anonymous Group Communication in Dissent",
