@@ -135,7 +135,7 @@
             "(WIscTeam) Indiana University",
             "Cycorp",
             "University of Wisconsin-Madison",
-            "TU Dormund",
+            "TU Dortmund",
             "Oregon State University"
         ],
         "Title":"Accelerating Imitation Learning in Relational Domains via Transfer by Initialization",
@@ -196,7 +196,7 @@
         "Program Teams":[
             "(WiscTeam) University of Wisconsin-Madison",
             "Indiana University",
-            "TU Dormund"
+            "TU Dortmund"
         ],
         "Title":"Learning Relational Probabilistic Models from Partially Observed Data - Opening the Closed-World Assumption",
         "Authors":[
@@ -635,7 +635,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Bar Elan",
+            "Bar Ilan University",
             "CUNY"
         ],
         "Title":"Efficient Implementation of Beam-Search Incremental Parsers",
