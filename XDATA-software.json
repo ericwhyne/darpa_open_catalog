@@ -1474,16 +1474,11 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Jet Propulsion Laboratory"
+            "USC/Information Sciences Institute"
         ],
         "Contributors":[
-            "Dr. Chris A. Mattmann",
-            "Mr. Paul Ramirez",
-            "Mr. Maziyar Boustani",
-            "Ms. Shakeh Khudikyan",
-            "Mr. Mike Joyce",
-            "Mr. Rishi Verma",
-            "Dr. Lewis John McGibbney"
+            "Dr. Yolanda Gil",
+            "Mr. Varun Ratnakar"
         ],
         "Sub-contractors":[
             ""
@@ -1683,6 +1678,64 @@
         ],
         "New Date":"",
         "Update Date":"20140613"
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Contributors":[
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Apache Nutch",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
+        "External Link":"http://nutch.apache.org/",
+        "Public Code Repo":"http://svn.apache.org/repos/asf/nutch/",
+        "Instructional Material":"2014-06",
+        "Stats":"nutch",
+        "Description":"A large scale web crawler framework that implements the search engine architecture as originally defined by Brin and Page. Nutch was started by Doug Cutting and is the predecessor to the Apache Hadoop technology. It includes parsers, a protocol framework, language detection, indexing capabilities and language and query models to fully implement a search engine.",
+        "Internal Code Repo":"tools\\utilities\\nutch",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            "Java Virtual Machine"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            "nutch"
+        ],
+        "Component module URLs":[
+            "https://svn.apache.org/repos/asf/nutch/"
+        ],
+        "Industry":[
+            "Federally Funded Research and Development Centre"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"20140625",
+        "Update Date":""
     },
     {
         "DARPA Program":"XDATA",
