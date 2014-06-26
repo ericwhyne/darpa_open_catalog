@@ -2,7 +2,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Washington"
+            "University of Washington"
         ],
         "Software":"ReVerb Relation Extractor",
         "Internal Link":"",
@@ -28,7 +28,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Washington"
+            "University of Washington"
         ],
         "Software":"OLLIE Relation Extractor",
         "Internal Link":"",
@@ -56,7 +56,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UMASS"
+            "University of Massachusetts"
         ],
         "Software":"Universal Schema Relation Extraction",
         "Internal Link":"",
@@ -79,7 +79,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UMASS"
+            "University of Massachusetts"
         ],
         "Software":"Coreference within a Document",
         "Internal Link":"",
@@ -102,7 +102,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UMASS"
+            "University of Massachusetts"
         ],
         "Software":"Cross Document Coreference with Resolution to Knowledge Base(KB)",
         "Internal Link":"",
@@ -125,7 +125,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT - Austin"
+            "University of Texas - Austin"
         ],
         "Software":"Bayesian Logic Programs for Textual Inference",
         "Internal Link":"",
@@ -351,7 +351,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Oregon State"
+            "Oregon State University"
         ],
         "Software":"Cross Document Co-reference of Relations and Entities",
         "Internal Link":"",
@@ -816,7 +816,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Stanford"
+            "Stanford University"
         ],
         "Software":"Lexical Entailment Resource - get Relation",
         "Internal Link":"",
@@ -839,7 +839,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Stanford"
+            "Stanford University"
         ],
         "Software":"Stanford's Coreference (Within Document)",
         "Internal Link":"",
@@ -862,7 +862,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Stanford"
+            "Stanford University"
         ],
         "Software":"Semantic Textual Similarity",
         "Internal Link":"",
@@ -885,7 +885,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Stanford"
+            "Stanford University"
         ],
         "Software":"Stanford's Labeled N-Ary Relations between Typed Text Spans (v1- Relation Extraction for KBP-Slot Filling)",
         "Internal Link":"",
@@ -908,7 +908,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Stanford"
+            "Stanford University"
         ],
         "Software":"Stanford's Coreference (Cross document with resolution to KB)",
         "Internal Link":"",
@@ -931,7 +931,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Stanford"
+            "Stanford University"
         ],
         "Software":"Stanford's Mention Detection (Within Document)",
         "Internal Link":"",
@@ -954,7 +954,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Stanford"
+            "Stanford University"
         ],
         "Software":"Stanford Named Entity Recognizer",
         "Internal Link":"",
