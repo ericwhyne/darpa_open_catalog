@@ -223,7 +223,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Columbia"
+            "Columbia University"
         ],
         "Software":"Modality-CB Tagger",
         "Internal Link":"",
@@ -253,7 +253,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Columbia"
+            "Columbia University"
         ],
         "Software":"Sarcasm Detection",
         "Internal Link":"",
@@ -276,7 +276,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Columbia"
+            "Columbia University"
         ],
         "Software":"Interaction: Acoustic Analysis",
         "Internal Link":"",
@@ -300,7 +300,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Columbia"
+            "Columbia University"
         ],
         "Software":"Opinion",
         "Internal Link":"",
@@ -326,7 +326,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Columbia"
+            "Columbia University"
         ],
         "Software":"Social Event Extraction",
         "Internal Link":"",
@@ -489,7 +489,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Software":"PPDB (Paraphrase Database)",
         "Internal Link":"",
@@ -512,7 +512,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Software":"DAPPER (Domain Adapted Paraphraser)",
         "Internal Link":"",
@@ -535,7 +535,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Software":"NattyLo  - Recognizing Textual Entailment (RTE) System",
         "Internal Link":"",
@@ -765,7 +765,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Cornell"
+            "Cornell University"
         ],
         "Software":"Attitude Extraction",
         "Internal Link":"",
@@ -790,7 +790,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Cornell"
+            "Cornell University"
         ],
         "Software":"Textual Similarity",
         "Internal Link":"",

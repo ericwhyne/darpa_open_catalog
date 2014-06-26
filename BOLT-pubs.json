@@ -17,7 +17,7 @@
         "Program Teams":[
             "BBN",
             "Microsoft Research",
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Title":"Machine Translation of Arabic Dialects",
         "Authors":[
@@ -740,7 +740,7 @@
             "(Team BBN) National Research Council",
             "University of Maryland",
             "University of Chicago",
-            "JHU",
+            "Johns Hopkins University",
             "IBM"
         ],
         "Title":"SenseSpotting: Never let your parallel data tie you to an old domain",
@@ -1170,7 +1170,7 @@
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team IBM) University of Maryland",
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Title":"Massively Parallel Suffix Array Queries and On-Demand Phrase Extraction for Statistical Machine Translation Using GPUs",
         "Authors":[
@@ -1689,7 +1689,7 @@
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team IBM) Stanford University",
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Title":"Entity Clustering Across Languages",
         "Authors":[

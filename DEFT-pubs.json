@@ -4217,7 +4217,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "JHU",
+            "Johns Hopkins University",
             "University of Pennsylvania"
         ],
         "Title":"PARMA: A Predicate Argument Aligner",
@@ -4250,7 +4250,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "JHU",
+            "Johns Hopkins University",
             "University of Pennsylvania"
         ],
         "Title":"PPDB: The Paraphrase Database",
@@ -4275,7 +4275,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Title":"Evaluating Progress in Probabilistic Programming through Topic Models",
         "Authors":[

@@ -209,7 +209,7 @@
             "(Team BBN) Brno University of Technology",
             "Brno University of Technology",
             "Massachusetts Institute of Technology",
-            "JHU",
+            "Johns Hopkins University",
             "University of Maryland",
             "Aalborg University"
         ],
@@ -493,7 +493,7 @@
             "(Team IBM) LSCP",
             "ENS/EHESS/CNRS",
             "INRIA/ENS/CNRS",
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Title":"Evaluating speech features with the Minimal-Pair ABX task: Analysis of the classical MFC/PLP pipeline",
         "Authors":[
