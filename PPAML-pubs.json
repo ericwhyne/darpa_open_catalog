@@ -222,7 +222,7 @@
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "University of TX Dallas"
+            "University of Texas - Dallas"
         ], 
         "Title": "Lifted MAP Inference for Markov Logic Networks", 
         "Authors": [
@@ -244,7 +244,7 @@
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "University of TX Dallas"
+            "University of Texas - Dallas"
         ], 
         "Title": "Loopy Belief Propagation in the Presence of Determinism", 
         "Authors": [
@@ -266,7 +266,7 @@
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "University of CA Irvine"
+            "University of California - Irvine"
         ], 
         "Title": "Marginal Structured SVM with Hidden Variables", 
         "Authors": [
@@ -288,7 +288,7 @@
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "University of CA Berkeley"
+            "University of California - Berkeley"
         ], 
         "Title": "Unifying Logic and Probability: Recent Developments", 
         "Authors": [
@@ -310,7 +310,7 @@
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "University of CA Riverside"
+            "University of California - Riverside"
         ], 
         "Title": "Deterministic Anytime Inference for Stochastic Continuous-Time Markov Processes", 
         "Authors": [

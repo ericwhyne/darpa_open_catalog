@@ -582,7 +582,7 @@
         "DARPA Program":"DEFT",
         "Program Teams":[
             "(WiscTeam) University of Wisconsin - Madison",
-            "UC Berkeley",
+            "University of California - Berkeley",
             "Indiana University"
         ],
         "Title":"Learning Relational Structure for Temporal Relation Extraction",
@@ -609,7 +609,7 @@
         "DARPA Program":"DEFT",
         "Program Teams":[
             "(WiscTeam) Wake Forest University",
-            "SRI International",
+            "SRI",
             "Indiana University"
         ],
         "Title":"Initial Empirical Evaluation of Anytime Lifted Belief Propagation",
@@ -664,8 +664,7 @@
         ],
         "Title":"A Structured Distributional Semantic Model for Event Co-reference",
         "Authors":[
-            "Goyal",
-            "K.",
+            "K. Goyal",
             "S.K. Jauhar",
             "H. Li",
             "M. Sachan",
@@ -692,8 +691,7 @@
         ],
         "Title":"A Structured Distributional Semantic Model: Integrating Structure with Semantics",
         "Authors":[
-            "Goyal",
-            "K.",
+            "K. Goyal",
             "S.K. Jauhar",
             "H. Li",
             "M. Sachan",
@@ -1192,9 +1190,9 @@
         ],
         "Title":"Output Space Search for Structured Prediction",
         "Authors":[
-            "Doppa, J.",
-            "Fern, A.",
-            "Tadepalli, P."
+            "J. Doppa",
+            "A. Fern",
+            "P. Tadepalli"
         ],
         "Link":"http://icml.cc/discuss/2012/587.html",
         "Categories":[
@@ -1216,9 +1214,9 @@
         ],
         "Title":"HC-Search: Learning Heuristics and Cost Functions for Structured Prediction",
         "Authors":[
-            "Doppa, J.",
-            "Fern, A.",
-            "Tadepalli, P."
+            "J. Doppa",
+            "A. Fern",
+            "P. Tadepalli"
         ],
         "Link":"http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6429",
         "Categories":[
@@ -2425,7 +2423,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT-Dallas",
+            "University of Texas - Dallas",
             "University of Washington"
         ],
         "Title":"Structured Message Passing",
@@ -3238,7 +3236,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Fast Joint Compression and Summarization via Graph Cuts",
         "Authors":[
@@ -3261,7 +3259,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Document Summarization via Guided Sentence Compression",
         "Authors":[
@@ -3286,7 +3284,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Using Denoising Autoencoder for Emotion Recognition",
         "Authors":[
@@ -3309,7 +3307,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"A Preliminary Study of Cross-lingual Emotion Recognition from Speech: Automatic Classification versus Human Perception",
         "Authors":[
@@ -3334,7 +3332,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Using Supervised Bigram-based ILP for Extractive Summarization",
         "Authors":[
@@ -3358,7 +3356,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Disfluency Detection Using Multi-step Stacked Learning",
         "Authors":[
@@ -3871,7 +3869,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT - Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Learning to 'Read Between the Lines' Using Baysian Logic",
         "Authors":[
@@ -3895,7 +3893,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT - Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Towards a semantics for distributional representations",
         "Authors":[
@@ -3917,7 +3915,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT - Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Intentionality was only alleged: On adjective-noun composition in distributional semantics",
         "Authors":[
@@ -3942,7 +3940,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT - Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Montague Meets Markov: Deep Semantics with Probabilistic Logical Form",
         "Authors":[
@@ -3969,7 +3967,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT - Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Online Inference-Rule Learning from Natural-Language Extractions",
         "Authors":[
@@ -3992,7 +3990,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT - Austin"
+            "University of Texas - Austin"
         ],
         "Title":"A Formal Approach to Linking Logical Form and Vector-Space Lexical Semantics",
         "Authors":[
