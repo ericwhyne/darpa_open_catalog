@@ -21,7 +21,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Computing on Authenticated Data",
         "Link":"http://eprint.iacr.org/2011/096.pdf",
@@ -268,7 +268,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "Stanford"
+            "Stanford University"
         ],
         "Title":"Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP",
         "Link":"http://eprint.iacr.org/2012/078.pdf",
@@ -325,7 +325,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"The Randomness Complexity of Parallel Repetition",
         "Link":"http://www.cs.cornell.edu/~rafael/papers/rand-para.pdf",
@@ -344,7 +344,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"The Knowledge Tightness of Parallel Zero-Knowledge",
         "Link":"http://www.cs.cornell.edu/~chung/download/parallelZKKnowledge.pdf",
@@ -610,7 +610,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Outsourcing the Decryption of ABE Ciphertexts",
         "Link":"http://static.usenix.org/event/sec11/tech/full_papers/Green.pdf",
@@ -667,7 +667,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Detecting Dangerous Queries: A New Approach for Chosen Ciphertext Security",
         "Link":"http://eprint.iacr.org/2012/006.pdf",
@@ -1370,7 +1370,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Zerocoin: Anonymous Distributed e-Cash from Bitcoin",
         "Link":"http://spar.isi.jhu.edu/~mgreen/ZerocoinOakland.pdf",
@@ -1389,7 +1389,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Machine-Generated Algorithms, Proofs and Software for the Batch Verification of Digital Signature Schemes",
         "Link":"http://eprint.iacr.org/2013/175",
@@ -1408,7 +1408,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Vis-a-Vis Cryptography: Private and Trustworthy In-Person Certifications",
         "Link":"https://www.usenix.org/system/files/conference/healthsec12/healthsec12-final25.pdf",
@@ -1465,7 +1465,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Unprovable Security of Perfect NIZK and Non-interactive Non-malleable Commitments",
         "Link":"http://www.cs.cornell.edu/~rafael/papers/limits2new.pdf",
@@ -1484,7 +1484,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"On the Power of Many 1-Bit Provers",
         "Link":"http://arxiv.org/abs/1301.2729",
@@ -1503,7 +1503,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"On The Power of Non-uniform Proofs of Security",
         "Link":"http://www.cs.cornell.edu/~chung/download/nonuniform-camera.pdf",
@@ -1522,7 +1522,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"UC from OT",
         "Link":"Not Yet Published",
@@ -1541,7 +1541,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Blackbox Construction of Composable Protocols",
         "Link":"http://www.cs.cornell.edu/~rafael/papers/bbsmc.pdf",
@@ -1560,7 +1560,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"The Curious Case of Non-interactive Commitments",
         "Link":"http://eprint.iacr.org/2012/523",
@@ -1579,7 +1579,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Billion-gate Secure Two-party Computation",
         "Link":"http://eprint.iacr.org/2012/179",
@@ -1598,7 +1598,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Non-Black-Box Simulation from One-Way Functions And Applications to Resettable Security",
         "Link":"http://eprint.iacr.org/2013/008.pdf",
@@ -1902,7 +1902,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"PCF: A Portable Circuit Format for Scalable Two-Party Secure Computation",
         "Link":"http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12312-sec13-paper_kreuter.pdf",
@@ -2073,7 +2073,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Full Domain Hash from (Leveled) Multilinear Maps and Identity-Based Aggregate Signatures",
         "Link":"http://eprint.iacr.org/2013/434",
@@ -2168,7 +2168,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"GPU and CPU Parallelization of Honest-but-Curious Secure Two Party Computation",
         "Link":"http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&ved=0CD8QFjAD&url=http%3A%2F%2Fwww.cs.indiana.edu%2F~nhusted%2Fpresentations%2FACSAC2013-GPUGC.pptx&ei=AmDpUqeEGdTMsASXpoDADA&usg=AFQjCNGD5W9EBahO_T-fkYDn75AZ-t5Ctg&sig2=bq1w2wfg1HUfF6zdIW-Qzw&bvm=bv.60157871,d.cWc",
@@ -2187,7 +2187,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Using SMT Solvers to Automate Design Tasks for Encryption and Signature Schemes",
         "Link":"http://dl.acm.org/citation.cfm?id=2516718",
@@ -2206,7 +2206,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Fast Two-Party Secure Computation with Minimal Assumptions",
         "Link":"http://eprint.iacr.org/2013/196.pdf",
@@ -2225,7 +2225,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Black-Box Proof of Knowledge of Plaintext and Multiparty Computation with Low Communication Overhead",
         "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-36594-2_23#page-1",
@@ -2244,7 +2244,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Knowledge-Preserving Interactive Coding",
         "Link":"http://www.iis.sinica.edu.tw/~kmchung/download/KP-coding-main.pdf",
@@ -2263,7 +2263,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Constant-round Concurrent Zero-knowledge from P-Certificates",
         "Link":"http://eprint.iacr.org/2012/563.pdf",
@@ -2282,7 +2282,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"From Unprovability to Environmentally Friendly Protocols",
         "Link":"http://www.cs.cornell.edu/~rafael/papers/EnvFriendly-proc.pdf",
@@ -2301,7 +2301,7 @@
     {
         "DARPA Program":"PROCEED",
         "Program Teams":[
-            "UVA"
+            "University of Virginia"
         ],
         "Title":"Simultaneous Resettability From One-way Functions",
         "Link":"http://www.iis.sinica.edu.tw/~kmchung/download/rsrZK.pdf",
