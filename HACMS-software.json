@@ -302,7 +302,7 @@
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
-            "The Charles Stark Draper Laboratory, Inc."
+            "Draper Laboratory"
         ],
         "Software":"Fracture Tool / LLVM decompiler",
         "Internal Link":"",
@@ -325,7 +325,7 @@
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
-            "The Charles Stark Draper Laboratory, Inc."
+            "Draper Laboratory"
         ],
         "Software":"CSPM parser/type-checker/evaluator included in FDR3",
         "Internal Link":"",
