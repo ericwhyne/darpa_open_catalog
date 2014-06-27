@@ -2,7 +2,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(Wisc Team) Indiana University"
+            "(WiscTeam) Indiana University"
         ],
         "Title":"Knowledge Intensive Learning: Combining Qualitative Constraints with Causal Independence for Parameter Learning in Probabilistic Models",
         "Authors":[
@@ -25,7 +25,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(Wisc Team) University of Wisconsin - Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Indiana University"
         ],
         "Title":"Guiding Autonomous Agents to Better Behaviors through Human Advice",
@@ -51,7 +51,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(Wisc Team) Wake Forest University",
+            "(WiscTeam) Wake Forest University",
             "Indiana University",
             "University of Wisconsin - Madison",
             "University of Alberta, Canada"
@@ -132,7 +132,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WIscTeam) Indiana University",
+            "(WiscTeam) Indiana University",
             "Cycorp",
             "University of Wisconsin - Madison",
             "TU Dortmund",
