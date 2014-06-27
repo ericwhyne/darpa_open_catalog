@@ -2334,7 +2334,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Carat: Collaborative Energy Diagnosis for Mobile Devices",
         "Authors":[
@@ -2360,7 +2360,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Discretized Streams: Fault-Tolerant Streaming Computation at Scale",
         "Authors":[
@@ -2387,7 +2387,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Sparrow: Distributed, Low Latency Scheduling",
         "Authors":[
@@ -2412,7 +2412,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"A General Bootstrap Performance Diagnostic",
         "Authors":[
@@ -2438,7 +2438,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"MLI: An API for Distributed Machine Learning",
         "Authors":[
@@ -2468,7 +2468,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Leveraging Endpoint Flexibility in Data-Intensive Clusters",
         "Authors":[
@@ -2492,7 +2492,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Shark: SQL and Rich Analytics at Scale",
         "Authors":[
@@ -2544,7 +2544,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"RTP: Robust Tenant Placement for Elastic In-Memory Database Clusters",
         "Authors":[
@@ -2572,7 +2572,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Bolt-on Causal Consistency",
         "Authors":[
@@ -2597,7 +2597,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data",
         "Authors":[
@@ -2624,7 +2624,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"MDCC: Multi-Data Center Consistency",
         "Authors":[
@@ -2650,7 +2650,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"The Case for Tiny Tasks in Compute Clusters",
         "Authors":[
@@ -2679,7 +2679,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices",
         "Authors":[
@@ -2705,7 +2705,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"MLbase: A Distributed Machine-learning System",
         "Authors":[
@@ -2732,7 +2732,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Coflow: A Networking Abstraction for Cluster Applications",
         "Authors":[
