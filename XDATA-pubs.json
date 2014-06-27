@@ -1699,7 +1699,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Sotera Defense Solutions"
+            "Sotera Defense Solutions, Inc."
         ],
         "Title":"A Survey of Big Data Methods, Assessments, and Approaches",
         "Authors":[
@@ -1721,7 +1721,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Sotera Defense Solutions"
+            "Sotera Defense Solutions, Inc."
         ],
         "Title":"Correlation Using Pair-wise Combinations of Multiple Data Sources and Dimensions at Ultra-Large Scales",
         "Authors":[
@@ -1745,7 +1745,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Sotera Defense Solutions"
+            "Sotera Defense Solutions, Inc."
         ],
         "Title":"Movement Inference through Aggregate Trajectory Extraction",
         "Authors":[
@@ -2519,7 +2519,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"GraphX: A Resilient Distributed Graph System on Spark",
         "Authors":[
