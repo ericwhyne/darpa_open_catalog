@@ -3517,6 +3517,58 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+            "Stanford University - Olukotun"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Snap.py",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/Stanford+XGraph",
+        "External Link":"http://snap.stanford.edu/snappy/",
+        "Public Code Repo":"https://github.com/snap-stanford/snap",
+        "Instructional Material":"2014-07",
+        "Stats":"snap.py",
+        "Description":"Snap.py is a Python interface for SNAP. SNAP is a general purpose, high performance system for analysis and manipulation of large networks.",
+        "Internal Code Repo":"tools\\analytics\\stanford-o",
+        "License":[
+            "BSD"
+        ],
+        "Languages":[
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"20140701",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
             "SYSTAP, LLC"
         ],
         "Contributors":[
