@@ -1796,6 +1796,8 @@
         "New Date":"20140612",
         "Update Date":""
     },
+        "External Link":"https://github.com/mitll/graph-qube",
+        "Public Code Repo":"https://github.com/mitll/graph-qube",
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
@@ -1809,8 +1811,6 @@
         ],
         "Software":"Query By Example (Graph QuBE)",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"https://github.com/mitll/graph-qube",
-        "Public Code Repo":"https://github.com/mitll/graph-qube",
         "Instructional Material":"2014-07",
         "Stats":"graph-qube",
         "Description":"Query-by-Example (Graph QuBE) on dynamic transaction graphs.",
@@ -1846,6 +1846,61 @@
             "Analytics"
         ],
         "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"VizLinc",
+        "Internal Link":"",
+		"External Link":"https://github.com/mitll/vizlinc",
+        "Public Code Repo":"https://github.com/mitll/vizlinc.git",
+        "Instructional Material":"2014-07",
+        "Stats":"",
+        "Description":"Vizlinc is a visual analytics platform that takes as input a corpus of text documents, extracts named entities (people, locations, and organizations) and the relations between those entities from the documents, and allows a user to explore the information contained in the documents from both a high-level corpus view point and with respect to more narrow queries.(Java/Groovy)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPL",
+			"CDDL"
+        ],
+        "Languages":[
+            "Java",
+			"Groovy"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            "Visual Analytics",
+			"Corpus Exploration"
+        ],
+        "Categories":[
+            "Visualization"
+        ],
+        "New Date":"20140701",
         "Update Date":""
     },
     {
