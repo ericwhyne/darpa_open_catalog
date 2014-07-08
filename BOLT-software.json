@@ -114,7 +114,7 @@
         "Software":"macaon",
         "Internal Link":"",
         "External Link":"http://macaon.lif.univ-mrs.fr/index.php?page=home-en",
-        "Public Code Repo":"git@gitlab.lif.univ-mrs.fr:benoit.favre/macaon.git",
+        "Public Code Repo":"benoit.favre@lif.univ-mrs.fr",
         "Instructional Material":"",
         "Description":"macaon is a tool suite for standard Natural Language Processing tasks (tagging, parsing...) that can process hypotheses. (C/C++)",
         "License":[
