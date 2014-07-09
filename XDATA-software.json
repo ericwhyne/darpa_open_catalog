@@ -1811,7 +1811,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
         "Instructional Material":"2014-07",
         "Stats":"graph-qube",
-        "Description":"Query-by-Example (Graph QuBE) on dynamic transaction graphs.",
+        "Description":"Graph QuBE is a tool which enables efficient pattern-of-behavior search in data containing entities transacting over time.",
         "Internal Code Repo":"tools\\analytics\\mit-LL\\graph-qube",
         "License":[
             "ALv2"
