@@ -2662,12 +2662,13 @@
         ],
         "Software":"MASTIFF",
         "Internal Link":"",
-        "External Link":"http://www.korelogic.com/",
-        "Public Code Repo":"CFTdata@darpa.mil",
+        "External Link":"https://www.korelogic.com/tools.html#mastiff",
+        "Public Code Repo":"https://git.korelogic.com/mastiff.git/",
         "Instructional Material":"",
-        "Description":"This automated plug-in-based framework makes this process more efficient and encourages the development of new analysis techniques.",
+        "Description":"A static analysis framework that automates the extraction of characteristics of malware and allows rapid technique development through the use of plug-ins.",
         "License":[
-            "GPR"
+            "ALv2",
+			"BSD"
         ],
         "Languages":[
             ""
@@ -2697,7 +2698,7 @@
             "Software"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140709"
     },
     {
         "DARPA Program":"CFT",
