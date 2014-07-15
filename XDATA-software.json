@@ -957,7 +957,7 @@
         "Software":"LineUp Web",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
         "External Link":"http://lineup.caleydo.org",
-        "Public Code Repo":"2014-06",
+        "Public Code Repo":"https://github.com/Caleydo/lineup.js.git",
         "Instructional Material":"2014-07",
         "Stats":"",
         "Description":"LineUpWeb is the web version of the novel and scalable visualization technique. This interactive technique supports the ranking of items based on multiple heterogeneous attributes with different scales and semantics. It enables users to interactively combine attributes and flexibly refine parameters to explore the effect of changes in the attribute combination.",
