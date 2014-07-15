@@ -3047,7 +3047,7 @@
         "Public Code Repo": "https://github.com/Sotera/track-communities.git",
         "Instructional Material": "2014-07",
         "Stats": "track-communities",
-        "Description": "An analytic for creating networks from geo-temporal track data based on time/space co-occurrence. Includes UI for visualization of communities and tracks.  This tool is a synthesis of several analytic components and visualization techniques that allow a user to browse a network of communities, follow tracks of movement, and observe co-location highlights within a dynamic graph.",
+        "Description": "An analytic for creating networks from geo-temporal track data based on time/space co-occurrence. Includes UI for visualization of communities and tracks.  This tool is a synthesis of several analytic components and visualization techniques that allow a user to browse a network of communities, follow tracks of movement, and observe co-location highlights within a dynamic graph. (Python/JavaScript)",
         "Internal Code Repo": "",
         "License": [
             "ALv2"
