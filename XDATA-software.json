@@ -361,7 +361,59 @@
             ""
         ],
         "Categories":[
-            "Analytics"
+            "Visualization"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+        {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Data Tactics Corporation"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Darpa Open Catalog Generator",
+        "Internal Link":"",
+        "External Link":"https://github.com/ericwhyne/open-catalog-generator",
+        "Public Code Repo":"https://github.com/ericwhyne/open-catalog-generator.git",
+        "Instructional Material":"2014-07",
+        "Stats":"open-catalog-generator",
+        "Description":"Code and templates for building the DARPA open catalog as hosted on darpa.mil.",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Visualization"
         ],
         "New Date":"",
         "Update Date":""
