@@ -4202,5 +4202,57 @@
         ],
         "New Date":"",
         "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Data Tactics Corporation"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Escher",
+        "Internal Link":"",
+        "External Link":"https://github.com/gocircuit/escher",
+        "Public Code Repo":"https://github.com/gocircuit/escher.git",
+        "Instructional Material":"",
+        "Stats":"",
+        "Description":"Escher is a minimal metaphor programming language that plays as a lego block for intelligent translation across foreign semantics of heterogenous technologies.",
+        "Internal Code Repo":"",
+        "License":[
+            ""
+        ],
+        "Languages":[
+            ""
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
     }
 ]
