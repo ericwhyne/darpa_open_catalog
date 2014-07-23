@@ -1,7 +1,7 @@
-[
 {
     "DARPA Office": "I2O",
+	"DARPA Long Name": "Information Innovation Office",
     "DARPA Office Description": "The Information, Innovation & Cyber office focuses on...",
-    "DARPA Office Color": "4C9509"
+    "DARPA Office Color": "4C9509",
+	"DARPA Link" : "http://www.darpa.mil/Our_Work/I2O/"
 }
-]
