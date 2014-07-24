@@ -1,13 +1,14 @@
     {
-        "DARPA Program Name": "RP", 
-        "Long Name": "Revolutionizing Prosthetics", 
-        "Program Teams": ["DEKA Integrated Solutions, Inc.",
+    "DARPA Office": "BTO",
+    "DARPA Program Name": "RP", 
+    "Long Name": "Revolutionizing Prosthetics", 
+    "Program Teams": ["DEKA Integrated Solutions, Inc.",
 		"The Johns Hopkins University Applied Physics Lab",
 		"University of Chicago",
 		"Purdue University",
 		"University of Pittsburgh Medical Center",
-		"California Institute of Technology"]
-        "Link": "http://www.darpa.mil/Our_Work/BTO/Programs/Revolutionizing_Prosthetics.aspx", 
+		"California Institute of Technology"],
+    "Link": "http://www.darpa.mil/Our_Work/BTO/Programs/Revolutionizing_Prosthetics.aspx", 
     "Display Software Columns":[
         "Team",
         "Project",
