@@ -1,0 +1,123 @@
+[
+    {
+        "DARPA Program": "RP", 
+        "Program Teams": [
+            "The Johns Hopkins University Applied Physics Lab", 
+            "University of Chicago", 
+            "Purdue University", 
+            "University of Pittsburgh"
+        ], 
+        "Title": "The effect of chronic intracortical microstimulation on the electrode-tissue interface", 
+        "Authors": [
+            "Kevin H. Chen", 
+            "John F. Fammann", 
+            "Jessica L. Boback", 
+            "Francesco V. Tenore", 
+            "Kevin J. Otto", 
+            "Robert A. Gaunt", 
+            "Sliman J. Bensmaia"
+        ], 
+        "Link": "http://dx.doi.org/10.1088/1741-2560/11/2/026004", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RP", 
+        "Program Teams": [
+            "The Johns Hopkins University Applied Physics Lab", 
+            "University of Chicago"
+        ], 
+        "Title": "Restoring the sense of touch with a prosthetic hand through a brain interface", 
+        "Authors": [
+            "Gregg A. Tabot", 
+            "John F. Dammann", 
+            "Joshua A. Berg", 
+            "Francesco V. Tenore", 
+            "Jessica L. Boback", 
+            "R. Jacob Vogelstein", 
+            "Sliman J. Bensmaia"
+        ], 
+        "Link": "http://dx.doi.org/10.1073/pnas.1221113110", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RP", 
+        "Program Teams": [
+            "The Johns Hopkins University Applied Physics Lab"
+        ], 
+        "Title": "Experimental validation of imposed safety regions for neural controlled human patient self-feeding using the modular prosthetic limb", 
+        "Authors": [
+            "Brock A. Wester", 
+            "Matthew P. Para", 
+            "Ashok Sivakumar", 
+            "Michael D. Kutzer", 
+            "Kapil D. Katyal", 
+            "Alan D. Ravitz", 
+            "James D. Beaty", 
+            "Michael P. McLoughlin", 
+            "Matthew S. Johannes"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6696454&tag=1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RP", 
+        "Program Teams": [
+            "University of Pittsburgh"
+        ], 
+        "Title": "High-performance neuroprosthetic control by an individual with tetraplegia", 
+        "Authors": [
+            "Jennifer L. Collinger", 
+            "Brian Wodlinger", 
+            "John E. Downey", 
+            "Wei Wang", 
+            "Elizabeth C Tyler-Kabara", 
+            "Douglas J Weber", 
+            "Angus JC McMorland", 
+            "Meel Velliste", 
+            "Michael L Boninger", 
+            "Andrew B Schwartz"
+        ], 
+        "Link": "http://dx.doi.org/10.1016/S0140-6736(12)61816-9", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }
+]

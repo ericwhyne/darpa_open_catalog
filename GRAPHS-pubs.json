@@ -1,0 +1,357 @@
+[
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "An In-Depth Analysis of Stochastic Kronecker Graphs", 
+        "Authors": [
+            "C. Seshadhri", 
+            "A. Pinar", 
+            "T.G. Kolda"
+        ], 
+        "Link": "http://arxiv.org/pdf/1102.5046v3.pdf", 
+        "Categories": [
+            "Software Engineering", 
+            "Data", 
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Metrics", 
+            "Data Structures", 
+            "Discrete Mathematics", 
+            "Random Graphs"
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.8", 
+            "E.1", 
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "Wedge Sampling for Computing Clustering Coefficients and Triangle Counts on Large Graphs", 
+        "Authors": [
+            "C. Seshadhri", 
+            "A. Pinar", 
+            "T.G. Kolda"
+        ], 
+        "Link": "http://arxiv.org/pdf/1309.3321.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "A Scalable Generative Graph Model with Community Structure", 
+        "Authors": [
+            "T. G. Kolda", 
+            "A. Pinar", 
+            "T. Plantenga", 
+            "C. Seshadhri"
+        ], 
+        "Link": "http://arxiv.org/pdf/1302.6636v3.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "Counting Triangles in Massive Graphs with MapReduce", 
+        "Authors": [
+            "T. G. Kolda", 
+            "A. Pinar", 
+            "T. Plantenga", 
+            "C. Seshadhri", 
+            "C. Task"
+        ], 
+        "Link": "http://arxiv.org/pdf/1301.5887v3.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "Degree Relations of Triangles in Real-world Networks and Graph Models", 
+        "Authors": [
+            "N. Durak", 
+            "A. Pinar", 
+            "T.G. Kolda", 
+            "C. Seshadhri"
+        ], 
+        "Link": "http://arxiv.org/pdf/1207.7125.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "A Scalable Null Model for Directed Graphs Matching All Degree Distributions: In, Out, and Reciprocal", 
+        "Authors": [
+            "N. Durak", 
+            "A. Pinar", 
+            "T.G. Kolda", 
+            "C. Seshadhri"
+        ], 
+        "Link": "http://arxiv.org/pdf/1210.5288.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Random Graphs"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "Triadic Measures on Graphs: The Power of Wedge Sampling", 
+        "Authors": [
+            "C. Seshadhri", 
+            "A. Pinar", 
+            "T.G. Kolda"
+        ], 
+        "Link": "http://arxiv.org/pdf/1202.5230v2.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "A Space Efficient Streaming Algorithm for Triangle Couting Using the Birthday Paradox", 
+        "Authors": [
+            "M. Jha", 
+            "C. Seshadhri", 
+            "A. Pinar"
+        ], 
+        "Link": "http://arxiv.org/pdf/1212.2264v3.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "University of Minnesota", 
+            "Sandia National Laboratories"
+        ], 
+        "Title": "Dynamics of Trust Reciprocation in Multi-relational Networks", 
+        "Authors": [
+            "A. Singhal", 
+            "K. Subbian", 
+            "J Srivastava", 
+            "T. G. Kolda", 
+            "A. Pinar"
+        ], 
+        "Link": "http://www.sandia.gov/~tgkolda/pubs/pubfiles/SiSuSrKo13-ASONAM13.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "Why do Simple Algorithms for Triangle Enumeration Work in the Real World?", 
+        "Authors": [
+            "J. W. Berry", 
+            "L.K. Fostvedt", 
+            "D.J. Nordman", 
+            "C.A. Phillips", 
+            "C. Seshadhri", 
+            "A.G. Wilson"
+        ], 
+        "Link": "http://www.cs.princeton.edu/~csesha/pubs/conf-triangle-enum.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "Decompositions of Triangle-dense Graphs", 
+        "Authors": [
+            "R. Gupta", 
+            "T. Roughgarden", 
+            "C. Seshadhri"
+        ], 
+        "Link": "http://arxiv.org/pdf/1309.7440v3.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Sandia National Laboratories"
+        ], 
+        "Title": "Using Triangles to Improve Community Detection in Directed Networks", 
+        "Authors": [
+            "C. Klymko", 
+            "D.F. Gleich", 
+            "T.G. Kolda"
+        ], 
+        "Link": "http://arxiv.org/pdf/1404.5874v1.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Stanford University", 
+            "Sandia National Laboratories"
+        ], 
+        "Title": "FAST-PPR: Scaling Personalized PageRank Estimation for Large Graphs", 
+        "Authors": [
+            "P. Lofgren", 
+            "S. Banerjee", 
+            "A. Goel", 
+            "A. Seshadhri"
+        ], 
+        "Link": "http://arxiv.org/pdf/1404.3181v1.pdf", 
+        "Categories": [
+            "Mathematics of Computing"
+        ], 
+        "Subcategories": [
+            "Discrete Mathematics", 
+            "Graph Algorithms", 
+            "Approximation Algorithms"
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }
+]
