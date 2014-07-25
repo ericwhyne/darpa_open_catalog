@@ -3067,32 +3067,6 @@
         "Program Teams": [
             "IBM"
         ], 
-        "Title": "Analyzing the quality of information solicited from targeted strangers on social media", 
-        "Authors": [
-            "J Nichols", 
-            "M Zhou", 
-            "H Yang", 
-            "JH Kang", 
-            "X Sun"
-        ], 
-        "Link": "http://systemg.ibm.com/papers/T3.2-analyzing-the-quality-of-info-in-social-media.pdf", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            ""
-        ], 
-        "New Date": "", 
-        "Update Date": "2014-06-20"
-    }, 
-    {
-        "DARPA Program": "SMISC", 
-        "Program Teams": [
-            "IBM"
-        ], 
         "Title": "Social Capital: The Power of Influencers", 
         "Authors": [
             "K. Subbian", 
@@ -3175,32 +3149,6 @@
             "P. S. Yu"
         ], 
         "Link": "http://systemg.ibm.com/papers/T3.3-finding-communities-using-prior-knowledge.pdf", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            ""
-        ], 
-        "New Date": "", 
-        "Update Date": "2014-06-20"
-    }, 
-    {
-        "DARPA Program": "SMISC", 
-        "Program Teams": [
-            "IBM"
-        ], 
-        "Title": "Who Will Retweet This? Identifying Strangers on Twitter to Retweet Information", 
-        "Authors": [
-            "K Lee", 
-            "J Mahmud", 
-            "J Chen", 
-            "M Zhou", 
-            "J Nichols"
-        ], 
-        "Link": "", 
         "Categories": [
             ""
         ], 
@@ -3526,29 +3474,6 @@
             "Jilin Chen", 
             "Jeffrey Nichols", 
             "Michelle Zhou"
-        ], 
-        "Link": "", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            ""
-        ], 
-        "New Date": "", 
-        "Update Date": "2014-06-20"
-    }, 
-    {
-        "DARPA Program": "SMISC", 
-        "Program Teams": [
-            "IBM"
-        ], 
-        "Title": "Why Do You Spread This Message? Understanding Users Sentiment in Social Media Campaigns", 
-        "Authors": [
-            "Jalal Mahmud", 
-            "Huiji Gao"
         ], 
         "Link": "", 
         "Categories": [

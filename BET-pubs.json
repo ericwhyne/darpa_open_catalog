@@ -712,7 +712,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"BISTRO: Binary Component Extraction and Embedding for Software Security Applications",
         "Authors":[
@@ -736,7 +736,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"SPIDER: Stealthy Binary Program Instrumentation and Debugging via Hardware Virtualization",
         "Authors":[
@@ -760,7 +760,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"Obfuscation Resilient Binary Code Reuse through Trace-oriented Programming",
         "Authors":[
@@ -787,7 +787,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"PIEtrace: Platform Independent Executable Trace",
         "Authors":[
@@ -811,7 +811,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"LogGC: Garbage Collecting Audit Log",
         "Authors":[
