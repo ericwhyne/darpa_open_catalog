@@ -115,13 +115,13 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Support Distribution Machines",
+        "Software":"skl-groups",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717624",
-        "External Link":"https://github.com/dougalsutherland/py-sdm",
-        "Public Code Repo":"https://github.com/dougalsutherland/py-sdm.git",
-        "Instructional Material":"2014-07",
-        "Stats":"py-sdm",
-        "Description":"Python implementation of the nonparametric divergence estimators described by Barnabas Poczos, Liang Xiong, Jeff Schneider (2011). Nonparametric divergence estimation with applications to machine learning on distributions. Uncertainty in Artificial Intelligence. ( http://autonlab.org/autonweb/20287.html ) and also their use in support vector machines, as described by Dougal J. Sutherland, Liang Xiong, Barnabas Poczos, Jeff Schneider (2012). Kernels on Sample Sets via Nonparametric Divergence Estimates. ( http://arxiv.org/abs/1202.0302 ). (Python)",
+        "External Link":"https://github.com/dougalsutherland/skl-groups/",
+        "Public Code Repo":"https://github.com/dougalsutherland/skl-groups.git",
+        "Instructional Material":"https://dougalsutherland.github.io/skl-groups/",
+        "Stats":"skl-groups",
+        "Description":"A package extending the Python machine learning toolkit scikit-learn with support for operating on sets (\"groups\") as features.",
         "Internal Code Repo":"tools\\analytics\\cmu",
         "License":[
             "BSD"
