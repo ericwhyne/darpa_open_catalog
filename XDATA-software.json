@@ -799,15 +799,17 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Johns+Hopkins+University",
         "External Link":"https://github.com/igraph/xdata-igraph/",
         "Public Code Repo":"https://github.com/igraph/xdata-igraph.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"http://igraph.org",
         "Stats":"xdata-igraph",
-        "Description":"igraph provides a fast generation of large graphs, fast approximate computation of local graph invariants, fast parallelizable graph embedding. API and Web-service for batch processing graphs across formats. (C)",
+        "Description":"igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. igraph can be programmed in GNU R, Python and C/C++.",
         "Internal Code Repo":"tools\\analytics\\jhu",
         "License":[
             "GPLv2"
         ],
         "Languages":[
-            "C"
+            "C",
+            "R",
+            "Python"
         ],
         "Platform Requirements":[
             ""
