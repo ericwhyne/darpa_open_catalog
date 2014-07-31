@@ -2692,60 +2692,6 @@
         "Update Date":""
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Scientific Systems Company, Inc.",
-            "MIT",
-            "University of Louisville"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Crosscat",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274588",
-        "External Link":"http://probcomp.csail.mit.edu/crosscat/",
-        "Public Code Repo":"https://github.com/mit-probabilistic-computing-project/crosscat.git",
-        "Instructional Material":"2014-07",
-        "Stats":"crosscat",
-        "Description":"CrossCat is a domain-general, Bayesian method for analyzing high-dimensional data tables. CrossCat estimates the full joint distribution over the variables in the table from the data via approximate inference in a hierarchical, nonparametric Bayesian model, and provides efficient samplers for every conditional distribution. CrossCat combines strengths of nonparametric mixture modeling and Bayesian network structure learning: it can model any joint distribution given enough data by positing latent variables, but also discovers independencies between the observable variables. (Python)",
-        "Internal Code Repo":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Python"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
         "DARPA Program": "XDATA",
         "Program Teams": [
             "Sotera Defense Solutions, Inc."
