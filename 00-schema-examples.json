@@ -15,9 +15,12 @@
         "Type":"Program",
         "Schema":[
             {
+                "DARPA Office":"",
                 "DARPA Program Name":"XDATA",
                 "Long Name":"XDATA",
-                "Program Teams":"",
+                "Program Teams":[
+                    ""
+                ],
                 "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/XDATA.aspx",
                 "Display Software Columns":[
                     "Team",
