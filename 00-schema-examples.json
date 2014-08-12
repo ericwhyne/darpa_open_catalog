@@ -98,8 +98,8 @@
                 "Categories":[
                     "Visualization"
                 ],
-                "New Date":"",
-                "Update Date":""
+                "New Date":"Date approved to go live in yyyymmdd format",
+                "Update Date":"Date updated with new information in yyyymmdd format"
             }
         ]
     },
@@ -128,8 +128,8 @@
                     "I.2.1",
                     "I.6.4"
                 ],
-                "New Date":"",
-                "Update Date":""
+                "New Date":"Date approved to go live in yyyymmdd format",
+                "Update Date":"Date updated with new information in yyyymmdd format"
             }
         ]
     }
