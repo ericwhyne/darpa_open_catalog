@@ -3324,7 +3324,7 @@
         "Software":"imMens",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
         "External Link":"http://vis.stanford.edu/projects/immens/",
-        "Public Code Repo":"https://github.com/StanfordHCI/imMens.git",
+        "Public Code Repo":"https://github.com/uwdata/imMens",
         "Instructional Material":"2014-07",
         "Stats":"imMens",
         "Description":"imMens is a web-based system for interactive visualization of large databases. imMens uses binned aggregation to produce summary visualizations that avoid the shortcomings of standard sampling-based approaches. Through data decomposition methods (to limit data transfer) and GPU computation via WebGL (for parallel query processing), imMens enables real-time (50fps) visual querying of billion+ element databases. (JavaScript)",
