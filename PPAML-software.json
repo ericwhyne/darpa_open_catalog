@@ -1686,56 +1686,6 @@
         "Sub-contractors": [
             ""
         ], 
-        "Software": "Forest", 
-        "Internal Link": "", 
-        "External Link": "http://forestdb.org/", 
-        "Public Code Repo": "", 
-        "Instructional Material": "", 
-        "Description": "Collaborative repository for generative models.", 
-        "License": [
-            "TBD"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Inference Engine"
-        ], 
-        "New Date": "20140818", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
-            "Stanford University"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
         "Software": "STOKE", 
         "Internal Link": "", 
         "External Link": "", 
