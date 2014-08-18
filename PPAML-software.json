@@ -669,57 +669,6 @@
         "Sub-contractors": [
             ""
         ], 
-        "Software": "Demos of Chimple", 
-        "Internal Link": "", 
-        "External Link": "https://github.com/AnalogDevicesLyricLabs/chimple/tree/master/demo", 
-        "Public Code Repo": "", 
-        "Instructional Material": "", 
-        "Description": "Chimple Demos.", 
-        "License": [
-            "ALv2"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Probabilistic Programming", 
-            "Inference Engine"
-        ], 
-        "New Date": "20140818", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
-            "Gamelan"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
         "Software": "Team Challenge Problem on Agile/Amortized Inference", 
         "Internal Link": "", 
         "External Link": "", 
@@ -930,57 +879,6 @@
         "Public Code Repo": "https://github.com/probmods/webchurch.git", 
         "Instructional Material": "", 
         "Description": "A compiler for the Church programming language into JavaScript for in-browser execution.", 
-        "License": [
-            "ALv2"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Probabilistic Programming", 
-            "Inference Engine"
-        ], 
-        "New Date": "20140818", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
-            "Gamelan"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "User Manual for Chimple", 
-        "Internal Link": "", 
-        "External Link": "https://github.com/AnalogDevicesLyricLabs/chimple/tree/master/doc", 
-        "Public Code Repo": "", 
-        "Instructional Material": "", 
-        "Description": "Chimple user documentation.", 
         "License": [
             "ALv2"
         ], 
