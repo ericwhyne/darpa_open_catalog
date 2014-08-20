@@ -55,7 +55,7 @@
             ""
         ],
         "New Date":"",
-        "Update Date":"20140813"
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"DCAPS",
@@ -87,37 +87,7 @@
             "USC",
             "ICT"
         ],
-        "Title":"Perception Markup Language: Towards a Standardized Representation of Perceived Nonverbal Behaviors",
-        "Authors": [
-            "Stefan Scherer", 
-            "Stacy Marsella", 
-            "Giota Stratou", 
-            "Yuyu Xu", 
-            "Fabrizio Morbini", 
-            "Alesia Egan", 
-            "Albert (Skip) Rizzo", 
-            "Louis-Philippe Morency"
-        ], 
-        "Link": "http://link.springer.com/chapter/10.1007/978-3-642-33197-8_47", 
-        "Categories":[
-            ""
-        ],
-        "Subcategories":[
-            ""
-        ],
-        "ACM 1998 classification code":[
-            ""
-        ],
-        "New Date":"",
-        "Update Date":"20140813"
-    },
-    {
-        "DARPA Program":"DCAPS",
-        "Program Teams":[
-            "USC",
-            "ICT"
-        ],
-        "Title":"FAAST-R: Defining a core mechanic for designing gestural interfaces",
+        "Title":"FAAST-R: Defining a Core Mechanic for Designing Gestural Interfaces",
         "Authors": [
             "E. Suma", 
             "B. Lange", 
@@ -302,7 +272,8 @@
 	    {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "SimSensei Kiosk: A Virtual Human Interviewer for Healthcare Decision Support", 
         "Authors": [
@@ -345,7 +316,8 @@
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "Verbal Indicators of Psychological Distress in Interactive Dialogue with a Virtual Human", 
         "Authors": [
@@ -374,7 +346,8 @@
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "Its Only a Computer: The Impact of Human-agent Interaction in Clinical Interviews", 
         "Authors": [
@@ -399,7 +372,8 @@
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "The Distress Analysis Interview Corpus of Human and Computer Interviews", 
         "Authors": [
@@ -433,7 +407,8 @@
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "Investigating Voice Quality as a Speaker-Independent Indicator of Depression and PTSD", 
         "Authors": [
@@ -458,7 +433,8 @@
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "Audiovisual Behavior Descriptors for Depression Assessment", 
         "Authors": [
@@ -483,7 +459,8 @@
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "Context-based Signal Descriptors of Heart-rate Variability for Anxiety Assessment", 
         "Authors": [
@@ -506,7 +483,8 @@
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "BBN",
+			"Raytheon"
         ], 
         "Title": "Robust EEG Emotion Classification Using Segment Level Decision Fusion", 
         "Authors": [
@@ -525,12 +503,13 @@
             ""
         ], 
         "New Date": "20140813", 
-        "Update Date": ""
+        "Update Date": "20140820"
     }, 
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "Automatic Nonverbal Behavior Indicators of Depression and PTSD: Exploring Gender Differences", 
         "Authors": [
@@ -555,7 +534,8 @@
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "Perception Markup Language: Towards a Standardized Representation of Perceived Nonverbal Behaviors", 
         "Authors": [
@@ -579,12 +559,13 @@
             ""
         ], 
         "New Date": "20140813", 
-        "Update Date": ""
+        "Update Date": "20140820"
     }, 
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "USC",
+			"ICT"
         ], 
         "Title": "Adapting User Interfaces for Gestural Interaction with the Flexible Action and Articulated Skeleton Toolkit", 
         "Authors": [
@@ -606,12 +587,13 @@
             ""
         ], 
         "New Date": "20140813", 
-        "Update Date": ""
+        "Update Date": "20140820"
     }, 
     {
         "DARPA Program": "DCAPS", 
         "Program Teams": [
-            ""
+            "BBN",
+			"Raytheon"
         ], 
         "Title": "Compact Unsupervised EEG Response Representation for Emotion Recognition", 
         "Authors": [
@@ -630,6 +612,6 @@
             ""
         ], 
         "New Date": "20140813", 
-        "Update Date": ""
+        "Update Date": "20140820"
     }
 ]
