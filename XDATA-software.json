@@ -14,7 +14,7 @@
         "Internal Link":"",
         "External Link":"https://github.com/Aptima/pattern-matching",
         "Public Code Repo":"https://github.com/Aptima/pattern-matching.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"pattern-matching",
         "Description":"Hadoop MapReduce-over-Hive based implementation of network query by example utilizing attributed network pattern matching. (Java)",
         "Internal Code Repo":"",
@@ -49,7 +49,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -643,7 +643,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274668",
         "External Link":"",
         "Public Code Repo":"http://code.google.com/p/svnmimir/source/checkout",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"immersive_body-based_interactions",
         "Description":"Provides innovative interaction techniques to address human-computer interaction challenges posed by Big Data.  Examples include:<br>* Wiggle Interaction Technique: user-induced motion to speed visual search.<br>* Immersive Tablet Based Viewers: low-cost 3D virtual reality fly-throughs of data sets.<br>* Multi-touch interfaces: browsing/querying multi-attribute and geospatial data, hosted by SOLR.<br>* Tablet-based visualization controller: eye-free rapid interaction with visualizations.",
         "Internal Code Repo":"tools\\visualizations\\usc-ict",
@@ -678,7 +678,7 @@
             "Visualization"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -1063,7 +1063,7 @@
         "Software":"Visualization Widgets",
         "External Link":"https://github.com/piim/xdata-visualization-widgets",
         "Public Code Repo":"https://github.com/piim/xdata-visualization-widgets.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"xdata-visualization-widgets",
         "Description":"These visualizations were created to demonstrate the type of standalone visualization widgets that might compliment a composite dashboard display for a decision-maker. They are built using D3 and leverage relevant APIs to show the latest available data. (JavaScript)",
         "Internal Code Repo":"tools\\visualizations\\new-school",
@@ -1098,7 +1098,7 @@
             "Visualization"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -1542,7 +1542,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
         "External Link":"http://www.wings-workflows.org/",
         "Public Code Repo":"https://github.com/varunratnakar/wings.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"wings",
         "Description":"WINGS provides a semantic workflow system that assists scientists with the design of computational experiments. A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to execution frameworks such as Pegasus and OODT to run workflows at large scale in distributed resources. (Java/JavaScript)",
         "Internal Code Repo":"tools\\utilities\\wings\\",
@@ -1578,7 +1578,7 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -2555,7 +2555,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Raytheon+BBN+Technologies",
         "External Link":"https://github.com/plamenbbn/XDATA",
         "Public Code Repo":"https://github.com/plamenbbn/XDATA.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"XDATA",
         "Description":"Patterns in Near-Real Time will take any corpus as input and quantify the strength of the query match to a SME-based process model, represent process model as a Directed Acyclic Graph (DAG), and then search and score potential matches. (Python)",
         "Internal Code Repo":"tools\\analytics\\bbn\\graph-matching",
@@ -2590,7 +2590,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -2607,7 +2607,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Raytheon+BBN+Technologies",
         "External Link":"https://github.com/plamenbbn/XDATA",
         "Public Code Repo":"https://github.com/plamenbbn/XDATA.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"XDATA",
         "Description":"Network Inference of Link Strength will take any text corpus as input and quantify the strength of connections between any pair of entities. Link strength probabilities are computed via shortest path. (Python)",
         "Internal Code Repo":"tools\\analytics\\bbn\\textstructure",
@@ -2642,7 +2642,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -2659,7 +2659,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Royal+Caliber+LLC%2C+VertexAPI+for+GPU+Graph+Analytics",
         "External Link":"https://github.com/RoyalCaliber/vertexAPI2",
         "Public Code Repo":"https://github.com/RoyalCaliber/vertexAPI2.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"vertexAPI2",
         "Description":"Allows users to express graph algorithms as a series of Gather-Apply-Scatter (GAS) steps similar to GraphLab.  Runs these vertex programs using a single or multiple GPUs - demonstrates a large speedup over GraphLab. (C++)",
         "Internal Code Repo":"tools\\analytics\\RoyalCaliber",
@@ -2694,7 +2694,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -3694,7 +3694,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/SYSTAP%2C+LLC",
         "External Link":"http://sourceforge.net/projects/bigdata/",
         "Public Code Repo":"https://bigdata.svn.sourceforge.net/svnroot/bigdata/",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"bigdata",
         "Description":"Bigdata enables massively parallel graph processing on GPUs and many core CPUs. The approach is based on the decomposition of a graph algorithm as a vertex program. The initial implementation supports an API based on the GraphLab 2.1 Gather Apply Scatter (GAS) API. Execution is available on GPUs, Intel Xenon Phi (aka MIC), and multi-core GPUs.",
         "Internal Code Repo":"tools\\analytics\\SYSTAP",
