@@ -3087,5 +3087,53 @@
         ],
         "New Date":"",
         "Update Date":""
+    },
+	    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Title":"Simplifying Scalable Graph Processing with a Domain-Specific Language",
+        "Authors":[
+            "Sungpack Hong",
+            "Semih Salihoglu",
+            "Jennifer Widom",
+            "Kunle Olukotun"
+        ],
+        "Link":"http://dl.acm.org/citation.cfm?id=2544162",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"20140423",
+        "Update Date":""
+    },
+		    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Title":"Hardware Acceleration of Database Operations",
+        "Authors":[
+            "Jared Casper",
+            "Kunle Olukotun"
+        ],
+        "Link":"http://dl.acm.org/citation.cfm?id=2554787",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"20140423",
+        "Update Date":""
     }
 ]
