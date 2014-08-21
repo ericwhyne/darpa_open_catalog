@@ -1,0 +1,56 @@
+[
+    {
+        "DARPA Program":"PLANX",
+        "Program Teams":[
+            "Raytheon BBN Technologies"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"avro-golang-compiler",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"",
+        "Instructional Material":"",
+        "Stats":"",
+        "Description":"This repository contains a modification of the avro java compiler to generate golang code that uses the Avro C bindings to actually parse serialized avro containers. (Java, C, Golang)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java",
+			"C",
+			"Golang"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Data Formatting"
+        ],
+        "New Date":"20140821",
+        "Update Date":""
+    }
+]

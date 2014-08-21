@@ -1,0 +1,27 @@
+{
+    "DARPA Office": "I2O",
+    "DARPA Program Name":"PLAN X",
+    "Long Name":"PLAN X",
+    "Program Teams":"",
+    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/Plan_X.aspx",
+    "Display Software Columns":[
+        "Team",
+        "Project",
+        "Description",
+        "Instructional Material",
+        "Category",
+        "Code",
+        "Stats",
+        "License"
+    ],
+    "Display Pubs Columns":[
+        "Team",
+        "Title",
+        "Link"
+    ],
+    "Description":"Plan X is a foundational cyberwarfare program to develop platforms for the Department of Defense to plan for, conduct, and assess cyberwarfare in a manner similar to kinetic warfare. Toward this end the program will bridge cyber communities of interest from academe, to the defense industrial base, to the commercial tech industry, to user-experience experts.",
+    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Mr__Frank_Pound.aspx",
+    "Program Manager":"Mr. Frank Pound",
+    "Program Manager Email":"frank.pound@darpa.mil",
+    "Image":""
+}
