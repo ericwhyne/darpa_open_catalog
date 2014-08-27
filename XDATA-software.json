@@ -4280,13 +4280,13 @@
         "Public Code Repo":"https://github.com/gocircuit/escher.git",
         "Instructional Material":"",
         "Stats":"",
-        "Description":"Escher is a minimal metaphor programming language that plays as a lego block for intelligent translation across foreign semantics of heterogenous technologies.",
+        "Description":"Escher is a minimal metaphor programming language that plays as a lego block for intelligent translation across foreign semantics of heterogenous technologies. (Go)",
         "Internal Code Repo":"",
         "License":[
             ""
         ],
         "Languages":[
-            ""
+            "Go"
         ],
         "Platform Requirements":[
             ""
@@ -4307,12 +4307,12 @@
             ""
         ],
         "Functionality":[
-            ""
+            "Programming Languages"
         ],
         "Categories":[
-            ""
+            "Infrastructure"
         ],
-        "New Date":"",
+        "New Date":"20140827",
         "Update Date":""
     },
 	{
