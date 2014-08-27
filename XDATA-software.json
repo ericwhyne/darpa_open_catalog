@@ -2,58 +2,6 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Aptima, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Network Query by Example",
-        "Internal Link":"",
-        "External Link":"https://github.com/Aptima/pattern-matching",
-        "Public Code Repo":"https://github.com/Aptima/pattern-matching.git",
-        "Instructional Material":"Not Available",
-        "Stats":"pattern-matching",
-        "Description":"Hadoop MapReduce-over-Hive based implementation of network query by example utilizing attributed network pattern matching. (Java)",
-        "Internal Code Repo":"",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":"20140820"
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
             "Boeing",
             "University of Pittsburgh"
         ],
@@ -103,6 +51,58 @@
         ],
         "New Date":"",
         "Update Date":""
+    },
+	{
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Aptima, Inc."
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Network Query by Example",
+        "Internal Link":"",
+        "External Link":"https://github.com/Aptima/pattern-matching",
+        "Public Code Repo":"https://github.com/Aptima/pattern-matching.git",
+        "Instructional Material":"Not Available",
+        "Stats":"pattern-matching",
+        "Description":"Hadoop MapReduce-over-Hive based implementation of network query by example utilizing attributed network pattern matching. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"",
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
