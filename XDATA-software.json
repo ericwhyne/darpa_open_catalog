@@ -4315,6 +4315,60 @@
         "New Date":"20140827",
         "Update Date":""
     },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Harvard",
+            "Kitware, Inc."
+        ],
+        "Contributors":[
+            "Harvard Medical School",
+			"Harvard Kennedy School of Government"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"UpSet",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
+        "External Link":"http://vcg.github.io/upset",
+        "Public Code Repo":"https://github.com/VCG/upset.git",
+        "Instructional Material":"https://github.com/vcg/upset/",
+        "Stats":"upset",
+        "Description":"Understanding relationships between sets is an important analysis task that has received widespread attention in the visualization community. The major challenge in this context is the combinatorial explosion of the number of set intersections if the number of sets exceeds a trivial threshold. To address this, we introduce UpSet, a novel visualization technique for the quantitative analysis of sets, their intersections, and aggregates of intersections. </BR>UpSet is focused on creating task-driven aggregates, communicating the size and properties of aggregates and intersections, and a duality between the visualization of the elements in a dataset and their set membership. UpSet visualizes set intersections in a matrix layout and introduces aggregates based on groupings and queries. The matrix layout enables the effective representation of associated data, such as the number of elements in the aggregates and intersections, as well as additional summary statistics derived from subset or element attributes.</BR>Sorting according to various measures enables a task-driven analysis of relevant intersections and aggregates. The elements represented in the sets and their associated attributes are visualized in a separate view. Queries based on containment in specific intersections, aggregates or driven by attribute filters are propagated between both views. UpSet also introduces several advanced visual encodings and interaction methods to overcome the problems of varying scales and to address scalability. (JavaScript)",
+        "Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
+        "License":[
+            "MIT"
+        ],
+        "Languages":[
+            "JavaScript"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Visualization"
+        ],
+        "New Date":"20140828",
+        "Update Date":""
+    },
 	{
         "DARPA Program": "XDATA", 
         "Program Teams": [
@@ -4332,7 +4386,7 @@
         "Public Code Repo": "https://github.com/AutonlabCMU/ActiveSearch.git", 
         "Instructional Material": "", 
         "Stats": "ActiveSearch", 
-        "Description": "ActiveSearch takes a collection of emails (or any dataset where a similarity can be generated between elements) and recommends related messages based on user feedback. The user provides an initial seed email then enters into a cycle where ActiveSearch provides a similar email and the user reports whether or not the email was interesting.\n\nActiveSearch is useful for anyone navigating a large set of emails and looking for related messages on a specific topic. As it considers the similarities between emails as well as user feedback, it is an improvement in accuracy, time, and effort over basic text search or a brute force search.", 
+        "Description": "ActiveSearch takes a collection of emails (or any dataset where a similarity can be generated between elements) and recommends related messages based on user feedback. The user provides an initial seed email then enters into a cycle where ActiveSearch provides a similar email and the user reports whether or not the email was interesting.ActiveSearch is useful for anyone navigating a large set of emails and looking for related messages on a specific topic. As it considers the similarities between emails as well as user feedback, it is an improvement in accuracy, time, and effort over basic text search or a brute force search.(Java, Perl)", 
         "Internal Code Repo": "", 
         "License": [
             "MIT"
@@ -4368,6 +4422,6 @@
             "Analytics"
         ], 
         "New Date": "20140813", 
-        "Update Date": ""
+        "Update Date": "20140828"
     }
 ]
