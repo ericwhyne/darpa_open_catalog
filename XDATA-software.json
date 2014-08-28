@@ -4279,11 +4279,11 @@
         "External Link":"https://github.com/gocircuit/escher",
         "Public Code Repo":"https://github.com/gocircuit/escher.git",
         "Instructional Material":"",
-        "Stats":"",
+        "Stats":"escher",
         "Description":"Escher is a minimal metaphor programming language that plays as a lego block for intelligent translation across foreign semantics of heterogenous technologies. (Go)",
         "Internal Code Repo":"",
         "License":[
-            ""
+            "ALv2"
         ],
         "Languages":[
             "Go"
