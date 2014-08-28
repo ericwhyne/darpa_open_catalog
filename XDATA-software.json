@@ -486,7 +486,7 @@
         "External Link":"https://github.com/smallk/smallk.github.io.git",
         "Public Code Repo":"https://github.com/smallk/smallk.github.io.git",
         "Instructional Material":"http://smallk.github.io/",
-        "Stats":"",
+        "Stats":"smallk.github.io",
         "Description":"SmallK is a high-performance, parallel library for nonnegative matrix factorization on both dense and sparse matrices written in C++. Implementations of several different NMF algorithms are provided, including multiplicative updating, hierarchical alternating least squares, nonnegative least squares with block principal pivoting, and a new rank2 algorithm. The library provides an implementation of hierarchical clustering based on the rank2 NMF algorithm. (C++)",
         "Internal Code Repo":"tools\\analytics\\gatech\\_x000D_\n",
         "License":[
@@ -1013,7 +1013,7 @@
         "External Link":"http://lineup.caleydo.org",
         "Public Code Repo":"https://github.com/Caleydo/lineup.js.git",
         "Instructional Material":"2014-07",
-        "Stats":"",
+        "Stats":"lineup.js",
         "Description":"LineUpWeb is the web version of the novel and scalable visualization technique. This interactive technique supports the ranking of items based on multiple heterogeneous attributes with different scales and semantics. It enables users to interactively combine attributes and flexibly refine parameters to explore the effect of changes in the attribute combination.",
         "Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
         "License":[
@@ -1976,7 +1976,7 @@
 		"External Link":"https://github.com/mitll/vizlinc",
         "Public Code Repo":"https://github.com/mitll/vizlinc.git",
         "Instructional Material":"2014-07",
-        "Stats":"",
+        "Stats":"vizlinc",
         "Description":"Vizlinc is a visual analytics platform that takes as input a corpus of text documents, extracts named entities (people, locations, and organizations) and the relations between those entities from the documents, and allows a user to explore the information contained in the documents from both a high-level corpus view point and with respect to more narrow queries.(Java/Groovy)",
         "Internal Code Repo":"",
         "License":[
