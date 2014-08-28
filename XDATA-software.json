@@ -1437,7 +1437,7 @@
         "External Link":"http://oodt.apache.org/",
         "Public Code Repo":"https://svn.apache.org/repos/asf/oodt/",
         "Instructional Material":"https://cwiki.apache.org/confluence/display/OODT/Home",
-        "Stats":"oodt",
+        "Stats":"",
         "Description":"APACHE OODT enables transparent access to distributed resources, data discovery and query optimization, and distributed processing and virtual archives. OODT provides software architecture that enables models for information representation, solutions to knowledge capture problems, unification of technology, data, and metadata. (Java)",
         "Internal Code Repo":"tools\\utilities\\oodt",
         "License":[
@@ -1602,7 +1602,7 @@
         "External Link":"http://tika.apache.org",
         "Public Code Repo":"http://svn.apache.org/repos/asf/tika/trunk/",
         "Instructional Material":"http://tika.apache.org/1.5/gettingstarted.html",
-        "Stats":"tika",
+        "Stats":"",
         "Description":"The Apache Tika(TM) toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries.",
         "Internal Code Repo":"tools\\utilities\\tika",
         "License":[
@@ -1756,7 +1756,7 @@
         "External Link":"http://nutch.apache.org/",
         "Public Code Repo":"http://svn.apache.org/repos/asf/nutch/",
         "Instructional Material":"http://wiki.apache.org/nutch/#Tutorials",
-        "Stats":"nutch",
+        "Stats":"",
         "Description":"A large scale web crawler framework that implements the search engine architecture as originally defined by Brin and Page. Nutch was started by Doug Cutting and is the predecessor to the Apache Hadoop technology. It includes parsers, a protocol framework, language detection, indexing capabilities and language and query models to fully implement a search engine.",
         "Internal Code Repo":"tools\\utilities\\nutch",
         "License":[
@@ -1873,7 +1873,7 @@
         "External Link":"https://github.com/MBoustani/Khooshe",
         "Public Code Repo":"https://github.com/MBoustani/Khooshe.git",
         "Instructional Material":"https://github.com/MBoustani/Khooshe/wiki",
-        "Stats":"khooshe",
+        "Stats":"Khooshe",
         "Description":"A Big Data-Points Visualization Tool",
         "Internal Code Repo":"tools\\utilities\\khooshe",
         "License":[
@@ -1924,7 +1924,7 @@
         "Software":"Query By Example (Graph QuBE)",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
         "Instructional Material":"2014-07",
-        "Stats":"graph-qube",
+        "Stats":"",
         "Description":"Graph QuBE is a tool which enables efficient pattern-of-behavior search in data containing entities transacting over time.",
         "Internal Code Repo":"tools\\analytics\\mit-LL\\graph-qube",
         "License":[
@@ -3378,7 +3378,7 @@
         "External Link":"http://www.tesseradata.org/",
         "Public Code Repo":"https://github.com/tesseradata/tesseradata.github.io.git",
         "Instructional Material":"2014-07",
-        "Stats":"Tessera",
+        "Stats":"tesseradata.github.io",
         "Description":"Tessera is an open source environment for deep analysis of big data. At the front end, the analyst programs in R, and has access to the thousands of methods of statistics, machine learning, and visualization implemented in R. At the back end is a distributed parallel computational environment such as Hadoop, that enables scaling to big data. In between are three Tessera packages: datadr, Trelliscope, and RHIPE (R and Hadoop Integrated Programming Environment). These packages enable the data analyst to communicate with the back end by simple R commands, and not have to worry about the details of distributed parallel computation. Tessera is powered by a statistical approach to large complex data, Divide and Recombine (D&R). The data are parallelized, not the thousands of methods, which makes back end computation typically very nearly embarrassingly parallel, and therefore very fast. But at the same time, D&R statistical division and recombination methods ensure good statistical performance.",
         "Internal Code Repo":"tools\\analytics\\stanford-h",
         "License":[
@@ -3485,7 +3485,7 @@
         "External Link":"http://stanford-ppl.github.io/Delite/index.html",
         "Public Code Repo":"https://github.com/stanford-ppl/hyperdsl",
         "Instructional Material":"2014-07",
-        "Stats":"Delite",
+        "Stats":"hyperdsl",
         "Description":"Delite is a compiler framework and runtime for parallel embedded domain-specific languages (DSLs). (Scala)",
         "Internal Code Repo":"tools\\analytics\\stanford-o",
         "License":[
@@ -3537,7 +3537,7 @@
         "External Link":"http://deepdive.stanford.edu/",
         "Public Code Repo":"https://github.com/HazyResearch/deepdive.git",
         "Instructional Material":"2014-07",
-        "Stats":"DeepDive",
+        "Stats":"deepdive",
         "Description":"DeepDive is a new type of knowledge base construction system that enables developers to analyze data on a deeper level than ever before. Many applications have been built using DeepDive to extract data from millions of documents, Web pages, PDFs, tables, and figures. DeepDive is a trained system, which means that it uses machine-learning techniques to incorporate domain-specific knowledge and user feedback to improve the quality of its analysis. DeepDive can deal with noisy and imprecise data by producing calibrated probabilities for every assertion it makes. DeepDive offers a scalable, high-performance learning engine. (SQL, Python, C++)",
         "Internal Code Repo":"",
         "License":[
@@ -3643,7 +3643,7 @@
         "External Link":"http://snap.stanford.edu/snappy/",
         "Public Code Repo":"https://github.com/snap-stanford/snap",
         "Instructional Material":"2014-07",
-        "Stats":"snap.py",
+        "Stats":"snap",
         "Description":"Snap.py is a Python interface for SNAP. SNAP is a general purpose, high performance system for analysis and manipulation of large networks.",
         "Internal Code Repo":"tools\\analytics\\stanford-o",
         "License":[
