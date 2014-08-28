@@ -3853,7 +3853,7 @@
         "External Link":"http://draperlaboratory.github.io/user-ale/",
         "Public Code Repo":"https://github.com/draperlaboratory/user-ale.git",
         "Instructional Material":"http://draperlaboratory.github.io/user-ale/",
-        "Stats":"xdatalogger",
+        "Stats":"user-ale",
         "Description":"Analytic Activity Logger is an API that creates a common message passing interface to allow heterogeneous software components to communicate with an activity logging engine. Recording a user's analytic activities enables estimation of operational context and workflow. Combined with psychophysiology sensing, analytic activity logging further enables estimation of the user's arousal, cognitive load, and engagement with the tool. (JavaScript)",
         "Internal Code Repo":"tools\\utilities\\draper",
         "License":[
