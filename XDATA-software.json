@@ -434,7 +434,7 @@
         "External Link":"http://www.gocircuit.org/",
         "Public Code Repo":"https://github.com/gocircuit/circuit.git",
         "Instructional Material":"2014-07",
-        "Stats":"",
+        "Stats":"circuit",
         "Description":"Circuit reduces the human development and sustenance costs of complex massively-scaled systems nearly to the level of their single-process counterparts. It is a combination of proven ideas from the Erlang ecosystem of distributed embedded devices and Go's ecosystem of Internet application development. Circuit extends the reach of Go's linguistic environment to multi-host/multi-process applications. (Go)",
         "Internal Code Repo":"",
         "License":[
@@ -4331,7 +4331,7 @@
         "External Link": "https://github.com/AutonlabCMU/ActiveSearch", 
         "Public Code Repo": "https://github.com/AutonlabCMU/ActiveSearch.git", 
         "Instructional Material": "", 
-        "Stats": "", 
+        "Stats": "ActiveSearch", 
         "Description": "ActiveSearch takes a collection of emails (or any dataset where a similarity can be generated between elements) and recommends related messages based on user feedback. The user provides an initial seed email then enters into a cycle where ActiveSearch provides a similar email and the user reports whether or not the email was interesting.\n\nActiveSearch is useful for anyone navigating a large set of emails and looking for related messages on a specific topic. As it considers the similarities between emails as well as user feedback, it is an improvement in accuracy, time, and effort over basic text search or a brute force search.", 
         "Internal Code Repo": "", 
         "License": [
