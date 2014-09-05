@@ -1559,5 +1559,136 @@
         "Link":"http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6403507",
         "New Date":"",
         "Update Date":"20140626"
+    },
+	{
+        "DARPA Program": "RATS", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Efficient Lattice Rescoring Using Recurrent Neural Network Language Models", 
+        "Authors": [
+            "X. Liu", 
+            "Y. Wang", 
+            "X. Chen", 
+            "M.J.F.Gales", 
+            "P.C. Woodland"
+        ], 
+        "Link": "http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RATS", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "On the Use of i-Vector Posterior Distributions in Probabilistic Linear Discriminant Analysis", 
+        "Authors": [
+            "S. Cumani", 
+            "O. Plchot", 
+            "P. Laface"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06748853", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RATS", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Non-negative Factor Analysis of Gaussian Mixture Model Weight Adaption for Language and Dialect Recognition", 
+        "Authors": [
+            "M. H. Bahari", 
+            "N. Dehak", 
+            "H. Van hamme", 
+            "Lukas Burget", 
+            "A. M. Ali", 
+            "J. Glass"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RATS", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "GMM Weights Adaptation Based on Subspace Approaches for Speaker Verification", 
+        "Authors": [
+            "N. Dehak", 
+            "O. Plchot", 
+            "M. H. Bahari", 
+            "L. Burget", 
+            "H. V. Hamme", 
+            "R. Dehak"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RATS", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Unscented Transform For i-Vector-based Noisy Speaker Recognition", 
+        "Authors": [
+            "D. Martinez", 
+            "L. Burget", 
+            "T. Stafylakis", 
+            "Y. Lei", 
+            "P. Kenny", 
+            "E. Lleida"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
     }
 ]
