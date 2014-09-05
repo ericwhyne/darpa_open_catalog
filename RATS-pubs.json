@@ -31,7 +31,7 @@
             "Xinhui Zhou",
             "Nima Mesgarani",
             "Karel Vesel",
-            "and Pavel Matejka"
+            "Pavel Matejka"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
@@ -49,7 +49,7 @@
             "Richard M. Schwartz",
             "Stavros Tsakalidis",
             "Long Nguyen",
-            "and Spyros Matsoukas."
+            "Spyros Matsoukas"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
@@ -78,14 +78,15 @@
         "Program Teams":[
             "(Team BBN) University of Cambridge"
         ],
-        "Title":"Infinite Support Vector Machines in Speech Recognition",
+        "Title":"Infinite Structured Support Vector Machines in Speech Recognition",
         "Authors":[
             "J.Yang",
-            "R.van Dalen and M.J.F.Gales"
+            "R.van Dalen",
+			"M.J.F. Gales"
         ],
         "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140905"
     },
     {
         "DARPA Program":"RATS",
@@ -94,7 +95,8 @@
         ],
         "Title":"An Explicit Independence Constraint for Factorised Adaptation in Speech Recognition",
         "Authors":[
-            "Y.-Q. Wang and M.J.F.Gales"
+            "Y.-Q. Wang",
+			"M.J.F. Gales"
         ],
         "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
         "New Date":"",
@@ -108,7 +110,8 @@
         "Title":"A Confidence-Based Approach for Improving Keyword Hypothesis Scores",
         "Authors":[
             "M.S.Seigel",
-            "P.C.Woodland and M.J.F.Gales"
+            "P.C.Woodland",
+			"M.J.F. Gales"
         ],
         "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
         "New Date":"",
@@ -121,7 +124,8 @@
         ],
         "Title":"TANDEM System Adaptation Using Multiple Linear Feature Transforms",
         "Authors":[
-            "Y.-Q. Wang and M.J.F.Gales"
+            "Y.-Q. Wang",
+			"M.J.F. Gales"
         ],
         "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
         "New Date":"",
@@ -134,7 +138,8 @@
         ],
         "Title":"Model-Based Approaches for Degraded Channel Modelling in Robust ASR",
         "Authors":[
-            "M.J.F.Gales and F.Flego"
+            "M.J.F. Gales",
+			"F. Flego"
         ],
         "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
         "New Date":"",
@@ -147,7 +152,8 @@
         ],
         "Title":"Using Sub-Word-Level Information for Confidence Estimation with Conditional Random Field Models",
         "Authors":[
-            "M.S.Seigel and P.C.Woodland"
+            "M.S. Seigel,
+			"P.C. Woodland"
         ],
         "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
         "New Date":"",
@@ -160,7 +166,8 @@
         ],
         "Title":"Model-Based Approaches to Adaptive Training in Reverberant Environments",
         "Authors":[
-            "Y.-Q. Wang and M.J.F.Gales"
+            "Y.-Q. Wang",
+			"M.J.F. Gales"
         ],
         "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
         "New Date":"",
@@ -173,7 +180,8 @@
         ],
         "Title":"Factor Analysis Based VTS Discriminative Adaptive Training",
         "Authors":[
-            "F.Flego and M.J.F.Gales"
+            "F. Flego",
+			"M.J.F. Gales"
         ],
         "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
         "New Date":"",
@@ -222,7 +230,7 @@
         "Program Teams":[
             "(Team BBN) Brno University of Technology"
         ],
-        "Title":"Developing A Speaker Identification System For The DARPA RATS Project",
+        "Title":"Developing a Speaker Identification System for the DARPA RATS Project",
         "Authors":[
             "O. Plchot",
             "S. Matsoukas",
@@ -270,7 +278,7 @@
             "Politecnico di Torino",
             "AGNITIO"
         ],
-        "Title":"Description and analysis of the Brno276 system for LRE2011",
+        "Title":"Description and Analysis of the Brno276 system for LRE2011",
         "Authors":[
             "Niko Brummer",
             "Sandro Cumani",
@@ -293,7 +301,7 @@
             "(Team BBN) Brno University of Technology",
             "Universidad Politcnica de Madrid"
         ],
-        "Title":"Phonotactic Language Recognition using i-vectors and Phoneme Posteriogram Counts",
+        "Title":"Phonotactic Language Recognition using i-Vectors and Phoneme Posteriogram Counts",
         "Authors":[
             "Luis Fernando D'Haro",
             "Ondrej Glembek",
@@ -333,7 +341,8 @@
     {
         "DARPA Program":"RATS",
         "Program Teams":[
-            "(Team BBN) Brno University of TechnologyUniversity of Maryland"
+            "(Team BBN) Brno University of Technology",
+			"University of Maryland"
         ],
         "Title":"Developing a Speech Activity Detection System for the DARPA RATS Program",
         "Authors":[
@@ -355,7 +364,7 @@
         "Program Teams":[
             "(Team BBN) Brno University of Technology"
         ],
-        "Title":"Speaker vectors from Subspace Gaussian Mixture Model as complementary features for Language Identification",
+        "Title":"Speaker Vectors from Subspace Gaussian Mixture Model as Complementary Features for Language Identification",
         "Authors":[
             "Oldrich Plchot",
             "Martin Karafiat",
@@ -374,7 +383,7 @@
         "Program Teams":[
             "(Team BBN) JHU"
         ],
-        "Title":"Long, Deep and Wide Neural Nets  for Dealing with Unexpected Noise in Machine Recognition of Speech",
+        "Title":"Long, Deep and Wide Neural Nets for Dealing with Unexpected Noise in Machine Recognition of Speech",
         "Authors":[
             "Hynek Hermansky"
         ],
@@ -418,7 +427,7 @@
             "INRIA/ENS/CNRS",
             "Johns Hopkins University"
         ],
-        "Title":"Evaluating speech features with the Minimal-Pair ABX task: Analysis of the classical MFC/PLP pipeline",
+        "Title":"Evaluating Speech Features with the Minimal-Pair ABX task: Analysis of the Classical MFC/PLP Pipeline",
         "Authors":[
             "Thomas Schatz",
             "Vijayaditya Peddinti",
@@ -436,7 +445,7 @@
         "Program Teams":[
             "(Team BBN) JHU"
         ],
-        "Title":"Multi-stream recognition of noisy speech with performance monitoring",
+        "Title":"Multi-Stream Recognition of Noisy Speech with Performance Monitoring",
         "Authors":[
             "Ehsan Variani",
             "Feipeng Li",
@@ -609,7 +618,7 @@
         "Program Teams":[
             "(Team BBN) JHU"
         ],
-        "Title":"Data-driven Posterior Features for Low Resource Speech Recognition Applications",
+        "Title":"Data-Driven Posterior Features for Low Resource Speech Recognition Applications",
         "Authors":[
             "Samuel Thomas",
             "Sriram Ganapathy",
@@ -625,7 +634,7 @@
         "Program Teams":[
             "(Team BBN) JHU"
         ],
-        "Title":"Phone recognition in critical bands using sub-band temporal modulations",
+        "Title":"Phone Recognition in Critical Bands Using Sub-Band Temporal Modulations",
         "Authors":[
             "Feipeng Li",
             "Sri Harish Mallidi",
@@ -700,7 +709,7 @@
         "Program Teams":[
             "(Team IBM) University of Maryland"
         ],
-        "Title":"Automatic intelligibility assessment of pathologic speech in head and neck cancer based on auditory-inspired spectro-temporal modulations",
+        "Title":"Automatic Intelligibility Assessment of Pathologic Speech in Head and Neck Cancer Based on Auditory-Inspired Spectro-Temporal Modulations",
         "Authors":[
             "X. Zhou",
             "D. Garcia-Romero",
@@ -718,7 +727,7 @@
         "Program Teams":[
             "(Team IBM) MIT"
         ],
-        "Title":"Bayesian Distance Metric Learning on i-vector for Speaker Verification",
+        "Title":"Bayesian Distance Metric Learning on i-Vector for Speaker Verification",
         "Authors":[
             "X. Fang",
             "N. Dehak",
@@ -779,7 +788,7 @@
         "Program Teams":[
             "IBM"
         ],
-        "Title":"The IBM RATS Phase II speaker recognition system: Overview and analysis, in proc. of Interspeech",
+        "Title":"The IBM RATS Phase II Speaker Recognition System: Overview and Analysis, in Proc. of Interspeech",
         "Authors":[
             "Weizhong Zhu",
             "Sibel Yaman",
@@ -794,7 +803,7 @@
         "Program Teams":[
             "IBM"
         ],
-        "Title":"Unifying PLDA and polynomial kernel SVMs, in proc. of IEEE ICASSP",
+        "Title":"Unifying PLDA and Polynomial Kernel SVMs, in Proc. of IEEE ICASSP",
         "Authors":[
             "Sibel Yaman",
             "Jason Pelecanos",
@@ -809,7 +818,7 @@
         "Program Teams":[
             "IBM"
         ],
-        "Title":"Frame-based phonotactic language identification, SLT",
+        "Title":"Frame-Based Phonotactic Language Identification, SLT",
         "Authors":[
             "Kyu Han",
             "Jason Pelecanos"
@@ -881,7 +890,7 @@
         "Program Teams":[
             "IBM"
         ],
-        "Title":"TRAP LANGUAGE IDENTIFICATION SYSTEM for RATS PHASE II EVALUATION, Interspeech",
+        "Title":"Trap Language Identification System  for RATS Phase II Evaluation, Interspeech",
         "Authors":[
             "Kyu Han",
             "Sriram Ganapathy",
@@ -1127,7 +1136,7 @@
             "(Team SRI) Incheon National University",
             "University of Texas - Dallas"
         ],
-        "Title":"An Advanced Feature Compensation Method Employing Acoustic Model With Phonetically Constrained Structure",
+        "Title":"An Advanced Feature Compensation Method Employing Acoustic Model with Phonetically Constrained Structure",
         "Authors":[
             "W. Kim",
 			"J.H.L. Hansen"
@@ -1504,7 +1513,7 @@
             "(Team SRI) USC Berkeley",
             "ICSI"
         ],
-        "Title":"Speech Activity Detection:  An Economics Approach",
+        "Title":"Speech Activity Detection: An Economics Approach",
         "Authors":[
             "T. Tsai",
 			"N. Morgan"

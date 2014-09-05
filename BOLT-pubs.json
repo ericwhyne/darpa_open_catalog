@@ -485,7 +485,7 @@
             "(Team BBN) Columbia University",
             "George Washington University"
         ],
-        "Title":"Sentence-Level Dialect Identification in Arabic.",
+        "Title":"Sentence-Level Dialect Identification in Arabic",
         "Authors":[
             "Heba Elfardy",
             "Mona Diab"
@@ -514,7 +514,7 @@
         "Program Teams":[
             "(Team BBN) Columbia University"
         ],
-        "Title":"Multiword Expressions in the context of Statistical Machine Translation",
+        "Title":"Multiword Expressions in the Context of Statistical Machine Translation",
         "Authors":[
             "Mahmoud Ghoneim",
             "Mona Diab"
@@ -782,7 +782,7 @@
         "Program Teams":[
             "(Team BBN) National Research Council"
         ],
-        "Title":"Improved Reordering for Phrase-Based Translation using Sparse Features",
+        "Title":"Improved Reordering for Phrase-Based Translation Using Sparse Features",
         "Authors":[
             "Colin Cherry"
         ],
@@ -2464,5 +2464,443 @@
         "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-annotation-trees.pdf",
         "New Date":"",
         "Update Date":""
+    },
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Kneser-Ney Smoothing on Expected Counts", 
+        "Authors": [
+            "Hui Zhang", 
+            "David Chiang"
+        ], 
+        "Link": "http://www.isi.edu/~chiang/papers/zhang-acl14.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Decoding with Large-Scale Neural Language Models Improves Translation", 
+        "Authors": [
+            "Ashish Vaswani", 
+            "Yinggong Zhao", 
+            "Victoria Fossum", 
+            "David Chiang"
+        ], 
+        "Link": "http://www.isi.edu/~chiang/papers/vaswani-emnlp13.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Automatic Transliteration of Romanized Dialectal Arabic", 
+        "Authors": [
+            "Mohamed Al-Badrashiny", 
+            "Ramy Eskander", 
+            "Nizar Habash", 
+            "Owen Rambow"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Sentence Level Dialect Identification for Machine Translation System Selection", 
+        "Authors": [
+            "Wael Salloum", 
+            "Heba Elfardy", 
+            "Linda Alamir Salloum", 
+            "Nizar Habash", 
+            "Mona Diab"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "A Multidialectal Parallel Corpus of Arabic", 
+        "Authors": [
+            "Houda Bouamor", 
+            "Nizar Habash", 
+            "Kemal Oflazer"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Tharwa: A Large Scale Dialectal Arabic - Standard Arabic - English Lexicon", 
+        "Authors": [
+            "Mona Diab", 
+            "Mohamed Al-Badrashiny", 
+            "Maryam Aminian", 
+            "Mohammed Attia", 
+            "Pradeep Dasigi", 
+            "Heba Elfardy", 
+            "Ramy Eskander", 
+            "Nizar Habash", 
+            "Abdelati Hawwari", 
+            "Wael Salloum"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Developing an Egyptian Arabic Treebank: Impact of Dialectal Morphology on Annotation and Tool Development", 
+        "Authors": [
+            "Mohamed Maamouri", 
+            "Ann Bies", 
+            "Seth Kulick", 
+            "Michael Ciul", 
+            "Nizar Habash", 
+            "Ramy Eskander"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "A Conventional Orthography for Tunisian Arabic", 
+        "Authors": [
+            "Ines Zribi", 
+            "Rahma Boujelbane", 
+            "Abir Masmoudi", 
+            "Mariem Ellouze", 
+            "Lamia Belguith", 
+            "Nizar Habash"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "MADAMIRA: A Fast, Comprehensive Tool for Morphological Analysis and Disambiguation of Arabic", 
+        "Authors": [
+            "Arfath Pasha", 
+            "Mohamed Al-Badrashiny", 
+            "Mona Diab", 
+            "Ahmed El Kholy", 
+            "Ramy Eskander", 
+            "Nizar Habash", 
+            "Manoj Pooleery", 
+            "Owen Rambow", 
+            "Ryan M. Roth"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Classification of Clean and Noisy Bilingual Movie Audio for Speech-to-Speech Translation Corpora Design", 
+        "Authors": [
+            "Andreas Tsiartas", 
+            "Prasanta Kumar Ghosh", 
+            "Panayiotis Georgiou", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Fusion of Diverse Denoising Systems for Robust Automatic Speech Recognition", 
+        "Authors": [
+            "Naveen Kumar", 
+            "Maarten Van Segbroeck", 
+            "Kartik Audhkhasi", 
+            "Peter Drotar", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Training Ensemble of Diverse Classifiers on Feature Subsets", 
+        "Authors": [
+            "Rahul Gupta", 
+            "Kartik Audhkhasi", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Toward Transfer of Acoustic Cues of Emphasis Across Languages", 
+        "Authors": [
+            "Andreas Tsiartas", 
+            "Panayiotis Georgiou", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "http://sail.usc.edu/aigaion2/index.php/attachments/single/618", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Empirical Link Between Hypothesis Diversity and Fusion Performance in an Ensemble of Automatic Speech Recognition Systems", 
+        "Authors": [
+            "Kartik Audhkhasi", 
+            "Andreas Zavou", 
+            "Panayiotis Georgiou", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "http://sail.usc.edu/aigaion2/index.php/attachments/single/637", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Fast and Robust Neural Network Joint Models for Statistical Machine Translation", 
+        "Authors": [
+            "Jacob Devlin", 
+            "Rabih Zbib", 
+            "Zhongqiang Huang", 
+            "Thomas Lamar", 
+            "Richard Schwartz", 
+            "John Makhoul"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Lightly-Supervised Word Sense Translation Error Detection for an Interactive Conversational Spoken Language Translation System", 
+        "Authors": [
+            "Dennis N. Mehay", 
+            "Sankaranarayanan Ananthakrishnan", 
+            "Sanjika Hewavitharana"
+        ], 
+        "Link": "http://aclweb.org/anthology//E/E14/E14-4011.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Source-Error Aware Phrase-Based Decoding for Robust Conversational Spoken Language Translation", 
+        "Authors": [
+            "S. Ananthakrishnan", 
+            "W. Chen", 
+            "R. Kumar", 
+            "D. Mehay"
+        ], 
+        "Link": "http://workshop2013.iwslt.org/downloads/SourceError_Aware_PhraseBased_Decoding_for_Robust_Conversational_Spoken_Language_Translation.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
     }
 ]
