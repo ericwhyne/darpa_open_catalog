@@ -31,7 +31,7 @@
         "Program Teams": [
             "Palo Alto Research Center"
         ], 
-        "Title": "A comparison study of user behavior on Facebook and Gmail", 
+        "Title": "A Comparison Study of User Behavior on Facebook and Gmail", 
         "Authors": [
             "Jianqiang Shen", 
             "Oliver Brdiczka", 
@@ -106,7 +106,7 @@
         "Program Teams": [
             "Palo Alto Research Center"
         ], 
-        "Title": "Bayesian network model for predicting insider threats", 
+        "Title": "Bayesian Network Model for Predicting Insider Threats", 
         "Authors": [
             "Elise T. Axelrad", 
             "Paul J. Sticha", 
@@ -131,7 +131,7 @@
         "Program Teams": [
             "Palo Alto Research Center"
         ], 
-        "Title": "Characterizing user behavior and information propagation on a social multimedia network", 
+        "Title": "Characterizing User Behavior and Information Propagation on a Social Multimedia Network", 
         "Authors": [
             "Francis T. O'Donovan", 
             "Connie Fournelle", 
@@ -235,7 +235,7 @@
         "Program Teams": [
             "Palo Alto Research Center"
         ], 
-        "Title": "Proactive insider threat detection through graph learning and psychological context", 
+        "Title": "Proactive Insider Threat Detection through Graph Learning and Psychological Context", 
         "Authors": [
             "Oliver Brdiczka", 
             "Juan Liu", 
@@ -264,7 +264,7 @@
         "Program Teams": [
             "CERT"
         ], 
-        "Title": "Bridging the gap: A pragmatic approach to generating insider threat data", 
+        "Title": "Bridging the Gap: A Pragmatic Approach to Generating Insider Threat Data", 
         "Authors": [
             "J. Glasser", 
             "B. Lindauer"
@@ -313,7 +313,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Opavion: Mining and visualization in large graphs", 
+        "Title": "Opavion: Mining and Visualization in Large Graphs", 
         "Authors": [
             "L. Akoglu", 
             "D. H. Chau", 
@@ -540,7 +540,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Case study on fraud detection using social-network analysis", 
+        "Title": "Case Study on Fraud Detection using Social Network Analysis", 
         "Authors": [
             "D. H. Chau", 
             "C. Faloutsos"
@@ -613,7 +613,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Do more views of a graph help? Community Detection and Clustering in Multi-Graphs", 
+        "Title": "Do More Views of a Graph Help? Community Detection and Clustering in Multi-Graphs", 
         "Authors": [
             "E. E. Papalexakis", 
             "L. Akoglu", 
@@ -637,7 +637,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Classifier-adjusted density estimation for anomaly detection and one-class classification", 
+        "Title": "Classifier-Adjusted Density Estimation for Anomaly Detection and One-Class Classification", 
         "Authors": [
             "L. Friedland", 
             "A. Gentzel", 
@@ -661,7 +661,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Copy or coincidence? A model for detecting social influence and duplication events", 
+        "Title": "Copy or Coincidence? A Model for Detecting Social Influence and Duplication Events", 
         "Authors": [
             "L. Friedland", 
             "D. Jensen"
@@ -708,7 +708,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Load balanced clustering coefficients", 
+        "Title": "Load Balanced Clustering Coefficients", 
         "Authors": [
             "O. Green", 
             "L. M. Mungua", 
@@ -784,29 +784,6 @@
             "D. A. Bader"
         ], 
         "Link": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6693348", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            ""
-        ], 
-        "New Date": "", 
-        "Update Date": "2014-06-20"
-    }, 
-    {
-        "DARPA Program": "ADAMS", 
-        "Program Teams": [
-            "Leidos (formerly SAIC)"
-        ], 
-        "Title": "A Fast Algorithm for Streaming Betweenness Centrality", 
-        "Authors": [
-            "O. Green", 
-            "D.A. Bader"
-        ], 
-        "Link": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6406265&tag=1", 
         "Categories": [
             ""
         ], 
@@ -971,32 +948,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Fast anomaly detection despite the duplicates", 
-        "Authors": [
-            "J.-Y. Lee", 
-            "U. Kang", 
-            "D. Koutra", 
-            "C. Faloutsos"
-        ], 
-        "Link": "http://reports-archive.adm.cs.cmu.edu/anon/2012/CMU-CS-12-146.pdf", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            ""
-        ], 
-        "New Date": "", 
-        "Update Date": "2014-06-20"
-    }, 
-    {
-        "DARPA Program": "ADAMS", 
-        "Program Teams": [
-            "Leidos (formerly SAIC)"
-        ], 
-        "Title": "Fast outlier detection despite the duplicates", 
+        "Title": "Fast Outlier Detection Despite the Duplicates", 
         "Authors": [
             "J.-Y. Lee", 
             "U. Kang", 
@@ -1145,7 +1097,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Using blocking to learn causal relational models in the presence of latent variables", 
+        "Title": "Using Blocking to Learn Causal Relational Models in the Presence of Latent Variables", 
         "Authors": [
             "M. Maier", 
             "K. Marazopoulou", 
@@ -1169,7 +1121,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "A sound and complete algorithm for learning causal models from relational data", 
+        "Title": "A Sound and Complete Algorithm for Learning Causal Models from Relational Data", 
         "Authors": [
             "M. Maier", 
             "D. Marazopoulou", 
@@ -1217,7 +1169,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Layered behavioral trace modeling for threat detection", 
+        "Title": "Layered Behavioral Trace Modeling for Threat Detection", 
         "Authors": [
             "R. Mappus", 
             "E. Briscoe"
@@ -1271,30 +1223,6 @@
             "T. Senator"
         ], 
         "Link": "http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/download/7315/6444", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            ""
-        ], 
-        "New Date": "", 
-        "Update Date": "2014-06-20"
-    }, 
-    {
-        "DARPA Program": "ADAMS", 
-        "Program Teams": [
-            "Leidos (formerly SAIC)"
-        ], 
-        "Title": "Do more Views of a Graph help? Community Detection and Clustering in Multi-Graphs", 
-        "Authors": [
-            "E.E. Papalexakis", 
-            "L. Akoglu", 
-            "D. Ienco"
-        ], 
-        "Link": "http://www.cs.cmu.edu/~epapalex/papers/fusion2013.pdf", 
         "Categories": [
             ""
         ], 
@@ -1540,7 +1468,7 @@
         "Program Teams": [
             "IBM"
         ], 
-        "Title": "Non-negative residual matrix factorization: problem definition, fast solutions, and applications", 
+        "Title": "Non-negative Residual Matrix Factorization: Problem Definition, Fast Solutions, and Applications", 
         "Authors": [
             "Hanghang Tong", 
             "Ching-Yung Lin"
@@ -1588,7 +1516,7 @@
         "Program Teams": [
             "IBM"
         ], 
-        "Title": "Fast and reliable anomaly detection in categorical data", 
+        "Title": "Fast and Reliable Anomaly Detection in Categorical Data", 
         "Authors": [
             "Leman Akoglu", 
             "Hanghang Tong", 
@@ -1663,7 +1591,7 @@
         "Program Teams": [
             "IBM"
         ], 
-        "Title": "Generating balanced classifier-independent training samples from unlabeled data", 
+        "Title": "Generating Balanced Classifier-independent Training Samples from Unlabeled Data", 
         "Authors": [
             "Youngja Park", 
             "Z Qi", 
