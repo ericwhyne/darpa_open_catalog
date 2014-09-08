@@ -2136,9 +2136,9 @@
         "Software":"SciDB",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
         "External Link":"http://scidb.org",
-        "Public Code Repo":"https://github.com/wujiang/SciDB-mirror.git",
-        "Instructional Material":"2014-07",
-        "Stats":"SciDB-mirror",
+        "Public Code Repo":"",
+        "Instructional Material":"",
+        "Stats":"",
         "Description":"Scientific Database for large-scale numerical data. (C++)",
         "Internal Code Repo":"tools\\analytics\\mit-LL",
         "License":[
