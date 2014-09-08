@@ -195,7 +195,7 @@
         "Program Teams": [
             "Sandia National Laboratories"
         ], 
-        "Title": "A Space Efficient Streaming Algorithm for Triangle Couting Using the Birthday Paradox", 
+        "Title": "A Space Efficient Streaming Algorithm for Estimating Transitivity and Triangle Counts Using the Birthday Paradox", 
         "Authors": [
             "M. Jha", 
             "C. Seshadhri", 
@@ -352,6 +352,559 @@
             ""
         ], 
         "New Date": "20140724", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Pennsylvania State University", 
+            "Carnegie Mellon University"
+        ], 
+        "Title": "Maximum Likelihood Estimation in the Beta Model", 
+        "Authors": [
+            "Alessandro Rinaldo", 
+            "Sonja Petrovic", 
+            "Stephen E. Fienberg"
+        ], 
+        "Link": "http://projecteuclid.org/euclid.aos/1371150894", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Title": "Estimation for Dyadic-Dependent Exponential Random Graph Models", 
+        "Authors": [
+            "Xiaolin Yang", 
+            "Alessandro Rinaldo", 
+            "Stephen E. Fienberg"
+        ], 
+        "Link": "http://jalgstat.com/download/55/86/jas-2014_5_39-63.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Title": "Consistency under Sampling of Exponential Random Graph Models", 
+        "Authors": [
+            "Cosma Shalizi", 
+            "Alessandro Rinaldo"
+        ], 
+        "Link": "http://projecteuclid.org/euclid.aos/1366980556", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Pennsylvania State University"
+        ], 
+        "Title": "Graphical Models in Macaulay2", 
+        "Authors": [
+            "Luis Garcia-Puente", 
+            "Sonja Petrovic", 
+            "Seth Sullivant"
+        ], 
+        "Link": "http://msp.org/jsag/2013/5-1/jsag-v5-n1-p01-s.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Title": "A Brief History of Statistical Models for Network Analysis and Open Challenges", 
+        "Authors": [
+            "Stephen E. Fienberg"
+        ], 
+        "Link": "http://dx.doi.org/10.1080/10618600.2012.738106", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Title": "The Strength of Arcs and Edges in Interaction Networks: Elements of a Model-Based Approach", 
+        "Authors": [
+            "Mauricio Sadinle"
+        ], 
+        "Link": "http://arxiv.org/pdf/1211.0312v2.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Pennsylvania State University/ Illinois Institute of Technology"
+        ], 
+        "Title": "A Combinatorial Degree Bound for Toric Ideals of Hypergraphs", 
+        "Authors": [
+            "Elizabeth Gross", 
+            "Sonja Petrovic"
+        ], 
+        "Link": "http://www.worldscientific.com/doi/abs/10.1142/S0218196713500331", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Title": "Is the Privacy of Network Data an Oxymoron?", 
+        "Authors": [
+            "Stephen E. Fienberg"
+        ], 
+        "Link": "http://repository.cmu.edu/cgi/viewcontent.cgi?article=1097&context=jpc", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Illinois Institute of Technology"
+        ], 
+        "Title": "Toric Algebra of Hypergraphs", 
+        "Authors": [
+            "Sonja Petrovic", 
+            "Despina Stasi"
+        ], 
+        "Link": "http://link.springer.com/article/10.1007%2Fs10801-013-0444-y", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Title": "Consistency of Spectral Clustering in Sparse Stochastic Block Models", 
+        "Authors": [
+            "Jing Lei", 
+            "Alessandro Rinaldo"
+        ], 
+        "Link": "http://arxiv.org/pdf/1312.2050v1.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Title": "Stable Mixed Graphs", 
+        "Authors": [
+            "Kayvan Sadeghi"
+        ], 
+        "Link": "http://projecteuclid.org/euclid.bj/1386078605", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Title": "Markov Properties for Mixed Graphs", 
+        "Authors": [
+            "Kayvan Sadeghi", 
+            "Steffen Lauritzen"
+        ], 
+        "Link": "http://projecteuclid.org/euclid.bj/1393594002", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Title": "Asymptotic Quantization of Exponential Random Graphs", 
+        "Authors": [
+            "Mei Yin", 
+            "Alessandro Rinaldo", 
+            "Sukhada Fadnavis"
+        ], 
+        "Link": "http://arxiv.org/pdf/1311.1738v2.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Illinois Institute of Technology"
+        ], 
+        "Title": "Goodness-of-fit for Log-linear Network Models: Dynamic Markov Bases Using Hypergraphs", 
+        "Authors": [
+            "Elizabeth Gross", 
+            "Sonja Petrovic", 
+            "Despina Stasi"
+        ], 
+        "Link": "http://arxiv.org/pdf/1401.4896v1.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "ORNL-Stanford-Berkeley (Tree-like structure)"
+        ], 
+        "Title": "On the Hyperbolicity of Small-World and Tree-Like Random Graphs", 
+        "Authors": [
+            "W. Chen", 
+            "W. Fang", 
+            "G. Hu", 
+            "M. W. Mahoney"
+        ], 
+        "Link": "http://www.tandfonline.com/doi/full/10.1080/15427951.2013.828336#.VAQIz0igSqQ", 
+        "Categories": [
+            "Mathematics of Computing", 
+            "Probability and Statistics"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "G.3"
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "ORNL-Stanford-Berkeley (Tree-like structure)"
+        ], 
+        "Title": "Evaluating OpenMP Tasking at Scale for the Computation of Graph Hyperbolicity", 
+        "Authors": [
+            "A. B. Adcock", 
+            "B. D. Sullivan", 
+            "O. R. Hernandez", 
+            "M. W. Mahoney"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-642-40698-0_6", 
+        "Categories": [
+            "Computer Systems Organization", 
+            "Processor Architectures", 
+            "Parallel Architectures"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "C.1.4"
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "ORNL-Stanford-Berkeley (Tree-like structure)"
+        ], 
+        "Title": "Tree-like Structure in Large Social and Information Networks", 
+        "Authors": [
+            "A. B. Adcock", 
+            "B. D. Sullivan", 
+            "M. W. Mahoney"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6729484", 
+        "Categories": [
+            "Data", 
+            "Data Structure", 
+            "Graphs and Networks"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "E.1"
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "ORNL-Stanford-Berkeley (Tree-like structure)"
+        ], 
+        "Title": "Think Locally, Act Locally: The Detection of Small, Medium-Sized, and Large Communities in Large Networks", 
+        "Authors": [
+            "L. G. S. Jeub", 
+            "P. Balachandran", 
+            "M. A. Porter", 
+            "P. J. Mucha", 
+            "M. W. Mahoney"
+        ], 
+        "Link": "http://arxiv.org/abs/1403.3795", 
+        "Categories": [
+            "Data", 
+            "Data Structures", 
+            "Graphs and networks"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "E.1"
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "ORNL-Stanford-Berkeley (Tree-like structure)"
+        ], 
+        "Title": "Anti-differentiating Approximation Algorithms: A case study with Min-cuts, Spectral, and Flow", 
+        "Authors": [
+            "D. F. Gleich", 
+            "M. W. Mahoney"
+        ], 
+        "Link": "http://jmlr.org/proceedings/papers/v32/gleich14.html", 
+        "Categories": [
+            "Mathematics of Computing", 
+            "Discrete Mathematics", 
+            "Graph Theory"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "ORNL-Stanford-Berkeley (Tree-like structure)"
+        ], 
+        "Title": "Tree Decompositions and Social Graphs", 
+        "Authors": [
+            "A. B. Adcock", 
+            "B. D. Sullivan", 
+            "M. W. Mahoney"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            "Data", 
+            "Data Structures", 
+            "Graphs and networks"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "E.1"
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "University of California", 
+            "Santa Barbara"
+        ], 
+        "Title": "Metric Embedding, Hyperbolic Space, and Social Networks", 
+        "Authors": [
+            "Kevin Verbeek", 
+            "Subhash Suri"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2582139", 
+        "Categories": [
+            "Graph Theory"
+        ], 
+        "Subcategories": [
+            "Graphs"
+        ], 
+        "ACM 1998 classification code": [
+            "G.2.2"
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Hewlett-Packard Labs"
+        ], 
+        "Title": "Mining Information from Heterogeneous Sources: A Topic Modeling Approach", 
+        "Authors": [
+            "Rumi Ghosh", 
+            "Sitaram Asur"
+        ], 
+        "Link": "http://www.hpl.hp.com/research/scl/papers/socialmedia/IntegrateSources.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information Search and Retrieval"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20140908", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "University of California", 
+            "Santa Barbara"
+        ], 
+        "Title": "On the Most Likely Voronoi Diagram and Nearest Neighbor Searching", 
+        "Authors": [
+            "Kevin Verbeek", 
+            "Subhash Suri"
+        ], 
+        "Link": "to be published in ISAAC 2014", 
+        "Categories": [
+            "Computational Geometry"
+        ], 
+        "Subcategories": [
+            "Data uncertainty"
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20140908", 
         "Update Date": ""
     }
 ]
