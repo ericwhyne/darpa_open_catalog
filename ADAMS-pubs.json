@@ -106,7 +106,7 @@
         "Program Teams": [
             "Palo Alto Research Center"
         ], 
-        "Title": "Bayesian Network Model for Predicting Insider Threats", 
+        "Title": "A Bayesian Network Model for Predicting Insider Threats", 
         "Authors": [
             "Elise T. Axelrad", 
             "Paul J. Sticha", 
@@ -282,38 +282,13 @@
         "New Date": "", 
         "Update Date": "2014-06-20"
     }, 
+  
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Large Graph Mining System for Patterns, Anomalies & Visualization", 
-        "Authors": [
-            "L. Akoglu", 
-            "D. H. Chau", 
-            "U. Kang", 
-            "D. Koutra", 
-            "C. Faloutsos"
-        ], 
-        "Link": "http://www.cs.cmu.edu/~ukang/papers/OPAvion.pdf", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            ""
-        ], 
-        "New Date": "", 
-        "Update Date": "2014-06-20"
-    }, 
-    {
-        "DARPA Program": "ADAMS", 
-        "Program Teams": [
-            "Leidos (formerly SAIC)"
-        ], 
-        "Title": "Opavion: Mining and Visualization in Large Graphs", 
+        "Title": "OPAvion: Mining and Visualization in Large Graphs", 
         "Authors": [
             "L. Akoglu", 
             "D. H. Chau", 
@@ -339,7 +314,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Opinion Fraud Detection in Online Reviews using Network Effects", 
+        "Title": "Opinion Fraud Detection in Online Reviews by Network Effects", 
         "Authors": [
             "L. Akoglu", 
             "R. Chandy", 
@@ -595,7 +570,7 @@
             "A. Fern", 
             "W.-K. Wong"
         ], 
-        "Link": "http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6171/7296", 
+        "Link": "http://dl.acm.org/citation.cfm?id=2500858", 
         "Categories": [
             ""
         ], 
@@ -760,7 +735,7 @@
             "O. Green", 
             "D.A. Bader"
         ], 
-        "Link": "", 
+        "Link": "Not Yet Published", 
         "Categories": [
             ""
         ], 
@@ -850,7 +825,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "VOG: Summarizing and Understanding Large Graphs", 
+        "Title": "VoG: Summarizing and Understanding Large Graphs", 
         "Authors": [
             "D. Koutra", 
             "U. Kang", 
@@ -899,7 +874,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Patterns among Competing Tasks Frequencies: Super-Linearities, and the Almond-DG Model", 
+        "Title": "Patterns amongst Competing Task Frequencies: Super-Linearities, and the Almond-DG Model", 
         "Authors": [
             "D. Koutra", 
             "V. Koutras", 
@@ -1079,7 +1054,7 @@
             "D. H. Chau", 
             "U. Kang"
         ], 
-        "Link": "", 
+        "Link": "Not Yet Published", 
         "Categories": [
             ""
         ], 
@@ -1103,7 +1078,7 @@
             "K. Marazopoulou", 
             "D. Jensen"
         ], 
-        "Link": "", 
+        "Link": "Not Yet Published", 
         "Categories": [
             ""
         ], 
@@ -1368,7 +1343,7 @@
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
-        "Title": "Guiding Scientific Discovery with Explanations from DEMUD", 
+        "Title": "Guiding Scientific Discovery with Explanations Using DEMUD", 
         "Authors": [
             "K.L. Wagstaff", 
             "N.L. Lanza", 
@@ -1427,7 +1402,7 @@
             "H.G. Goldberg", 
             "T. Senator"
         ], 
-        "Link": "", 
+        "Link": "http://www.ieee-security.org/TC/SPW2014/papers/5103a277.PDF", 
         "Categories": [
             ""
         ], 
@@ -1438,7 +1413,7 @@
             ""
         ], 
         "New Date": "", 
-        "Update Date": "2014-06-20"
+        "Update Date": "20140909"
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1450,7 +1425,7 @@
             "A. Zakrzewska", 
             "D.A. Bader"
         ], 
-        "Link": "", 
+        "Link": "http://link.springer.com/chapter/10.1007/978-3-642-55224-3_73", 
         "Categories": [
             ""
         ], 
@@ -1461,7 +1436,7 @@
             ""
         ], 
         "New Date": "", 
-        "Update Date": "2014-06-20"
+        "Update Date": "20140909"
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -2007,7 +1982,7 @@
         "Program Teams": [
             "University of Maryland"
         ], 
-        "Title": "Discovering the Top-K Unexplained Sequences in Time-Stamped Observation Data", 
+        "Title": "Discovering the Top-k Unexplained Sequences in Time-Stamped Observation Data", 
         "Authors": [
             "M. Albanese", 
             "C. Molinaro", 
@@ -2039,7 +2014,7 @@
             "N. Park", 
             "V.S. Subrahmanian"
         ], 
-        "Link": "http://www.cs.umd.edu/~npark/lab_papers/smac-v1.pdf", 
+        "Link": "Not Yet Published", 
         "Categories": [
             ""
         ], 
@@ -2057,7 +2032,7 @@
         "Program Teams": [
             "University of Maryland"
         ], 
-        "Title": "PADUA: A Parallel Architecture to Detect Unexplained Activities", 
+        "Title": "PADUA: Parallel Architecture to Detect Unexplained Activities", 
         "Authors": [
             "V. Moscato Molinaro", 
             "A. Picariello", 
@@ -2130,32 +2105,4 @@
         "New Date": "", 
         "Update Date": "2014-06-20"
     }, 
-    {
-        "DARPA Program": "ADAMS", 
-        "Program Teams": [
-            "University of Maryland"
-        ], 
-        "Title": "Characterizing User Behavior and Information Propagation on a Social Multimedia Network", 
-        "Authors": [
-            "Francis T. O'Donovan", 
-            "Connie Fournelle", 
-            "Steve Gaffigan", 
-            "Oliver Brdiczka", 
-            "Jianqiang Shen", 
-            "Juan Liu", 
-            "Kendra E. Moore"
-        ], 
-        "Link": "http://arxiv.org/ftp/arxiv/papers/1305/1305.2091.pdf.", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            ""
-        ], 
-        "New Date": "", 
-        "Update Date": "2014-06-20"
-    }
 ]
