@@ -16,7 +16,7 @@
         "Public Code Repo":"",
         "Instructional Material":"",
         "Stats":"",
-        "Description":"This repository contains a modification of the avro java compiler to generate golang code that uses the Avro C bindings to actually parse serialized avro containers. (Java, C, Golang)",
+        "Description":"This repository contains a modification of the Avro Java compiler to generate golang code that uses the Avro C bindings to actually parse serialized Avro containers. (Java, C, Golang)",
         "Internal Code Repo":"",
         "License":[
             "ALv2"
