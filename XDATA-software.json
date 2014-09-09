@@ -2135,11 +2135,11 @@
         ],
         "Software":"SciDB",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"http://scidb.org",
-        "Public Code Repo":"https://github.com/wujiang/SciDB-mirror.git",
+        "External Link":"http://scidb.org/forum",
+        "Public Code Repo":"http://scidb.org/forum",
         "Instructional Material":"",
         "Stats":"SciDB-mirror",
-        "Description":"Scientific Database for large-scale numerical data. (C++)",
+        "Description":"Scientific Database for large-scale numerical data. Register on the forum to access the download page. (C++)",
         "Internal Code Repo":"tools\\analytics\\mit-LL",
         "License":[
             "GPLv3"
@@ -2172,7 +2172,7 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140909"
     },
     {
         "DARPA Program":"XDATA",
