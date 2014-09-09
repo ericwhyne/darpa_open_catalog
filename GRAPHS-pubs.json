@@ -116,7 +116,7 @@
         "Program Teams": [
             "Sandia National Laboratories"
         ], 
-        "Title": "Degree Relations of Triangles in Real-world Networks and Graph Models", 
+        "Title": "Degree Relations of Triangles in Real-world Networks and Models", 
         "Authors": [
             "N. Durak", 
             "A. Pinar", 
@@ -431,7 +431,7 @@
         "Program Teams": [
             "Pennsylvania State University"
         ], 
-        "Title": "Graphical Models in Macaulay2", 
+        "Title": "Graphical Models", 
         "Authors": [
             "Luis Garcia-Puente", 
             "Sonja Petrovic", 
@@ -499,7 +499,7 @@
         "Program Teams": [
             "Pennsylvania State University/ Illinois Institute of Technology"
         ], 
-        "Title": "A Combinatorial Degree Bound for Toric Ideals of Hypergraphs", 
+        "Title": "Combinatorial Degree Bound for Toric Ideals of Hypergraphs", 
         "Authors": [
             "Elizabeth Gross", 
             "Sonja Petrovic"
@@ -683,7 +683,7 @@
         "Program Teams": [
             "ORNL-Stanford-Berkeley (Tree-like structure)"
         ], 
-        "Title": "On the Hyperbolicity of Small-World and Tree-Like Random Graphs", 
+        "Title": "On the Hyperbolicity of Small-World and Treelike Random Graphs", 
         "Authors": [
             "W. Chen", 
             "W. Fang", 
@@ -790,7 +790,7 @@
         "Program Teams": [
             "ORNL-Stanford-Berkeley (Tree-like structure)"
         ], 
-        "Title": "Anti-differentiating Approximation Algorithms: A case study with Min-cuts, Spectral, and Flow", 
+        "Title": "Anti-differentiating Approximation Algorithms: A Case Study with Min-cuts, Spectral, and Flow", 
         "Authors": [
             "D. F. Gleich", 
             "M. W. Mahoney"
