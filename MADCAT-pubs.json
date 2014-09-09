@@ -23,7 +23,7 @@
             "Safaba Translation Solutions",
             "George Washington University"
         ],
-        "Title":"Ensemble Reranking with Linguistic and Semantic Features for Arabic Character Recognition",
+        "Title":"Reranking with Linguistic and Semantic Features for Arabic Optical Character Recognition",
         "Authors":[
             "Nadi Tomeh",
             "Nizar Habash",
@@ -577,7 +577,7 @@
             "Xujun peng", 
             "Prem Natarajan"
         ], 
-        "Link": "http://www.emnlp2013.org", 
+        "Link": "Not Yet Published", 
         "Categories": [
             ""
         ], 
@@ -588,7 +588,7 @@
             ""
         ], 
         "New Date": "20140904", 
-        "Update Date": ""
+        "Update Date": "20140909"
     }, 
     {
         "DARPA Program": "MADCAT", 
