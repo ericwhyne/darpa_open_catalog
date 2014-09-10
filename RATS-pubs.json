@@ -155,9 +155,9 @@
             "M.S. Seigel",
 			"P.C. Woodland"
         ],
-        "Link":"http://mi.eng.cam.ac.uk/~mjfg/RATS/index.html",
+        "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140910"
     },
     {
         "DARPA Program":"RATS",
@@ -1077,7 +1077,7 @@
         "Program Teams":[
             "(Team SRI) University of California - Los Angeles"
         ],
-        "Title":"A Pitch-Based Enhancement Technique for Robust Speech Processing",
+        "Title":"A Pitch-Based Spectral Enhancement Technique for Robust Speech Processing",
         "Authors":[
             "K. Kaewtip",
             "L. N. Tan",
@@ -1232,9 +1232,9 @@
             "T. Hasan",
 			"J.H.L. Hansen"
         ],
-        "Link":"http://taufiqhasan.com/research/papers/Taufiq_Odyssey2012_camera_ready.pdf",
+        "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":"20140626"
+        "Update Date":"20140910"
     },
     {
         "DARPA Program":"RATS",
@@ -1437,7 +1437,7 @@
         "Program Teams":[
             "(Team SRI) University of Texas - Dallas"
         ],
-        "Title":"Phoneme Class Based Adaptation for Distant Noisy Speech",
+        "Title":"Phoneme Class Based Adaptation for Mismatch Acoustic Modeling of Distant Noisy Speech",
         "Authors":[
             "S. Uluskan",
 			"J.H.L. Hansen"
