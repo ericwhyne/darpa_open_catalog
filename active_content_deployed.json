@@ -1,5 +1,4 @@
-[
-{
+[{
         "DARPA Office": "I2O",
         "Program Name": "AA",
         "Program File": "AA-program.json",
@@ -13,7 +12,7 @@
         "Program File": "ADAMS-program.json",
         "Pubs File": "ADAMS-pubs.json",
         "Software File": "",
-        "Banner": ""
+        "Banner": "UPDATED"
 },
 {
         "DARPA Office": "I2O",
@@ -29,7 +28,7 @@
         "Program File": "BET-program.json",
         "Pubs File": "BET-pubs.json",
         "Software File": "",
-        "Banner":"UPDATED"
+        "Banner":""
 },
 {
         "DARPA Office": "I2O",
@@ -37,7 +36,7 @@
         "Program File": "BOLT-program.json",
         "Pubs File": "BOLT-pubs.json",
         "Software File": "BOLT-software.json",
-        "Banner":""
+        "Banner":"UPDATED"
 },
 {
         "DARPA Office": "I2O",
@@ -45,7 +44,7 @@
         "Program File": "CFT-program.json",
         "Pubs File": "",
         "Software File": "CFT-software.json",
-        "Banner":""
+        "Banner":"UPDATED"
 },
 {
         "DARPA Office": "I2O",
@@ -77,7 +76,7 @@
         "Program File": "DCAPS-program.json",
         "Pubs File": "DCAPS-pubs.json",
         "Software File": "DCAPS-software.json",
-        "Banner": ""
+        "Banner": "UPDATED"
 },
 {
         "DARPA Office": "I2O",
@@ -105,11 +104,11 @@
 },
 {
         "DARPA Office": "DSO",
-	"Program Name": "GRAPHS",
-	"Program File": "GRAPHS-program.json",
+		"Program Name": "GRAPHS",
+		"Program File": "GRAPHS-program.json",
         "Pubs File": "GRAPHS-pubs.json",
         "Software File": "",
-        "Banner":"NEW"
+        "Banner":"UPDATED"
 },
 {
         "DARPA Office": "I2O",
@@ -128,12 +127,12 @@
         "Banner": ""
 },
 {
-	"DARPA Office": "I2O",
-	"Program Name": "PPAML",
-	"Program File": "PPAML-program.json",
-	"Pubs File": "PPAML-pubs.json",
-	"Software File": "PPAML-software.json",
-	"Banner": "NEW"
+        "DARPA Office": "I2O",
+        "Program Name": "PPAML",
+        "Program File": "PPAML-program.json",
+        "Pubs File": "PPAML-pubs.json",
+        "Software File": "PPAML-software.json",
+        "Banner": "UPDATED"
 },
 {
         "DARPA Office": "I2O",
@@ -144,12 +143,12 @@
         "Banner": ""
 },
 {
-	"DARPA Office": "I2O",
-	"Program Name": "RATS",
-	"Program File": "RATS-program.json",
-	"Pubs File": "RATS-pubs.json",
-	"Software File": "",
-	"Banner":"NEW"
+        "DARPA Office": "I2O",
+        "Program Name": "RATS",
+        "Program File": "RATS-program.json",
+        "Pubs File": "RATS-pubs.json",
+        "Software File": "",
+        "Banner":"UPDATED"
 },
 {
         "DARPA Office": "BTO",
@@ -157,7 +156,7 @@
         "Program File": "RP-program.json",
         "Pubs File": "RP-pubs.json",
         "Software File": "",
-        "Banner":"NEW"
+        "Banner":"UPDATED"
 },
 {
         "DARPA Office": "I2O",
