@@ -21,27 +21,6 @@
         "Program Teams":[
             "BBN"
         ],
-        "Title":"Developing a Speech Activity Detection System for the DARPA RATS Program",
-        "Authors":[
-            "Ng",
-            "Tim",
-            "Bing Zhang",
-            "Long Nguyen",
-            "Spyros Matsoukas",
-            "Xinhui Zhou",
-            "Nima Mesgarani",
-            "Karel Vesel",
-            "Pavel Matejka"
-        ],
-        "Link":"Not Yet Published",
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"RATS",
-        "Program Teams":[
-            "BBN"
-        ],
         "Title":"White Listing and Score Normalization for Keyword Spotting of Noisy Speech",
         "Authors":[
             "Zhang",
