@@ -39,7 +39,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Applying Discriminatively Optimized Feature Transform for HMM-based Off-Line Handwriting Recognition", 
         "Authors": [
@@ -65,7 +65,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Statistical Machine Translation as a Language Model for Handwriting Recognition", 
         "Authors": [
@@ -91,7 +91,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Detecting Near-Duplicate Document Images Using Interest Point Matching", 
         "Authors": [
@@ -116,7 +116,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Document Recognition and Translation System for Unconstrained Arabic Documents", 
         "Authors": [
@@ -142,7 +142,7 @@
 	{
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Local Segmentation of Touching Characters Using Contour Based Shape Decomposition", 
         "Authors": [
@@ -168,7 +168,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Detecting OOV Names in Arabic Handwritten Data", 
         "Authors": [
@@ -193,7 +193,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Arabic Text Recognition Using a Script-Independent Methodology: A Unified HMM-Based Approach for Machine-Printed and Handwritten Text", 
         "Authors": [
@@ -223,7 +223,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "James-Stein Type Center Pixel Weights for Non-Local Means Image Denoising", 
         "Authors": [
@@ -248,7 +248,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Probabilistic Non-Local Means", 
         "Authors": [
@@ -273,7 +273,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Preprocessing Issues in Arabic OCR", 
         "Authors": [
@@ -297,7 +297,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Model Based Table Cell Detection and Content Extraction from Degraded Document Images", 
         "Authors": [
@@ -321,7 +321,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Handwritten Arabic Text Recognition Using Deep Belief Networks", 
         "Authors": [
@@ -345,7 +345,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Ensemble of Biased Learners for Offline Arabic Handwriting Recognition", 
         "Authors": [
@@ -370,7 +370,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Machine Learning in Handwritten Arabic Text Recognition", 
         "Authors": [
@@ -394,7 +394,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Scene Text Detection via Integrated Discrimination of Component Appearance and Consensus", 
         "Authors": [
@@ -417,7 +417,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Using Models for Automatic Classification and Segmentation of Tables in Noisy Offline Images", 
         "Authors": [
@@ -443,7 +443,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Table Form Detection and Segmentation Using an Iterative Registration Algorithm", 
         "Authors": [
@@ -469,7 +469,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Confusion Network-Based Recurrent Neural Network Language Modeling for Chinese OCR Error Detection", 
         "Authors": [
@@ -494,7 +494,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Text Classification via iVector Based Feature Representation", 
         "Authors": [
@@ -519,7 +519,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Boost Accuracy Using iVector Based Combination Approach", 
         "Authors": [
@@ -543,7 +543,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Applications of Recurrent Neural Network Language Model in Offline Handwriting Recognition and Word Spotting", 
         "Authors": [
@@ -568,7 +568,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Sentence Boundary Detection for Arabic Image Documents and its Effects on Machine Translation", 
         "Authors": [
@@ -593,7 +593,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Progress in the Raytheon BBN Arabic Offline Handwriting Recognition System", 
         "Authors": [
@@ -620,7 +620,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Unsupervised Classification of Structurally Similar Document Images", 
         "Authors": [
@@ -643,7 +643,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Document Image Quality Assessment: A Brief Survey", 
         "Authors": [
@@ -666,7 +666,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "A Robust Table Registration Method for Batch Table OCR Processing", 
         "Authors": [
@@ -689,7 +689,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Integrating Natural Language Processing with Image Document Analysis: What We Learned from Two Real World Applications", 
         "Authors": [
@@ -713,7 +713,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Text Detection and Recognition in Natural Scenes and Consumer Videos", 
         "Authors": [
