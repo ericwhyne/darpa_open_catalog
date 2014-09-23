@@ -52,5 +52,59 @@
         ],
         "New Date":"20140821",
         "Update Date":""
+    },
+    {
+        "DARPA Program": "PLANX", 
+        "Program Teams": [
+            "Domain-specific languages team"
+        ], 
+        "Contributors": [
+            "Galois Inc.", 
+            "Kestrel Institute"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Mistral Compiler", 
+        "Internal Link": "", 
+        "External Link": "http://github.com/galoisinc/mistral", 
+        "Public Code Repo": "http://github.com/galoisinc/mistral", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Mistral is an experimental language and compiler for highly concurrent, distributed programming, with an emphasis on\nthe specification and maintenance of a virtual overlay network and communication over that network. The current Mistral compiler supports the first generation of Mistral, so not all features we architected for the language are supported at present. This open source package includes our compiler and an interpreter. Use of Mistral for running programs on distributed systems requires a run-time system not included in this package. Thus this Mistral package allows only for experimentation with the language.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD3"
+        ], 
+        "Languages": [
+            "Haskell"
+        ], 
+        "Platform Requirements": [
+            "Linux", 
+            "Mac OS X"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software Development"
+        ], 
+        "Functionality": [
+            "Compiler"
+        ], 
+        "Categories": [
+            "Compiler"
+        ], 
+        "New Date": "20140923", 
+        "Update Date": ""
     }
 ]
