@@ -1234,7 +1234,7 @@
         "Program Teams": [
             "University of Colorado"
         ], 
-        "Title": "Detecting Friendship within Online Interaction Networks", 
+        "Title": "Detecting Friendship within Dynamic Online Interaction Networks", 
         "Authors": [
             "Sears Merritt", 
             "Abigail Z Jacobs", 
@@ -1439,7 +1439,7 @@
         "Program Teams": [
             "Temple University"
         ], 
-        "Title": "Dynamic Distributed Predictive Learning Models", 
+        "Title": "Dynamic Distributed Predictive Learning Models that Preserve Privacy for Hospitals with Insufficient Labeled Data", 
         "Authors": [
             "George Mathew", 
             "Zoran Obradovic"
@@ -2124,7 +2124,7 @@
         "Program Teams": [
             "MEGA Stanford University"
         ], 
-        "Title": "Community-Affiliation Graph Model for Overlapping Community Detection", 
+        "Title": "Community-Affiliation Graph Model for Overlapping Network Community Detection", 
         "Authors": [
             "Jaewon Yang", 
             "Jure Leskovec"
@@ -2222,7 +2222,7 @@
         "Program Teams": [
             "Stanford Graphs Team"
         ], 
-        "Title": "Gossip: Identify Central Individuals in a Social Network", 
+        "Title": "Gossip: Identifying Central Individuals in a Social Network", 
         "Authors": [
             "Abhijit Banerjee", 
             "Arun Chandrasekhar", 
@@ -2345,7 +2345,7 @@
         "Program Teams": [
             "Stanford Graphs Team"
         ], 
-        "Title": "Tractable and Consistent Exponential Random Graph Models", 
+        "Title": "Tractable and Consistent Random Graph Models", 
         "Authors": [
             "Arun Chandrasekhar",
 			"Matthew O. Jackson"
