@@ -1649,7 +1649,7 @@
         "Program Teams": [
             "University of Washington"
         ], 
-        "Title": "Approximate Inference in Continuous Determinantal Processes", 
+        "Title": "Approximate Inference in Continuous Determinantal Point Processes", 
         "Authors": [
             "Raja Hafiz Affandi", 
             "Emily Fox", 
@@ -1800,7 +1800,7 @@
         "Program Teams": [
             "University of Washington"
         ], 
-        "Title": "Parsing Epileptic Events Using a Markov Switching Process Model for Correlated Time Series", 
+        "Title": "Parsing Epileptic Events Using a Markov Switching Process for Correlated Time Series", 
         "Authors": [
             "Drausin F. Wulsin", 
             "Emily B. Fox", 
@@ -2943,7 +2943,7 @@
         "Program Teams": [
             "University of Notre Dame"
         ], 
-        "Title": "Symmetry in Critical Random Boolean Networks", 
+        "Title": "Symmetry in Critical Random Boolean Network Dynamics", 
         "Authors": [
             "Shabnam Hossein", 
             "Matthew D. Reichl", 
@@ -3026,7 +3026,7 @@
         "Program Teams": [
             "University of Notre Dame"
         ], 
-        "Title": "Modeling Interacting Dynamic Networks: Extraordinary Properties in a Population of Extreme Introverts and Extroverts", 
+        "Title": "Modeling Interacting Dynamic Networks: III. Extraordinary Properties in a Population of Extreme Introverts and Extroverts", 
         "Authors": [
             "Wenjia Liu", 
             "Florian Greil", 
@@ -3274,7 +3274,7 @@
         "Program Teams": [
             "University of Notre Dame"
         ], 
-        "Title": "The Eccentricity of Trees", 
+        "Title": "Eccentricity in Trees", 
         "Authors": [
             "Heather Smith", 
             "Laszlo A. Szekely", 
@@ -3442,7 +3442,7 @@
             "Nitesh V. Chawla", 
             "Yuxiao Dong"
         ], 
-        "Link": "http://www3.nd.edu/~yyang1/papers/sr14.pdf", 
+        "Link": "Not Yet Published", 
         "Categories": [
             "Information Systems", 
             "Social and Behavioural Sciences"
@@ -3455,7 +3455,7 @@
             "J.4"
         ], 
         "New Date": "20140922", 
-        "Update Date": ""
+        "Update Date": "20140925"
     }, 
     {
         "DARPA Program": "GRAPHS", 
@@ -3494,7 +3494,7 @@
             "Ryan N. Lichtenwalter", 
             "Yuxiao Dong"
         ], 
-        "Link": "http://www3.nd.edu/~yyang1/papers/iam14.pdf", 
+        "Link": "Not Yet Published", 
         "Categories": [
             "Information Systems"
         ], 
@@ -3505,7 +3505,7 @@
             "H.2.8"
         ], 
         "New Date": "20140922", 
-        "Update Date": ""
+        "Update Date": "20140925"
     }, 
     {
         "DARPA Program": "GRAPHS", 
