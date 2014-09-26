@@ -1,6 +1,6 @@
 [
     {
-        "DARPA Program":"PLANX",
+        "DARPA Program":"PLAN X",
         "Program Teams":[
             "Raytheon BBN Technologies"
         ],
@@ -54,13 +54,12 @@
         "Update Date":""
     },
     {
-        "DARPA Program": "PLANX", 
+        "DARPA Program": "PLAN X", 
         "Program Teams": [
             "Domain-specific languages team"
         ], 
         "Contributors": [
-            "Galois Inc.", 
-            "Kestrel Institute"
+            "Galois, Inc and Kestrel Institute"
         ], 
         "Sub-contractors": [
             ""
