@@ -3170,14 +3170,14 @@
         "External Link":"https://github.com/madeleineudell/LowRankModels.jl",
         "Public Code Repo":"https://github.com/madeleineudell/LowRankModels.jl.git",
         "Instructional Material":"",
-        "Stats":"glrm",
+        "Stats":"LowRankModels.jl",
         "Description":"LowRankModels.jl is a julia package for modeling and fitting generalized low rank models (GLRMs). GLRMs model a data array by a low rank matrix, and include many well known models in data analysis, such as principal components analysis (PCA), matrix completion, robust PCA, nonnegative matrix factorization, k-means, and many more. LowRankModels fits GLRMs using an alternating directions proximal gradient algorithm. GLRMs and algorithms for fitting GLRMs are described in detail in an associated paper, at http://www.stanford.edu/~boyd/papers/glrm.html (which also links to the code). (Julia)",
         "Internal Code Repo":"",
         "License":[
             "MIT"
         ],
         "Languages":[
-            "Juila"
+            "Julia"
         ],
         "Platform Requirements":[
             ""
@@ -3203,7 +3203,7 @@
         "Categories":[
             "Analytics"
         ],
-        "New Date":"",
+        "New Date":"20141014",
         "Update Date":""
     },
     {
