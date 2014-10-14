@@ -3165,6 +3165,58 @@
         "Sub-contractors":[
             ""
         ],
+        "Software":"LowRankModels.jl",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
+        "External Link":"https://github.com/madeleineudell/LowRankModels.jl",
+        "Public Code Repo":"https://github.com/madeleineudell/LowRankModels.jl.git",
+        "Instructional Material":"",
+        "Stats":"glrm",
+        "Description":"LowRankModels.jl is a julia package for modeling and fitting generalized low rank models (GLRMs). GLRMs model a data array by a low rank matrix, and include many well known models in data analysis, such as principal components analysis (PCA), matrix completion, robust PCA, nonnegative matrix factorization, k-means, and many more. LowRankModels fits GLRMs using an alternating directions proximal gradient algorithm. GLRMs and algorithms for fitting GLRMs are described in detail in an associated paper, at http://www.stanford.edu/~boyd/papers/glrm.html (which also links to the code). (Julia)",
+        "Internal Code Repo":"",
+        "License":[
+            "MIT"
+        ],
+        "Languages":[
+            "Juila"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Boyd"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
         "Software":"SCS (Self-dual Cone Solver)",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
         "External Link":"https://github.com/cvxgrp/scs",
