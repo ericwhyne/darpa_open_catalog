@@ -3762,5 +3762,1558 @@
         ], 
         "New Date": "20140922", 
         "Update Date": ""
-    }	
+    },
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Scheduling a Cascade with Opposing Influences", 
+        "Authors": [
+			"MohammadTaghi Hajiaghayi",
+            "Hamid Mahini", 
+            "Anshul Sawant"
+        ], 
+        "Link": "http://arxiv.org/abs/1311.5925", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Bidimensional Structures: Algorithms, Combinatorics and Logic", 
+        "Authors": [
+            "Erik D. Demaine", 
+            "Fedor V. Fomin", 
+            "MohammadTaghi Hajiaghayi", 
+            "Dimitrois M. Thilikos"
+        ], 
+        "Link": "http://drops.dagstuhl.de/opus/volltexte/2013/4013/", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Brief Announcement: A Game-Theoretic Model Motivated by the DARPA Network Challenge", 
+        "Authors": [
+            "Rajesh H. Chitnis", 
+            "MohammadTaghi Hajiaghayi", 
+            "Jonathan Katz", 
+            "Koyel Mukherjee"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2486160", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Tight Bounds for Planar Strongly Connected Steiner Subgraph with Fixed Number of Terminals (and Extensions)", 
+        "Authors": [
+			"Rajesh Chitnis",
+            "MohammadTaghi Hajiaghayi", 
+            "Daniel Marx"
+        ], 
+        "Link": "http://epubs.siam.org/doi/pdf/10.1137/1.9781611973402.129", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Fixed-Parameter and Approximation Algorithms: A New Look", 
+        "Authors": [
+            "Rajesh Chitnis", 
+			"MohammadTaghi Hajiaghayi", 
+            "Guy Kortsarz"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-319-03898-8_11#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "How to Influence People with Partial Incentives", 
+        "Authors": [
+            "Erik D. Demaine", 
+            "MohammadTaghi Hajiaghayi", 
+            "Hamid Mahini", 
+            "David Malec", 
+            "S. Raghavan", 
+            "Anshul Sawant", 
+            "Morteza Zadimoghaddam"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?doid=2566486.2568039", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "PREVE: A Policy Recommendation Engine based on Vector Equilibria in Multiplayer Games", 
+        "Authors": [
+            "Anshul Sawant", 
+            "John P. Dickerson", 
+            "MohammadTaghi Hajiaghayi", 
+            "V.S. Subrahmanian"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "PREVE: A Policy Recommendation Engine Based on Vector Equilibria Applied to Reducing LeT's Attacks", 
+        "Authors": [
+            "John Dickerson", 
+            "Anshul Sawant", 
+            "V.S. Subrahmanian"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "A Polynomial-Time Approximation Scheme for Planar Multiway Cut", 
+        "Authors": [
+            "Mohammad Hossein Bateni", 
+            "MohammadTaghi Hajiaghayi", 
+            "Philip N. Klein", 
+            "Claire Mathieu"
+        ], 
+        "Link": "http://delivery.acm.org/10.1145/2100000/2095170/p639-bateni.pdf?ip=128.30.51.205&id=2095170&acc=ACTIVE%20SERVICE&key=7777116298C9657D.DE5F786C30E1A3B4.4D4702B0C3E38B35.4D4702B0C3E38B35&CFID=575912280&CFTOKEN=52871898&__acm__=1411758208_9d9c97f7f57d81f995f0de4857a8a645", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "How Effective We Can Form Opinions", 
+        "Authors": [
+            "Amir Mahdi Ahmadinejad", 
+            "Sina Dehghani", 
+            "MohammadTaghi Hajiaghayi", 
+            "Hamid Mahini", 
+            "Saeed Seddighin", 
+            "Sadra Yazdanbod"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "The Polarizing Effect of Network Influences", 
+        "Authors": [
+            "MohammadTaghi Hajiaghayi", 
+            "Hamid Mahini", 
+            "David Malec"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "The Prize-Collecting Steiner Network Problems", 
+        "Authors": [
+            "MohammadTaghi Hajiaghayi", 
+            "Rohit Khandekar", 
+            "Guy Kortsarz", 
+            "Zeev Nutov"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-642-13036-6_6#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Approximation Algorithms for Movement Repairmen", 
+        "Authors": [
+            "MohammadTaghi Hajiaghayi", 
+            "Rohit Khandekar", 
+            "M. Reza Khani", 
+            "Guy Kortsarz"
+        ], 
+        "Link": "http://arxiv.org/abs/1306.3739", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "LP Rounding for k-Centers with Non-uniform Hard Capacities", 
+        "Authors": [
+            "Marek Cygan", 
+            "MohammadTaghi Hajiaghayi", 
+            "Samir Khuller"
+        ], 
+        "Link": "http://arxiv.org/abs/1208.3054", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Online Node-Weighted Steiner Forest and Extensions Via Disk Paintings", 
+        "Authors": [
+            "MohammadTaghi Hajiaghayi", 
+            "Vahid Liaghat", 
+            "Debmalya Panigrahi"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6686192", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Improved Approximation Algorithms for (Budgeted) Node-Weighted Steiner Problems", 
+        "Authors": [
+            "MohammadHossein Bateni",
+			"MohammadTaghi Hajiaghayi", 
+            "Vahid Liaghat"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007/978-3-642-39206-1_8#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Tight Bounds for Planar Strongly Connected Steiner Subgraph with Fixed Number of Terminals (and Extensions)", 
+        "Authors": [
+            "Rajesh Chitnis", 
+			"MohammadTaghi Hajiaghayi", 
+            "Daniel Marx"
+        ], 
+        "Link": "http://epubs.siam.org/doi/pdf/10.1137/1.9781611973402.129", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Basic Network Creation Games", 
+        "Authors": [
+            "Noga Alon", 
+            "Erik D. Demaine", 
+            "MohammadTaghi Hajiaghayi", 
+            "Tom Leighton"
+        ], 
+        "Link": "http://www.tau.ac.il/~nogaa/PDFS/adhl4.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Minimizing Movement: Fixed-Parameter Tractability", 
+        "Authors": [
+            "Erik D. Demaine", 
+            "MohammadTaghi Hajiaghayi", 
+            "Daniel Marx"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007/978-3-642-04128-0_64#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Scheduling to Minimize Gaps and Power Consumption", 
+        "Authors": [
+            "Erik D. Demaine", 
+            "Mohammad Ghodsi", 
+            "MohammadTaghi Hajiaghayi", 
+            "Amin S. Sayedi-Roshkhar", 
+            "Morteza Zadimoghaddam"
+        ], 
+        "Link": "http://link.springer.com/article/10.1007%2Fs10951-012-0309-6#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Improved Approximation Algorithms for (Budgeted) Node-weighted Steiner Problems", 
+        "Authors": [
+            "MohammadHossein Bateni", 
+            "MohammadTaghi Hajiaghayi", 
+            "Vahid Liaghat"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-642-39206-1_8", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Designing FPT Algorithms for Cut Problems Using Randomized Contractions", 
+        "Authors": [
+            "Rajesh H. Chitnis", 
+            "Marek Cygan", 
+            "MohammadTaghi Hajiaghayi", 
+            "Marcin Pilipczuk", 
+            "Michal Pilipczuk"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6375324&tag=1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Directed Subset Feedback Vertex Set Is Fixed-Parameter Tractable", 
+        "Authors": [
+            "Rajesh H. Chitnis", 
+            "Marek Cygan", 
+            "MohammadTaghi Hajiaghayi", 
+            "Daniel Marx"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-642-31594-7_20", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Approximability of the Subset Sum Reconfiguration Problem", 
+        "Authors": [
+            "Takehiro Ito", 
+            "Erik D. Demaine"
+        ], 
+        "Link": "http://link.springer.com/article/10.1007%2Fs10878-012-9562-z#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "O(1)-Approximations for Maximum Movement Problems", 
+        "Authors": [
+            "Piotr Berman", 
+            "Erik D. Demaine", 
+            "Morteza Zadimoghaddam"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-642-22935-0_6#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Polynomial-Time Approximation Schemes for Subset-Connectivity Problems in Bounded-Genus Graphs", 
+        "Authors": [
+            "Glencora Borradaile", 
+            "Erik D. Demaine", 
+            "Siamak Tazari"
+        ], 
+        "Link": "http://link.springer.com/article/10.1007%2Fs00453-012-9662-2#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Fixed-Parameter Tractability of Directed Multiway Cut Parameterized by the Size of the Cutset", 
+        "Authors": [
+            "Rajesh H. Chitnis", 
+            "MohammadTaghi Hajiaghayi", 
+            "Daniel Marx"
+        ], 
+        "Link": "http://siam.omnibooksonline.com/2012SODA/data/papers/010.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Assignment Problem in Content Distribution Networks: Unsplittable Hard-Capacitated Facility Location", 
+        "Authors": [
+            "MohammadHossein Bateni", 
+            "MohammadTaghi Hajiaghayi"
+        ], 
+        "Link": "http://epubs.siam.org/doi/pdf/10.1137/1.9781611973068.88", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Euclidean Prize-Collecting Steiner Forest", 
+        "Authors": [
+            "MohammadHossein Bateni", 
+            "MohammadTaghi Hajiaghayi"
+        ], 
+        "Link": "http://link.springer.com/article/10.1007%2Fs00453-011-9491-8#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Algorithms for the Red-Blue Median Problem", 
+        "Authors": [
+            "MohammadTaghi Hajiaghayi", 
+            "Rohit Khandekar", 
+            "Guy Kortsarz"
+        ], 
+        "Link": "http://link.springer.com/article/10.1007%2Fs00453-011-9547-9#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Swapping Labeled Tokens on Graphs", 
+        "Authors": [
+            "Katsuhisa Yamamaka", 
+            "Erik Demaine", 
+            "Takehiro Ito", 
+            "Jun Kawahara", 
+            "Masashi Kiyomi", 
+            "Yoshio Okamoto", 
+            "Toshiki Saitoh", 
+            "Akira Suzuki", 
+            "Kei Uchizawa", 
+            "Takeaki Uno"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-319-07890-8_31#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "On Streaming and Communication Complexity of the Set Cover Problem", 
+        "Authors": [
+            "Erik D. Demaine", 
+            "Piotr Indyk", 
+            "Sepideh Mahabadi", 
+            "Ali Vakilian"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-662-45174-8_33", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "On a Local Protocol for Concurrent File Transfers", 
+        "Authors": [
+            "MohammadTaghi Hajiaghayi", 
+            "Rohit Khandekar", 
+            "Guy Kortsarz", 
+            "Vahid Liaghat"
+        ], 
+        "Link": "http://link.springer.com/article/10.1007%2Fs00224-013-9500-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Efficient and Practical Resource Block Allocation for LTE-Based D2D Network via Graph Coloring", 
+        "Authors": [
+            "Mahdi Hajiaghayi", 
+            "Carl Wijting", 
+            "Cássio B. Ribeiro", 
+            "MohammadTaghi Hajiaghayi"
+        ], 
+        "Link": "http://link.springer.com/article/10.1007%2Fs11276-013-0626-5#page-1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Streaming Algorithms for Estimating the Matching Size in Planar Graphs and Beyond", 
+        "Authors": [
+            "Hossein Esfandiari", 
+            "MohammadTaghi Hajiaghayi", 
+            "Vahid Liaghat", 
+            "Morteza Monemizadeh", 
+            "Krzysztof Onak"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Parameterized Streaming: Maximal Matching and Vertex Cover", 
+        "Authors": [
+            "Rajesh Chitnis", 
+            "Graham Cormode", 
+            "MohammadTaghi Hajiaghayi", 
+            "Morteza Monemizadeh"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Network Cournot Competition", 
+        "Authors": [
+            "MohammadTaghi Hajiaghayi", 
+            "Hamid Mahini", 
+            "Anshul Sawant", 
+            "MohammadHossein Bateni", 
+            "Melika Abolhassani"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "Randomized Revenue Monotone Mechanisms for Online Advertising", 
+        "Authors": [
+            "Gagan Goel", 
+            "Mohammadtaghi Hajiaghayi", 
+            "Mohammad Reza Khani"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "MIT"
+        ], 
+        "Title": "A Tight Algorithm for Strongly Connected Steiner Subgraph On Two Terminals With Demands", 
+        "Authors": [
+            "Rajesh Chitnis", 
+            "Hossein Esfandiari", 
+            "Mohammadtaghi Hajiaghayi", 
+            "Rohit Khandekar", 
+            "Guy Kortsarz", 
+            "Saeedreza Seddighin"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "F.2.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UCSD", 
+            "NEU"
+        ], 
+        "Title": "Popularity Versus Similarity in Growing Networks", 
+        "Authors": [
+            "F. Papadopoulos", 
+            "M. Kitsak", 
+            "M. Angeles Serrano", 
+            "M. Boguna", 
+            "D. Krioukov"
+        ], 
+        "Link": "http://dx.doi.org/10.1038ature11459", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UCSD", 
+            "NEU"
+        ], 
+        "Title": "Network Cosmology", 
+        "Authors": [
+            "D. Krioukov", 
+            "M. Kitsak", 
+            "R. Sinkovits", 
+            "D. Rideout", 
+            "D. Meyer", 
+            "M. Boguna"
+        ], 
+        "Link": "http://dx.doi.org/10.1038/srep00793", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UCSD", 
+            "NEU"
+        ], 
+        "Title": "Duality Between Equilibrium and Growing Networks", 
+        "Authors": [
+            "D. Krioukov", 
+            "M. Ostilli"
+        ], 
+        "Link": "http://dx.doi.org/10.1103/PhysRevE.88.022808", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UCSD", 
+            "NEU"
+        ], 
+        "Title": "Entropy Distribution and Condensation in Random Networks with a Given Degree Distribution", 
+        "Authors": [
+            "K. Anand", 
+            "D. Krioukov", 
+            "G. Bianconi"
+        ], 
+        "Link": "http://dx.doi.org/10.1103/PhysRevE.89.062807", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UCSD", 
+            "NEU"
+        ], 
+        "Title": "Network Mapping by Replaying Hyperbolic Growth", 
+        "Authors": [
+            "F. Papadopoulos", 
+            "C. Psomas", 
+            "D. Krioukov"
+        ], 
+        "Link": "http://dx.doi.org/10.1109/TNET.2013.2294052", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UCSD", 
+            "NEU"
+        ], 
+        "Title": "Cosmological Networks", 
+        "Authors": [
+            "M. Boguna", 
+            "M. Kitsak", 
+            "D. Krioukov"
+        ], 
+        "Link": "http://arxiv.org/abs/1310.6272", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UCSD", 
+            "NEU"
+        ], 
+        "Title": "Hyperbolic Graph Generator", 
+        "Authors": [
+            "C. Orsini", 
+            "R. Aldecoa"
+        ], 
+        "Link": "http:/amed-data.github.io/Hyperbolic-Graph-Generator/", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UCSD", 
+            "NEU"
+        ], 
+        "Title": "Analyzing Social Divisions Using Cell Phone Data", 
+        "Authors": [
+            "O. Bucicovschi", 
+            "R. Douglass", 
+            "D. Meyer", 
+            "M. Ram", 
+            "D. Rideout", 
+            "D. Song"
+        ], 
+        "Link": "http://perso.uclouvain.be/vincent.blondeletmob/2013/D4D-book.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "On the Bursty Evolution of Online Social Networks", 
+        "Authors": [
+            "Alessandra Sala", 
+            "Ben Y. Zhao", 
+            "Gian P. Rossi", 
+            "Haitao Zheng", 
+            "Matteo Zignani", 
+            "Sabrina Gaito", 
+            "Xiaohan Zhao"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2392623", 
+        "Categories": [
+            "Computing Milieux"
+        ], 
+        "Subcategories": [
+            "Online social networks", 
+            "Network dynamics "
+        ], 
+        "ACM 1998 classification code": [
+            "K.4.m"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "Beyond Social Graphs: User Interactions in Online Social Networks and their Implications", 
+        "Authors": [
+            "Alessandra Sala", 
+            "Ben Y. Zhao", 
+            "Christo Wilson", 
+            "Krishna P.N. Puttaswamy"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2382620", 
+        "Categories": [
+            "Distributed Systems: Computer Applications"
+        ], 
+        "Subcategories": [
+            "Social networks", 
+            "Interaction graphs", 
+            "Facebook"
+        ], 
+        "ACM 1998 classification code": [
+            "C.2.4", 
+            "J.4"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Hewlett-Packard Labs"
+        ], 
+        "Title": "Using R for Iterative and Incremental Processing", 
+        "Authors": [
+            "Alvin AuYoung", 
+            "Indrajit Roy", 
+            "Rob Schreiber", 
+            "Shivaram Venkataraman"
+        ], 
+        "Link": "https://www.usenix.org/conference/hotcloud12/workshop-program/presentation/venkataraman", 
+        "Categories": [
+            "Distributed Systems"
+        ], 
+        "Subcategories": [
+            "Machine Learning", 
+            "Graphs"
+        ], 
+        "ACM 1998 classification code": [
+            "C.2.4"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "Multi-scale Dynamics in a Massive Online Social Network", 
+        "Authors": [
+            "Alessandra Sala", 
+            "Ben Y. Zhao", 
+            "Christo Wilson", 
+            "Haitao Zheng", 
+            "Sabrina Gaito", 
+            "Xiao Wang", 
+            "Xiaohan Zhao"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2398795", 
+        "Categories": [
+            "Computer Applications", 
+            "Information Storage and Retrieval"
+        ], 
+        "Subcategories": [
+            "Dynamic Graphs", 
+            "Online Social Networks"
+        ], 
+        "ACM 1998 classification code": [
+            "J.4", 
+            "H.3.5"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "Social Turing Tests: Crowdsourcing Sybil Detection", 
+        "Authors": [
+            "Ben Y. Zhao", 
+            "Christo Wilson", 
+            "Gang Wang", 
+            "Haitao Zheng", 
+            "Manish Mohanlal", 
+            "Miriam Metzger", 
+            "Xiao Wang"
+        ], 
+        "Link": "http://arxiv.org/pdf/1205.3856v2", 
+        "Categories": [
+            "Computer Applications"
+        ], 
+        "Subcategories": [
+            "Social and Behavioral Sciences"
+        ], 
+        "ACM 1998 classification code": [
+            "J.4"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "Understanding Latent Interactions in Online Social Networks", 
+        "Authors": [
+            "Ben Y. Zhao", 
+            "Christo Wilson", 
+            "Jing Jiang", 
+            "Peng Huang", 
+            "Wenpeng Sha", 
+            "Xiao Wang", 
+            "Yafei Dai"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2517040", 
+        "Categories": [
+            "Computer Applications", 
+            "Information Storage and Retrieval"
+        ], 
+        "Subcategories": [
+            "Online Social Networks"
+        ], 
+        "ACM 1998 classification code": [
+            "J.4", 
+            "H.3.5"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "Hewlett-Packard Labs"
+        ], 
+        "Title": "Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices", 
+        "Authors": [
+            "Alvin AuYoung", 
+            "Erik Bodzsar", 
+            "Indrajit Roy", 
+            "Rob Schreiber", 
+            "Shivaram Venkataraman"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2465371", 
+        "Categories": [
+            "Distributed Systems"
+        ], 
+        "Subcategories": [
+            "Machine Learning", 
+            "Graphs"
+        ], 
+        "ACM 1998 classification code": [
+            "C.2.4"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "Wisdom in the Social Crowd: an Analysis of Quora", 
+        "Authors": [
+            "Ben Y. Zhao", 
+            "Gang Wang", 
+            "Haitao Zheng", 
+            "Konark Gill", 
+            "Manish Mohanlal"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2488506", 
+        "Categories": [
+            "Information Storage and Retrieval", 
+            "Computer Applications"
+        ], 
+        "Subcategories": [
+            "Q&A System", 
+            "Online Social Networks", 
+            "Graphs"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.5", 
+            "J.4"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "Practical Conflict Graphs for Dynamic Spectrum Distribution", 
+        "Authors": [
+            "Ben Y. Zhao", 
+            "Gang Wang", 
+            "Haitao Zheng", 
+            "Xiao Zhou", 
+            "Xiaoxiao Yu", 
+            "Zengbin Zhang"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2465545", 
+        "Categories": [
+            "Network operations"
+        ], 
+        "Subcategories": [
+            "Dynamic spectrum access", 
+            "Conflict graphs", 
+            "interference"
+        ], 
+        "ACM 1998 classification code": [
+            "C.2.3"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "You are How You Click: Clickstream Analysis for Sybil Detection", 
+        "Authors": [
+            "Ben Y. Zhao", 
+            "Christo Wilson", 
+            "Gang Wang", 
+            "Haitao Zheng", 
+            "Tristan Konolige", 
+            "Xiao Wang"
+        ], 
+        "Link": "https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/wang", 
+        "Categories": [
+            "Computing Milieux"
+        ], 
+        "Subcategories": [
+            "Sybils", 
+            "Online social networks"
+        ], 
+        "ACM 1998 classification code": [
+            "K.4.m"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "Follow the Green: Growth and Dynamics in Twitter Follower Markets", 
+        "Authors": [
+            "Ben Y. Zhao", 
+            "Christopher Kruegel", 
+            "Gang Wang", 
+            "Gianluca Stringhini", 
+            "Giovanni Vigna", 
+            "Haitao Zheng", 
+            "Manuel Egele"
+        ], 
+        "Link": "http://conferences.sigcomm.org/imc/2013/papers/imc018-stringhiniA.pdf", 
+        "Categories": [
+            "Computer Applications", 
+            "Management of Computing and Information Systems"
+        ], 
+        "Subcategories": [
+            "Twitter", 
+            "Follower Markets", 
+            "Sybils", 
+            "Online social networks"
+        ], 
+        "ACM 1998 classification code": [
+            "J.4", 
+            "K.6"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "Inferring User Interests from Tweet Times", 
+        "Authors": [
+            "Dinesh Ramasamy", 
+            "Sriram Venkateswaran", 
+            "Upamanyu Madhow"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2512960", 
+        "Categories": [
+            "Probability and Statistics", 
+            "Database Applications"
+        ], 
+        "Subcategories": [
+            "Bayesian inference", 
+            "Metadata", 
+            "Online social networks"
+        ], 
+        "ACM 1998 classification code": [
+            "G.3", 
+            "H.2.8"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "UC - Santa Barbara"
+        ], 
+        "Title": "On the Validity of Geosocial Mobility Traces", 
+        "Authors": [
+            "Ben Y. Zhao", 
+            "Haitao Zheng", 
+            "Gang Wang", 
+            "Lin Zhou", 
+            "Miriam Metzger", 
+            "Xiaohan Zhao", 
+            "Yu Su", 
+            "Zengbin Zhang"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2535786", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Human factors", 
+            "Measurements"
+        ], 
+        "ACM 1998 classification code": [
+            "H.1.2"
+        ], 
+        "New Date": "20141021", 
+        "Update Date": ""
+    }
 ]
