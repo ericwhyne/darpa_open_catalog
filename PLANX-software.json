@@ -105,5 +105,58 @@
         ], 
         "New Date": "20140923", 
         "Update Date": ""
+    },
+    {
+        "DARPA Program": "PLAN X", 
+        "Program Teams": [
+            "Galois, Inc."
+        ], 
+        "Contributors": [
+            "Galois, Inc."
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Lua Native Big Number Library", 
+        "Internal Link": "", 
+        "External Link": "http://github.com/galoisinc/polarbn", 
+        "Public Code Repo": "http://github.com/galoisinc/polarbn", 
+        "Instructional Material": "", 
+        "Stats": "polarbn", 
+        "Description": "The PolarBN library is a big number library for use in cryptographic applications. PolarBN is a Lua wrapper for the bignum library in PolarSSL. The wrapper is written in C, using the standard Lua headers. Compared to the two standard Lua big number libraries, PolarBN is substantially faster than lbc, and does not require openssl-dev, as does lbn.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "Lua",
+			"C"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software Development"
+        ], 
+        "Functionality": [
+            "Cryptographic big number library"
+        ], 
+        "Categories": [
+            "Library"
+        ], 
+        "New Date": "20141022, 
+        "Update Date": ""
     }
 ]
