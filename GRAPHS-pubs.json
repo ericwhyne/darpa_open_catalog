@@ -3974,7 +3974,7 @@
             "Philip N. Klein", 
             "Claire Mathieu"
         ], 
-        "Link": "http://delivery.acm.org/10.1145/2100000/2095170/p639-bateni.pdf?ip=128.30.51.205&id=2095170&acc=ACTIVE%20SERVICE&key=7777116298C9657D.DE5F786C30E1A3B4.4D4702B0C3E38B35.4D4702B0C3E38B35&CFID=575912280&CFTOKEN=52871898&__acm__=1411758208_9d9c97f7f57d81f995f0de4857a8a645", 
+        "Link": "http://mhbateni.com/academic/pubs/multiwaycut-10.pdf", 
         "Categories": [
             ""
         ], 
@@ -3992,7 +3992,7 @@
         "Program Teams": [
             "MIT"
         ], 
-        "Title": "How Effective We Can Form Opinions", 
+        "Title": "How Effectively Can We Form Opinions", 
         "Authors": [
             "Amir Mahdi Ahmadinejad", 
             "Sina Dehghani", 
@@ -4117,7 +4117,7 @@
         "Program Teams": [
             "MIT"
         ], 
-        "Title": "Online Node-Weighted Steiner Forest and Extensions Via Disk Paintings", 
+        "Title": "Online Node-Weighted Steiner Forest and Extensions via Disk Paintings", 
         "Authors": [
             "MohammadTaghi Hajiaghayi", 
             "Vahid Liaghat", 
@@ -4135,55 +4135,7 @@
         ], 
         "New Date": "20141021", 
         "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "GRAPHS", 
-        "Program Teams": [
-            "MIT"
-        ], 
-        "Title": "Improved Approximation Algorithms for (Budgeted) Node-Weighted Steiner Problems", 
-        "Authors": [
-            "MohammadHossein Bateni",
-			"MohammadTaghi Hajiaghayi", 
-            "Vahid Liaghat"
-        ], 
-        "Link": "http://link.springer.com/chapter/10.1007/978-3-642-39206-1_8#page-1", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            "F.2.2"
-        ], 
-        "New Date": "20141021", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "GRAPHS", 
-        "Program Teams": [
-            "MIT"
-        ], 
-        "Title": "Tight Bounds for Planar Strongly Connected Steiner Subgraph with Fixed Number of Terminals (and Extensions)", 
-        "Authors": [
-            "Rajesh Chitnis", 
-			"MohammadTaghi Hajiaghayi", 
-            "Daniel Marx"
-        ], 
-        "Link": "http://epubs.siam.org/doi/pdf/10.1137/1.9781611973402.129", 
-        "Categories": [
-            ""
-        ], 
-        "Subcategories": [
-            ""
-        ], 
-        "ACM 1998 classification code": [
-            "F.2.2"
-        ], 
-        "New Date": "20141021", 
-        "Update Date": ""
-    }, 
+    },
     {
         "DARPA Program": "GRAPHS", 
         "Program Teams": [
@@ -4480,7 +4432,7 @@
         "Program Teams": [
             "MIT"
         ], 
-        "Title": "Algorithms for the Red-Blue Median Problem", 
+        "Title": "Local Search Algorithms for the Red-Blue Median Problem", 
         "Authors": [
             "MohammadTaghi Hajiaghayi", 
             "Rohit Khandekar", 
@@ -4711,7 +4663,7 @@
         "Program Teams": [
             "MIT"
         ], 
-        "Title": "A Tight Algorithm for Strongly Connected Steiner Subgraph On Two Terminals With Demands", 
+        "Title": "A Tight Algorithm for Strongly Connected Steiner Subgraph on Two Terminals with Demands", 
         "Authors": [
             "Rajesh Chitnis", 
             "Hossein Esfandiari", 
@@ -4747,7 +4699,7 @@
             "M. Boguna", 
             "D. Krioukov"
         ], 
-        "Link": "http://dx.doi.org/10.1038ature11459", 
+        "Link": "http://arxiv.org/pdf/1106.0286.pdf", 
         "Categories": [
             ""
         ], 
@@ -4898,7 +4850,7 @@
             "C. Orsini", 
             "R. Aldecoa"
         ], 
-        "Link": "http:/amed-data.github.io/Hyperbolic-Graph-Generator/", 
+        "Link": "http://named-data.github.io/Hyperbolic-Graph-Generator/", 
         "Categories": [
             ""
         ], 
@@ -4926,7 +4878,7 @@
             "D. Rideout", 
             "D. Song"
         ], 
-        "Link": "http://perso.uclouvain.be/vincent.blondeletmob/2013/D4D-book.pdf", 
+        "Link": "Not Yet Published", 
         "Categories": [
             ""
         ], 
@@ -4937,7 +4889,7 @@
             ""
         ], 
         "New Date": "20141021", 
-        "Update Date": ""
+        "Update Date": "20141022"
     }, 
     {
         "DARPA Program": "GRAPHS", 
