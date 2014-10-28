@@ -1360,7 +1360,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
-            "University of Southern California"
+            "University of Southern California/Information Sciences Institute"
         ],
         "Title":"Unlocking Big Data",
         "Authors":[
@@ -1385,7 +1385,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
-            "University of Southern California"
+            "University of Southern California/Information Sciences Institute"
         ],
         "Title":"Mapping Semantic Workflows to Alternative Workflow Execution Engines",
         "Authors":[
@@ -1409,7 +1409,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
-            "University of Southern California"
+            "University of Southern California/Information Sciences Institute"
         ],
         "Title":"Capturing Data Analytics and Visualization Expertise with Workflows",
         "Authors":[
@@ -1436,7 +1436,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
-            "University of Southern California"
+            "University of Southern California/Information Sciences Institute"
         ],
         "Title":"Time-Bound Analytic Tasks on Large Datasets through Dynamic",
         "Authors":[
@@ -1467,7 +1467,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
-            "University of Southern California"
+            "University of Southern California/Information Sciences Institute"
         ],
         "Title":"Configuration of Workflows",
         "Authors":[
@@ -1491,7 +1491,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
-            "University of Southern California"
+            "University of Southern California/Information Sciences Institute"
         ],
         "Title":"Large-Scale Multimedia Content Analysis Using Scientific Workflows",
         "Authors":[
@@ -1501,6 +1501,183 @@
             "Hyunjoon Jo"
         ],
         "Link":"http://www.isi.edu/~gil/papers/sethi-etal-mm13.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "University of Southern California/Information Sciences Institute"
+        ],
+        "Title":"A Semantic Framework for Automatic Generation of Computational Workflows Using Distributed Data and Component Catalogs",
+        "Authors":[
+	    "Yolanda Gil",
+	    "Pedro A. Gonzalez-Calero",
+	    "Jihie Kim",
+	    "Joshua Moody",
+	    "Varun Ratnakar"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/gil-etal-jetai10.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "University of Southern California/Information Sciences Institute"
+        ],
+        "Title":"Intelligent Workflow Systems and Provenance-Aware Software",
+        "Authors":[
+	    "Yolanda Gil"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/gil-iemss14.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "University of Southern California/Information Sciences Institute"
+        ],
+        "Title":"Assisting Scientists with Complex Data Analysis Tasks through Semantic Workflows",
+        "Authors":[
+            "Yolanda Gil",
+	    "Varun Ratnakar",
+	    "Christian Fritz"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/gil-etal-aaaifss10.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "University of Southern California/Information Sciences Institute"
+        ],
+        "Title":"Towards Workflow Ecosystems Through Semantic and Standard Representations",
+        "Authors":[
+            "Daniel Garijo",
+            "Yolanda Gil",
+            "Oscar Corcho"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/garijo-etal-works14.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "University of Southern California/Information Sciences Institute"
+        ],
+        "Title":"Structured Analysis of the ISI Atomic Pair Actions Video Dataset Using Workflows",
+        "Authors":[
+            "Ricky J. Sethi",
+	    "Hyunjoon Jo",
+            "Yolanda Gil"
+        ],
+        "Link":"http://www.sciencedirect.com/science/article/pii/S0167865512004217",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "University of Southern California/Information Sciences Institute"
+        ],
+        "Title":"Making Data Analysis Expertise Broadly Accessible through Workflows",
+        "Authors":[
+	    "Matheus Hauder",
+	    "Yolanda Gil",
+            "Ricky J. Sethi",
+	    "Yan Liu",
+            "Hyunjoon Jo"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/hauder-etal-works11.pdf",
+        "Categories":[
+            "Software Notations and Tools"
+        ],
+        "Subcategories":[
+            "Development Frameworks and Environments"
+        ],
+        "ACM 1998 classification code":[
+            "D.2.9",
+            "K.6.3"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "University of Southern California/Information Sciences Institute"
+        ],
+        "Title":"A Framework for Efficient Text Analytics through Automatic Configuration and Customization of Scientific Workflows",
+        "Authors":[
+	    "Matheus Hauder",
+            "Yolanda Gil",
+	    "Yan Liu"
+        ],
+        "Link":"http://www.isi.edu/~gil/papers/hauder-etal-eScience2011.pdf",
         "Categories":[
             "Software Notations and Tools"
         ],
