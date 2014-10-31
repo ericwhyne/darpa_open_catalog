@@ -1541,10 +1541,10 @@
         "Software":"Wings",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
         "External Link":"http://www.wings-workflows.org/",
-        "Public Code Repo":"https://github.com/varunratnakar/wings.git",
-        "Instructional Material":"Not Available",
+        "Public Code Repo":"https://github.com/IKCAP/wings.git",
+        "Instructional Material":"http://www.wings-workflows.org/tutorial",
         "Stats":"wings",
-        "Description":"WINGS provides a semantic workflow system that assists scientists with the design of computational experiments. A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to execution frameworks such as Pegasus and OODT to run workflows at large scale in distributed resources. (Java/JavaScript)",
+        "Description":"WINGS is a semantic workflow system that can be used to automate data analysis processes represented as workflows of computations.  A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to scalable execution frameworks such as Apache OODT to run workflows at large scale in distributed resources. (Java/JavaScript)",
         "Internal Code Repo":"tools\\utilities\\wings\\",
         "License":[
             "ALv2"
