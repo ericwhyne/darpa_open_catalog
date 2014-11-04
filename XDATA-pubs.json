@@ -29,7 +29,7 @@
         "Program Teams":[
             "Boeing/Pitt"
         ],
-        "Title":"An Empirical Comparison of Bayesian Network Parameter",
+        "Title":"An Empirical Comparison of Bayesian Network Parameter Learning Algorithms for Continuous Data Streams",
         "Authors":[
             "Parot Ratnapinda",
             "Marek J. Druzdzel"
@@ -1619,7 +1619,7 @@
         "Program Teams":[
             "University of Southern California/Information Sciences Institute"
         ],
-        "Title":"Structured Analysis of the ISI Atomic Pair Actions Video Dataset Using Workflows",
+        "Title":"Structured Analysis of the ISI Atomic Pair Actions Dataset Using Workflows",
         "Authors":[
             "Ricky J. Sethi",
 			"Hyunjoon Jo",
@@ -1671,7 +1671,7 @@
         "Program Teams":[
             "University of Southern California/Information Sciences Institute"
         ],
-        "Title":"A Framework for Efficient Text Analytics through Automatic Configuration and Customization of Scientific Workflows",
+        "Title":"A Framework for Efficient Data Analytics through Automatic Configuration and Customization of Scientific Workflows",
         "Authors":[
 	    "Matheus Hauder",
             "Yolanda Gil",
