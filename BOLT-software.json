@@ -1430,5 +1430,55 @@
         ],
         "New Date":"",
         "Update Date":""
+    },
+    {
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "Linguistic Data Consortium"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"LDC2014E112 BOLT Uzbek Language Pack and LDC2014E115 BOLT Turkish Language Pack",
+        "Internal Link":"",
+        "External Link":"ldc@upenn.edu",
+        "Public Code Repo":"",
+        "Instructional Material":"",
+        "Description":"Support linguistic research in leveraging language-universal resources, projecting from related-language resources, and fully exploiting a broad range of language-specific resources.",
+        "License":[
+            ""
+        ],
+        "Languages":[
+            ""
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            "Linguistics"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Linguistics"
+        ],
+        "New Date":"20141104",
+        "Update Date":""
     }
 ]
