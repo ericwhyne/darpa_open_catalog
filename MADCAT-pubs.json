@@ -772,7 +772,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Page Rule-Line Removal Using Linear Subspaces in Monochromatic Handwritten Arabic Documents", 
         "Authors": [
@@ -796,7 +796,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Voronoi++: A Dynamic Page Segmentation Approach Based on Voronoi and Docstrum Features", 
         "Authors": [
@@ -819,7 +819,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Improvements in BBN's HMM-Based Offline Arabic Handwriting Recognition System", 
         "Authors": [
@@ -846,7 +846,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Unsupervised HMM Adaptation Using Page Style Clustering", 
         "Authors": [
@@ -871,7 +871,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Stochastic Segment Modeling for Offline Handwriting Recognition", 
         "Authors": [
@@ -896,7 +896,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "A Steerable Directional Local Profile Technique for Extraction of Handwritten Arabic Text Lines", 
         "Authors": [
@@ -920,7 +920,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Gabor Features for Offline Arabic Handwriting Recognition", 
         "Authors": [
@@ -946,7 +946,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "The BBN Document Analysis Service: A Platform for Multilingual Document Translation", 
         "Authors": [
@@ -974,7 +974,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Context-Aware and Content-Based Dynamic Voronoi Page Segmentation", 
         "Authors": [
@@ -997,7 +997,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Handwritten Arabic Text Line Segmentation Using Affinity Propagation", 
         "Authors": [
@@ -1022,7 +1022,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Improvements in HMM Adaptation for Handwriting Recognition Using Writer Identification and Duration Adaptation", 
         "Authors": [
@@ -1046,7 +1046,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Stochastic Segment Model Adaptation for Offline Handwriting Recognition", 
         "Authors": [
@@ -1072,7 +1072,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Consensus Network Based Hypotheses Combination for Arabic Offline Handwriting Recognition", 
         "Authors": [
@@ -1099,7 +1099,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Removing Rule-Lines from Binary Handwritten Arabic Document Images Using Directional Local Profile", 
         "Authors": [
@@ -1123,7 +1123,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Shape-DNA: Effective Character Restoration and Enhancement for Arabic Text Documents", 
         "Authors": [
@@ -1146,7 +1146,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Shape Codebook Based Handwritten and Machine Printed Text Zone Extraction", 
         "Authors": [
@@ -1173,7 +1173,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Stroke-Like Pattern Noise Removal in Binary Document Images", 
         "Authors": [
@@ -1196,7 +1196,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Segmentation of Handwritten Textlines in Presence of Touching Components", 
         "Authors": [
@@ -1221,7 +1221,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Template Based Segmentation of Touching Components in Handwritten Text Lines", 
         "Authors": [
@@ -1244,7 +1244,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Fast Rule-Line Removal Using Integral Images and Support Vector Machines", 
         "Authors": [
@@ -1267,7 +1267,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Document Image Classification and Labeling Using Multiple Instance Learning", 
         "Authors": [
@@ -1291,7 +1291,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Graph Clustering-Based Ensemble Method for Handwritten Text Line Segmentation", 
         "Authors": [
@@ -1317,7 +1317,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "OCR-Driven Writer Identification and Adaptation in an HMM Handwriting Recognition System", 
         "Authors": [
@@ -1365,7 +1365,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Text Extraction from Video Using Conditional Random Fields", 
         "Authors": [
@@ -1390,7 +1390,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Image Enhancement for Degraded Binary Document Images", 
         "Authors": [
@@ -1414,7 +1414,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "No-Reference Image Quality Assessment Based on Visual Codebook", 
         "Authors": [
@@ -1437,7 +1437,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Automated Image Quality Assessment for Camera-Captured OCR", 
         "Authors": [
@@ -1463,7 +1463,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Ensemble Reranking with Linguistic and Semantic Features for Arabic Character Recognition", 
         "Authors": [
@@ -1490,7 +1490,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Some Recent Advances in Offline Handwriting Recognition", 
         "Authors": [
@@ -1512,7 +1512,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Learning Features for Predicting OCR Accuracy", 
         "Authors": [
@@ -1535,7 +1535,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Logo Retrieval in Document Images", 
         "Authors": [
@@ -1558,7 +1558,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Learning Text-line Segmentation Using Codebooks and Graph Partitioning", 
         "Authors": [
@@ -1583,7 +1583,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Learning Document Structure for Retrieval and Classification", 
         "Authors": [
@@ -1607,7 +1607,7 @@
     {
         "DARPA Program": "MADCAT", 
         "Program Teams": [
-            ""
+            "BBN"
         ], 
         "Title": "Combining Preference and Absolute Judgements in a Crowd-Sourced Setting", 
         "Authors": [
@@ -1624,7 +1624,7 @@
         "ACM 1998 classification code": [
             ""
         ], 
-        "New Date": "20141104", 
+        "New Date": "20141103", 
         "Update Date": ""
     }
 ]
