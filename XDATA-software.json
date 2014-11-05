@@ -2138,7 +2138,7 @@
         "External Link":"http://scidb.org/forum",
         "Public Code Repo":"http://scidb.org/forum",
         "Instructional Material":"",
-        "Stats":"SciDB-mirror",
+        "Stats":"",
         "Description":"Scientific Database for large-scale numerical data. Register on the forum to access the download page. (C++)",
         "Internal Code Repo":"tools\\analytics\\mit-LL",
         "License":[
