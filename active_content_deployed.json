@@ -12,7 +12,7 @@
         "Program File": "ADAMS-program.json",
         "Pubs File": "ADAMS-pubs.json",
         "Software File": "",
-        "Banner": "UPDATED"
+        "Banner": ""
 },
 {
         "DARPA Office": "I2O",
@@ -44,7 +44,7 @@
         "Program File": "CFT-program.json",
         "Pubs File": "",
         "Software File": "CFT-software.json",
-        "Banner":"UPDATED"
+        "Banner":""
 },
 {
         "DARPA Office": "I2O",
@@ -76,7 +76,7 @@
         "Program File": "DCAPS-program.json",
         "Pubs File": "DCAPS-pubs.json",
         "Software File": "DCAPS-software.json",
-        "Banner": "UPDATED"
+        "Banner": ""
 },
 {
         "DARPA Office": "I2O",
@@ -132,7 +132,7 @@
         "Program File": "PPAML-program.json",
         "Pubs File": "PPAML-pubs.json",
         "Software File": "PPAML-software.json",
-        "Banner": "UPDATED"
+        "Banner": ""
 },
 {
         "DARPA Office": "I2O",
@@ -148,7 +148,7 @@
         "Program File": "RATS-program.json",
         "Pubs File": "RATS-pubs.json",
         "Software File": "",
-        "Banner":"UPDATED"
+        "Banner":""
 },
 {
         "DARPA Office": "BTO",
@@ -156,7 +156,7 @@
         "Program File": "RP-program.json",
         "Pubs File": "RP-pubs.json",
         "Software File": "",
-        "Banner":"UPDATED"
+        "Banner":""
 },
 {
         "DARPA Office": "I2O",
@@ -172,7 +172,7 @@
         "Program File": "SMISC-program.json",
         "Pubs File": "SMISC-pubs.json",
         "Software File": "",
-        "Banner": "UPDATED"
+        "Banner": ""
 },
 {
         "DARPA Office": "I2O",
