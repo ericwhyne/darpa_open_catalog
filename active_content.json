@@ -121,27 +121,11 @@
 },
 {
         "DARPA Office": "I2O",
-        "Program Name": "MADCAT",
-        "Program File": "MADCAT-program.json",
-        "Pubs File": "MADCAT-pubs.json",
-        "Software File": "",
-        "Banner":"NEW"
-},
-{
-        "DARPA Office": "I2O",
         "Program Name": "MRC",
         "Program File": "MRC-program.json",
         "Pubs File": "MRC-pubs.json",
         "Software File": "MRC-software.json",
         "Banner": ""
-},
-{
-        "DARPA Office": "I2O",
-        "Program Name": "PLANX",
-        "Program File": "PLANX-program.json",
-        "Pubs File": "",
-        "Software File": "PLANX-software.json",
-        "Banner": "NEW"
 },
 {
         "DARPA Office": "I2O",
