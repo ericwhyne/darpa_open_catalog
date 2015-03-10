@@ -1,5 +1,5 @@
 {
-    "DARPA Office": "I2O",
+    "DARPA Office":"I2O",
     "DARPA Program Name":"ADAMS",
     "Long Name":"Anomaly Detection at Multiple Scales (ADAMS)",
     "Program Teams":"",
@@ -12,6 +12,7 @@
         "Description",
         "License"
     ],
+    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",

@@ -1,5 +1,5 @@
 {
-    "DARPA Office": "I2O",
+    "DARPA Office":"I2O",
     "DARPA Program Name":"PLAN X",
     "Long Name":"PLAN X",
     "Program Teams":"",
@@ -12,6 +12,7 @@
         "Code",
         "License"
     ],
+    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",

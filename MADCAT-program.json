@@ -1,5 +1,5 @@
 {
-    "DARPA Office": "I2O",
+    "DARPA Office":"I2O",
     "DARPA Program Name":"MADCAT",
     "Long Name":"Multilingual Automatic Document Classification Analysis and Translation (MADCAT)",
     "Program Teams":"",
@@ -12,6 +12,7 @@
         "Description",
         "License"
     ],
+    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",

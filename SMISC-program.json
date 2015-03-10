@@ -1,5 +1,5 @@
 {
-    "DARPA Office": "I2O",
+    "DARPA Office":"I2O",
     "DARPA Program Name":"SMISC",
     "Long Name":"Social Media in Strategic Communication (SMISC)",
     "Program Teams":"",
@@ -12,6 +12,7 @@
         "Description",
         "License"
     ],
+    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
