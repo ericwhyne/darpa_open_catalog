@@ -891,57 +891,113 @@
         "Update Date":""
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Kitware, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Tangelo",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
-        "External Link":"http://kitware.github.io/tangelo/",
-        "Public Code Repo":"https://github.com/Kitware/tangelo.git",
-        "Instructional Material":"",
-        "Stats":"tangelo",
-        "Description":"Tangelo provides a flexible HTML5 web server architecture that cleanly separates your web applications (pure JavaScript, HTML, and CSS) and web services (pure Python).  This software is bundled with some great tools to get you started. (JavaScript/Python)",
-        "Internal Code Repo":"tools\\visualizations\\kitware\\tangelo; tools\\visualizations\\kitware\\xdata-apps",
-        "License":[
+        "DARPA Program": "XDATA", 
+        "Program Teams": [
+            "Kitware, Inc.", 
+            "Sotera Defense Solutions, Inc."
+        ], 
+        "Contributors": [
+            "University of Southern California", 
+            "Stanford University"
+        ], 
+        "Sub-contractors": [
+            "Giant Oak, Inc."
+        ], 
+        "Software": "Tangelo", 
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home", 
+        "External Link": "http://kitware.github.io/tangelo/", 
+        "Public Code Repo": "https://github.com/Kitware/tangelo.git", 
+        "Instructional Material": "", 
+        "Stats": "tangelo", 
+        "Description": "Tangelo provides a flexible HTML5 web server architecture that cleanly separates your web applications (pure JavaScript, HTML, and CSS) and web services (pure Python). This software is bundled with some great tools to get you started. (JavaScript/Python)", 
+        "Internal Code Repo": "tools\\visualizations\\kitware\\tangelo; tools\\visualizations\\kitware\\xdata-apps", 
+        "License": [
             "ALv2"
-        ],
-        "Languages":[
-            "JavaScript",
+        ], 
+        "Languages": [
+            "JavaScript", 
             "Python"
-        ],
-        "Platform Requirements":[
+        ], 
+        "Platform Requirements": [
+            "Linux Redhat"
+        ], 
+        "Dependent modules": [
             ""
-        ],
-        "Dependent modules":[
+        ], 
+        "Dependent module URLs": [
             ""
-        ],
-        "Dependent module URLs":[
+        ], 
+        "Component modules": [
             ""
-        ],
-        "Component modules":[
+        ], 
+        "Component module URLs": [
             ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
+        ], 
+        "Industry": [
+            "Medicine"
+        ], 
+        "Functionality": [
+            "Dynamic Web Applications", 
+            "HTML5"
+        ], 
+        "Categories": [
             "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
+        ], 
+        "New Date": "", 
+        "Update Date": "20150310"
+    },
+    {
+        "DARPA Program": "XDATA", 
+        "Program Teams": [
+            "Sotera Defense Solutions, Inc."
+        ], 
+        "Contributors": [
+            "Sotera Defense Solutions, Inc."
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Newman", 
+        "Internal Link": "", 
+        "External Link": "http://github.com/Sotera/newman", 
+        "Public Code Repo": "https://github.com/Sotera/newman", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Newman is a tool to quickly analyze and explore email using advanced analytics and visualization techniques - things not possible with traditional email applications.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "JavaScript", 
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "email"
+        ], 
+        "Categories": [
+            "Visualization"
+        ], 
+        "New Date": "20150310", 
+        "Update Date": ""
     },
     {
         "DARPA Program":"XDATA",

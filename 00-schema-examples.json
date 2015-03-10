@@ -132,5 +132,23 @@
                 "Update Date":"Date updated with new information in yyyymmdd format"
             }
         ]
+    },
+	    {
+        "Type":"Data",
+        "Schema":[
+            {
+                "DARPA Program":"XDATA",
+                "Data Set Name":"Boeing/Pitt",
+                "Data Set Description":"Impact of Precision of Bayesian Network Parameters on Accuracy of Medical Diagnostic Systems",
+                "Data Set Number of Rows":"whole number",
+                "Data Set Number of Columns":"whole number",
+                "Data Set Industry":[
+                    "Applications and Expert Systems",
+                    "Model Validation and Analysis"
+                ],
+                "New Date":"Date approved to go live in yyyymmdd format",
+                "Update Date":"Date updated with new information in yyyymmdd format"
+            }
+        ]
     }
 ]

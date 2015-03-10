@@ -222,33 +222,34 @@
         "Update Date":""
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Continuum Analytics",
+        "DARPA Program": "XDATA", 
+        "Program Teams": [
+            "Continuum Analytics", 
             "Indiana University"
-        ],
-        "Title":"Overplotting: Unified Solutions Under Abstract Rendering",
-        "Authors":[
-            "Joseph A. Cottam",
+        ], 
+        "Title": "Overplotting: Unified Solutions under Abstract Rendering", 
+        "Authors": [
+            "Joseph A. Cottam", 
+            "Andrew Lumsdaine", 
             "Peter Wang"
-        ],
-        "Link":"http://www.crest.iu.edu/publications/prints/2013/Cottam2013AR.pdf",
-        "Categories":[
-            "Software Architectures",
+        ], 
+        "Link": "http://www.crest.iu.edu/publications/prints/2013/Cottam2013AR.pdf", 
+        "Categories": [
+            "Software Architectures", 
             "Methodology and Techniques"
-        ],
-        "Subcategories":[
-            "Data abstraction",
-            "Graphics data structures and data types",
+        ], 
+        "Subcategories": [
+            "Data abstraction", 
+            "Graphics data structures and data types", 
             "Ergonomics"
-        ],
-        "ACM 1998 classification code":[
-            "D.2.11",
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.11", 
             "I.3.6"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
+        ], 
+        "New Date": "", 
+        "Update Date": "20150310"
+    }, 
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
