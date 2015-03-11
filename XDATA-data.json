@@ -1,0 +1,14 @@
+[
+    {
+        "DARPA Program":"XDATA",
+		"Data Set Name":"Twitter",
+		"Description":"This data set contains 4 million Tweets from Latin America from March to May of 2014. About 11% of the Tweets are geotagged.",
+		"Number of Rows":"4017233",
+		"Number of Columns":"19",
+		"Industry":[
+			"Social Media"
+            ],
+		"New Date":"20150310",
+        "Update Date":""
+	}
+]
