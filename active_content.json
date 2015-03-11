@@ -6,7 +6,7 @@
         "Pubs File": "AA-pubs.json",
         "Software File": "AA-software.json",
 		"Data File": "",
-        "Banner":""
+        "Banner":"UPDATED"
 },
 {
         "DARPA Office": "I2O",
@@ -42,7 +42,7 @@
         "Pubs File": "BOLT-pubs.json",
         "Software File": "BOLT-software.json",
 		"Data File": "",
-        "Banner":"UPDATED"
+        "Banner":""
 },
 {
         "DARPA Office": "I2O",
@@ -123,7 +123,7 @@
         "Pubs File": "GRAPHS-pubs.json",
         "Software File": "",
 		"Data File": "",
-        "Banner":"UPDATED"
+        "Banner":""
 },
 {
         "DARPA Office": "I2O",
