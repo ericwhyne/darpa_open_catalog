@@ -218,11 +218,11 @@
 {
         "DARPA Office": "TTO",
         "Program Name": "System F6",
-        "Program File": "System-F6-program.json",
-        "Pubs File": "System-F6-pubs.json",
-        "Software File": "System-F6-software.json",
+        "Program File": "SystemF6-program.json",
+        "Pubs File": "SystemF6-pubs.json",
+        "Software File": "SystemF6-software.json",
 		"Data File": "",
-        "Banner": ""
+        "Banner": "NEW"
 },
 {
         "DARPA Office": "I2O",
