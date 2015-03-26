@@ -1,0 +1,64 @@
+[
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "F6IAP Team"
+        ], 
+        "Contributors": [
+            "Vanderbilt University"
+        ], 
+        "Sub-contractors": [
+            "Object Computing, Inc.", 
+            "Kestrel Institute", 
+            "Remedy IT"
+        ], 
+        "Software": "DREMS", 
+        "Internal Link": "", 
+        "External Link": "https://drems.isis.vanderbilt.edu/", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "DREMS is a complete Information Architecture Platform for building distributed real-time embedded systems. It includes both the run-time components: an operating system, middleware, and services as well as design-time tools: a model-driven development toolchain.", 
+        "Internal Code Repo": "/projects/drems_usr_project/repository", 
+        "License": [
+            "MIT/X", 
+            "GPL", 
+            "LGPL", 
+            "ACE/TAO License"
+        ], 
+        "Languages": [
+            "C", 
+            "C++", 
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "x86", 
+            "Linux Ubuntu", 
+            "Windows 7"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Embedded Software"
+        ], 
+        "Functionality": [
+            "Platform for Distributed Real-time Embedded Systems", 
+            "Model-driven Development Toolchain"
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }
+]

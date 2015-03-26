@@ -1,0 +1,23 @@
+[
+    {
+	"DARPA Office":"TTO",
+    "DARPA Program Name":"System F6",
+    "Long Name":"System F6",
+    "Program Teams":[
+	"Vanderbilt University"
+        ],
+    "Link":"http://www.darpa.mil/Our_Work/TTO/Programs/System_F6.aspx",
+    "Display Software Columns":[
+        "Team",
+        "Project",
+        "Description",
+        "License",
+		"Link"
+		],
+    "Description": "System F6 seeks to demonstrate the feasibility and benefits of a satellite architecture wherein the functionality of a traditional ?monolithic? spacecraft is delivered by a cluster of wirelessly interconnected modules capable of sharing their resources and utilizing resources found elsewhere in the cluster. Such architecture enhances the adaptability and survivability of space systems, while shortening development timelines and reducing the barrier-to-entry for participation in the national security space industry.",
+	"Program Manager Link":"http://www.darpa.mil/Our_Work/TTO/Personnel/Lt_Col__John_Losinski.aspx",
+    "Program Manager":"LtCol. John Losinski",
+    "Program Manager Email":"john.losinski@darpa.mil",
+    "Image":""
+	}
+]

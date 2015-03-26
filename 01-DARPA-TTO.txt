@@ -1,0 +1,7 @@
+{
+    "DARPA Office": "TTO",
+	"DARPA Long Name": "Tactical Technology Office",
+    "DARPA Office Description": "TTO will rapidly develop new prototype military capabilities that create an asymmetric technological advantage and provide U.S. forces with decisive superiority and the ability to overwhelm our opponents.",
+    "DARPA Office Color": "55399A",
+	"DARPA Link" : "http://www.darpa.mil/Our_Work/TTO/"
+}
