@@ -19,7 +19,7 @@
         "Description": "Giles is a compiler that takes a description of a production rule system and generates a schema for a SQL database. Databases created with these schemas are standalone production rule systems/event correlation engines in database form, allowing for ease of use and embedding within larger projects. (Python)", 
         "Internal Code Repo": "", 
         "License": [
-            "AGPLv3"
+            "GPL3"
         ], 
         "Languages": [
             "Python"
