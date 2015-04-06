@@ -1,0 +1,58 @@
+[
+    {
+        "DARPA Program": "CINDER", 
+        "Program Teams": [
+            "KoreLogic, Inc."
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Giles", 
+        "Internal Link": "", 
+        "External Link": "https://git.korelogic.com/giles.git/", 
+        "Public Code Repo": "https://github.com/KoreLogicSecurity/giles", 
+        "Instructional Material": "", 
+        "Stats": "giles", 
+        "Description": "Giles is a compiler that takes a description of a production rule system and generates a schema for a SQL database. Databases created with these schemas are standalone production rule systems/event correlation engines in database form, allowing for ease of use and embedding within larger projects. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "AGPLv3"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Python version 3.4"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Production Rule Systems", 
+            "Artificial Intelligence", 
+            "Pattern Matching", 
+            "Databases", 
+            "Event Correlation"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20150406", 
+        "Update Date": ""
+    }
+]

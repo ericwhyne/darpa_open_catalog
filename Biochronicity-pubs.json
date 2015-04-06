@@ -1,0 +1,33 @@
+[
+    {
+        "DARPA Program": "Biochronicity", 
+        "Program Teams": [
+            "University of Chicago", 
+            "Northwestern University"
+        ], 
+        "Title": "Improved Statistical Methods Enable Greater Sensitivity in Rhythm Detection for Genome-Wide Data", 
+        "Authors": [
+            "Alan L. Hutchison", 
+            "Mark Maienschein-Cline", 
+            "Andrew H. Chiang", 
+            "S. M. Ali Tabei", 
+            "Herman Gudjonson", 
+            "Neil Bahroos", 
+            "Ravi Allada", 
+            "Aaron R. Dinner"
+        ], 
+        "Link": "http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1004094&representation=PDF", 
+        "Categories": [
+            "Probability and Statistics"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "J.3"
+        ], 
+        "New Date": "20150406", 
+        "Update Date": ""
+    }
+]
