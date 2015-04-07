@@ -206,15 +206,6 @@
         "Banner": ""
 },
 {
-        "DARPA Office": "TTO",
-        "Program Name": "System F6",
-        "Program File": "SystemF6-program.json",
-        "Pubs File": "SystemF6-pubs.json",
-        "Software File": "SystemF6-software.json",
-		"Data File": "",
-        "Banner": "NEW"
-},
-{
         "DARPA Office": "I2O",
         "Program Name": "XDATA",
         "Program File": "XDATA-program.json",
