@@ -13,8 +13,11 @@
         "License"
     ],
     "Display Data Columns":[
+		"Industry",
 		"Name",
-		"Description"
+		"Description",
+		"Total Rows",
+		"Total Columns"
 	],
     "Display Pubs Columns":[
         "Team",
