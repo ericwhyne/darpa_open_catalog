@@ -12,15 +12,18 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
+    "Display Data Columns":[
+		"Name",
+		"Description"
+	],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
-    "Description":"",
+    "Description":"Memex seeks to develop software that advances online search capabilities far beyond the current state of the art. The goal is to invent better methods for interacting with and sharing information, so users can quickly and thoroughly organize and search subsets of information relevant to their individual interests. The technologies developed in the program would provide the mechanisms for improved content discovery, information extraction, information retrieval, user collaboration and other key search functions. ",
     "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Christopher_White.aspx",
     "Program Manager":"Dr. Christopher White",
     "Program Manager Email":"christopher.white@darpa.mil",
-    "Image":""
+    "Image":"MEMEX-image.jpg"
 }

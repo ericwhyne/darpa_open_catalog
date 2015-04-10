@@ -71,7 +71,7 @@
         "Public Code Repo": "https://github.com/mille856/CMU_memex_kickoff", 
         "Instructional Material": "", 
         "Stats": "CMU_memex_kickoff", 
-        "Description": "Regex based information extractor for Backpage.com female escort advertisements.", 
+        "Description": "Regex based information extractor for Backpage.com female escort advertisements. (Java)", 
         "Internal Code Repo": "", 
         "License": [
             "MIT"
@@ -123,7 +123,7 @@
         "Public Code Repo": "", 
         "Instructional Material": "", 
         "Stats": "", 
-        "Description": "Classifier for escort advertisement text.", 
+        "Description": "Classifier for escort advertisement text. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "MIT"
@@ -175,7 +175,7 @@
         "Public Code Repo": "https://github.com/jiezhou0731/Dumpling", 
         "Instructional Material": "", 
         "Stats": "Dumpling", 
-        "Description": "Dumpling implements a novel dynamic search engine which refines search results on the fly. Dumpling utilizes the Winwin algorithm and the Query Change retrieval Model (QCM) to infer user's state, and tailor search results accordingly.  Dumpling provides a friendly user interface for user to compare the static results and dynamic results.", 
+        "Description": "Dumpling implements a novel dynamic search engine which refines search results on the fly. Dumpling utilizes the Winwin algorithm and the Query Change retrieval Model (QCM) to infer user's state, and tailor search results accordingly.  Dumpling provides a friendly user interface for user to compare the static results and dynamic results. (Java, JavaScript, HTML, CSS)", 
         "Internal Code Repo": "https://github.com/jiezhou0731/Dumpling", 
         "License": [
             "Public Domain"
@@ -235,7 +235,7 @@
         "Public Code Repo": "https://github.com/jiezhou0731/Direwolf", 
         "Instructional Material": "", 
         "Stats": "Direwolf", 
-        "Description": "Direwolf is a dynamic search engine built over the results of focused web crawls. Direwolf integrates Dumpling's search engine and NYU team's crawler. It provides search service in domains such as human trafficking,  illicit pharmaceuticals, etc.", 
+        "Description": "Direwolf is a dynamic search engine built over the results of focused web crawls. Direwolf integrates Dumpling's search engine and NYU team's crawler. It provides search service in domains such as human trafficking,  illicit pharmaceuticals, etc. (Java, JavaScript, HTML, CSS)", 
         "Internal Code Repo": "https://github.com/jiezhou0731/Direwolf", 
         "License": [
             "Public Domain"
@@ -297,13 +297,16 @@
         "Public Code Repo": "https://github.com/shawn67/TREC-DD-Annotation-Tool", 
         "Instructional Material": "", 
         "Stats": "TREC-DD-Annotation-Tool", 
-        "Description": "This Annotation Tool supports the annotation task in creating ground truth data for TREC Dynamic Domain Track. It adopts drag and drop approach for assessor to annotate passage-level relevance judgement. It also supports multiple ways of browsing and search in various domains of corpora used in TREC DD.", 
+        "Description": "This Annotation Tool supports the annotation task in creating ground truth data for TREC Dynamic Domain Track. It adopts drag and drop approach for assessor to annotate passage-level relevance judgement. It also supports multiple ways of browsing and search in various domains of corpora used in TREC DD. (Python, JavaScript, HTML, CSS)", 
         "Internal Code Repo": "https://github.com/shawn67/TREC-DD-Annotation-Tool", 
         "License": [
             "Public Domain"
         ], 
         "Languages": [
-            "Python HTML CSS JavaScript"
+            "Python",
+			"HTML",
+			"CSS",
+			"JavaScript"
         ], 
         "Platform Requirements": [
             "Chrome 4.0+",
@@ -356,7 +359,7 @@
         "Public Code Repo": "https://github.com/trec-dd/trec-dd-metrics/tree/master/cube-test/cubetest", 
         "Instructional Material": "", 
         "Stats": "cubetest", 
-        "Description": "Official evaluation metric used for evaluation for TREC Dynamic Domain Track. It is a multiple-dimensional metric that measures the effectiveness of complete a complex and task-based search process.", 
+        "Description": "Official evaluation metric used for evaluation for TREC Dynamic Domain Track. It is a multiple-dimensional metric that measures the effectiveness of complete a complex and task-based search process. (Perl)", 
         "Internal Code Repo": "https://github.com/trec-dd/trec-dd-metrics/tree/master/cube-test/cubetest", 
         "License": [
             "Public Domain"
@@ -412,7 +415,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/autologin", 
         "Instructional Material": "", 
         "Stats": "autologin", 
-        "Description": "AutoLogin is a crawling utility that attempts to automatically find the login page of a website given a seed url, and then automatically login to that website given valid credentials. AutoLogin can be used both as a library or as a service. This service gives you an easy way to handle autologin without having to find the login form yourself or build POST requests to login. You can just specify any reasonable starting point to crawl a website (e.g. the home page), give AutoLogin a set of credentials and it logs in for you, providing the authenticated headers/cookies back to you for use in your own crawler or scraper.", 
+        "Description": "AutoLogin is a crawling utility that attempts to automatically find the login page of a website given a seed URL, and then automatically login to that website given valid credentials. AutoLogin can be used both as a library or as a service. This service gives you an easy way to handle autologin without having to find the login form yourself or build POST requests to login. You can just specify any reasonable starting point to crawl a website (e.g. the home page), give AutoLogin a set of credentials and it logs in for you, providing the authenticated headers/cookies back to you for use in your own crawler or scraper. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -467,7 +470,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/Formasaurus", 
         "Instructional Material": "", 
         "Stats": "Formasaurus", 
-        "Description": "Formasaurus is a Python package that tells you the type of an HTML form: is it a login, search, registration, password recovery, join mailing list, contact form or something else. Under the hood it uses machine learning.", 
+        "Description": "Formasaurus is a Python package that tells you the type of an HTML form: is it a login, search, registration, password recovery, join mailing list, contact form or something else. Under the hood it uses machine learning. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -521,7 +524,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/hgprofiler", 
         "Instructional Material": "", 
         "Stats": "hgprofiler", 
-        "Description": "HG Profiler is a tool based on the Recon-ng tool's profiler module (see http://webbreacher.blogspot.com/2014/12/recon-ng-profiler-module.html). Our version is distributed and runs a bit more efficiently than the original, but was otherwise very much inspired by the Recon-ng module. The tool allows you to take a list of usernames from a particular source (say, a chat room where illicit activities are discussed) and look for that same username across 130+ other websites, from social media sites to dating sites and more. The list of sites to cross-check is extensible. The distributed nature of the tool means that you can check a large number of usernames in a short amount of time.", 
+        "Description": "HG Profiler is a tool based on the Recon-ng tool's profiler module (see http://webbreacher.blogspot.com/2014/12/recon-ng-profiler-module.html). Our version is distributed and runs a bit more efficiently than the original, but was otherwise very much inspired by the Recon-ng module. The tool allows you to take a list of usernames from a particular source (say, a chat room where illicit activities are discussed) and look for that same username across 130+ other websites, from social media sites to dating sites and more. The list of sites to cross-check is extensible. The distributed nature of the tool means that you can check a large number of usernames in a short amount of time. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -576,7 +579,7 @@
         "Public Code Repo": "2015-04", 
         "Instructional Material": "", 
         "Stats": "", 
-        "Description": "SourcePin is a tool to assist users in discovering websites that contain content they are interested in for a particular topic, or domain. Unlike a search engine, SourcePin allows a non-technical user to leverage the power of an advanced automated smart web crawling system to generate significantly more results than the manual process typically does, in significantly less time. The User Interface of SourcePin allows users to quickly across through hundreds or thousands of representative images to quickly find the websites they are most interested in. SourcePin also has a scoring system which takes feedback from the user on which websites are interesting and, using machine learning, assigns a score to the other crawl results based on how interesting they are likely to be for the user.  The roadmap for SourcePin includes integration with other tools and a capability for users to actually extract relevant information from the crawl results.", 
+        "Description": "SourcePin is a tool to assist users in discovering websites that contain content they are interested in for a particular topic, or domain. Unlike a search engine, SourcePin allows a non-technical user to leverage the power of an advanced automated smart web crawling system to generate significantly more results than the manual process typically does, in significantly less time. The User Interface of SourcePin allows users to quickly across through hundreds or thousands of representative images to quickly find the websites they are most interested in. SourcePin also has a scoring system which takes feedback from the user on which websites are interesting and, using machine learning, assigns a score to the other crawl results based on how interesting they are likely to be for the user.  The roadmap for SourcePin includes integration with other tools and a capability for users to actually extract relevant information from the crawl results. (Python, JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -633,7 +636,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/scrapy-dockerhub", 
         "Instructional Material": "", 
         "Stats": "scrapy-dockerhub", 
-        "Description": "Scrapy-Dockerhub is a deployment setup for Scrapy spiders that packages the spider and all dependencies into a Docker container, which is then managed by a Fabric command line utility. With this setup, you can run your spiders seamlessly on any server, without the need for Scrapyd which typically handles the spider management. With Scrapy-Dockerhub, you issue one command to deploy spider with all dependencies to the server and second command to run it, just that easy. There are also commands for viewing jobs, logs, etc.", 
+        "Description": "Scrapy-Dockerhub is a deployment setup for Scrapy spiders that packages the spider and all dependencies into a Docker container, which is then managed by a Fabric command line utility. With this setup, you can run your spiders seamlessly on any server, without the need for Scrapyd which typically handles the spider management. With Scrapy-Dockerhub, you issue one command to deploy spider with all dependencies to the server and second command to run it, just that easy. There are also commands for viewing jobs, logs, etc. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -688,7 +691,7 @@
         "Public Code Repo": "https://github.com/usc-isi-i2/Web-Karma", 
         "Instructional Material": "", 
         "Stats": "Web-Karma", 
-        "Description": "Karma is an information integration tool that enables users to quickly and easily integrate data from a variety of data sources including databases, spreadsheets, delimited text files, XML, JSON, KML and Web APIs. Users integrate information by modelling it according to an ontology of their choice using a graphical user interface that automates much of the process. (Java/JavaScript)", 
+        "Description": "Karma is an information integration tool that enables users to quickly and easily integrate data from a variety of data sources including databases, spreadsheets, delimited text files, XML, JSON, KML and Web APIs. Users integrate information by modelling it according to an ontology of their choice using a graphical user interface that automates much of the process. (Java, JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -799,13 +802,14 @@
         "Public Code Repo": "https://github.com/Parsely/streamparse.git", 
         "Instructional Material": "", 
         "Stats": "streamparse", 
-        "Description": "streamparse lets you run Python code against real-time streams of data. It allows users to spin up small clusters of stream processing machines locally during development. It also allows remote management of stream processing clusters that are running Apache Storm. It includes both a Python module implementing the Storm multi-lang protocol; a command-line tool for managing local development, projects, and clusters; and a public API for writing data processing topologies easily. (Python, Clojure)", 
+        "Description": "Streamparse lets you run Python code against real-time streams of data. It allows users to spin up small clusters of stream processing machines locally during development. It also allows remote management of stream processing clusters that are running Apache Storm. It includes both a Python module implementing the Storm multi-lang protocol; a command-line tool for managing local development, projects, and clusters; and a public API for writing data processing topologies easily. (Python, Clojure)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
         ], 
         "Languages": [
-            "Python"
+            "Python",
+			"Clojure"
         ], 
         "Platform Requirements": [
             "UNIX-like System (Mac OS X, Linux)"
@@ -856,7 +860,7 @@
         "Public Code Repo": "https://github.com/Parsely/pykafka.git", 
         "Instructional Material": "", 
         "Stats": "pykafka", 
-        "Description": "A Python driver for the Apache Kafka messaging system, pykafka enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses.", 
+        "Description": "A Python driver for the Apache Kafka messaging system, pykafka enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -966,7 +970,7 @@
         "Public Code Repo": "https://github.com/memex-explorer/image_space", 
         "Instructional Material": "", 
         "Stats": "image_space", 
-        "Description": "ImageSpace provides the ability to analyze and search through large numbers of images. These images may be text searched based on associated metadata and OCR text or a new image may be uploaded as a foundation for a search (Python).", 
+        "Description": "ImageSpace provides the ability to analyze and search through large numbers of images. These images may be text searched based on associated metadata and OCR text or a new image may be uploaded as a foundation for a search. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -1181,7 +1185,7 @@
         "Public Code Repo": "https://github.com/lewismc/legisgate", 
         "Instructional Material": "", 
         "Stats": "legisgate", 
-        "Description": "Demonstration application for running General Architecture Text Engineering over legislative resources such as district court appeals.", 
+        "Description": "Demonstration application for running General Architecture Text Engineering over legislative resources such as district court appeals. (Java)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -1233,7 +1237,7 @@
         "Public Code Repo": "https://github.com/shadow", 
         "Instructional Material": "", 
         "Stats": "shadow", 
-        "Description": "Shadow is an open-source network simulator/emulator hybrid that runs real applications like Tor and Bitcoin over a simulated Internet topology. It is light-weight, efficient, scalable, parallelized, controllable, deterministic, accurate, and modular.", 
+        "Description": "Shadow is an open-source network simulator/emulator hybrid that runs real applications like Tor and Bitcoin over a simulated Internet topology. It is light-weight, efficient, scalable, parallelized, controllable, deterministic, accurate, and modular. (C)", 
         "Internal Code Repo": "", 
         "License": [
             "BSD"
@@ -1562,7 +1566,7 @@
         "Public Code Repo": "https://github.com/unchartedsoftware/TellFinder/", 
         "Instructional Material": "", 
         "Stats": "TellFinder", 
-        "Description": "TellFinder provides efficient visual analytics to detect and combat human trafficking by automatically characterizing and organizing publicly available Internet escort advertisements. Compared to standard web search engines, TellFinder enables analysts to research case-related data and tips in significantly less time. Reviewing TellFinder's automatically characterized ad groups also allows analysts to track activity patterns over time, discover previously unknown actors and infer organizational relationships. (JavaScript/Java)", 
+        "Description": "TellFinder provides efficient visual analytics to detect and combat human trafficking by automatically characterizing and organizing publicly available Internet escort advertisements. Compared to standard web search engines, TellFinder enables analysts to research case-related data and tips in significantly less time. Reviewing TellFinder's automatically characterized ad groups also allows analysts to track activity patterns over time, discover previously unknown actors and infer organizational relationships. (JavaScript, Java)", 
         "Internal Code Repo": "https://github.com/unchartedsoftware/TellFinder/", 
         "License": [
             "MIT"
