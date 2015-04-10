@@ -1,196 +1,182 @@
 [
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Ebola TREC DD Raw PDF",
-		"Description":"The PDFs contained within the directory were crawled from the following sites using Apache Nutchi 1.10-SNAPSHOT.
-
-http://www.who.int/en
-http://fts.unocha.org
-http://www.worldbank.org/en/topic/ebola
-http://apps.who.int/ebola/en/current-situation/ebola-situation-report
-
-The document corpus represents a dump of ONLY PDFs from the above sites with the aim of capturing a corpus representing sentiment focusing on the Ebola Crisis domain.",
-		"Number of Rows":"",
-		"Number of Columns":"",
-		"Industry":[
-			"Ebola"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Ebola TREC DD Raw PDF",
+        "Description": "The PDFs contained within the directory were crawled from the following sites using Apache Nutchi 1.10-SNAPSHOT. http://www.who.int/en, http://fts.unocha.org, http://www.worldbank.org/en/topic/ebola, http://apps.who.int/ebola/en/current-situation/ebola-situation-report The document corpus represents a dump of ONLY PDFs from the above sites with the aim of capturing a corpus representing sentiment focusing on the Ebola Crisis domain.",
+        "Number of Rows": "",
+        "Number of Columns": "",
+        "Industry": [
+            "Ebola"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Ebola TREC DD PDF Solr Index",
-		"Description":"Provides a Solr index representation of the data described as 'The PDFs contained within the directory were crawled from the following sites using Apache Nutchi 1.10-SNAPSHOT.
-
-http://www.who.int/en
-http://fts.unocha.org
-http://www.worldbank.org/en/topic/ebola
-http://apps.who.int/ebola/en/current-situation/ebola-situation-report
-
-The document corpus represents a dump of ONLY PDFs from the above sites with the aim of capturing a corpus representing sentiment focusing on the Ebola Crisis domain.'",
-		"Number of Rows":"",
-		"Number of Columns":"",
-		"Industry":[
-			"Ebola"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Ebola TREC DD PDF Solr Index",
+        "Description": "Provides a Solr index representation of the data described as 'The PDFs contained within the directory were crawled from the following sites using Apache Nutchi 1.10-SNAPSHOT. http://www.who.int/en, http://fts.unocha.org, http://www.worldbank.org/en/topic/ebola, http://apps.who.int/ebola/en/current-situation/ebola-situation-report The document corpus represents a dump of ONLY PDFs from the above sites with the aim of capturing a corpus representing sentiment focusing on the Ebola Crisis domain.'",
+        "Number of Rows": "",
+        "Number of Columns": "",
+        "Industry": [
+            "Ebola"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Florida District Court of Appeals",
-		"Description":"4130 PDF documents (1st - 5th Districts dating back to 2007) - https://crawl-jpl.s3.amazonaws.com/florida_state_appeals_court.zip",
-		"Number of Rows":"4130",
-		"Number of Columns":"",
-		"Industry":[
-			"Public Criminal Law"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Florida District Court of Appeals",
+        "Description": "4130 PDF documents (1st - 5th Districts dating back to 2007) - https://crawl-jpl.s3.amazonaws.com/florida_state_appeals_court.zip",
+        "Number of Rows": "4130",
+        "Number of Columns": "",
+        "Industry": [
+            "Public Criminal Law"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"District of Columbia Court of Appeals",
-		"Description":"375 PDF documents (compounded documents) - https://crawl-jpl.s3.amazonaws.com/district_of_colombia.zip",
-		"Number of Rows":"375",
-		"Number of Columns":"",
-		"Industry":[
-			"Public Criminal Law"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "District of Columbia Court of Appeals",
+        "Description": "375 PDF documents (compounded documents) - https://crawl-jpl.s3.amazonaws.com/district_of_colombia.zip",
+        "Number of Rows": "375",
+        "Number of Columns": "",
+        "Industry": [
+            "Public Criminal Law"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"New York State 1st District Court of Appeals",
-		"Description":"1798 PDF documents - https://crawl-jpl.s3.amazonaws.com/new_york_state_appellate_1st_div.zip",
-		"Number of Rows":"1798",
-		"Number of Columns":"",
-		"Industry":[
-			"Public Criminal Law"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "New York State 1st District Court of Appeals",
+        "Description": "1798 PDF documents - https://crawl-jpl.s3.amazonaws.com/new_york_state_appellate_1st_div.zip",
+        "Number of Rows": "1798",
+        "Number of Columns": "",
+        "Industry": [
+            "Public Criminal Law"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"New York State 2nd District Court of Appeals",
-		"Description":"8745 PDF documents - https://crawl-jpl.s3.amazonaws.com/new_york_state_appellate_2nd_div.zip",
-		"Number of Rows":"8745",
-		"Number of Columns":"",
-		"Industry":[
-			"Public Criminal Law"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "New York State 2nd District Court of Appeals",
+        "Description": "8745 PDF documents - https://crawl-jpl.s3.amazonaws.com/new_york_state_appellate_2nd_div.zip",
+        "Number of Rows": "8745",
+        "Number of Columns": "",
+        "Industry": [
+            "Public Criminal Law"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"New York State 4th District Court of Appeals",
-		"Description":"85 (compounded documents) - https://crawl-jpl.s3.amazonaws.com/new_york_state_appellate_4th_div.zip",
-		"Number of Rows":"85",
-		"Number of Columns":"",
-		"Industry":[
-			"Public Criminal Law"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "New York State 4th District Court of Appeals",
+        "Description": "85 (compounded documents) - https://crawl-jpl.s3.amazonaws.com/new_york_state_appellate_4th_div.zip",
+        "Number of Rows": "85",
+        "Number of Columns": "",
+        "Industry": [
+            "Public Criminal Law"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Escort Sites",
-		"Description":"Multiple crawls of various escort sites as defined by this seed list: https://memexproxy.com/wiki/display/MPM/Web+Sites+For+Scraping. Data Set is available at: http://memex.dyndns.org:8983/solr/",
-		"Number of Rows":"1019923",
-		"Number of Columns":"",
-		"Industry":[
-			"Human Trafficking"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Escort Sites",
+        "Description": "Multiple crawls of various escort sites as defined by this seed list: https://memexproxy.com/wiki/display/MPM/Web+Sites+For+Scraping. Data Set is available at: http://memex.dyndns.org:8983/solr/",
+        "Number of Rows": "1019923",
+        "Number of Columns": "",
+        "Industry": [
+            "Human Trafficking"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Image Catalog",
-		"Description":"Annotated version of the Roxyimages 32M+ image dataset containing all extracted EXIF metadata (camera serial number, etc.) by Tika, as well as OCR image to text extraction from Tika/Tesseract.",
-		"Number of Rows":"31508592",
-		"Number of Columns":"60+",
-		"Industry":[
-			"Human Trafficking"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Image Catalog",
+        "Description": "Annotated version of the Roxyimages 32M+ image dataset containing all extracted EXIF metadata (camera serial number, etc.) by Tika, as well as OCR image to text extraction from Tika/Tesseract.",
+        "Number of Rows": "31508592",
+        "Number of Columns": "60+",
+        "Industry": [
+            "Human Trafficking"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Ebola news articles in html. (ebola_01_12_2015.tar.gz)",
-		"Description":"This dataset contains 328k articles about Ebola in html.",
-		"Number of Rows":"",
-		"Number of Columns":"",
-		"Industry":[
-			"News Media"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Ebola news articles in html. (ebola_01_12_2015.tar.gz)",
+        "Description": "This dataset contains 328k articles about Ebola in html.",
+        "Number of Rows": "",
+        "Number of Columns": "",
+        "Industry": [
+            "News Media"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Paper abstracts from Journal Cambridge in html. (abstracts.tar.gz)",
-		"Description":"This dataset contains abstracts and metadata (title, authors, affiliations) of 69k papers (1980-2014) crawled from journals.cambridge.org.",
-		"Number of Rows":"",
-		"Number of Columns":"",
-		"Industry":[
-			"Material Sciences Literature"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Paper abstracts from Journal Cambridge in html. (abstracts.tar.gz)",
+        "Description": "This dataset contains abstracts and metadata (title, authors, affiliations) of 69k papers (1980-2014) crawled from journals.cambridge.org.",
+        "Number of Rows": "",
+        "Number of Columns": "",
+        "Industry": [
+            "Material Sciences Literature"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Papers (fulltext) from Journal Cambridge in PDF",
-		"Description":"This dataset contains 67k full-text papers (1980-2014) in PDF format, crawled from journals.cambridge.org.",
-		"Number of Rows":"",
-		"Number of Columns":"",
-		"Industry":[
-			"Material Sciences Literature"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Papers (fulltext) from Journal Cambridge in PDF",
+        "Description": "This dataset contains 67k full-text papers (1980-2014) in PDF format, crawled from journals.cambridge.org.",
+        "Number of Rows": "",
+        "Number of Columns": "",
+        "Industry": [
+            "Material Sciences Literature"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Papers (fulltext) from Journal Cambridge in PDF",
-		"Description":"This dataset contains 67k full-text papers  extracted from PDF version.",
-		"Number of Rows":"",
-		"Number of Columns":"",
-		"Industry":[
-			"Material Sciences Literature"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Papers (fulltext) from Journal Cambridge in PDF",
+        "Description": "This dataset contains 67k full-text papers  extracted from PDF version.",
+        "Number of Rows": "",
+        "Number of Columns": "",
+        "Industry": [
+            "Material Sciences Literature"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Papers (fulltext) from Nature Materials Journal in html",
-		"Description":"This dataset contains 2771 full-text papers (2002 to 2015) in html format crawled from http://www.nature.com/nmat/archive/index.html.",
-		"Number of Rows":"",
-		"Number of Columns":"",
-		"Industry":[
-			"Material Sciences Literature"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	},	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Papers (fulltext) from Nature Materials Journal in html",
+        "Description": "This dataset contains 2771 full-text papers (2002 to 2015) in html format crawled from http://www.nature.com/nmat/archive/index.html.",
+        "Number of Rows": "",
+        "Number of Columns": "",
+        "Industry": [
+            "Material Sciences Literature"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    },
     {
-        "DARPA Program":"MEMEX",
-		"Data Set Name":"Papers (fulltext) from Nature Materials Journal in PDF",
-		"Description":"This dataset contains 2771 full-text papers (2002 to 2015) in PDF format crawled from http://www.nature.com/nmat/archive/index.html.",
-		"Number of Rows":"",
-		"Number of Columns":"",
-		"Industry":[
-			"Material Sciences Literature"
-            ],
-		"New Date":"20150410",
-        "Update Date":""
-	}	
+        "DARPA Program": "MEMEX",
+        "Data Set Name": "Papers (fulltext) from Nature Materials Journal in PDF",
+        "Description": "This dataset contains 2771 full-text papers (2002 to 2015) in PDF format crawled from http://www.nature.com/nmat/archive/index.html.",
+        "Number of Rows": "",
+        "Number of Columns": "",
+        "Industry": [
+            "Material Sciences Literature"
+        ],
+        "New Date": "20150410",
+        "Update Date": ""
+    }
 ]
