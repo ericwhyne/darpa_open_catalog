@@ -1609,5 +1609,177 @@
         ], 
         "New Date": "20150410", 
         "Update Date": ""
+    },
+	    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "ArrayFire"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "ArrayFire", 
+        "Internal Link": "", 
+        "External Link": "http://arrayfire.com", 
+        "Public Code Repo": "https://github.com/arrayfire", 
+        "Instructional Material": "", 
+        "Stats": "arrayfire", 
+        "Description": "ArrayFire is a high performance software library for parallel computing with an easy-to-use API. Its array-based function set makes parallel programming simple. ArrayFire's multiple backends (CUDA, OpenCL, and native CPU) make it platform independent and highly portable. A few lines of code in ArrayFire can replace dozens of lines of parallel computing code, saving you valuable time and lowering development costs. (C, C++, Python, Fortran, Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            "C", 
+            "C++", 
+            "Python", 
+            "Fortran", 
+            "Java"
+        ], 
+        "Platform Requirements": [
+            "Linux", 
+            "Windows", 
+            "MacOSX"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "GPU and accelerated computing",
+			"parallel computing"
+        ], 
+        "Categories": [
+            "Analytics", 
+            "API", 
+            "Distributed Programming", 
+            "Image Processing", 
+            "Machine Learning", 
+            "Signal Processing", 
+            "Visualization"
+        ], 
+        "New Date": "20150413", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Data Microscopes", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "https://github.com/datamicroscopes/", 
+        "Instructional Material": "", 
+        "Stats": "datamicroscopes", 
+        "Description": "Data Microscopes is a collection of robust, validated Bayesian nonparametric models for discovering structure in data. Models for tabular, relational, text, and time-series data can accommodate multiple data types, including categorical, real-valued, binary, and spatial data. Inference and visualization of results respects the underlying uncertainty in the data, allowing domain experts to feel confident in the quality of the answers they receive. (Python, C++)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python", 
+            "C++"
+        ], 
+        "Platform Requirements": [
+            "C++11 compiler.  Full requirements given on: https://github.com/datamicroscopes/common"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Machine Learning", 
+            "Bayesian Nonparametrics"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20150413", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Omakase", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Omakase provides a simple and flexible interface to share data, computations, and visualizations between a variety of user roles in both local and cloud environments. (Python, Clojure)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python", 
+            "Clojure"
+        ], 
+        "Platform Requirements": [
+            "OSX/Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Cloud Orchestration"
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20150413", 
+        "Update Date": ""
     }
 ]
