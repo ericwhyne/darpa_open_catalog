@@ -54,7 +54,8 @@
     {
       "DARPA Program": "MEMEX",
       "Program Teams": [
-          "The Tor Project", "SRI International"
+          "The Tor Project",
+		  "SRI International"
       ],
       "Contributors": [
           ""
@@ -68,10 +69,10 @@
       "Public Code Repo": "https://gitweb.torproject.org/tor.git/",
       "Instructional Material": "",
       "Stats": "",
-      "Description": "The core software for using and participating in the Tor network.",
+      "Description": "The core software for using and participating in the Tor network. (C)",
       "Internal Code Repo": "",
       "License": [
-          "3-clause BSD"
+          "BSDv3"
       ],
       "Languages": [
           "C"
@@ -95,7 +96,9 @@
           ""
       ],
       "Functionality": [
-        "Anonymity", "privacy", "censorship circumvention"
+        "Anonymity",
+		"privacy",
+		"censorship circumvention"
       ],
       "Categories": [
           "Infrastructure"
