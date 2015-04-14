@@ -1723,5 +1723,60 @@
         ],
         "New Date":"",
         "Update Date":"20140809"
+    },
+	    {
+        "DARPA Program": "Memex", 
+        "Program Teams": [
+            "IST Research"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Parsely, Inc"
+        ], 
+        "Software": "Scrapy Cluster", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Scrapy Cluster is a scalable, distributed web crawling cluster based on Scrapy and coordinated via Kafka and Redis. It provides a framework for intelligent distributed throttling as well as the ability to conduct time-limited web crawls.", 
+        "Internal Code Repo": "https://github.com/istresearch/memex/tree/master/scrapy/distributed_crawling", 
+        "License": [
+            "BSD-style"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "UNIX-like System (Mac OS X, Linux)"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Distributed Computing", 
+            "Web Crawling", 
+            "Data Scraping"
+        ], 
+        "Categories": [
+            "Information Collection", 
+            "Distributed Environments"
+        ], 
+        "New Date": "20150414", 
+        "Update Date": ""
     }
 ]
