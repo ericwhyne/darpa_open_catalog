@@ -1667,5 +1667,60 @@
         ], 
         "New Date": "20150413", 
         "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Sotera Defense Solutions"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "DataWake", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "https://github.com/Sotera/Datawake", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "The Datawake project consists of various server and database technologies that aggregate user browsing data via a plug-in using domain-specific searches. This captured, or extracted, data is organized into browse paths and elements of interest. This information can be shared or expanded amongst teams of individuals. Elements of interest which are extracted either automatically, or manually by the user, are given weighted values.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python", 
+            "Java",
+            "Scala",
+            "Clojure",
+            "JavaScript"
+        ], 
+        "Platform Requirements": [
+            "Full requirements given on: http://sotera.github.io/Datawake/"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+        ], 
+        "Categories": [
+            "Analytics, Distributed Programming, Data Collection"
+        ], 
+        "New Date": "20150413", 
+        "Update Date": ""
     }
 ]
