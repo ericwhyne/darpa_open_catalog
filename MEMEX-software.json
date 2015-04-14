@@ -345,7 +345,7 @@
         ], 
         "Software": "CubeTest", 
         "Internal Link": "https://memexproxy.com/wiki/display/MEM/Georgetown+University", 
-        "External Link": "", 
+        "External Link": "https://github.com/trec-dd/trec-dd-metrics/tree/master/cube-test/cubetest", 
         "Public Code Repo": "https://github.com/trec-dd/trec-dd-metrics/tree/master/cube-test/cubetest", 
         "Instructional Material": "", 
         "Stats": "cubetest", 
