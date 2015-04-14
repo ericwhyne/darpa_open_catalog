@@ -726,13 +726,14 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "IST Research"
+            "IST Research",
+			"Parse.ly"
         ], 
         "Contributors": [
             ""
         ], 
         "Sub-contractors": [
-            "Parsely, Inc"
+            ""
         ], 
         "Software": "Streamparse", 
         "Internal Link": "", 
@@ -784,13 +785,14 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "IST Research"
+            "IST Research",
+			"Parse.ly"
         ], 
         "Contributors": [
             ""
         ], 
         "Sub-contractors": [
-            "Parsely, Inc"
+            ""
         ], 
         "Software": "Pykafka", 
         "Internal Link": "", 
@@ -798,7 +800,7 @@
         "Public Code Repo": "https://github.com/Parsely/pykafka.git", 
         "Instructional Material": "", 
         "Stats": "pykafka", 
-        "Description": "A Python driver for the Apache Kafka messaging system, pykafka enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
+        "Description": "A Python driver for the Apache Kafka messaging system. It enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
