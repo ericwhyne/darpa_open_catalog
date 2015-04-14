@@ -1617,5 +1617,110 @@
         ],
         "New Date":"20150414",
         "Update Date":""
+    },
+    
+    {
+        "DARPA Program":"MEMEX",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Information Extractor",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
+        "External Link":"https://github.com/mitll/MITIE",
+        "Public Code Repo":"https://github.com/mitll/MITIE.git",
+        "Instructional Material":"",
+        "Stats":"MITIE",
+        "Description":"Trainable named entity extractor (NER) and relation extractor. (C)",
+        "Internal Code Repo":"tools\\analytics\\mit-LL\\tpoic",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+     {
+        "DARPA Program":"MEMEX",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Topic",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
+        "External Link":"https://github.com/mitll/topic-clustering",
+        "Public Code Repo":"https://github.com/mitll/topic-clustering.git",
+        "Instructional Material":"",
+        "Stats":"topic-clustering",
+        "Description":"This tool takes a set of text documents, filters by a given language, and then produces documents clustered by topic.  The method used is Probabilistic Latent Semantic Analysis (PLSA). (Python)",
+        "Internal Code Repo":"tools\\analytics\\mit-LL",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"",
+        "Update Date":"20140809"
     }
 ]
