@@ -1788,9 +1788,9 @@
             "Parsely, Inc"
         ], 
         "Software": "Scrapy Cluster", 
-        "Internal Link": "", 
-        "External Link": "", 
-        "Public Code Repo": "", 
+        "Internal Link": "https://github.com/istresearch/memex/tree/master/scrapy/distributed_crawling", 
+        "External Link": "https://github.com/istresearch/scrapy-cluster", 
+        "Public Code Repo": "https://github.com/istresearch/scrapy-cluster.git", 
         "Instructional Material": "", 
         "Stats": "", 
         "Description": "Scrapy Cluster is a scalable, distributed web crawling cluster based on Scrapy and coordinated via Kafka and Redis. It provides a framework for intelligent distributed throttling as well as the ability to conduct time-limited web crawls.", 
