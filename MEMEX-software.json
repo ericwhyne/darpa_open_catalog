@@ -1108,7 +1108,63 @@
         ], 
         "New Date": "20150410", 
         "Update Date": ""
-    }, 
+    },
+    {
+        "DARPA Program": "MEMEX",
+        "Program Teams": [
+            "U.S. Naval Research Laboratory"
+        ],
+        "Contributors": [
+            ""
+        ],
+        "Sub-contractors": [
+            ""
+        ],
+        "Software": "The Tor Path Simulator (TorPS)",
+        "Internal Link": "",
+        "External Link": "https://torps.github.io/",
+        "Public Code Repo": "https://github.com/torps/torps", 
+        "Instructional Material": "",
+        "Stats": "shadow",
+        "Description": "TorPS quickly simulates path selection in the Tor traffic-secure communications network. It is useful for experimental analysis of alternative route selection algorithms or changes to route selection parameters.",
+        "Internal Code Repo": "",
+        "License": [
+            "BSD"
+        ],
+        "Languages": [
+            "Python",
+            "C++",
+            "Bash"
+        ],
+        "Platform Requirements": [
+            ""
+        ],
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Stem"
+        ],
+        "Component module URLs": [
+            "https://stem.torproject.org/"
+        ],
+        "Industry": [
+            "Computer Science Research"
+        ],
+        "Functionality": [
+            "Tor",
+            "Network Simulation"
+        ],
+        "Categories": [
+            "Experimentation Support",
+            "Security"
+        ],
+        "New Date": "20150413",
+        "Update Date": "20150413"
+    },
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
