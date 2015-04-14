@@ -283,7 +283,7 @@
         ], 
         "Software": "TREC-DD Annotation", 
         "Internal Link": "https://memexproxy.com/wiki/display/MEM/Georgetown+University", 
-        "External Link": "http://infosense.cs.georgetown.edu/annotator/beta.cgi", 
+        "External Link": "https://github.com/shawn67/TREC-DD-Annotation-Tool", 
         "Public Code Repo": "https://github.com/shawn67/TREC-DD-Annotation-Tool", 
         "Instructional Material": "", 
         "Stats": "TREC-DD-Annotation-Tool", 
