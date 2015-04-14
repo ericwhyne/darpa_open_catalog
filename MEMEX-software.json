@@ -52,6 +52,58 @@
         "Update Date": ""
     },
     {
+      "DARPA Program": "MEMEX",
+      "Program Teams": [
+          "The Tor Project", "SRI International"
+      ],
+      "Contributors": [
+          ""
+      ],
+      "Sub-contractors": [
+          ""
+      ],
+      "Software": "Tor",
+      "Internal Link": "",
+      "External Link": "https://git.torproject.org/tor.git",
+      "Public Code Repo": "https://git.torproject.org/tor.git",
+      "Instructional Material": "",
+      "Stats": "",
+      "Description": "The core software for using and participating in the Tor network.",
+      "Internal Code Repo": "",
+      "License": [
+          "3-clause BSD"
+      ],
+      "Languages": [
+          "C"
+      ],
+      "Platform Requirements": [
+          ""
+      ],
+      "Dependent modules": [
+          ""
+      ],
+      "Dependent module URLs": [
+          ""
+      ],
+      "Component modules": [
+          ""
+      ],
+      "Component module URLs": [
+          ""
+      ],
+      "Industry": [
+          ""
+      ],
+      "Functionality": [
+        "Anonymity", "privacy", "censorship circumvention"
+      ],
+      "Categories": [
+          "Infrastructure"
+      ],
+      "New Date": "20150413",
+      "Update Date": "20150413"
+  },
+    {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
             "Diffeo, Inc."
