@@ -27,7 +27,7 @@
             "Java"
         ], 
         "Platform Requirements": [
-            "available as a docker container or can install on python 2.7 via pip"
+            "Available as a docker container or can install on python 2.7 via pip"
         ], 
         "Dependent modules": [
             ""
