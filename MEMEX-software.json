@@ -1279,13 +1279,14 @@
         "DARPA Program": "MEMEX", 
         "Program Teams": [
             "NYU", 
-            "Continuum Analytics"
+            "Continuum Analytics",
+            "Jet Propulsion Laboratory"
         ], 
         "Contributors": [
             ""
         ], 
         "Sub-contractors": [
-            "Continuum Analytics"
+            ""
         ], 
         "Software": "Topic Space", 
         "Internal Link": "", 
