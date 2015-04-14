@@ -71,7 +71,7 @@
         "Public Code Repo": "https://github.com/mille856/CMU_memex_kickoff", 
         "Instructional Material": "", 
         "Stats": "CMU_memex_kickoff", 
-        "Description": "Regex based information extractor for online escort advertisements (Java).", 
+        "Description": "Regex based information extractor for online advertisements (Java).", 
         "Internal Code Repo": "", 
         "License": [
             "MIT"
@@ -123,7 +123,7 @@
         "Public Code Repo": "", 
         "Instructional Material": "", 
         "Stats": "", 
-        "Description": "Classifier for escort advertisement text. (Python)", 
+        "Description": "Classifier for advertisement text. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "MIT"
@@ -175,7 +175,7 @@
         "Public Code Repo": "https://github.com/jiezhou0731/Dumpling", 
         "Instructional Material": "", 
         "Stats": "Dumpling", 
-        "Description": "Dumpling implements a novel dynamic search engine which refines search results on the fly. Dumpling utilizes the Winwin algorithm and the Query Change retrieval Model (QCM) to infer user's state, and tailor search results accordingly.  Dumpling provides a friendly user interface for user to compare the static results and dynamic results. (Java, JavaScript, HTML, CSS)", 
+        "Description": "Dumpling implements a novel dynamic search engine which refines search results on the fly. Dumpling utilizes the Winwin algorithm and the Query Change retrieval Model (QCM) to infer the user's state and tailor search results accordingly.  Dumpling provides a friendly user interface for user to compare the static results and dynamic results. (Java, JavaScript, HTML, CSS)", 
         "Internal Code Repo": "https://github.com/jiezhou0731/Dumpling", 
         "License": [
             "Public Domain"
@@ -214,6 +214,68 @@
             "Information Retrieval", 
             "Search Algorithms", 
             "Machine Learning"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Contributors": [
+            "New York University"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "DIREWOLF", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/DIREWOLF", 
+        "External Link": "http://www.dumplingproject.org", 
+        "Public Code Repo": "https://github.com/jiezhou0731/Direwolf", 
+        "Instructional Material": "", 
+        "Stats": "Direwolf", 
+        "Description": "Direwolf is a dynamic search engine built over the results of focused web crawls. Direwolf integrates Dumpling's search engine and NYU team's crawler. (Java, JavaScript, HTML, CSS)", 
+        "Internal Code Repo": "https://github.com/jiezhou0731/Direwolf", 
+        "License": [
+            "Public Domain"
+        ], 
+        "Languages": [
+            "Java", 
+            "JavaScript", 
+            "HTML", 
+            "CSS"
+        ], 
+        "Platform Requirements": [
+            "Ubuntu"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Dynamic Information Retrieval and Crawling", 
+            "Domain-Specific Indexing and Search", 
+            "Crawling", 
+            "Search"
+        ], 
+        "Categories": [
+            "Information Retrieval", 
+            "Search Algorithms", 
+            "Machine Learning", 
+            "Crawling", 
+            "Focused Crawl"
         ], 
         "New Date": "20150410", 
         "Update Date": ""
@@ -462,7 +524,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/hgprofiler", 
         "Instructional Material": "", 
         "Stats": "hgprofiler", 
-        "Description": "HG Profiler is a tool based on the Recon-ng tool's profiler module (see http://webbreacher.blogspot.com/2014/12/recon-ng-profiler-module.html). Our version is distributed and runs a bit more efficiently than the original, but was otherwise very much inspired by the Recon-ng module. The tool allows you to take a list of usernames from a particular source (say, a chat room where illicit activities are discussed) and look for that same username across 130+ other websites, from social media sites to dating sites and more. The list of sites to cross-check is extensible. The distributed nature of the tool means that you can check a large number of usernames in a short amount of time. (Python)", 
+        "Description": "HG Profiler is a tool based on the Recon-ng tool's profiler module (see http://webbreacher.blogspot.com/2014/12/recon-ng-profiler-module.html). Our version is distributed and runs a bit more efficiently than the original, but was otherwise very much inspired by the Recon-ng module. The tool allows you to take a list of usernames from a particular source and look for that same username across 130+ other websites. The list of sites to cross-check is extensible. The distributed nature of the tool means that you can check a large number of usernames in a short amount of time. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -1123,7 +1185,7 @@
         "Public Code Repo": "https://github.com/lewismc/legisgate", 
         "Instructional Material": "", 
         "Stats": "legisgate", 
-        "Description": "Demonstration application for running General Architecture Text Engineering over legislative resources such as district court appeals. (Java)", 
+        "Description": "Demonstration application for running General Architecture Text Engineering over legislative resources. (Java)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -1222,13 +1284,12 @@
         "Sub-contractors": [
             "Continuum Analytics"
         ], 
-        "Software": "ACHE", 
         "Internal Link": "", 
         "External Link": "https://github.com/ViDA-NYU/ache", 
         "Public Code Repo": "https://github.com/ViDA-NYU/ache", 
         "Instructional Material": "", 
         "Stats": "ache", 
-        "Description": "ACHE is a focused crawler. Users can customize the crawler to search for different topics or object on the Web. (Java)", 
+        "Description": "ACHE is a focused crawler. Users can customize the crawler to search for different topics or objects on the Web. (Java)", 
         "Internal Code Repo": "", 
         "License": [
             "GPL"
@@ -1381,59 +1442,7 @@
         "New Date": "20150410", 
         "Update Date": ""
     }, 
-    {
-        "DARPA Program": "MEMEX", 
-        "Program Teams": [
-            "Qadium"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "Data Microscopes", 
-        "Internal Link": "", 
-        "External Link": "", 
-        "Public Code Repo": "", 
-        "Instructional Material": "", 
-        "Stats": "", 
-        "Description": "Data Microscopes is a collection of robust, validated Bayesian nonparametric models for discovering structure in data. Models for tabular, relational, text, and time-series data can accommodate multiple data types, including categorical, real-valued, binary, and spatial data. Inference and visualization of results respects the underlying uncertainty in the data, allowing domains experts to feel confident in the quality of the answers they receive. (Python, C++)", 
-        "Internal Code Repo": "", 
-        "License": [
-            "BSD"
-        ], 
-        "Languages": [
-            "Python", 
-            "C++"
-        ], 
-        "Platform Requirements": [
-            "C++11 compiler.  Full requirements given on: https://github.com/datamicroscopes/common"
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Analytics"
-        ], 
-        "New Date": "20150410", 
-        "Update Date": ""
-    }, 
+
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
@@ -1504,7 +1513,7 @@
         "Public Code Repo": "https://github.com/unchartedsoftware/TellFinder/", 
         "Instructional Material": "", 
         "Stats": "TellFinder", 
-        "Description": "TellFinder provides efficient visual analytics to detect and combat human trafficking by automatically characterizing and organizing publicly available Internet escort advertisements. Compared to standard web search engines, TellFinder enables analysts to research case-related data and tips in significantly less time. Reviewing TellFinder's automatically characterized ad groups also allows analysts to track activity patterns over time, discover previously unknown actors and infer organizational relationships. (JavaScript, Java)", 
+        "Description": "TellFinder provides efficient visual analytics to detect activity of interest by automatically characterizing and organizing publicly available Internet data. Compared to standard web search engines, TellFinder enables analysts to research case-related data in significantly less time. Reviewing TellFinder's automatically characterized groups also allows analysts to track activity patterns over time, discover previously unknown actors and infer organizational relationships. (JavaScript, Java)", 
         "Internal Code Repo": "https://github.com/unchartedsoftware/TellFinder/", 
         "License": [
             "MIT"
