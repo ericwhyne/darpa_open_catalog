@@ -353,7 +353,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/autologin", 
         "Instructional Material": "", 
         "Stats": "autologin", 
-        "Description": "AutoLogin is a crawling utility that attempts to automatically find the login page of a website given a seed URL, and then automatically login to that website given valid credentials. AutoLogin can be used both as a library or as a service. This service gives you an easy way to handle autologin without having to find the login form yourself or build POST requests to login. You can just specify any reasonable starting point to crawl a website (e.g. the home page), give AutoLogin a set of credentials and it logs in for you, providing the authenticated headers/cookies back to you for use in your own crawler or scraper. (Python)", 
+        "Description": "AutoLogin is a crawling utility that attempts to automatically find the login page of a website given a seed URL, and then automatically log in to that website given valid credentials. AutoLogin can be used as a library or as a service. This service gives users an easy way to handle autologin without having to find the login form manually or build POST requests to log in. Users can simply specify any reasonable starting point to crawl a website (e.g. the home page), give AutoLogin a set of credentials and it logs in automatically, providing the authenticated headers/cookies back to the users for use in crawlers or scrapers. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
