@@ -1775,6 +1775,58 @@
         "New Date":"",
         "Update Date":""
     },
+    {
+        "DARPA Program":"MEMEX",
+        "Program Teams":[
+            "Uncharted Software"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Aperture Tile-Based Visual Analytics",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
+        "External Link":"http://www.oculusinfo.com/tiles",
+        "Public Code Repo":"https://github.com/oculusinfo/aperture-tiles.git",
+        "Stats":"aperture-tiles",
+        "Description":"New tools for raw data characterization of 'big data' are required to suggest initial hypotheses for testing. The widespread use and adoption of web-based maps has provided a familiar set of interactions for exploring abstract large data spaces. Building on these techniques, we developed tile based visual analytics that provide browser-based interactive visualization of billions of data points. (JavaScript/Java)",
+        "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\demos\\xdata\\SC2013",
+        "License":[
+            "MIT"
+        ],
+        "Languages":[
+            "JavaScript",
+            "Java"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Visualization"
+        ],
+        "New Date":"20150414",
+        "Update Date":""
+    },
      {
         "DARPA Program":"MEMEX",
         "Program Teams":[
@@ -1826,5 +1878,5 @@
         ],
         "New Date":"",
         "Update Date":"20140809"
-    },
+    }
 ]
