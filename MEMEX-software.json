@@ -353,7 +353,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/autologin", 
         "Instructional Material": "", 
         "Stats": "autologin", 
-        "Description": "AutoLogin is a crawling utility that attempts to automatically find the login page of a website given a seed URL, and then automatically log in to that website given valid credentials. AutoLogin can be used as a library or as a service. This service gives users an easy way to handle autologin without having to find the login form manually or build POST requests to log in. Users can simply specify any reasonable starting point to crawl a website (e.g. the home page), give AutoLogin a set of credentials and it logs in automatically, providing the authenticated headers/cookies back to the users for use in crawlers or scrapers. (Python)", 
+        "Description": "AutoLogin is a crawling utility that attempts to automatically find the login page of a website given a seed URL, and then automatically login to that website given valid credentials. AutoLogin can be used both as a library or as a service. This service gives you an easy way to handle autologin without having to find the login form yourself or build POST requests to login. You can just specify any reasonable starting point to crawl a website (e.g. the home page), give AutoLogin a set of credentials and it logs in for you, providing the authenticated headers/cookies back to you for use in your own crawler or scraper. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -726,14 +726,13 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "IST Research",
-			"Parse.ly"
+            "IST Research"
         ], 
         "Contributors": [
             ""
         ], 
         "Sub-contractors": [
-            ""
+            "Parsely, Inc"
         ], 
         "Software": "Streamparse", 
         "Internal Link": "", 
@@ -785,14 +784,13 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "IST Research",
-			"Parse.ly"
+            "IST Research"
         ], 
         "Contributors": [
             ""
         ], 
         "Sub-contractors": [
-            ""
+            "Parsely, Inc"
         ], 
         "Software": "Pykafka", 
         "Internal Link": "", 
@@ -800,7 +798,7 @@
         "Public Code Repo": "https://github.com/Parsely/pykafka.git", 
         "Instructional Material": "", 
         "Stats": "pykafka", 
-        "Description": "A Python driver for the Apache Kafka messaging system. It enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
+        "Description": "A Python driver for the Apache Kafka messaging system, pykafka enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -838,60 +836,7 @@
         ], 
         "New Date": "20150410", 
         "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "MEMEX", 
-        "Program Teams": [
-            "Jet Propulsion Laboratory"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            "Continuum", 
-            "Kitware"
-        ], 
-        "Software": "Memex Explorer", 
-        "Internal Link": "", 
-        "External Link": "", 
-        "Public Code Repo": "https://github.com/memex-explorer/memex-explorer", 
-        "Instructional Material": "", 
-        "Stats": "memex-explorer", 
-        "Description": "Memex Explorer provides a unified interface for use of Memex Tools. It includes the capability to add links to other web-based apps (not just Memex) and the capability to start, stop, and analyze web crawls using 2 different crawlers - ACHE and Nutch. (Python)", 
-        "Internal Code Repo": "", 
-        "License": [
-            "BSD"
-        ], 
-        "Languages": [
-            "Python"
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Interface"
-        ], 
-        "New Date": "20150410", 
-        "Update Date": ""
-    }, 
+    },
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
@@ -906,7 +851,7 @@
         ], 
         "Software": "ImageSpace", 
         "Internal Link": "", 
-        "External Link": "", 
+        "External Link": "https://github.com/memex-explorer/image_space", 
         "Public Code Repo": "https://github.com/memex-explorer/image_space", 
         "Instructional Material": "", 
         "Stats": "image_space", 
@@ -961,71 +906,17 @@
         ], 
         "Software": "FacetSpace", 
         "Internal Link": "", 
-        "External Link": "", 
-        "Public Code Repo": "Public Code Repo: 2015-05", 
+        "External Link": "https://github.com/pymonger/facetview-memex", 
+        "Public Code Repo": "https://github.com/pymonger/facetview-memex", 
         "Instructional Material": "", 
         "Stats": "", 
-        "Description": "FacetSpace allows the investigation of large data sets based on the extraction and manipulation of relevant facets. These facets may be almost any consistent piece of information that can be extracted from the dataset: names, locations, prices, etc... (??? what language ???)", 
+        "Description": "FacetSpace allows the investigation of large data sets based on the extraction and manipulation of relevant facets. These facets may be almost any consistent piece of information that can be extracted from the dataset: names, locations, prices, etc... (JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
             ""
         ], 
         "Languages": [
             ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Analysis"
-        ], 
-        "New Date": "20150410", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "MEMEX", 
-        "Program Teams": [
-            "Jet Propulsion Laboratory"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            "Continuum", 
-            "Kitware"
-        ], 
-        "Software": "TopicSpace", 
-        "Internal Link": "", 
-        "External Link": "", 
-        "Public Code Repo": "2015-04", 
-        "Instructional Material": "", 
-        "Stats": "", 
-        "Description": "TopicSpace provides the ability to analyze large datasets and create visual representations of the main topics contained within the dataset. It can create Word Clouds, LDA Visualizations and Lexical Diversity plots.(Python, R)", 
-        "Internal Code Repo": "", 
-        "License": [
-            "BSD"
-        ], 
-        "Languages": [
-            "Python", 
-            "R"
         ], 
         "Platform Requirements": [
             ""
@@ -1068,17 +959,18 @@
         ], 
         "Software": "ImageCat", 
         "Internal Link": "", 
-        "External Link": "", 
+        "External Link": "https://github.com/chrismattmann/imagecat", 
         "Public Code Repo": "https://github.com/chrismattmann/imagecat", 
         "Instructional Material": "", 
         "Stats": "imagecat", 
-        "Description": "ImageCat analyses images and extracts their EXIF metadata and any text contained in the image via OCR. It can handle millions of images. (??? what language ???)", 
+        "Description": "ImageCat analyses images and extracts their EXIF metadata and any text contained in the image via OCR. It can handle millions of images. (Python, Java)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
         ], 
         "Languages": [
-            ""
+            "Python",
+            "Java"
         ], 
         "Platform Requirements": [
             ""
@@ -1121,7 +1013,7 @@
         ], 
         "Software": "LegisGATE", 
         "Internal Link": "", 
-        "External Link": "", 
+        "External Link": "https://github.com/lewismc/legisgate", 
         "Public Code Repo": "https://github.com/lewismc/legisgate", 
         "Instructional Material": "", 
         "Stats": "legisgate", 
@@ -1272,6 +1164,7 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
+            "Jet Propulsion Laboratory",
             "NYU", 
             "Continuum Analytics"
         ], 
@@ -1287,10 +1180,10 @@
         "Public Code Repo": "https://github.com/ContinuumIO/memex-explorer", 
         "Instructional Material": "", 
         "Stats": "memex-explorer", 
-        "Description": "Memex Explorer is a pluggable framework for domain specific crawl and search. (Python)", 
+        "Description": "Memex Explorer is a pluggable framework for domain specific crawls, search, and unified interface for Memex Tools. It includes the capability to add links to other web-based apps (not just Memex) and the capability to start, stop, and analyze web crawls using 2 different crawlers - ACHE and Nutch. (Python)", 
         "Internal Code Repo": "", 
         "License": [
-            "ASL"
+            "BSD"
         ], 
         "Languages": [
             "Python"
@@ -1515,7 +1408,7 @@
         "Public Code Repo": "https://github.com/arrayfire", 
         "Instructional Material": "", 
         "Stats": "arrayfire", 
-        "Description": "ArrayFire is a high performance software library for parallel computing with an easy-to-use API. Its array-based function set makes parallel programming simple. ArrayFire's multiple backends (CUDA, OpenCL, and native CPU) make it platform independent and highly portable. A few lines of code in ArrayFire can replace dozens of lines of parallel computing code, saving users valuable time and lowering development costs. (C, C++, Python, Fortran, Java)", 
+        "Description": "ArrayFire is a high performance software library for parallel computing with an easy-to-use API. Its array-based function set makes parallel programming simple. ArrayFire's multiple backends (CUDA, OpenCL, and native CPU) make it platform independent and highly portable. A few lines of code in ArrayFire can replace dozens of lines of parallel computing code, saving you valuable time and lowering development costs. (C, C++, Python, Fortran, Java)", 
         "Internal Code Repo": "", 
         "License": [
             "BSDv3"
@@ -1682,8 +1575,8 @@
             ""
         ], 
         "Software": "DataWake", 
-        "Internal Link": "https://memexproxy.com/wiki/display/MPM/DataWake", 
-        "External Link": "http://sotera.github.io/Datawake/", 
+        "Internal Link": "", 
+        "External Link": "", 
         "Public Code Repo": "https://github.com/Sotera/Datawake", 
         "Instructional Material": "", 
         "Stats": "", 
@@ -1724,58 +1617,6 @@
         ], 
         "New Date": "20150413", 
         "Update Date": ""
-    },
-    {
-        "DARPA Program":"MEMEX",
-        "Program Teams":[
-            "MIT-LL"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Information Extractor",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"https://github.com/mitll/MITIE",
-        "Public Code Repo":"https://github.com/mitll/MITIE.git",
-        "Instructional Material":"",
-        "Stats":"MITIE",
-        "Description":"Trainable named entity extractor (NER) and relation extractor. (C)",
-        "Internal Code Repo":"tools\\analytics\\mit-LL\\tpoic",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "C"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
     },
     {
         "DARPA Program":"MEMEX",
@@ -1829,56 +1670,4 @@
         "New Date":"20150414",
         "Update Date":""
     },
-     {
-        "DARPA Program":"MEMEX",
-        "Program Teams":[
-            "MIT-LL"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Topic",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"https://github.com/mitll/topic-clustering",
-        "Public Code Repo":"https://github.com/mitll/topic-clustering.git",
-        "Instructional Material":"",
-        "Stats":"topic-clustering",
-        "Description":"This tool takes a set of text documents, filters by a given language, and then produces documents clustered by topic.  The method used is Probabilistic Latent Semantic Analysis (PLSA). (Python)",
-        "Internal Code Repo":"tools\\analytics\\mit-LL",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Python"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":"20140809"
-    }
 ]
