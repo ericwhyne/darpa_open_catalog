@@ -224,68 +224,6 @@
             "Georgetown University"
         ], 
         "Contributors": [
-            "New York University"
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "DIREWOLF", 
-        "Internal Link": "https://memexproxy.com/wiki/display/MEM/DIREWOLF", 
-        "External Link": "http://www.dumplingproject.org", 
-        "Public Code Repo": "https://github.com/jiezhou0731/Direwolf", 
-        "Instructional Material": "", 
-        "Stats": "Direwolf", 
-        "Description": "Direwolf is a dynamic search engine built over the results of focused web crawls. Direwolf integrates Dumpling's search engine and NYU team's crawler. It provides search service in domains such as human trafficking,  illicit pharmaceuticals, etc. (Java, JavaScript, HTML, CSS)", 
-        "Internal Code Repo": "https://github.com/jiezhou0731/Direwolf", 
-        "License": [
-            "Public Domain"
-        ], 
-        "Languages": [
-            "Java", 
-            "JavaScript", 
-            "HTML", 
-            "CSS"
-        ], 
-        "Platform Requirements": [
-            "Ubuntu"
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            "Dynamic Information Retrieval and Crawling", 
-            "Domain-Specific Indexing and Search", 
-            "Crawling", 
-            "Search"
-        ], 
-        "Categories": [
-            "Information Retrieval", 
-            "Search Algorithms", 
-            "Machine Learning", 
-            "Crawling", 
-            "Focused Crawl"
-        ], 
-        "New Date": "20150410", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "MEMEX", 
-        "Program Teams": [
-            "Georgetown University"
-        ], 
-        "Contributors": [
             ""
         ], 
         "Sub-contractors": [
