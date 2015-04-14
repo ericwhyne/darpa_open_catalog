@@ -576,7 +576,7 @@
         "Software": "SourcePin", 
         "Internal Link": "", 
         "External Link": "", 
-        "Public Code Repo": "2015-04", 
+        "Public Code Repo": "https://github.com/TeamHG-Memex/memex-pinterest", 
         "Instructional Material": "", 
         "Stats": "", 
         "Description": "SourcePin is a tool to assist users in discovering websites that contain content they are interested in for a particular topic, or domain. Unlike a search engine, SourcePin allows a non-technical user to leverage the power of an advanced automated smart web crawling system to generate significantly more results than the manual process typically does, in significantly less time. The User Interface of SourcePin allows users to quickly across through hundreds or thousands of representative images to quickly find the websites they are most interested in. SourcePin also has a scoring system which takes feedback from the user on which websites are interesting and, using machine learning, assigns a score to the other crawl results based on how interesting they are likely to be for the user.  The roadmap for SourcePin includes integration with other tools and a capability for users to actually extract relevant information from the crawl results. (Python, JavaScript)", 
