@@ -167,7 +167,7 @@
         "Program File": "MEMEX-program.json",
         "Pubs File": "MEMEX-pubs.json",
         "Software File": "MEMEX-software.json",
-		"Data File": "MEMEX-data.json",
+		"Data File": "",
         "Banner":"NEW"
 },
 {
