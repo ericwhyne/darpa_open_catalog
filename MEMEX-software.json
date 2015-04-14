@@ -1126,7 +1126,7 @@
         "Public Code Repo": "https://github.com/torps/torps", 
         "Instructional Material": "",
         "Stats": "shadow",
-        "Description": "TorPS quickly simulates path selection in the Tor traffic-secure communications network. It is useful for experimental analysis of alternative route selection algorithms or changes to route selection parameters.",
+        "Description": "TorPS quickly simulates path selection in the Tor traffic-secure communications network. It is useful for experimental analysis of alternative route selection algorithms or changes to route selection parameters. (C++, Python, Bash)",
         "Internal Code Repo": "",
         "License": [
             "BSD"
