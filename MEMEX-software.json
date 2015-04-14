@@ -740,7 +740,7 @@
         "Public Code Repo": "https://github.com/Parsely/streamparse.git", 
         "Instructional Material": "", 
         "Stats": "streamparse", 
-        "Description": "Streamparse lets you run Python code against real-time streams of data. It allows users to spin up small clusters of stream processing machines locally during development. It also allows remote management of stream processing clusters that are running Apache Storm. It includes both a Python module implementing the Storm multi-lang protocol; a command-line tool for managing local development, projects, and clusters; and a public API for writing data processing topologies easily. (Python, Clojure)", 
+        "Description": "Streamparse lets users run Python code against real-time streams of data. It allows users to spin up small clusters of stream processing machines locally during development. It also allows remote management of stream processing clusters that are running Apache Storm. It includes both a Python module implementing the Storm multi-lang protocol; a command-line tool for managing local development, projects, and clusters; and a public API for writing data processing topologies easily. (Python, Clojure)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
