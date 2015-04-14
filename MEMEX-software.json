@@ -353,7 +353,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/autologin", 
         "Instructional Material": "", 
         "Stats": "autologin", 
-        "Description": "AutoLogin is a crawling utility that attempts to automatically find the login page of a website given a seed URL, and then automatically login to that website given valid credentials. AutoLogin can be used both as a library or as a service. This service gives you an easy way to handle autologin without having to find the login form yourself or build POST requests to login. You can just specify any reasonable starting point to crawl a website (e.g. the home page), give AutoLogin a set of credentials and it logs in for you, providing the authenticated headers/cookies back to you for use in your own crawler or scraper. (Python)", 
+        "Description": "AutoLogin is a crawling utility that attempts to automatically find the login page of a website given a seed URL, and then automatically log in to that website given valid credentials. AutoLogin can be used as a library or as a service. This service gives users an easy way to handle autologin without having to find the login form manually or build POST requests to log in. Users can simply specify any reasonable starting point to crawl a website (e.g. the home page), give AutoLogin a set of credentials and it logs in automatically, providing the authenticated headers/cookies back to the users for use in crawlers or scrapers. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -1513,7 +1513,7 @@
         "Public Code Repo": "https://github.com/arrayfire", 
         "Instructional Material": "", 
         "Stats": "arrayfire", 
-        "Description": "ArrayFire is a high performance software library for parallel computing with an easy-to-use API. Its array-based function set makes parallel programming simple. ArrayFire's multiple backends (CUDA, OpenCL, and native CPU) make it platform independent and highly portable. A few lines of code in ArrayFire can replace dozens of lines of parallel computing code, saving you valuable time and lowering development costs. (C, C++, Python, Fortran, Java)", 
+        "Description": "ArrayFire is a high performance software library for parallel computing with an easy-to-use API. Its array-based function set makes parallel programming simple. ArrayFire's multiple backends (CUDA, OpenCL, and native CPU) make it platform independent and highly portable. A few lines of code in ArrayFire can replace dozens of lines of parallel computing code, saving users valuable time and lowering development costs. (C, C++, Python, Fortran, Java)", 
         "Internal Code Repo": "", 
         "License": [
             "BSDv3"
@@ -1722,57 +1722,5 @@
         ], 
         "New Date": "20150413", 
         "Update Date": ""
-    },
-    {
-        "DARPA Program":"MEMEX",
-        "Program Teams":[
-            "Uncharted Software"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Aperture Tile-Based Visual Analytics",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
-        "External Link":"http://www.oculusinfo.com/tiles",
-        "Public Code Repo":"https://github.com/oculusinfo/aperture-tiles.git",
-        "Stats":"aperture-tiles",
-        "Description":"New tools for raw data characterization of 'big data' are required to suggest initial hypotheses for testing. The widespread use and adoption of web-based maps has provided a familiar set of interactions for exploring abstract large data spaces. Building on these techniques, we developed tile based visual analytics that provide browser-based interactive visualization of billions of data points. (JavaScript/Java)",
-        "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\demos\\xdata\\SC2013",
-        "License":[
-            "MIT"
-        ],
-        "Languages":[
-            "JavaScript",
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"20150414",
-        "Update Date":""
-    },
+    }
 ]
