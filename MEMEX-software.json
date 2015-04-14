@@ -161,58 +161,6 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "Carnegie Mellon University"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "AdClassifier", 
-        "Internal Link": "https://memexproxy.com/wiki/display/MEM/CMU+Ad+Classifer+-+change+log", 
-        "External Link": "", 
-        "Public Code Repo": "", 
-        "Instructional Material": "", 
-        "Stats": "", 
-        "Description": "Classifier for advertisement text. (Python)", 
-        "Internal Code Repo": "", 
-        "License": [
-            "MIT"
-        ], 
-        "Languages": [
-            "Python"
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            "Escort"
-        ], 
-        "Functionality": [
-            "Text classification"
-        ], 
-        "Categories": [
-            "Machine Learning"
-        ], 
-        "New Date": "20150410", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "MEMEX", 
-        "Program Teams": [
             "Georgetown University"
         ], 
         "Contributors": [
