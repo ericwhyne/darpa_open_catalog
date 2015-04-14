@@ -790,20 +790,20 @@
         "Sub-contractors": [
             ""
         ], 
-        "Software": "Streamparse", 
+        "Software": "streamparse", 
         "Internal Link": "", 
         "External Link": "https://github.com/Parsely/streamparse", 
         "Public Code Repo": "https://github.com/Parsely/streamparse.git", 
         "Instructional Material": "", 
         "Stats": "streamparse", 
-        "Description": "Streamparse lets users run Python code against real-time streams of data. It allows users to spin up small clusters of stream processing machines locally during development. It also allows remote management of stream processing clusters that are running Apache Storm. It includes both a Python module implementing the Storm multi-lang protocol; a command-line tool for managing local development, projects, and clusters; and a public API for writing data processing topologies easily. (Python, Clojure)", 
+        "Description": "streamparse runs Python code against real-time streams of data. It allows users to spin up small clusters of stream processing machines locally during development. It also allows remote management of stream processing clusters that are running Apache Storm. It includes a Python module implementing the Storm multi-lang protocol; a command-line tool for managing local development, projects, and clusters; and an API for writing data processing topologies easily. (Python, Clojure)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
         ], 
         "Languages": [
             "Python",
-			"Clojure"
+            "Clojure"
         ], 
         "Platform Requirements": [
             "UNIX-like System (Mac OS X, Linux)"
@@ -825,14 +825,14 @@
         ], 
         "Functionality": [
             "Distributed Workflows",
-			"Stream Processing",
-			"Storm + Python Language Support"
+            "Stream Processing",
+            "Storm + Python Language Support"
         ], 
         "Categories": [
             "Analytics",
-			"Distributed Programming",
-			"Infrastructure",
-			"Systems Integration"
+            "Distributed Programming",
+            "Infrastructure",
+            "Systems Integration"
         ], 
         "New Date": "20150410", 
         "Update Date": ""
@@ -849,13 +849,13 @@
         "Sub-contractors": [
             ""
         ], 
-        "Software": "Pykafka", 
+        "Software": "pykafka", 
         "Internal Link": "", 
         "External Link": "https://github.com/Parsely/pykafka", 
         "Public Code Repo": "https://github.com/Parsely/pykafka.git", 
         "Instructional Material": "", 
         "Stats": "pykafka", 
-        "Description": "A Python driver for the Apache Kafka messaging system. It enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
+        "Description": "pykafka is a Python driver for the Apache Kafka messaging system. It enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -883,13 +883,13 @@
         ], 
         "Functionality": [
             "Distributed Messaging",
-			"Kafka + Python Driver"
+            "Kafka + Python Driver"
         ], 
         "Categories": [
             "Analytics",
-			"Distributed Programming",
-			"Infrastructure",
-			"Systems Integration"
+            "Distributed Programming",
+            "Infrastructure",
+            "Systems Integration"
         ], 
         "New Date": "20150410", 
         "Update Date": ""
