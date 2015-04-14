@@ -1527,7 +1527,7 @@
         "External Link": "https://github.com/qadium/omakase", 
         "Public Code Repo": "https://github.com/qadium/omakase", 
         "Instructional Material": "", 
-        "Stats": "", 
+        "Stats": "omakase", 
         "Description": "Omakase provides a simple and flexible interface to share data, computations, and visualizations between a variety of user roles in both local and cloud environments. (Python, Clojure)", 
         "Internal Code Repo": "", 
         "License": [
@@ -1580,7 +1580,7 @@
         "External Link": "https://github.com/Sotera/Datawake", 
         "Public Code Repo": "https://github.com/Sotera/Datawake", 
         "Instructional Material": "", 
-        "Stats": "", 
+        "Stats": "Datawake", 
         "Description": "The Datawake project consists of various server and database technologies that aggregate user browsing data via a plug-in using domain-specific searches. This captured, or extracted, data is organized into browse paths and elements of interest. This information can be shared or expanded amongst teams of individuals. Elements of interest which are extracted either automatically, or manually by the user, are given weighted values. (Python/Java/Scala/Clojure/JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
@@ -1721,7 +1721,7 @@
         "Categories":[
             "Analytics"
         ],
-        "New Date":"",
+        "New Date":"2015414",
         "Update Date":""
     },
      {
@@ -1777,7 +1777,7 @@
         "Update Date":"20140809"
     },
 	    {
-        "DARPA Program": "Memex", 
+        "DARPA Program": "MEMEX", 
         "Program Teams": [
             "IST Research"
         ], 
@@ -1785,18 +1785,18 @@
             ""
         ], 
         "Sub-contractors": [
-            "Parsely, Inc"
+            "Parsely, Inc."
         ], 
         "Software": "Scrapy Cluster", 
         "Internal Link": "https://github.com/istresearch/memex/tree/master/scrapy/distributed_crawling", 
         "External Link": "https://github.com/istresearch/scrapy-cluster", 
         "Public Code Repo": "https://github.com/istresearch/scrapy-cluster.git", 
         "Instructional Material": "", 
-        "Stats": "", 
-        "Description": "Scrapy Cluster is a scalable, distributed web crawling cluster based on Scrapy and coordinated via Kafka and Redis. It provides a framework for intelligent distributed throttling as well as the ability to conduct time-limited web crawls.", 
+        "Stats": "scrapy-cluster", 
+        "Description": "Scrapy Cluster is a scalable, distributed web crawling cluster based on Scrapy and coordinated via Kafka and Redis. It provides a framework for intelligent distributed throttling as well as the ability to conduct time-limited web crawls. (Python)", 
         "Internal Code Repo": "https://github.com/istresearch/memex/tree/master/scrapy/distributed_crawling", 
         "License": [
-            "BSD-style"
+            "BSD"
         ], 
         "Languages": [
             "Python"
