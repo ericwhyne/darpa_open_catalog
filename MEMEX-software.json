@@ -1,4 +1,56 @@
 [
+	{
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "MIT Lincoln Laboratory"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Text.jl", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/mit-nlp/Text.jl", 
+        "Public Code Repo": "https://github.com/mit-nlp/Text.jl", 
+        "Instructional Material": "", 
+        "Stats": "dossier", 
+        "Description": "Text.jl provided numerous tools for text processing optimized for the Julia language. Functionality supported include algorithms for feature extraction, text classification, and language identification. (Julia)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Julia"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            "MLBase"
+        ], 
+        "Dependent module URLs": [
+            "Dependent Modules can all be downloaded from the Julia Central Repository"
+        ], 
+        "Component modules": [
+            "(Devectorize, DataStructures, GZip, Iterators) Stage, Ollam "
+        ], 
+        "Component module URLs": [
+            "Component modules listed in parentheses are available via the Julia Central Repository. Stage and Ollam are available for manual install via https://github.com/saltpork/Stage.jl and https://github.com/mit-nlp/Ollam.jl"
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Text Processing", "Metadata Extraction", "Machine Learning"
+        ], 
+        "Categories": [
+            "Natural Language Processing"
+        ], 
+        "New Date": "20150414", 
+        "Update Date": ""
+    },
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
