@@ -1275,61 +1275,7 @@
         ], 
         "New Date": "20150410", 
         "Update Date": ""
-    }, 
-
-    {
-        "DARPA Program": "MEMEX", 
-        "Program Teams": [
-            "Qadium"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "Omakase", 
-        "Internal Link": "", 
-        "External Link": "", 
-        "Public Code Repo": "", 
-        "Instructional Material": "", 
-        "Stats": "", 
-        "Description": "Omakase provides a simple and flexible interface to share data, computations and visualizations between a variety of user roles in both local and cloud environments. (Python, Clojure)", 
-        "Internal Code Repo": "", 
-        "License": [
-            "BSD"
-        ], 
-        "Languages": [
-            "Python", 
-            "Clojure"
-        ], 
-        "Platform Requirements": [
-            "OSX/Linux"
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Infrastructure"
-        ], 
-        "New Date": "20150410", 
-        "Update Date": ""
-    }, 
+    },
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
@@ -1524,7 +1470,7 @@
         "Software": "Omakase", 
         "Internal Link": "", 
         "External Link": "", 
-        "Public Code Repo": "", 
+        "Public Code Repo": "https://github.com/qadium/omakase", 
         "Instructional Material": "", 
         "Stats": "", 
         "Description": "Omakase provides a simple and flexible interface to share data, computations, and visualizations between a variety of user roles in both local and cloud environments. (Python, Clojure)", 
