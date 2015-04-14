@@ -16,7 +16,7 @@
         "Public Code Repo": "https://github.com/dossier", 
         "Instructional Material": "", 
         "Stats": "dossier", 
-        "Description": "Dossier Stack provides a framework of library components for building active search applications that learn what users want by capturing their actions as truth data. The frameworks web services and javascript client libraries enable  applications to efficiently capture user actions such as organizing content into folders, and allows back end algorithms to train classifiers and ranking algorithms to recommend content based on those user actions.", 
+        "Description": "Dossier Stack provides a framework of library components for building active search applications that learn what users want by capturing their actions as truth data. The frameworks web services and javascript client libraries enable  applications to efficiently capture user actions such as organizing content into folders, and allows back end algorithms to train classifiers and ranking algorithms to recommend content based on those user actions. (Python/JavaScript/Java)", 
         "Internal Code Repo": "", 
         "License": [
             "MIT"
@@ -1685,7 +1685,7 @@
         "Public Code Repo": "https://github.com/Sotera/Datawake", 
         "Instructional Material": "", 
         "Stats": "", 
-        "Description": "The Datawake project consists of various server and database technologies that aggregate user browsing data via a plug-in using domain-specific searches. This captured, or extracted, data is organized into browse paths and elements of interest. This information can be shared or expanded amongst teams of individuals. Elements of interest which are extracted either automatically, or manually by the user, are given weighted values.", 
+        "Description": "The Datawake project consists of various server and database technologies that aggregate user browsing data via a plug-in using domain-specific searches. This captured, or extracted, data is organized into browse paths and elements of interest. This information can be shared or expanded amongst teams of individuals. Elements of interest which are extracted either automatically, or manually by the user, are given weighted values. (Python/Java/Scala/Clojure/JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
