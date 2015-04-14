@@ -726,31 +726,32 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "IST Research"
+            "IST Research",
+            "Parse.ly"
         ], 
         "Contributors": [
             ""
         ], 
         "Sub-contractors": [
-            "Parsely, Inc"
+            "Parse.ly"
         ], 
-        "Software": "Streamparse", 
+        "Software": "streamparse", 
         "Internal Link": "", 
         "External Link": "https://github.com/Parsely/streamparse", 
         "Public Code Repo": "https://github.com/Parsely/streamparse.git", 
         "Instructional Material": "", 
         "Stats": "streamparse", 
-        "Description": "Streamparse lets users run Python code against real-time streams of data. It allows users to spin up small clusters of stream processing machines locally during development. It also allows remote management of stream processing clusters that are running Apache Storm. It includes both a Python module implementing the Storm multi-lang protocol; a command-line tool for managing local development, projects, and clusters; and a public API for writing data processing topologies easily. (Python, Clojure)", 
+        "Description": "streamparse lets users run Python code against real-time streams of data. It allows users to spin up small clusters of stream processing machines locally during development. It also allows remote management of stream processing clusters that are running Apache Storm. It includes both a Python module implementing the Storm multi-lang protocol; a command-line tool for managing local development, projects, and clusters; and a public API for writing data processing topologies easily. (Python, Clojure)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
         ], 
         "Languages": [
-            "Python",
-			"Clojure"
+        	"Python",
+		"Clojure"
         ], 
         "Platform Requirements": [
-            "UNIX-like System (Mac OS X, Linux)"
+        	"UNIX-like System (Mac OS X, Linux)"
         ], 
         "Dependent modules": [
             ""
@@ -768,15 +769,15 @@
             ""
         ], 
         "Functionality": [
-            "Distributed Workflows",
-			"Stream Processing",
-			"Storm + Python Language Support"
+        	"Distributed Workflows",
+		"Stream Processing",
+		"Storm + Python Language Support"
         ], 
         "Categories": [
-            "Analytics",
-			"Distributed Programming",
-			"Infrastructure",
-			"Systems Integration"
+        	"Analytics",
+		"Distributed Programming",
+		"Infrastructure",
+		"Systems Integration"
         ], 
         "New Date": "20150410", 
         "Update Date": ""
@@ -784,21 +785,22 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "IST Research"
+            "IST Research",
+            "Parse.ly"
         ], 
         "Contributors": [
             ""
         ], 
         "Sub-contractors": [
-            "Parsely, Inc"
+            "Parse.ly"
         ], 
-        "Software": "Pykafka", 
+        "Software": "pykafka", 
         "Internal Link": "", 
         "External Link": "https://github.com/Parsely/pykafka", 
         "Public Code Repo": "https://github.com/Parsely/pykafka.git", 
         "Instructional Material": "", 
         "Stats": "pykafka", 
-        "Description": "A Python driver for the Apache Kafka messaging system, pykafka enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
+        "Description": "pykafka is a Python driver for the Apache Kafka messaging system. It enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -825,14 +827,14 @@
             ""
         ], 
         "Functionality": [
-            "Distributed Messaging",
-			"Kafka + Python Driver"
+        	"Distributed Messaging",
+		"Kafka + Python Driver"
         ], 
         "Categories": [
-            "Analytics",
-			"Distributed Programming",
-			"Infrastructure",
-			"Systems Integration"
+        	"Analytics",
+		"Distributed Programming",
+		"Infrastructure",
+		"Systems Integration"
         ], 
         "New Date": "20150410", 
         "Update Date": ""
@@ -1722,109 +1724,5 @@
         ], 
         "New Date": "20150413", 
         "Update Date": ""
-    },
-    {
-        "DARPA Program":"MEMEX",
-        "Program Teams":[
-            "MIT-LL"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Information Extractor",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"https://github.com/mitll/MITIE",
-        "Public Code Repo":"https://github.com/mitll/MITIE.git",
-        "Instructional Material":"",
-        "Stats":"MITIE",
-        "Description":"Trainable named entity extractor (NER) and relation extractor. (C)",
-        "Internal Code Repo":"tools\\analytics\\mit-LL\\tpoic",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "C"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-     {
-        "DARPA Program":"MEMEX",
-        "Program Teams":[
-            "MIT-LL"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Topic",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"https://github.com/mitll/topic-clustering",
-        "Public Code Repo":"https://github.com/mitll/topic-clustering.git",
-        "Instructional Material":"",
-        "Stats":"topic-clustering",
-        "Description":"This tool takes a set of text documents, filters by a given language, and then produces documents clustered by topic.  The method used is Probabilistic Latent Semantic Analysis (PLSA). (Python)",
-        "Internal Code Repo":"tools\\analytics\\mit-LL",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Python"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":"20140809"
-    },
+    }
 ]
