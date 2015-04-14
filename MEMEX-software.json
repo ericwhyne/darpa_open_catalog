@@ -1295,7 +1295,7 @@
         "Public Code Repo": "https://github.com/unchartedsoftware/TellFinder/", 
         "Instructional Material": "", 
         "Stats": "TellFinder", 
-        "Description": "TellFinder provides efficient visual analytics to detect activity of interest by automatically characterizing and organizing publicly available Internet data. Compared to standard web search engines, TellFinder enables analysts to research case-related data in significantly less time. Reviewing TellFinder's automatically characterized groups also allows analysts to track activity patterns over time, discover previously unknown actors and infer organizational relationships. (JavaScript, Java)", 
+        "Description": "TellFinder provides efficient visual analytics to detect activity of interest by automatically characterizing and organizing publicly available Internet data. Compared to standard web search engines, TellFinder enables analysts to research case-related data in significantly less time. Reviewing TellFinder's automatically characterized groups also allows analysts to track activity patterns over time, discover previously unknown actors and infer organizational relationships. The techniques are appicable to various domains.  It is currently being used with escort advertisements to combat human trafficking. (JavaScript, Java)", 
         "Internal Code Repo": "https://github.com/unchartedsoftware/TellFinder/", 
         "License": [
             "MIT"
