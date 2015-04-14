@@ -408,7 +408,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/Formasaurus", 
         "Instructional Material": "", 
         "Stats": "Formasaurus", 
-        "Description": "Formasaurus is a Python package that tells you the type of an HTML form: is it a login, search, registration, password recovery, join mailing list, contact form or something else. Under the hood it uses machine learning. (Python)", 
+        "Description": "Formasaurus is a Python package that tells users the type of an HTML form: is it a login, search, registration, password recovery, join mailing list, contact form or something else. Under the hood it uses machine learning. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -462,7 +462,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/hgprofiler", 
         "Instructional Material": "", 
         "Stats": "hgprofiler", 
-        "Description": "HG Profiler is a tool based on the Recon-ng tool's profiler module (see http://webbreacher.blogspot.com/2014/12/recon-ng-profiler-module.html). Our version is distributed and runs a bit more efficiently than the original, but was otherwise very much inspired by the Recon-ng module. The tool allows you to take a list of usernames from a particular source and look for that same username across 130+ other websites. The list of sites to cross-check is extensible. The distributed nature of the tool means that you can check a large number of usernames in a short amount of time. (Python)", 
+        "Description": "HG Profiler is a tool based on the Recon-ng tool's profiler module (see http://webbreacher.blogspot.com/2014/12/recon-ng-profiler-module.html). This version is distributed and runs more efficiently than the original, but was otherwise significantly inspired by the Recon-ng module. The tool allows users to take a list of usernames from a particular source and look for that same username across hundreds of other websites. The list of sites to cross-check is extensible. The distributed nature of the tool means that users can check a large number of usernames in a short amount of time. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -574,7 +574,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/scrapy-dockerhub", 
         "Instructional Material": "", 
         "Stats": "scrapy-dockerhub", 
-        "Description": "Scrapy-Dockerhub is a deployment setup for Scrapy spiders that packages the spider and all dependencies into a Docker container, which is then managed by a Fabric command line utility. With this setup, you can run your spiders seamlessly on any server, without the need for Scrapyd which typically handles the spider management. With Scrapy-Dockerhub, you issue one command to deploy spider with all dependencies to the server and second command to run it, just that easy. There are also commands for viewing jobs, logs, etc. (Python)", 
+        "Description": "Scrapy-Dockerhub is a deployment setup for Scrapy spiders that packages the spider and all dependencies into a Docker container, which is then managed by a Fabric command line utility. With this setup, users can run spiders seamlessly on any server, without the need for Scrapyd which typically handles the spider management. With Scrapy-Dockerhub, users issue one command to deploy spider with all dependencies to the server and second command to run it. There are also commands for viewing jobs, logs, etc. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
