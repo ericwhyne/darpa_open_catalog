@@ -1110,6 +1110,60 @@
         "Update Date": ""
     },
     {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+            "Kitware"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Continuum", 
+            "Kitware"
+        ], 
+        "Software": "SMQTK", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/kitware/smqtk", 
+        "Public Code Repo": "https://github.com/kitware/smqtk", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Kitware’s Social Multimedia Query Toolkit (SMQTK) is an open-source service for ingesting images and video from social media (e.g. YouTube, Twitter), computing content-based features, indexing the media based on the content descriptors, querying for similar content, and building user-defined searches via an interactive query refinement (IQR) process.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Analysis"
+        ], 
+        "New Date": "20150415", 
+        "Update Date": ""
+    },
+    {
         "DARPA Program": "MEMEX",
         "Program Teams": [
             "U.S. Naval Research Laboratory"
