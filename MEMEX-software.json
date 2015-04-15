@@ -520,7 +520,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/autologin", 
         "Instructional Material": "", 
         "Stats": "autologin", 
-        "Description": "AutoLogin is a utility that allows a web crawler to start from any given page of a website (for example the home page) and attempt to find the login page, where the spider can then log in with a set of valid, user-provided credentials to conduct a deep crawl of a site to which the user already has legitimate access. AutoLogin can be used as a library or as a service.", 
+        "Description": "AutoLogin is a utility that allows a web crawler to start from any given page of a website (for example the home page) and attempt to find the login page, where the spider can then log in with a set of valid, user-provided credentials to conduct a deep crawl of a site to which the user already has legitimate access. AutoLogin can be used as a library or as a service. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -629,7 +629,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/hgprofiler", 
         "Instructional Material": "", 
         "Stats": "hgprofiler", 
-        "Description": "HG Profiler is a tool that allows users to take a list of entities from a particular source and look for those same entities across a pre-defined list of other sources.", 
+        "Description": "HG Profiler is a tool that allows users to take a list of entities from a particular source and look for those same entities across a pre-defined list of other sources. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -741,7 +741,7 @@
         "Public Code Repo": "https://github.com/scrapinghub/frontera", 
         "Instructional Material": "", 
         "Stats": "Frontera", 
-        "Description": "Frontera (formerly Crawl Frontier) is used as part of a web crawler, it can store URLs and prioritize what to visit next.", 
+        "Description": "Frontera (formerly Crawl Frontier) is used as part of a web crawler, it can store URLs and prioritize what to visit next. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "BSD"
@@ -795,7 +795,7 @@
         "Public Code Repo": "https://github.com/scrapinghub/splash", 
         "Instructional Material": "", 
         "Stats": "Splash", 
-        "Description": "Lightweight, scriptable browser as a service with an HTTP API.", 
+        "Description": "Lightweight, scriptable browser as a service with an HTTP API. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "BSD"
