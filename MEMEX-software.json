@@ -722,6 +722,60 @@
             "Scrapinghub"
         ], 
         "Contributors": [
+            "Diffeo"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Frontera", 
+        "Internal Link": "", 
+        "External Link": "http://frontera.readthedocs.org/en/latest/", 
+        "Public Code Repo": " https://github.com/scrapinghub/frontera", 
+        "Instructional Material": "", 
+        "Stats": "Frontera", 
+        "Description": "Frontera (formerly Crawl Frontier) is used as part of a web crawler, it can store URLs and prioritize what to visit next.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling",
+            "Machine Learning"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    },
+     {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
             ""
         ], 
         "Sub-contractors": [
@@ -767,7 +821,7 @@
         ], 
         "New Date": "20150410", 
         "Update Date": ""
-    }, 
+    },
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
