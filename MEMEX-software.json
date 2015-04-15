@@ -68,7 +68,7 @@
       "Public Code Repo": "http://public.mtc.sri.com/MEMEX/forumSpider.tar.gz", 
       "Instructional Material": "", 
       "Stats": "", 
-      "Description": "An interactive web forum analysis tool that operates over Tor hidden services.  This tool is capable of passive forum data capture and posting dialog at random or user-specifiable intervals.", 
+      "Description": "An interactive web forum analysis tool that operates over Tor hidden services.  This tool is capable of passive forum data capture and posting dialog at random or user-specifiable intervals. (Python)", 
       "Internal Code Repo": "", 
       "License": [
           "SRI open source license"
@@ -80,10 +80,12 @@
           "Linux"
       ], 
       "Dependent modules": [
-          "scrapy", "torsocks"
+          "scrapy",
+		  "torsocks"
       ], 
       "Dependent module URLs": [
-          "http://www.scrapy.org","https://github.com/dgoulet/torsocks/"
+          "http://www.scrapy.org",
+		  "https://github.com/dgoulet/torsocks/"
       ], 
       "Component modules": [
           ""
@@ -95,7 +97,9 @@
           ""
       ], 
       "Functionality": [
-          "Anonymity", "privacy", "censorship circumvention"
+          "Anonymity",
+		  "privacy",
+		  "censorship circumvention"
       ], 
       "Categories": [
           "Infrastructure"
@@ -120,7 +124,7 @@
         "Public Code Repo": "http://public.mtc.sri.com/MEMEX/hsprobe-2.1.tar.gz", 
         "Instructional Material": "", 
         "Stats": "", 
-        "Description": "HSProbe is a python multi-threaded STEM-based application designed to interrogate the status of Tor hidden services (HSs) and extracting hidden service content. It is an HS-protocol savvy crawler, that uses protocol error codes to decide what to do when a hidden service is not reached.  HSProbe tests whether specified Tor hidden services (.onion addresses) are listening on one of a range of pre-specified ports, and optionally, whether they are speaking over other specified protocols.  As of this version, support for HTTP and HTTPS is implemented. Hsprobe takes as input a list of hidden services to be probed and generates as output a similar list of the results of each hidden service probed.", 
+        "Description": "HSProbe is a python multi-threaded STEM-based application designed to interrogate the status of Tor hidden services (HSs) and extracting hidden service content. It is an HS-protocol savvy crawler, that uses protocol error codes to decide what to do when a hidden service is not reached.  HSProbe tests whether specified Tor hidden services (.onion addresses) are listening on one of a range of pre-specified ports, and optionally, whether they are speaking over other specified protocols.  As of this version, support for HTTP and HTTPS is implemented. Hsprobe takes as input a list of hidden services to be probed and generates as output a similar list of the results of each hidden service probed. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "SRI open source license"
@@ -132,10 +136,12 @@
             "Linux"
         ], 
         "Dependent modules": [
-            "socksipy", "torstem"
+            "socksipy",
+			"torstem"
         ], 
         "Dependent module URLs": [
-            "http://code.google.com/p/socksipy-branch/","https://stem.torproject.org/"
+            "http://code.google.com/p/socksipy-branch/",
+			"https://stem.torproject.org/"
         ], 
         "Component modules": [
             ""
@@ -147,7 +153,9 @@
             ""
         ], 
         "Functionality": [
-            "Anonymity", "privacy", "censorship circumvention"
+            "Anonymity",
+			"privacy",
+			"censorship circumvention"
         ], 
         "Categories": [
             "Infrastructure"
