@@ -1590,7 +1590,7 @@
         "Description": "Omakase provides a simple and flexible interface to share data, computations, and visualizations between a variety of user roles in both local and cloud environments. (Python, Clojure)", 
         "Internal Code Repo": "", 
         "License": [
-            "BSD"
+            "EPL"
         ], 
         "Languages": [
             "Python", 
