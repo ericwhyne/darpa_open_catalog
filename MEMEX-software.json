@@ -512,7 +512,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/autologin", 
         "Instructional Material": "", 
         "Stats": "autologin", 
-        "Description": "AutoLogin is a crawling utility that attempts to automatically find the login page of a website given a seed URL, and then automatically log in to that website given valid credentials. AutoLogin can be used as a library or as a service. This service gives users an easy way to handle autologin without having to find the login form manually or build POST requests to log in. Users can simply specify any reasonable starting point to crawl a website (e.g. the home page), give AutoLogin a set of credentials and it logs in automatically, providing the authenticated headers/cookies back to the users for use in crawlers or scrapers. (Python)", 
+        "Description": "AutoLogin is a utility that allows a web crawler to start from any given page of a website (for example the home page) and attempt to find the login page, where the spider can then log in with a set of valid, user-provided credentials to conduct a deep crawl of a site to which the user already has legitimate access. AutoLogin can be used as a library or as a service.", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -621,7 +621,7 @@
         "Public Code Repo": "https://github.com/TeamHG-Memex/hgprofiler", 
         "Instructional Material": "", 
         "Stats": "hgprofiler", 
-        "Description": "HG Profiler is a tool based on the Recon-ng tool's profiler module (see http://webbreacher.blogspot.com/2014/12/recon-ng-profiler-module.html). This version is distributed and runs more efficiently than the original, but was otherwise significantly inspired by the Recon-ng module. The tool allows users to take a list of usernames from a particular source and look for that same username across hundreds of other websites. The list of sites to cross-check is extensible. The distributed nature of the tool means that users can check a large number of usernames in a short amount of time. (Python)", 
+        "Description": "HG Profiler is a tool that allows users to take a list of entities from a particular source and look for those same entities across a pre-defined list of other sources.", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
