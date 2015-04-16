@@ -135,6 +135,15 @@
 },
 {
         "DARPA Office": "I2O",
+        "Program Name": "MEMEX",
+        "Program File": "MEMEX-program.json",
+        "Pubs File": "MEMEX-pubs.json",
+        "Software File": "MEMEX-software.json",
+		"Data File": "",
+        "Banner":"NEW"
+},
+{
+        "DARPA Office": "I2O",
         "Program Name": "MRC",
         "Program File": "MRC-program.json",
         "Pubs File": "MRC-pubs.json",
