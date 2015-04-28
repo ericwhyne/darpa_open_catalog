@@ -2390,7 +2390,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Oculus Info, Inc."
+            "Uncharted Software (formerly Oculus Info Inc.)"
         ],
         "Contributors":[
             ""
@@ -2401,7 +2401,7 @@
         "Software":"ApertureJS",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
         "External Link":"http://aperturejs.com/",
-        "Public Code Repo":"https://github.com/oculusinfo/aperturejs.git",
+        "Public Code Repo":"https://github.com/unchartedsoftware/aperturejs.git",
         "Instructional Material":"",
         "Stats":"aperturejs",
         "Description":"ApertureJS is an open, adaptable and extensible JavaScript visualization framework with supporting REST services, designed to produce visualizations for analysts and decision makers in any common web browser. Aperture utilizes a novel layer based approach to visualization assembly, and a data mapping API that simplifies the process of adaptable transformation of data and analytic results into visual forms and properties.  Aperture vizlets can be easily embedded with full interoperability in frameworks such as the Ozone Widget Framework (OWF). (JavaScript/Java)",
@@ -2442,7 +2442,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Oculus Info, Inc."
+            "Uncharted Software (formerly Oculus Info Inc.)"
         ],
         "Contributors":[
             ""
@@ -2452,8 +2452,8 @@
         ],
         "Software":"Influent",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
-        "External Link":"http://www.oculusinfo.com/influent",
-        "Public Code Repo":"https://github.com/oculusinfo/influent.git",
+        "External Link":"http://uncharted.software/influent",
+        "Public Code Repo":"https://github.com/unchartedsoftware/influent.git",
         "Instructional Material":"",
         "Stats":"influent",
         "Description":"Influent is an HTML5 tool for visually and interactively following transaction flow, rapidly revealing actors and behaviors of potential concern that might otherwise go unnoticed. Summary visualization of transactional patterns and actor characteristics, interactive link expansion and dynamic entity clustering enable Influent to operate effectively at scale with big data sources in any modern web browser. Influent has been used to explore data sets with millions of entities and hundreds of millions of transactions. (JavaScript/Java)",
@@ -2495,7 +2495,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Oculus Info, Inc."
+            "Uncharted Software (formerly Oculus Info Inc.)"
         ],
         "Contributors":[
             ""
@@ -2505,8 +2505,8 @@
         ],
         "Software":"Aperture Tile-Based Visual Analytics",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
-        "External Link":"http://www.oculusinfo.com/tiles",
-        "Public Code Repo":"https://github.com/oculusinfo/aperture-tiles.git",
+        "External Link":"http://uncharted.software/tiles",
+        "Public Code Repo":"https://github.com/unchartedsoftware/aperture-tiles.git",
         "Stats":"aperture-tiles",
         "Description":"New tools for raw data characterization of 'big data' are required to suggest initial hypotheses for testing. The widespread use and adoption of web-based maps has provided a familiar set of interactions for exploring abstract large data spaces. Building on these techniques, we developed tile based visual analytics that provide browser-based interactive visualization of billions of data points. (JavaScript/Java)",
         "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\demos\\xdata\\SC2013",
@@ -2547,7 +2547,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Oculus Info, Inc."
+            "Uncharted Software (formerly Oculus Info Inc.)"
         ],
         "Contributors":[
             ""
@@ -2555,13 +2555,13 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Oculus Ensemble Clustering",
+        "Software":"Uncharted Ensemble Clustering",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
-        "External Link":"https://github.com/oculusinfo/ensemble-clustering",
-        "Public Code Repo":"https://github.com/oculusinfo/ensemble-clustering.git",
+        "External Link":"https://github.com/unchartedsoftware/ensemble-clustering",
+        "Public Code Repo":"https://github.com/unchartedsoftware/ensemble-clustering.git",
         "Instructional Material":"",
         "Stats":"ensemble-clustering",
-        "Description":"Oculus Ensemble Clustering is a flexible multi-threaded clustering library for rapidly constructing tailored clustering solutions that leverage the different semantic aspects of heterogeneous data.  The library can be used on a single machine using multi-threading or distributed computing using Spark. (Java)",
+        "Description":"Uncharted Ensemble Clustering is a flexible multi-threaded clustering library for rapidly constructing tailored clustering solutions that leverage the different semantic aspects of heterogeneous data.  The library can be used on a single machine using multi-threading or distributed computing using Spark. (Java)",
         "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\oculus-common",
         "License":[
             "MIT"
