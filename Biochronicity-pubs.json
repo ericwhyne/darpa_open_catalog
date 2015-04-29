@@ -29,5 +29,53 @@
         ], 
         "New Date": "20150406", 
         "Update Date": ""
+    },
+	    {
+        "DARPA Program": "Biochronicity", 
+        "Program Teams": [
+            "Duke University"
+        ], 
+        "Title": "On the Efficacy of State Space Reconstruction Methods in Determining Causality", 
+        "Authors": [
+            "Bree Cummins", 
+            "Tomas Gedeon", 
+            "Kelly Spendlove"
+        ], 
+        "Link": "http://epubs.siam.org/doi/abs/10.1137/130946344", 
+        "Categories": [
+            "Learning"
+        ], 
+        "Subcategories": [
+            "Time series analysis"
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20150429", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "Biochronicity", 
+        "Program Teams": [
+            "Duke University"
+        ], 
+        "Title": "Predicting High-Codimension Critical Transitions in Dynamical Systems Using Active Learning", 
+        "Authors": [
+            "Kelly Spendlove", 
+            "Jesse Berwald", 
+            "Tomas Gedeon"
+        ], 
+        "Link": "http://www.math.montana.edu/~gedeon/clanky/ativelearningCriticalTran.pdf", 
+        "Categories": [
+            "Learning"
+        ], 
+        "Subcategories": [
+            "Prediction of crictical transitions"
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20150429", 
+        "Update Date": ""
     }
 ]

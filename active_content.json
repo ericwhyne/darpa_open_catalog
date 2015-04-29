@@ -6,7 +6,7 @@
         "Pubs File": "AA-pubs.json",
         "Software File": "AA-software.json",
 		"Data File": "",
-        "Banner":"UPDATED"
+        "Banner":""
 },
 {
         "DARPA Office": "I2O",
@@ -150,7 +150,7 @@
         "Pubs File": "HACMS-pubs.json",
         "Software File": "HACMS-software.json",
 		"Data File": "",
-        "Banner":"UPDATED"
+        "Banner":""
 },
 {
         "DARPA Office": "I2O",
@@ -168,7 +168,7 @@
         "Pubs File": "MEMEX-pubs.json",
         "Software File": "MEMEX-software.json",
 		"Data File": "",
-        "Banner":"NEW"
+        "Banner":""
 },
 {
         "DARPA Office": "I2O",
@@ -186,7 +186,7 @@
         "Pubs File": "",
         "Software File": "PLANX-software.json",
 		"Data File": "",
-        "Banner": "NEW"
+        "Banner": ""
 },
 {
         "DARPA Office": "I2O",
@@ -204,7 +204,7 @@
         "Pubs File": "PROCEED-pubs.json",
         "Software File": "",
 		"Data File": "",
-        "Banner": "UPDATED"
+        "Banner": ""
 },
 {
         "DARPA Office": "I2O",
