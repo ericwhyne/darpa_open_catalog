@@ -135,6 +135,15 @@
     "Banner":""
 },
 {
+        "DARPA Office": "I2O",
+        "Program Name": "MADCAT",
+        "Program File": "MADCAT-program.json",
+        "Pubs File": "MADCAT-pubs.json",
+        "Software File": "",
+		"Data File": "",
+        "Banner":"NEW"
+},
+{
     "DARPA Office": "I2O",
     "Program Name": "MEMEX",
     "Program File": "MEMEX-program.json",
