@@ -19,7 +19,7 @@
         "Link"
     ],
     "Description":"The objective of the Binary Executable Transforms (BET) program is to produce revolutionary technologies for analyzing executable binaries to identify and extract executable components. Executable components are defined as a fully encapsulated set of subroutines, data structures, objects and global variables that accomplish a particular function, along with metadata documenting the component's arguments and any system libraries used. Specifically, BET performers are conducting innovative research in: &bull; Automatically analyzing binaries and identifying functional components. &bull; Automatically slicing and extracting identified functionality into reusable components with well-defined inputs and outputs. &bull; Combining static and dynamic binary analysis to improve understanding of binary executables. &bull; Exploring formal verification methods to prove functional component properties. &bull; Developing intermediate representation language to support program slicing. &bull; Developing technologies to enable exploration and research for the BET program.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr__John_Everett.aspx",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-john-everett",
     "Program Manager":"Dr. John Everett",
     "Program Manager Email":"john.everett@darpa.mil",
     "Image":""

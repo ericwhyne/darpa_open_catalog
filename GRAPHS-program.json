@@ -31,7 +31,7 @@
         "UC San Diego",
         "Oak Ridge National Laboratories"
     ],
-    "Link":"http://www.darpa.mil/Our_Work/DSO/Programs/Graph-theoretic_Research_in_Algorithms_and_the_Phenomenology_of_Social_Networks_%28GRAPHS%29.aspx",
+    "Link":"http://www.darpa.mil/program/graphs",
     "Display Software Columns":[
         "Team",
         "Project",
@@ -49,7 +49,7 @@
         "Link"
     ],
     "Description":"GRAPHS is developing scalable algorithms and statistical methods for the analysis and modelling of very large and dynamically evolving networks, with the intent of developing predictive methods for anomalous and exceptional events in networks. A major focus of the program has been quantitative and structural aspects of large networks and the attending models. The program is divided into a few thrusts, with performers working in sampling techniques for graphs, geometric embeddings into hyperbolic spaces, Gaussian Conditional Random Fields, meso-level network behaviors, and link prediction.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/DSO/Personnel/Dr_Reza_Ghanadan.aspx",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-reza-ghanadan",
     "Program Manager":"Dr. Reza Ghanadan",
     "Program Manager Email":"reza.ghanadan@darpa.mil",
     "Image":""

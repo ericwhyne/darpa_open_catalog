@@ -1,0 +1,26 @@
+{
+    "DARPA Office":"TTO",
+    "DARPA Program Name":"AVM",
+    "Long Name":"Adaptive Vehicle Make (AVM)",
+    "Program Teams":"",
+    "Link":"http://www.darpa.mil/program/adaptive-vehicle-make",
+    "Display Software Columns":[
+        "Team",
+        "Project",
+        "Category",
+        "Code",
+        "Description",
+        "License"
+    ],
+    "Display Data Columns":[""],
+    "Display Pubs Columns":[
+        "Team",
+        "Title",
+        "Link"
+    ],
+        "Description": "The Defense Advanced Research Projects Agency's (DARPA) Adaptive Vehicle Make (AVM) portfolio of programs had a goal of compressing the development timelines for new complex cyber-physical systems by at least five-fold. With AVM, DARPA pursued the development of several elements of enabling infrastructure aimed at radically transforming the systems engineering / design / verification (META), manufacturing (iFAB), and collaborative innovation (VehicleFORGE) elements of the overall \"make\" process for modern defense systems. Each of these infrastructure capabilities was largely generic and applicable to any cyber-physical or cyber-electro-mechanical system. This approach was highly dependent on the generation of high-fidelity component, context and manufacturing process models. In order to exercise these capabilities in the context of a relevant military system, AVM also included FANG--the Fast, Adaptable, Next-Generation Ground Vehicle--a design and development effort for a new amphibious infantry fighting vehicle (IFV) that was implemented for the purpose of demonstrating the efficacy of AVM tools and processes. The AVM portfolio began a transition to the Digital Manufacturing and Design Innovation Institute in 2014.", 
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-kevin-massey",
+    "Program Manager":"Dr. Kevin Massey",
+    "Program Manager Email":"kevin.massey@darpa.mil",
+    "Image":""
+}

@@ -3,7 +3,7 @@
     "DARPA Program Name":"SMISC",
     "Long Name":"Social Media in Strategic Communication (SMISC)",
     "Program Teams":"",
-    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/Social_Media_in_Strategic_Communication_%28SMISC%29.aspx",
+    "Link":"http://www.darpa.mil/program/social-media-in-strategic-communication",
     "Display Software Columns":[
         "Team",
         "Project",
@@ -19,8 +19,8 @@
         "Link"
     ],
     "Description":"The general goal of the Social Media in Strategic Communication (SMISC) program is to develop a new science of social networks built on an emerging technology base.  Through the program, DARPA seeks to develop tools to support the efforts of human operators to counter misinformation or deception campaigns with truthful information.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Rand_Waltzman.aspx",
-    "Program Manager":"Dr. Rand Waltzman",
-    "Program Manager Email":"rand.waltzman@darpa.mil",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-michael-hsieh",
+    "Program Manager":"Dr. Michael Hsieh",
+    "Program Manager Email":"michael.hsieh@darpa.mil",
     "Image":""
 }

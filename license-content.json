@@ -114,6 +114,12 @@
    "License Link":"https://secure.nouvant.com/columbia/technology/cu14012/license/258"
 },
 {
+   "License Short Name":["Open Source"],
+   "License Long Name":"Open Source",
+   "License Description":"Developed with the sponsorship of the Defense Advanced Research Projects Agency (DARPA) and delivered to the U.S. Government with Unlimited Rights as defined in DFARS 252.227-7013. Permission is hereby granted, free of charge, to any person obtaining a copy of this data, including any software or models in source or binary form, as well as any drawings, specifications, and documentation (collectively "the Data"), to deal in the Data without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Data, and to permit persons to whom the Data is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Data.",
+   "License Link":"http://cps-vo.org/file/14090/download/50384"
+},
+{
    "License Short Name":["Public Domain"],
    "License Long Name":"Public Domain",
    "License Description":"While not technically a license, this designation means the material is not copyrighted.",

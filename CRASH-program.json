@@ -3,7 +3,7 @@
     "DARPA Program Name":"CRASH",
     "Long Name":"Clean-slate design of Resilient, Adaptive, Secure Hosts (CRASH)",
     "Program Teams":"",
-    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/Clean-slate_design_of_Resilient_Adaptive_Secure_Hosts_%28CRASH%29.aspx",
+    "Link":"http://www.darpa.mil/program/clean-slate-design-of-resilient-adaptive-secure-hosts",
     "Display Software Columns":[
         "Team",
         "Project",
@@ -19,7 +19,7 @@
         "Link"
     ],
     "Description":"The Clean-Slate Design of Resilient, Adaptive, Secure Hosts (CRASH) program is focused on the design of new computer systems that are highly resistant to cyberattack, can adapt after a successful attack to continue rendering useful services, learn from previous attacks how to guard against and cope with future attacks, and can repair themselves after attacks have succeeded. This program addresses computer architectures from processors and instruction sets, includes operating systems and programming languages, and extends up to application level tools.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr__Robert_Laddaga.aspx",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-robert-laddaga",
     "Program Manager":"Dr. Robert Laddaga",
     "Program Manager Email":"Robert.Laddaga@darpa.mil",
     "Image":""

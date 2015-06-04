@@ -3,7 +3,7 @@
     "DARPA Program Name":"HACMS",
     "Long Name":"High-Assurance Cyber Military Systems (HACMS)",
     "Program Teams":"",
-    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/High-Assurance_Cyber_Military_Systems_%28HACMS%29.aspx",
+    "Link":"http://www.darpa.mil/program/high-assurance-cyber-military-systems",
     "Display Software Columns":[
         "Team",
         "Project",
@@ -19,7 +19,7 @@
         "Link"
     ],
     "Description":"The High-Assurance Cyber Military Systems (HACMS) program goal is to create technology for the construction of high-assurance cyber-physical systems, where high assurance is defined to mean functionally correct and satisfying appropriate safety and security properties. Key technologies include interactive software synthesis systems, verification tools, and specification languages.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr__John_Launchbury.aspx",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-john-launchbury",
     "Program Manager":"Dr. John Launchbury",
     "Program Manager Email":"john.launchbury@darpa.mil",
     "Image":""

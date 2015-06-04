@@ -3,7 +3,7 @@
     "DARPA Program Name":"PROCEED",
     "Long Name":"PROgramming Computation on EncryptEd Data (PROCEED)",
     "Program Teams":"",
-    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/PROgramming_Computation_on_EncryptEd_Data_%28PROCEED%29.aspx",
+    "Link":"http://www.darpa.mil/program/programming-computation-on-encrypted-data",
     "Display Software Columns":[
         "Team",
         "Project",
@@ -19,7 +19,7 @@
         "Link"
     ],
     "Description":"DARPA's Programming Computation on Encrypted Data (PROCEED) program is a research effort that seeks to develop methods that allow computing with encrypted data without first decrypting that data, making it possible to compute more securely in untrusted environments.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr__John_Launchbury.aspx",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-john-launchbury",
     "Program Manager":"Dr. John Launchbury",
     "Program Manager Email":"john.launchbury@darpa.mil",
     "Image":""
