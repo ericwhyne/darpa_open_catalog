@@ -1913,6 +1913,112 @@
         "Sub-contractors": [
             ""
         ], 
+        "Software": "Plumber", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/qadium/plumber", 
+        "Public Code Repo": "https://github.com/qadium/plumber.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Plumber is designed to facilitate distributed data exploration. With the \"plumb\" command line tool, developers and data scientists can deploy and manage data enhancers on a Kubernetes cluster. Plumber provides a system to write python scripts to perform data enhancement e.g.  perform a regex, make a call to a database, link data together, etc. and automatically distribute python scripts to optimize performance . (python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20150706", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Link", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/qadium/link-ht", 
+        "Public Code Repo": "https://github.com/qadium/link-ht.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Link is a domain-specific, entity-centric search tool designed for analysts. Link is a front-end web app that sits on top of data enhanced by Plumber and provides a framework that must be tailored on a per domain basis. (javascript)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Javascript"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Visualization", 
+            "Analytics", 
+            "Information Retrieval"
+        ], 
+        "New Date": "20150706", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
         "Software": "Omakase", 
         "Internal Link": "", 
         "External Link": "https://github.com/qadium/omakase", 
