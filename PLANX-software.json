@@ -56,6 +56,167 @@
     {
         "DARPA Program": "PLAN X", 
         "Program Teams": [
+            "Raytheon BBN Technologies"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "avro-golang-compiler", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/BBN-D/avro-golang-compiler", 
+        "Public Code Repo": "https://github.com/BBN-D/avro-golang-compiler.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "avro-golang-compiler is a fork of the Avro Java object compiler. It generates Golang code from Avro AVDL files that can be used to serialize/deserialize Avro objects. (Golang, Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Golang", 
+            "Java"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Avro", 
+            "Data Serialization"
+        ], 
+        "Categories": [
+            "Data Serialization"
+        ], 
+        "New Date": "20150708", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PLAN X", 
+        "Program Teams": [
+            "Raytheon BBN Technologies"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "poi-visio", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/BBN-D/poi-visio", 
+        "Public Code Repo": "https://github.com/BBN-D/poi-visio.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "poi-visio is a Java library that loads Visio OOXML (vsdx) files and creates an in memory data structure that allows full access to the contents of the document. There is built-in support for easily traversing the content of the document in a structured way, and can render pages to simplified PNG files, or other backends supported by Java AWT. It is built using the Apache POI library which operates on other Microsoft OOXML documents (docx, pptx, xlsx). Currently the library only operates in read-only mode, but its design does not exclude being able to modify existing documents or creating new documents. (Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Office Document Parser"
+        ], 
+        "Categories": [
+            "Microsoft Office", 
+            "Text Extraction"
+        ], 
+        "New Date": "20150708", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PLAN X", 
+        "Program Teams": [
+            "Raytheon BBN Technologies"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "poi-visio-graph", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/BBN-D/poi-visio-graph", 
+        "Public Code Repo": "https://github.com/BBN-D/poi-visio-graph.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "poi-visio-graph is a Java library that loads Visio OOXML (vsdx) files using the poi-visio library and creates an in-memory graph structure from the objects present on the page. Not only does it utilize user-specified connection points, but it performs analysis to infer logical visual connection points between the objects on each page. One possible use of this library is to create a Network diagram from a Visio document. (Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Semantic Analysis"
+        ], 
+        "Categories": [
+            "Microsoft Office", 
+            "Graph", 
+            "Semantic Analysis"
+        ], 
+        "New Date": "20150708", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PLAN X", 
+        "Program Teams": [
             "Domain-specific languages team"
         ], 
         "Contributors": [
