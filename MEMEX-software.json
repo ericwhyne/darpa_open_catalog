@@ -1,5 +1,57 @@
 [
-	{
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "TAD (Temporal Anomaly Detector)", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/Carnegie+Mellon+University", 
+        "External Link": "https://github.com/autonlab/tad", 
+        "Public Code Repo": "https://github.com/autonlab/tad", 
+        "Instructional Material": "https://github.com/autonlab/tad", 
+        "Stats": "TAD", 
+        "Description": "Temporal scan anomaly detection algorithm for time series.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Anomaly detection"
+        ], 
+        "Categories": [
+            "Time series statistics"
+        ], 
+        "New Date": "20150729", 
+        "Update Date": ""
+    }, 
+    {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
             "MIT Lincoln Laboratory"
