@@ -51,7 +51,7 @@
     "Pubs File": "Biochronicity-pubs.json",
     "Software File": "",
 	"Data File": "",
-    "Banner": "NEW"
+    "Banner": ""
 },
 {
     "DARPA Office": "I2O",
@@ -168,7 +168,7 @@
     "Pubs File": "MADCAT-pubs.json",
     "Software File": "",
 	"Data File": "",
-    "Banner":"NEW"
+    "Banner":""
 },
 {
     "DARPA Office": "I2O",
@@ -195,7 +195,7 @@
     "Pubs File": "",
     "Software File": "PLANX-software.json",
 	"Data File": "",
-    "Banner": "UPDATED"
+    "Banner": ""
 },
 {
     "DARPA Office": "I2O",
