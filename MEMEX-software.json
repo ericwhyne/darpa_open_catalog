@@ -1344,13 +1344,13 @@
             "Continuum", 
             "Kitware"
         ], 
-        "Software": "LegisGATE", 
+        "Software": "MemexGATE", 
         "Internal Link": "", 
-        "External Link": "https://github.com/lewismc/legisgate", 
-        "Public Code Repo": "https://github.com/lewismc/legisgate", 
+        "External Link": "https://github.com/memex-explorer/memex-gate", 
+        "Public Code Repo": "https://github.com/memex-explorer/memex-gate", 
         "Instructional Material": "", 
-        "Stats": "legisgate", 
-        "Description": "Demonstration application for running General Architecture Text Engineering over legislative resources. (Java)", 
+        "Stats": "MemexGATE", 
+        "Description": "Server side framework, command line tool and environment for running large scale General Architecture Text Engineering tasks over document resources such as online ads, debarment information, federal and district court appeals, press releases, news articles, social media streams, etc.", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -1380,9 +1380,11 @@
             ""
         ], 
         "Categories": [
-            "Analysis"
+            "Text Analysis",
+            "Text Engineering",
+            "Indexing"
         ], 
-        "New Date": "20150410", 
+        "New Date": "20150729", 
         "Update Date": ""
     },
     {
