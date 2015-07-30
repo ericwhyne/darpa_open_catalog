@@ -2,6 +2,58 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
+            "InferLink"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Landmark Extractor", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/inferlink/extraction", 
+        "Public Code Repo": "https://github.com/inferlink/extraction", 
+        "Instructional Material": "https://github.com/inferlink/extraction", 
+        "Stats": "", 
+        "Description": "Library to extract semi-structured data from similar web pages based on rules", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Text Extraction"
+        ], 
+        "New Date": "20150729", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
             "Carnegie Mellon University"
         ], 
         "Contributors": [
