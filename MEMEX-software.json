@@ -13,10 +13,10 @@
         "Software": "Landmark Extractor", 
         "Internal Link": "", 
         "External Link": "https://github.com/inferlink/extraction", 
-        "Public Code Repo": "https://github.com/inferlink/extraction", 
+        "Public Code Repo": "https://github.com/inferlink/extraction.git", 
         "Instructional Material": "https://github.com/inferlink/extraction", 
-        "Stats": "", 
-        "Description": "Library to extract semi-structured data from similar web pages based on rules", 
+        "Stats": "extraction", 
+        "Description": "Library to extract semi-structured data from similar web pages based on rules. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -138,7 +138,7 @@
             "Dependent Modules can all be downloaded from the Julia Central Repository"
         ], 
         "Component modules": [
-            "(Devectorize, DataStructures, GZip, Iterators) Stage, Ollam "
+            "(Devectorize, DataStructures, GZip, Iterators) Stage, Ollam"
         ], 
         "Component module URLs": [
             "Component modules listed in parentheses are available via the Julia Central Repository. Stage and Ollam are available for manual install via https://github.com/saltpork/Stage.jl and https://github.com/mit-nlp/Ollam.jl"
@@ -170,7 +170,7 @@
       ], 
       "Software": "Hidden Service Forum Spider", 
       "Internal Link": "", 
-      "External Link": "http://public.mtc.sri.com/MEMEX/forumSpider.tar.gz", 
+      "External Link": "http://public.mtc.sri.com/MEMEX/", 
       "Public Code Repo": "http://public.mtc.sri.com/MEMEX/forumSpider.tar.gz", 
       "Instructional Material": "", 
       "Stats": "", 
@@ -341,7 +341,7 @@
         "Public Code Repo": "https://github.com/dossier", 
         "Instructional Material": "", 
         "Stats": "", 
-        "Description": "Dossier Stack provides a framework of library components for building active search applications that learn what users want by capturing their actions as truth data. The frameworks web services and javascript client libraries enable  applications to efficiently capture user actions such as organizing content into folders, and allows back end algorithms to train classifiers and ranking algorithms to recommend content based on those user actions. (Python/JavaScript/Java)", 
+        "Description": "Dossier Stack provides a framework of library components for building active search applications that learn what users want by capturing their actions as truth data. The frameworks web services and javascript client libraries enable  applications to efficiently capture user actions such as organizing content into folders, and allows back end algorithms to train classifiers and ranking algorithms to recommend content based on those user actions. (Python, JavaScript, Java)", 
         "Internal Code Repo": "", 
         "License": [
             "MIT"
