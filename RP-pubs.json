@@ -1,5 +1,32 @@
 [
     {
+        "DARPA Program": "Revolutionizing Prosthetics", 
+        "Program Teams": [
+            "University of Chicago"
+        ], 
+        "Title": "Biological and Bionic Hands: Natural Neural Coding and Artificial Perception", 
+        "Authors": [
+            "Sliman J. Bensmaia"
+        ], 
+        "Link": "http://rstb.royalsocietypublishing.org/content/370/1677/20140209", 
+        "Categories": [
+            "Human-centered computing"
+        ], 
+        "Subcategories": [
+            "Human computer interaction", 
+            "HCI design and evaluation methods", 
+            "Interaction devices", 
+            "HCI theory", 
+            "concepts and models"
+        ], 
+        "ACM 1998 classification code": [
+            "J.3", 
+            "I.6.5"
+        ], 
+        "New Date": "20150805", 
+        "Update Date": ""
+    }, 
+    {
         "DARPA Program": "RP", 
         "Program Teams": [
             "The Johns Hopkins University Applied Physics Lab", 
