@@ -895,6 +895,115 @@
         "Sub-contractors": [
             ""
         ], 
+        "Software": "Distributed Frontera", 
+        "Internal Link": "", 
+        "External Link": "http://distributed-frontera.readthedocs.org/en/latest/", 
+        "Public Code Repo": "https://github.com/scrapinghub/distributed-frontera", 
+        "Instructional Material": "", 
+        "Stats": "Distributed Frontera", 
+        "Description": "Distributed Frontera is an extension to Frontera (https://github.com/scrapinghub/frontera), providing replication, sharding and isolation of all parts of Frontera-based crawler to scale and distribute it. Frontera (also in the DARPA Open Catalog) is a crawl frontier framework, the part of a crawling system that decides the logic and policies to follow when a crawler is visiting websites (what pages should be crawled next, priorities and ordering, how often pages are revisited, etc). (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling", 
+            "Distribruted",
+            "Broad Crawl"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150807", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Arachnado", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/TeamHG-Memex/arachnado", 
+        "Public Code Repo": "https://github.com/TeamHG-Memex/arachnado", 
+        "Instructional Material": "", 
+        "Stats": "Arachnado", 
+        "Description": "Arachnado is a simple management interface for launching a deep crawl of a specific website. It provides a Tornado-based HTTP API and a web UI for a Scrapy-based crawler. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling", 
+            "Deep Crawl"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150807", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
         "Software": "Splash", 
         "Internal Link": "", 
         "External Link": "http://splash.readthedocs.org/en/latest/", 
