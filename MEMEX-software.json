@@ -898,10 +898,10 @@
         "Software": "Distributed Frontera", 
         "Internal Link": "", 
         "External Link": "http://distributed-frontera.readthedocs.org/en/latest/", 
-        "Public Code Repo": "https://github.com/scrapinghub/distributed-frontera", 
+        "Public Code Repo": "https://github.com/scrapinghub/distributed-frontera.git", 
         "Instructional Material": "", 
-        "Stats": "Distributed Frontera", 
-        "Description": "Distributed Frontera is an extension to Frontera (https://github.com/scrapinghub/frontera), providing replication, sharding and isolation of all parts of Frontera-based crawler to scale and distribute it. Frontera (also in the DARPA Open Catalog) is a crawl frontier framework, the part of a crawling system that decides the logic and policies to follow when a crawler is visiting websites (what pages should be crawled next, priorities and ordering, how often pages are revisited, etc). (Python)", 
+        "Stats": "distributed-frontera", 
+        "Description": "Distributed Frontera is an extension to Frontera (https://github.com/scrapinghub/frontera), providing replication, sharding, and isolation of all parts of Frontera-based crawler to scale and distribute it. Frontera (also in the DARPA Open Catalog) is a crawl frontier framework, the part of a crawling system that decides the logic and policies to follow when a crawler is visiting websites (what pages should be crawled next, priorities and ordering, how often pages are revisited, etc.). (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "BSD"
@@ -953,9 +953,9 @@
         "Software": "Arachnado", 
         "Internal Link": "", 
         "External Link": "https://github.com/TeamHG-Memex/arachnado", 
-        "Public Code Repo": "https://github.com/TeamHG-Memex/arachnado", 
+        "Public Code Repo": "https://github.com/TeamHG-Memex/arachnado.git", 
         "Instructional Material": "", 
-        "Stats": "Arachnado", 
+        "Stats": "arachnado", 
         "Description": "Arachnado is a simple management interface for launching a deep crawl of a specific website. It provides a Tornado-based HTTP API and a web UI for a Scrapy-based crawler. (Python)", 
         "Internal Code Repo": "", 
         "License": [
