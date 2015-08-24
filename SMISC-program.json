@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"The general goal of the Social Media in Strategic Communication (SMISC) program is to develop a new science of social networks built on an emerging technology base.  Through the program, DARPA seeks to develop tools to support the efforts of human operators to counter misinformation or deception campaigns with truthful information.",
     "Program Manager Link":"http://www.darpa.mil/staff/dr-michael-hsieh",
     "Program Manager":"Dr. Michael Hsieh",

@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"The FLASHLIGHT program seeks to prevent data exfiltration and information leakage through the use of a hardened audit and inspection capability that attests to the integrity and legitimacy of data leaving a network enclave.",
     "Program Manager Link":"",
     "Program Manager":"Richard Guidorizzi",

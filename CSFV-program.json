@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"Crowd Sourced Formal Verification (CSFV) is a DARPA program that aims to investigate whether large numbers of non-experts can perform formal verification faster and more cost-effectively than conventional processes. The goal is to transform verification into a more accessible task by creating fun, intuitive games that reflect formal verification problems. Playing the games would effectively help software verification tools complete corresponding formal verification proofs.",
     "Program Manager Link":"http://www.darpa.mil/staff/dr-michael-hsieh",
     "Program Manager":"Dr. Michael Hsieh",

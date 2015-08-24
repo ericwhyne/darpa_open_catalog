@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"The SAFER program seeks to develop technology to enable safe, resilient communications over the Internet, particularly in situations in which third parties attempt to discover the identity or location of the end users, or block communications. The program also seeks to provide the technological quality of service required to support applications such as electronic mail, instant messaging, voice over IP, and other media that promote effective communication.",
     "Program Manager Link":"http://www.darpa.mil/staff/mr-michael-walker",
     "Program Manager":"Mr. Michael Walker",

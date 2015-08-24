@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"Machine learning - the ability of computers to understand data, manage results and infer insights from uncertain information - is the force behind many recent revolutions in computing. Email spam filters, smartphone personal assistants and self-driving vehicles are all based on research advances in machine learning. Unfortunately, even as the demand for these capabilities is accelerating, every new application requires a Herculean effort. Teams of hard-to-find experts must build expensive, custom tools that are often painfully slow and can perform unpredictably against large, complex data sets.</BR></BR>The Probabilistic Programming for Advancing Machine Learning (PPAML) program aims to address these challenges. Probabilistic programming is a new programming paradigm for managing uncertain information. Using probabilistic programming languages, PPAML seeks to greatly increase the number of people who can successfully build machine learning applications and make machine learning experts radically more effective. Moreover, the program seeks to create more economical, robust and powerful applications that need less data to produce more accurate results - features inconceivable with today's technology.",
     "Program Manager Link":"http://www.darpa.mil/staff/dr-suresh-jagannathan",
     "Program Manager":"Dr. Suresh Jagannathan",

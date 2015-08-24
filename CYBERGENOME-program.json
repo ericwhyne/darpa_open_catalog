@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"The Cyber Defense Program is developing the core computing and networking technologies required to protect DoD's information, information infrastructure, and mission-critical information systems. This includes new cyber-forensic techniques to automate the discovery, identification, and characterization of malware variants and thereby accelerate the development of effective responses.",
     "Program Manager Link":"http://www.darpa.mil/staff/mr-timothy-fraser",
     "Program Manager":"Mr. Timothy Fraser",
