@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"The Anomaly Detection at Multiple Scales (ADAMS) program seeks to create, adapt and apply technology to anomaly characterization and detection in massive data sets. Anomalies in data cue the collection of additional, actionable information in a wide variety of real world contexts.",
     "Program Manager Link":"http://www.darpa.mil/staff/dr-angelos-keromytis",
     "Program Manager":"Dr. Angelos Keromytis",

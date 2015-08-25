@@ -12,18 +12,19 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[
-		"Industry",
-		"Name",
-		"Description",
-		"Total Rows",
-		"Total Columns"
-	],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        "Industry",
+        "Name",
+        "Description",
+        "Total Rows",
+        "Total Columns"
+    ],
+    "Display Examples Columns":"",
     "Description":"Today's web searches use a centralized, one-size-fits-all approach that searches the Internet with the same set of tools for all queries. While that model has been wildly successful commercially, it does not work well for many government use cases. To help overcome these challenges, DARPA launched the Memex program in September 2014. Memex seeks to develop software that advances online search capabilities far beyond the current state of the art. The goal is to invent better methods for interacting with and sharing information, so users can quickly and thoroughly organize and search subsets of information relevant to their individual interests. Creation of a new domain-specific indexing and search paradigm will provide mechanisms for improved content discovery, information extraction, information retrieval, user collaboration, and extension of current search capabilities to the deep web, the dark web, and nontraditional (e.g. multimedia) content.",
     "Program Manager Link":"http://www.darpa.mil/staff/mr-wade-shen",
     "Program Manager":"Mr. Wade Shen",

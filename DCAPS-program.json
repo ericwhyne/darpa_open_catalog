@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"The Detection and Computational Analysis of Psychological Signals (DCAPS) program aims to develop novel analytical tools to assess psychological status of warfighters in the hopes of improving psychological health awareness and enabling them to seek timely help. DCAPS tools will be developed to analyze patterns in everyday behaviors to detect subtle changes associated with post-traumatic stress disorder, depression and suicidal ideation. In particular, DCAPS hopes to advance the state-of-the-art in extraction and analysis of 'honest signals' from a wide variety of sensory data inherent in daily social interactions. DCAPS is not aimed at providing an exact diagnosis, but at providing a general metric of psychological health.",
     "Program Manager Link":"http://www.darpa.mil/staff/mr-wade-shen",
     "Program Manager":"Mr. Wade Shen",

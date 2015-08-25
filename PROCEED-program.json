@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"DARPA's Programming Computation on Encrypted Data (PROCEED) program is a research effort that seeks to develop methods that allow computing with encrypted data without first decrypting that data, making it possible to compute more securely in untrusted environments.",
     "Program Manager Link":"http://www.darpa.mil/staff/dr-john-launchbury",
     "Program Manager":"Dr. John Launchbury",

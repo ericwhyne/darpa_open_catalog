@@ -12,12 +12,15 @@
         "Description",
         "License"
     ],
-    "Display Data Columns":[""],
     "Display Pubs Columns":[
         "Team",
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"The Broad Operational Language Translation (BOLT) program is aimed at enabling communication with non-English-speaking populations and identifying important information in foreign-language sources by: 1) allowing English-speakers to understand foreign-language sources of all genres, including chat, messaging and informal conversation; 2) providing English-speakers the ability to quickly identify targeted information in foreign-language sources using natural-language queries; and 3) enabling multi-turn communication in text and speech with non-English speakers. If successful, BOLT would deliver all capabilities free from domain or genre limitations.",
     "Program Manager Link":"http://www.darpa.mil/staff/dr-boyan-onyshkevych",
     "Program Manager":"Dr. Boyan Onyshkevych",
