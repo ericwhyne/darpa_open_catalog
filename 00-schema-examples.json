@@ -45,6 +45,13 @@
 					"Total Columns"
 
                 ],
+                "Display Example Columns":[
+					"Name",
+                    "Team",
+                    "Description",
+                    "Instructional Material",
+                    "Link"
+                ],
                 "Description":"XDATA is developing an open source software library for big data to help overcome the challenges of effectively scaling to modern data volume and characteristics. The program is developing the tools and techniques to process and analyze large sets of imperfect, incomplete data. Its programs and publications focus on the areas of analytics, visualization, and infrastructure to efficiently fuse, analyze and disseminate these large volumes of data.",
                 "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Christopher_White.aspx",
                 "Program Manager":"Dr. Christopher White",
@@ -141,7 +148,7 @@
             }
         ]
     },
-	    {
+	{
         "Type":"Data",
         "Schema":[
             {
@@ -154,6 +161,23 @@
                     "Applications and Expert Systems",
                     "Model Validation and Analysis"
                 ],
+                "New Date":"Date approved to go live in yyyymmdd format",
+                "Update Date":"Date updated with new information in yyyymmdd format"
+            }
+        ]
+    },
+    {
+        "Type":"Example",
+        "Schema":[
+            {
+                "Application Name":"Fake Application",
+                "Teams":[
+                    "Boeing",
+                    "L-3"
+                ],
+                "Description":"A fake example",
+                "Instructional Material":"http://www.example.com/demo",
+                "Link":"http://www.example.com",
                 "New Date":"Date approved to go live in yyyymmdd format",
                 "Update Date":"Date updated with new information in yyyymmdd format"
             }

@@ -1,11 +1,27 @@
 [
     {
-        "Description":"Example Description",
-        "Link":"www.example.com"
+        "Application Name":"Fake Application 1",
+        "Teams":[
+            "Boeing",
+            "L-3"
+        ],
+        "Description":"A fake example",
+        "Instructional Material":"http://www.example1.com/demo",
+        "Link":"http://www.example1.com",
+        "New Date":"Date approved to go live in yyyymmdd format",
+        "Update Date":"Date updated with new information in yyyymmdd format"
     },
     {
-        "Description":"Example Description 2",
-        "Link":"www.example2.com"
+        "Application Name":"Fake Application 2",
+        "Teams":[
+            "UCLA",
+            "L-3"
+        ],
+        "Description":"A fake example",
+        "Instructional Material":"http://www.example2.com/demo",
+        "Link":"http://www.example2.com",
+        "New Date":"Date approved to go live in yyyymmdd format",
+        "Update Date":"Date updated with new information in yyyymmdd format"
     }
 ]
 
