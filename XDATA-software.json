@@ -1000,6 +1000,51 @@
         "Update Date": ""
     },
     {
+    	"DARPA Program": "XDATA",
+    	"Program Teams": [
+        	"Sotera Defense Solutions, Inc."
+    	],
+    	"Contributors": [
+        	"Sotera Defense Solutions, Inc."
+    	],
+    	"Sub-contractors": [""],
+    	"Software": "GEQE",
+    	"Internal Link": "",
+    	"External Link": "http://sotera.github.io/GEQE/",
+    	"Public Code Repo": "https://github.com/Sotera/GEQE",
+    	"Instructional Material": "",
+    	"Stats": "",
+    	"Description": "Geo Event Quey by Example - Leverage geo-located temporal text data in order to identify similar locations or events.",
+    	"Internal Code Repo": "",
+    	"License": [
+        	"unlicense.org"
+    	],
+    	"Languages": [
+        	"JavaScript",
+        	"Python"
+    	],
+    	"Platform Requirements": [
+        	"Apache Spark",
+        	"ElasticSearch",
+        	"Node JS",
+        	"StrongLoop",
+        	"MongoDB"
+    	],
+    	"Dependent modules": [""],
+    	"Dependent module URLs": [""],
+    	"Component modules": [""],
+    	"Component module URLs": [""],
+    	"Industry": [""],
+    	"Functionality": [
+        	"geo-temporal text analysis / detection"
+    	],
+    	"Categories": [
+        	"Analytics"
+    	],
+    	"New Date": "20150903",
+    	"Update Date": ""
+    },
+    {
         "DARPA Program":"XDATA",
         "Program Teams":[
             "Harvard University",
