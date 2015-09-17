@@ -1013,11 +1013,11 @@
     	"External Link": "http://sotera.github.io/GEQE/",
     	"Public Code Repo": "https://github.com/Sotera/GEQE",
     	"Instructional Material": "",
-    	"Stats": "",
-    	"Description": "Geo Event Quey by Example - Leverage geo-located temporal text data in order to identify similar locations or events.",
+    	"Stats": "GEQE",
+    	"Description": "Geo Event Quey by Example - Leverage geo-located temporal text data in order to identify similar locations or events. (JavaScript, Python)",
     	"Internal Code Repo": "",
     	"License": [
-        	"unlicense.org"
+        	"UN"
     	],
     	"Languages": [
         	"JavaScript",

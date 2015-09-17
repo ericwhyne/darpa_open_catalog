@@ -148,5 +148,12 @@
    "License Long Name":"University of Cambridge HTK License",
    "License Description":"Covered by the Illinois/NCSA Academic Use license. This allows individuals to use our software for non-commercial purposes, but restricts commercial use.",
    "License Link":"http://llvm.org/releases/2.8/LICENSE.TXT"
+},
+{
+	   "License Short Name":["UN"],
+   "License Long Name":"Unlicense Yourself: Set Your Code Free",
+   "License Description":"The Unlicense is a template for dedicating your software to the public domain. It combines a copyright waiver patterned after the very successful public domain SQLite project with the no-warranty statement from the widely-used MIT/X11 license.",
+   "License Link":"http://unlicense.org/"
+
 }
 ]
