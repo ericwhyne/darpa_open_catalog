@@ -963,7 +963,7 @@
         "Public Code Repo": "https://github.com/Sotera/newman", 
         "Instructional Material": "", 
         "Stats": "", 
-        "Description": "Newman is a tool to quickly analyze and explore email using advanced analytics and visualization techniques - things not possible with traditional email applications.", 
+        "Description": "Newman is a tool to quickly analyze and explore email using advanced analytics and visualization techniques - things not possible with traditional email applications. (JavaScript, Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -2868,7 +2868,7 @@
         "Public Code Repo": "http://github.com/Sotera/zephyr",
         "Instructional Material": "",
         "Stats": "zephyr",
-        "Description": "Zephyr is a big data, platform agnostic Extract-Transform-Load (ETL) API, with Hadoop MapReduce, Storm, and other big data bindings.",
+        "Description": "Zephyr is a big data, platform agnostic Extract-Transform-Load (ETL) API, with Hadoop MapReduce, Storm, and other big data bindings. (Java)",
         "Internal Code Repo": "tools\\utilities\\sotera\\zephyr; tools\\utilties\\sotera\\zephyr-xdata-ingest",
         "License": [
             "ALv2"
@@ -2926,7 +2926,7 @@
         "Public Code Repo": "https://github.com/Sotera/aggregate-micro-paths.git",
         "Instructional Material": "",
         "Stats": "aggregate-micro-paths",
-        "Description": "An analytic to help infer movement patterns from large amounts of geospatial-temporal data in a cloud environment.",
+        "Description": "An analytic to help infer movement patterns from large amounts of geospatial-temporal data in a cloud environment. (Python, Scala)",
         "Internal Code Repo": "tools\\analytics\\sotera\\SparkMicroPath\\",
         "License": [
             "ALv2"
@@ -2981,7 +2981,7 @@
         "Public Code Repo": "https://github.com/Sotera/rhipe-arima",
         "Instructional Material": "",
         "Stats": "rhipe-arima",
-        "Description": "This implementation of the ARIMA (AutoRegressive Integrated Moving \nAverage) algorithm is based on R, Hadoop, and the RHIPE (Hree-pay) framework.",
+        "Description": "This implementation of the ARIMA (AutoRegressive Integrated Moving \nAverage) algorithm is based on R, Hadoop, and the RHIPE (Hree-pay) framework. (R)",
         "Internal Code Repo": "tools\\analytics\\sotera\\arima\\",
         "License": [
             "ALv2"
@@ -3037,7 +3037,7 @@
         "Public Code Repo": "https://github.com/Sotera/correlation-approximation",
         "Instructional Material": "",
         "Stats": "correlation-approximation",
-        "Description": "Spark implementation of the Google Correlate algorithm to quickly find highly correlated vectors in huge datasets.",
+        "Description": "Spark implementation of the Google Correlate algorithm to quickly find highly correlated vectors in huge datasets. (Scala)",
         "Internal Code Repo": "tools\\analytics\\sotera\\CorrelationApproximation",
         "License": [
             "ALv2"
@@ -3093,7 +3093,7 @@
         "Public Code Repo": "https://github.com/Sotera/graphene",
         "Instructional Material": "",
         "Stats": "graphene",
-        "Description": "Graphene is a web-based application that provides combined query, visualization, link identification and analysis, and other analytic capabilities within a single system.  It allows a user the ability to intelligently search structured data from multiple data sources and can display transactional views, transactional graphs evolving over time, related-entity (shared-attribute network) graphs, drillable transaction histograms, directional transaction charts, activity plots, data export, and more.  The combination of these capabilities makes it a valuable tool for analyzing any kind of data that can be manipulated to reveal transactions and relationships of any sort.",
+        "Description": "Graphene is a web-based application that provides combined query, visualization, link identification and analysis, and other analytic capabilities within a single system.  It allows a user the ability to intelligently search structured data from multiple data sources and can display transactional views, transactional graphs evolving over time, related-entity (shared-attribute network) graphs, drillable transaction histograms, directional transaction charts, activity plots, data export, and more.  The combination of these capabilities makes it a valuable tool for analyzing any kind of data that can be manipulated to reveal transactions and relationships of any sort. (Java, JavaScript)",
         "Internal Code Repo": "tools\\analytics\\sotera\\Graphene",
         "License": [
             "ALv2"
@@ -3147,7 +3147,7 @@
         "Public Code Repo": "https://github.com/Sotera/distributed-graph-analytics",
         "Instructional Material": "",
         "Stats": "distributed-graph-analytics",
-        "Description": "Distributed Graph Analytics (DGA) is a compendium of graph analytics written for Bulk-Synchronous-Parallel (BSP) processing frameworks such as Giraph and GraphX. The analytics included are High Betweenness Set Extraction, Weakly Connected Components, Page Rank, Leaf Compression, and Louvain Modularity.",
+        "Description": "Distributed Graph Analytics (DGA) is a compendium of graph analytics written for Bulk-Synchronous-Parallel (BSP) processing frameworks such as Giraph and GraphX. The analytics included are High Betweenness Set Extraction, Weakly Connected Components, Page Rank, Leaf Compression, and Louvain Modularity. (Scala, Java)",
         "Internal Code Repo": "",
         "License": [
             "ALv2"
@@ -3208,7 +3208,7 @@
         "Public Code Repo": "https://github.com/Sotera/track-communities.git",
         "Instructional Material": "",
         "Stats": "track-communities",
-        "Description": "An analytic for creating networks from geo-temporal track data based on time/space co-occurrence. Includes UI for visualization of communities and tracks.  This tool is a synthesis of several analytic components and visualization techniques that allow a user to browse a network of communities, follow tracks of movement, and observe co-location highlights within a dynamic graph. (Python/JavaScript)",
+        "Description": "An analytic for creating networks from geo-temporal track data based on time/space co-occurrence. Includes UI for visualization of communities and tracks.  This tool is a synthesis of several analytic components and visualization techniques that allow a user to browse a network of communities, follow tracks of movement, and observe co-location highlights within a dynamic graph. (Python, JavaScript)",
         "Internal Code Repo": "",
         "License": [
             "ALv2"
