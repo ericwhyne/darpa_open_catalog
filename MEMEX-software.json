@@ -1780,13 +1780,13 @@
         "Sub-contractors": [
             "Continuum Analytics"
         ], 
-        "Software": "ACHE", 
+        "Software": "ACHE - DDT", 
         "Internal Link": "", 
         "External Link": "https://github.com/ViDA-NYU/domain_discovery_tool.git", 
         "Public Code Repo": "https://github.com/ViDA-NYU/domain_discovery_tool.git", 
         "Instructional Material": "https://s3.amazonaws.com/vida-nyu/DDT/domain_discovery_tool.pdf", 
-        "Stats": "ddt", 
-        "Description": "DDT is an interactive system that helps users explore and better understand a domain (or topic) as it is represented on the Web. It achieves this by integrating human insights with machine computation (data mining and machine learning) through visualization. DDT allows a domain expert to visualize and analyze pages returned by a search engine or a crawler, and easily provide feedback about relevance. This feedback, in turn, can be used to address two challenges: (1) Guide users in the process of domain understanding and help them construct effective queries to be issued to a search engine; and (2) Configure focused crawlers that efficiently search the Web for additional pages on the topic. DDT allows users to quickly select crawling seeds as well as positive and negatives required to create a page classifier for the focus topic.", 
+        "Stats": "domain_discovery_tool", 
+        "Description": "DDT is an interactive system that helps users explore and better understand a domain (or topic) as it is represented on the Web. It achieves this by integrating human insights with machine computation (data mining and machine learning) through visualization. DDT allows a domain expert to visualize and analyze pages returned by a search engine or a crawler, and easily provide feedback about relevance. This feedback, in turn, can be used to address two challenges: (1) Guide users in the process of domain understanding and help them construct effective queries to be issued to a search engine; and (2) Configure focused crawlers that efficiently search the Web for additional pages on the topic. DDT allows users to quickly select crawling seeds as well as positive and negatives required to create a page classifier for the focus topic. (Python, Java, JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
             "BSD"
