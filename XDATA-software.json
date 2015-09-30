@@ -3412,6 +3412,66 @@
         "Update Date":""
     },
     {
+        "DARPA Program": "XDATA", 
+        "Program Teams": [
+            "Phronesis", 
+            "LLC"
+        ], 
+        "Contributors": [
+            "Not Applicable"
+        ], 
+        "Sub-contractors": [
+            "Not Applicable"
+        ], 
+        "Software": "Geofin", 
+        "Internal Link": "Not Yet Available", 
+        "External Link": "https://github.com/phronesis-mnemosyne/geofin-open-catalog", 
+        "Public Code Repo": "https://github.com/phronesis-mnemosyne/geofin-open-catalog", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Geofin allows exploration of patterns in data at global, national, local, and human scales. Quickly triage locations and entities to find patterns and trends using customizable summary statistics and visualizations. (JavaScript, Elasticsearch)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "JavaScript", 
+            "Elasticsearch"
+        ], 
+        "Platform Requirements": [
+            "Linux", 
+            "OSX"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Dynamic Web Applications", 
+            "Javascript", 
+            "Geo", 
+            "Mapping", 
+            "Triage", 
+            "Exploratory Data Analysis"
+        ], 
+        "Categories": [
+            "Visualization"
+        ], 
+        "New Date": "20150929", 
+        "Update Date": ""
+    }, 
+    {
         "DARPA Program":"XDATA",
         "Program Teams":[
             "Stanford University - Boyd"
