@@ -2024,8 +2024,10 @@
         ],
         "Software":"Query By Example (Graph QuBE)",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "Instructional Material":"",
-        "Stats":"",
+        "External Link":"https://github.com/mitll/graph-qube",
+        "Public Code Repo":"https://github.com/mitll/graph-qube.git",
+        "Instructional Material":"https://github.com/mitll/graph-qube/blob/master/doc/XDATA_UserManual.pdf",
+        "Stats":"graph-qube",
         "Description":"Graph QuBE is a tool which enables efficient pattern-of-behavior search in data containing entities transacting over time.",
         "Internal Code Repo":"tools\\analytics\\mit-LL\\graph-qube",
         "License":[
@@ -2035,7 +2037,7 @@
             ""
         ],
         "Platform Requirements":[
-            ""
+            "Maven"
         ],
         "Dependent modules":[
             ""
@@ -2059,7 +2061,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":"20140709"
+        "Update Date":"20151001"
     },
     {
         "DARPA Program":"XDATA",
