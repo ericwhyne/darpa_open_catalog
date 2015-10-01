@@ -30,7 +30,41 @@
         "New Date": "20150406", 
         "Update Date": ""
     },
-	    {
+    {
+        "DARPA Program": "Biochronicity", 
+        "Program Teams": [
+            "NorthWestern subcontractor from University of Michigan"
+        ], 
+        "Title": "Functional Organization of the Human 4D Nucleome", 
+        "Authors": [
+            "Haiming Chen", 
+            "Jie Chen", 
+            "Lindsey A. Muir", 
+            "Scott Ronquist", 
+            "Walter Meixner", 
+            "Mats Ljungman", 
+            "Thomas Ried", 
+            "Stephen Smale", 
+            "Indika Rajapakse"
+        ], 
+        "Link": "http://www.pnas.org/content/112/26/8002.full", 
+        "Categories": [
+            "Software Architectures", 
+            "Methodology and Techniques"
+        ], 
+        "Subcategories": [
+            "Data abstraction", 
+            "Graphics data structures and data types", 
+            "Ergonomics"
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.11", 
+            "I.3.6"
+        ], 
+        "New Date": "20151001", 
+        "Update Date": ""
+    },
+	{
         "DARPA Program": "Biochronicity", 
         "Program Teams": [
             "Duke University"
