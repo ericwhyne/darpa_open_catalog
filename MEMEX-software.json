@@ -2605,5 +2605,62 @@
         ], 
         "New Date": "20150414", 
         "Update Date": ""
+    },
+        {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Columbia Univeristy"
+        ], 
+        "Contributors": [
+            "Tao Chen",
+            "Svebor Karaman"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "ColumbiaImageSearch", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MPM/Columbia+Image+Similairty+Service+One+Pager", 
+        "External Link": "https://github.com/ColumbiaDVMM/ColumbiaImageSearch", 
+        "Public Code Repo": "https://github.com/ColumbiaDVMM/ColumbiaImageSearch.git", 
+        "Instructional Material": "", 
+        "Stats": "ColumbiaImageSearch", 
+        "Description": "ColumbiaImageSearch provides highly efficient solutions for finding images of similar content from large collections in real time. It combines a unique image representation, call DeepSentiBank, and novel hashing techniques to encode each image with a very compact hash code, which can reduce the computational and storage costs by orders of magnitude and allows searching over millions of images in real time. The search tool API is exposed as a php file, input/output processing is performed inside a python script while the actual image search is done in C++ for efficiency.", 
+        "Internal Code Repo": "https://github.com/ColumbiaDVMM/ColumbiaImageSearch.git", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python, C++, PHP, CSS, Javascript"
+        ], 
+        "Platform Requirements": [
+            "Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Image search", 
+            "Classification"
+        ], 
+        "Categories": [
+            "Analytics",
+            "Classification",
+            "Hashing",
+            "Image search"
+        ], 
+        "New Date": "20151006", 
+        "Update Date": ""
     }
 ]
