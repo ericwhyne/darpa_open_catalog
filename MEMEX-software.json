@@ -2354,7 +2354,7 @@
         "Public Code Repo": "https://github.com/qadium/credstmpl.git", 
         "Instructional Material": "", 
         "Stats": "credstmpl", 
-        "Description": "Command-line tool to instantiate templates from credentials stored in CredStash. credstmpl makes it easy to share secret credentials across a large team. (python)", 
+        "Description": "Command-line tool to instantiate templates from credentials stored in CredStash. credstmpl makes it easy to share secret credentials across a large team. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -2406,7 +2406,7 @@
         "Public Code Repo": "https://github.com/qadium-memex/linkalytics.git", 
         "Instructional Material": "", 
         "Stats": "linkalytics", 
-        "Description": "Linkalytics is a suite of backend analytics to link together disparate data. Linkalytics is intended to be hosted as an API that users can use to enhance, group, and cluster data (python)", 
+        "Description": "Linkalytics is a suite of back-end analytics to link together disparate data. Linkalytics is intended to be hosted as an API that users can use to enhance, group, and cluster data. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -2728,13 +2728,17 @@
         "Public Code Repo": "https://github.com/ColumbiaDVMM/ColumbiaImageSearch.git", 
         "Instructional Material": "", 
         "Stats": "ColumbiaImageSearch", 
-        "Description": "ColumbiaImageSearch provides highly efficient solutions for finding images of similar content from large collections in real time. It combines a unique image representation, call DeepSentiBank, and novel hashing techniques to encode each image with a very compact hash code, which can reduce the computational and storage costs by orders of magnitude and allows searching over millions of images in real time. The search tool API is exposed as a php file, input/output processing is performed inside a python script while the actual image search is done in C++ for efficiency.", 
+        "Description": "ColumbiaImageSearch provides highly efficient solutions for finding images of similar content from large collections in real time. It combines a unique image representation, call DeepSentiBank, and novel hashing techniques to encode each image with a very compact hash code, which can reduce the computational and storage costs by orders of magnitude and allows searching over millions of images in real time. The search tool API is exposed as a php file, and input/output processing is performed inside a python script, while the actual image search is done in C++ for efficiency. (Python, C++, PHP, CSS, Javascript)", 
         "Internal Code Repo": "https://github.com/ColumbiaDVMM/ColumbiaImageSearch.git", 
         "License": [
             "BSD"
         ], 
         "Languages": [
-            "Python, C++, PHP, CSS, Javascript"
+            "Python",
+			"C++",
+			"PHP",
+			"CSS",
+			"Javascript"
         ], 
         "Platform Requirements": [
             "Linux"
