@@ -265,7 +265,7 @@
         "Program File":"XDATA-program.json",
         "Pubs File":"XDATA-pubs.json",
         "Software File":"XDATA-software.json",
-        "Data File":"XDATA-data.json",
+        "Data File":"",
         "Examples File":"",
         "Banner":"UPDATED"
     }
