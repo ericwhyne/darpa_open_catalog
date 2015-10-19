@@ -2337,6 +2337,110 @@
         "New Date": "20150413", 
         "Update Date": ""
     },
+        {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "credstmpl", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/qadium/credstmpl", 
+        "Public Code Repo": "https://github.com/qadium/credstmpl.git", 
+        "Instructional Material": "", 
+        "Stats": "credstmpl", 
+        "Description": "Command-line tool to instantiate templates from credentials stored in CredStash. credstmpl makes it easy to share secret credentials across a large team. (python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "OSX/Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Password Sharing"
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20151013", 
+        "Update Date": ""
+    },
+          {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "linkalytics", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/qadium-memex/linkalytics", 
+        "Public Code Repo": "https://github.com/qadium-memex/linkalytics.git", 
+        "Instructional Material": "", 
+        "Stats": "linkalytics", 
+        "Description": "Linkalytics is a suite of backend analytics to link together disparate data. Linkalytics is intended to be hosted as an API that users can use to enhance, group, and cluster data (python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "OSX/Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Search and analytics"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20151013", 
+        "Update Date": ""
+    },  
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
