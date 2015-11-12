@@ -2454,24 +2454,20 @@
         ], 
         "Software": "DataWake", 
         "Internal Link": "", 
-        "External Link": "https://github.com/Sotera/Datawake", 
-        "Public Code Repo": "https://github.com/Sotera/Datawake.git", 
+        "External Link": "https://github.com/Sotera/DatawakeDepot", 
+        "Public Code Repo": "https://github.com/Sotera/DatawakeDepot.git", 
         "Instructional Material": "", 
         "Stats": "Datawake", 
-        "Description": "The Datawake project consists of various server and database technologies that aggregate user browsing data via a plug-in using domain-specific searches. This captured, or extracted, data is organized into browse paths and elements of interest. This information can be shared or expanded amongst teams of individuals. Elements of interest which are extracted either automatically, or manually by the user, are given weighted values. The exported data can be used to specify a new domain and seed crawlers.(Python, Java, Scala, Clojure, JavaScript)", 
+        "Description": "The Datawake project aggregates user browsing data via a plug-in using domain-specific searches. This captured, or extracted, data is organized into browse paths and elements of interest. This information can be shared or expanded amongst teams of individuals. Elements of interest which are extracted either automatically, or manually by the user, are given weighted values. The exported data can be used to specify a new domain and seed crawlers.(Python, Java, Scala, Clojure, JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
         ], 
         "Languages": [
-            "Python", 
-            "Java",
-            "Scala",
-            "Clojure",
             "JavaScript"
         ], 
         "Platform Requirements": [
-            "Full requirements given on: http://sotera.github.io/Datawake/"
+            "Full requirements given on: http://sotera.github.io/DatawakeDepot/"
         ], 
         "Dependent modules": [
             ""
