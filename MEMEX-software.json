@@ -2135,60 +2135,6 @@
         "Sub-contractors": [
             ""
         ], 
-        "Software": "Data Microscopes", 
-        "Internal Link": "", 
-        "External Link": "https://github.com/datamicroscopes/", 
-        "Public Code Repo": "https://github.com/datamicroscopes/", 
-        "Instructional Material": "", 
-        "Stats": "datamicroscopes", 
-        "Description": "Data Microscopes is a collection of robust, validated Bayesian nonparametric models for discovering structure in data. Models for tabular, relational, text, and time-series data can accommodate multiple data types, including categorical, real-valued, binary, and spatial data. Inference and visualization of results respects the underlying uncertainty in the data, allowing domain experts to feel confident in the quality of the answers they receive. (Python, C++)", 
-        "Internal Code Repo": "", 
-        "License": [
-            "BSD"
-        ], 
-        "Languages": [
-            "Python", 
-            "C++"
-        ], 
-        "Platform Requirements": [
-            "C++11 compiler.  Full requirements given on: https://github.com/datamicroscopes/common"
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            "Machine Learning", 
-            "Bayesian Nonparametrics"
-        ], 
-        "Categories": [
-            "Analytics"
-        ], 
-        "New Date": "20150413", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "MEMEX", 
-        "Program Teams": [
-            "Qadium"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
         "Software": "Plumber", 
         "Internal Link": "", 
         "External Link": "https://github.com/qadium/plumber", 
