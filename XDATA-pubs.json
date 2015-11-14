@@ -1361,6 +1361,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
+            "NASA Jet Propulsion Laboratory",
             "University of Southern California/Information Sciences Institute"
         ],
         "Title":"Unlocking Big Data",
@@ -1437,6 +1438,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
+            "NASA Jet Propulsion Laboratory",
             "University of Southern California/Information Sciences Institute"
         ],
         "Title":"Time-Bound Analytic Tasks on Large Datasets through Dynamic",
@@ -3236,7 +3238,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Jet Propulsion Laboratory"
+            "NASA Jet Propulsion Laboratory"
         ],
         "Title":"Ashok Meena View Presentation, AGU Fall Meeting 2013 Presentations",
         "Authors":[
