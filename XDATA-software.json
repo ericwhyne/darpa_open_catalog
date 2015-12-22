@@ -523,56 +523,108 @@
         "Update Date":""
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Giant Oak, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Markov modulated Poisson process for event detection",
-        "Internal Link":"",
-        "External Link":"https://github.com/giantoak/MMPP",
-        "Public Code Repo":"https://github.com/giantoak/MMPP.git",
-        "Instructional Material":"http://giantoak.github.io/MMPP_Tutorial/",
-        "Stats":"MMPP",
-        "Description":"Markov Modulated Poisson Process for Event Detection allows R users to accurately detect unusual events and anomalies in time series of counts. (R)",
-        "Internal Code Repo":"",
-        "License":[
-            "GPLv2"
-        ],
-        "Languages":[
-            "R"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
+        "DARPA Program": "XDATA",
+        "Program Teams": ["Giant Oak, Inc."],
+        "Contributors": ["Dr. W. Graham Mueller"],
+        "Sub-contractors": [""],
+        "Software": "Markov modulated Poisson process for event detection (MMPP)",
+        "Internal Link": "",
+        "External Link": "https://github.com/giantoak/MMPP",
+        "Public Code Repo": "https://github.com/giantoak/MMPP.git",
+        "Instructional Material": "http://giantoak.github.io/MMPP_Tutorial/",
+        "Stats": "MMPP",
+        "Description": "Markov Modulated Poisson Process for Event Detection allows R users to accurately detect unusual events and anomalies in time series of counts.",
+        "Internal Code Repo": "",
+        "License": ["GPLv2"],
+        "Languages": ["R"],
+        "Platform Requirements": [""],
+        "Dependent modules": [""],
+        "Dependent module URLs": [""],
+        "Component modules": [""],
+        "Component module URLs": [""],
+        "Industry": [""],
+        "Functionality": [""],
+        "Categories": ["Analytics"],
+        "New Date": "",
+        "Update Date": "20151221"
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": ["Giant Oak, Inc."],
+        "Contributors": [""],
+        "Sub-contractors": [""],
+        "Software": "Markov modulated Poisson process for event detection (MMPP)",
+        "Internal Link": "",
+        "External Link": "https://github.com/giantoak/mmpp_julia",
+        "Public Code Repo": "https://github.com/giantoak/mmpp_julia.git",
+        "Instructional Material": "",
+        "Stats": "MMPP_j",
+        "Description": "Markov Modulated Poisson Process for Event Detection allows R users to accurately detect unusual events and anomalies in time series of counts.",
+        "Internal Code Repo": "",
+        "License": ["GPLv2"],
+        "Languages": ["Julia"],
+        "Platform Requirements": [""],
+        "Dependent modules": [""],
+        "Dependent module URLs": [""],
+        "Component modules": [""],
+        "Component module URLs": [""],
+        "Industry": [""],
+        "Functionality": [""],
+        "Categories": ["Analytics"],
+        "New Date": "",
+        "Update Date": "20151221"
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": ["Giant Oak, Inc."],
+        "Contributors": ["Dr. W. Graham Mueller"],
+        "Sub-contractors": [""],
+        "Software": "Markov modulated Poisson process for event detection (MMPP)",
+        "Internal Link": "",
+        "External Link": "https://github.com/giantoak/mmppr",
+        "Public Code Repo": "https://github.com/giantoak/mmppr.git",
+        "Instructional Material": "http://giantoak.github.io/MMPP_Tutorial/",
+        "Stats": "MMPP_r",
+        "Description": "Markov Modulated Poisson Process for Event Detection allows R users to accurately detect unusual events and anomalies in time series of counts.",
+        "Internal Code Repo": "",
+        "License": ["GPLv2"],
+        "Languages": ["R"],
+        "Platform Requirements": [""],
+        "Dependent modules": [""],
+        "Dependent module URLs": [""],
+        "Component modules": [""],
+        "Component module URLs": [""],
+        "Industry": [""],
+        "Functionality": [""],
+        "Categories": ["Analytics"],
+        "New Date": "",
+        "Update Date": "20151221"
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": ["Giant Oak, Inc."],
+        "Contributors": [""],
+        "Sub-contractors": [""],
+        "Software": "Unicorn",
+        "Internal Link": "",
+        "External Link": "",
+        "Public Code Repo": "https://github.com/giantoak/unicorn.git",
+        "Instructional Material": "",
+        "Stats": "Unicorn",
+        "Description": "Unicorn is a document exploitation tool. A given installation can be used to: ingest free text corpora (e.g. Documents, Scans, and PDFs) into an Elasticsearch document store; query the documents via a Javascript GUI to find different salient features, topics, co-occurances; and visualize the results of those queries.\nThe tool here works best with long-form, free text documents, but can be adapted as needed for other formats.",
+        "Internal Code Repo": "",
+        "License": ["MIT"],
+        "Languages": ["Python", "SQL", "bash", "JavaScript"],
+        "Platform Requirements": [""],
+        "Dependent modules": [""],
+        "Dependent module URLs": [""],
+        "Component modules": [""],
+        "Component module URLs": [""],
+        "Industry": [""],
+        "Functionality": [""],
+        "Categories": ["Analytics"],
+        "New Date": "",
+        "Update Date": ""
     },
     {
         "DARPA Program":"XDATA",
