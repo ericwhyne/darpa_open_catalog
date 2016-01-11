@@ -626,6 +626,61 @@
         "New Date": "20151222",
         "Update Date": ""
     },
+        {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Contributors":[
+            "Jack Poulson"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Elemental: Distributed-memory dense and sparse-direct linear algebra, Interior Point Methods, and lattice reduction",
+        "Internal Link":"",
+        "External Link":"http://libelemental.org",
+        "Public Code Repo":"https://github.com/elemental/Elemental.git",
+        "Instructional Material":"",
+        "Stats":"Elemental",
+        "Description":"Elemental is a modern distributed-memory (C++11/MPI) library for dense and sparse-direct linear algebra, Interior Point Methods, and lattice reduction",
+        "Internal Code Repo":"",
+        "License":[
+            "New BSD"
+        ],
+        "Languages":[
+            "C++",
+            "C",
+            "Fortran",
+            "Python"
+        ],
+        "Platform Requirements":[
+            "MPI"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
