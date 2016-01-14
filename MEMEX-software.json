@@ -106,7 +106,7 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "MIT Lincoln Laboratory"
+            "MIT-LL"
         ], 
         "Contributors": [
             ""
@@ -2506,12 +2506,12 @@
         ],
         "Software":"MITIE",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"https://github.com/mitll/MITIE",
-        "Public Code Repo":"https://github.com/mitll/MITIE.git",
+        "External Link":"https://github.com/mit-nlp/MITIE",
+        "Public Code Repo":"https://github.com/mit-nlp/MITIE.git",
         "Instructional Material":"",
         "Stats":"MITIE",
         "Description":"Trainable named entity extractor (NER) and relation extractor. (C)",
-        "Internal Code Repo":"tools\\analytics\\mit-LL\\tpoic",
+        "Internal Code Repo":"tools\\analytics\\mit-LL\\",
         "License":[
             "ALv2"
         ],
