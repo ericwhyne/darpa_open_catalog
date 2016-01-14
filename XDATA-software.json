@@ -643,10 +643,10 @@
         "Public Code Repo":"https://github.com/elemental/Elemental.git",
         "Instructional Material":"",
         "Stats":"Elemental",
-        "Description":"Elemental is a modern distributed-memory (C++11/MPI) library for dense and sparse-direct linear algebra, Interior Point Methods, and lattice reduction",
+        "Description":"Elemental is a modern distributed-memory (C++11/MPI) library for dense and sparse-direct linear algebra, Interior Point Methods, and lattice reduction.",
         "Internal Code Repo":"",
         "License":[
-            "New BSD"
+            "BSDv2"
         ],
         "Languages":[
             "C++",
@@ -678,7 +678,7 @@
         "Categories":[
             "Analytics"
         ],
-        "New Date":"",
+        "New Date":"20160111",
         "Update Date":""
     },
     {
