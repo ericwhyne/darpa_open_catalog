@@ -2130,7 +2130,7 @@
             ""
         ],
         "Software":"Query By Example (Graph QuBE)",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
+        "Internal Link":"https://xdataproxy.com/wiki/display/XSW2013/MIT+Lincoln+Laboratory",
         "External Link":"https://github.com/mitll/graph-qube",
         "Public Code Repo":"https://github.com/mitll/graph-qube.git",
         "Instructional Material":"https://github.com/mitll/graph-qube/blob/master/doc/XDATA_UserManual.pdf",
@@ -2182,7 +2182,7 @@
             ""
         ],
         "Software":"VizLinc",
-        "Internal Link":"",
+        "Internal Link":"https://xdataproxy.com/wiki/display/XSW2013/MIT+Lincoln+Laboratory",
 		"External Link":"https://github.com/mitll/vizlinc",
         "Public Code Repo":"https://github.com/mitll/vizlinc.git",
         "Instructional Material":"",
@@ -2292,7 +2292,7 @@
             ""
         ],
         "Software":"Topic",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
+        "Internal Link":"https://xdataproxy.com/wiki/display/XSW2013/MIT+Lincoln+Laboratory",
         "External Link":"https://github.com/mitll/topic-clustering",
         "Public Code Repo":"https://github.com/mitll/topic-clustering.git",
         "Instructional Material":"",
@@ -2344,9 +2344,9 @@
             ""
         ],
         "Software":"SciDB",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"http://scidb.org/forum",
-        "Public Code Repo":"http://scidb.org/forum",
+        "Internal Link":"https://xdataproxy.com/wiki/display/XSW2013/MIT+Lincoln+Laboratory",
+        "External Link":"http://www.paradigm4.com/forum",
+        "Public Code Repo":"http://www.paradigm4.com/forum",
         "Instructional Material":"",
         "Stats":"",
         "Description":"Scientific Database for large-scale numerical data. Register on the forum to access the download page. (C++)",
@@ -2396,18 +2396,122 @@
             ""
         ],
         "Software":"Information Extractor",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"https://github.com/mitll/MITIE",
-        "Public Code Repo":"https://github.com/mitll/MITIE.git",
+        "Internal Link":"https://xdataproxy.com/wiki/display/XSW2013/MIT+Lincoln+Laboratory",
+        "External Link":"https://github.com/mit-nlp/MITIE",
+        "Public Code Repo":"https://github.com/mit-nlp/MITIE.git",
         "Instructional Material":"",
         "Stats":"MITIE",
         "Description":"Trainable named entity extractor (NER) and relation extractor. (C)",
-        "Internal Code Repo":"tools\\analytics\\mit-LL\\tpoic",
+        "Internal Code Repo":"tools\\analytics\\mit-LL\\",
         "License":[
             "ALv2"
         ],
         "Languages":[
             "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"MIT-LL TweetE",
+        "Internal Link":"https://xdataproxy.com/wiki/download/attachments/20120303/XDATA_PI_Meeting_20150714.pdf?version=1&modificationDate=1436898255966&api=v2",
+        "External Link":"https://github.com/mitll/TweetE",
+        "Public Code Repo":"https://github.com/mitll/TweetE.git",
+        "Instructional Material":"",
+        "Stats":"TweetE",
+        "Description":"Tools for scraping twitter data, conversion, text analysis and graph construction",
+        "Internal Code Repo":"tools\\analytics\\mit-LL\\",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"LLHash",
+        "Internal Link":"https://xdataproxy.com/wiki/download/attachments/20120303/XDATA_PI_Meeting_20150714.pdf?version=1&modificationDate=1436898255966&api=v2",
+        "External Link":"https://github.com/mitll/LLHash",
+        "Public Code Repo":"https://github.com/mitll/LLHash.git",
+        "Instructional Material":"",
+        "Stats":"LLHash",
+        "Description":"Tools for Hashing Vector and String Data",
+        "Internal Code Repo":"tools\\analytics\\mit-LL\\",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Python"
         ],
         "Platform Requirements":[
             ""
