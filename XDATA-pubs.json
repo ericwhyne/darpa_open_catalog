@@ -1723,6 +1723,88 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+            "MIT-LL"
+        ],
+        "Title":"Content+Context=Classification: Examining the Roles of Social Interactions and Linguist Content in Twitter User Classification",
+        "Authors":[
+            "W. M. Campbell",
+            "E. Baseman",
+            "K. Greenfield"
+        ],
+        "Link":"http://www.anthology.aclweb.org/W/W14/W14-59.pdf#page=69",
+        "Categories":[
+            "Learning",
+            "Natural Language Processing"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "I.2.6",
+            "I.2.7"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Title":"VizLinc: Integrating information extraction, search, graph analysis, and geo-location for the visual exploration of large data sets",
+        "Authors":[
+            "Joel C. Acevedo-Aviles",
+            "W. M. Campbell",
+            "Daniel C. Halbert",
+            "K. Greenfield"
+        ],
+        "Link":"http://poloclub.gatech.edu/idea2014/papers/p10-acevedoaviles.pdf",
+        "Categories":[
+            "Learning",
+            "Natural Language Processing",
+	    "Graph Theory"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "I.2.6",
+            "I.2.7",
+            "G.2.2"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Title":"Matching Community Structure Across Online Social Networks",
+        "Authors":[
+            "Lin Li",
+            "W. M. Campbell"
+        ],
+        "Link":"http://stanford.edu/~jugander/NetworksNIPS2015/papers/NIPS_Networks_2015_paper_18.pdf",
+        "Categories":[
+            "Learning",
+            "Natural Language Processing",
+	    "Graph Theory"
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            "I.2.6",
+            "I.2.7",
+            "G.2.2"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
             "Oculus Info, Inc."
         ],
         "Title":"Visual Thinking Design Patterns",
