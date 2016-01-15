@@ -57,7 +57,7 @@
         "Software File":"",
         "Data File":"",
         "Examples File":"",
-        "Banner":"UPDATED"
+        "Banner":""
     },
     {
         "DARPA Office":"I2O",
@@ -97,7 +97,7 @@
         "Software File":"CRASH-software.json",
         "Data File":"",
         "Examples File":"",
-        "Banner":"UPDATED"
+        "Banner":""
     },
     {
         "DARPA Office":"I2O",
@@ -197,7 +197,7 @@
         "Software File":"MEMEX-software.json",
         "Data File":"",
         "Examples File":"",
-        "Banner":"UPDATED"
+        "Banner":""
     },
     {
         "DARPA Office":"I2O",
@@ -207,7 +207,7 @@
         "Software File":"MRC-software.json",
         "Data File":"",
         "Examples File":"",
-        "Banner":"UPDATED"
+        "Banner":""
     },
     {
         "DARPA Office":"I2O",
@@ -257,7 +257,7 @@
         "Software File":"",
         "Data File":"",
         "Examples File":"",
-        "Banner":"UPDATED"
+        "Banner":""
     },
     {
         "DARPA Office":"I2O",
