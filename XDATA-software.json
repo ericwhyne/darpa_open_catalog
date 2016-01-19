@@ -2609,7 +2609,7 @@
         "Public Code Repo":"https://github.com/NextCenturyCorporation/neon.git",
         "Instructional Material":"",
         "Stats":"neon",
-        "Description":"Neon is a framework that gives a datastore agnostic way for visualizations to query data and perform simple operations on that data such as filtering, aggregation, and transforms. It is divided into two parts, neon-server and neon-client. Neon-server provides a set of RESTful web services to select a datastore and perform queries and other operations on the data. Neon-client is a JavaScript API that provides a way to easily integrate neon-server capabilities into a visualization, and also aids in 'widgetizing' a visualization, allowing it to be integrated into a common OWF based ecosystem. (Groovy/JavaScript)",
+        "Description":"The Neon framework establishes a datastore-agnostic way for visualizations to query data and perform simple operations on that data such as filtering, aggregation, and transforms. Neon is the middleware component that provides a set of RESTful web services to select a datastore and perform queries and other operations on the data. (Groovy/JavaScript)",
         "Internal Code Repo":"tools\\visualizations\\next-century",
         "License":[
             "ALv2"
@@ -2643,6 +2643,59 @@
             "Visualization"
         ],
         "New Date":"",
+        "Update Date":"20150119"
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Next Century Corporation"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Neon Geotemporal Dashboard (GTD)",
+        "Internal Link":"",
+        "External Link":"http://neonframework.org/",
+        "Public Code Repo":"https://github.com/NextCenturyCorporation/neon-gtd.git",
+        "Instructional Material":"",	
+        "Stats":"neon-gtd",
+        "Description":"The Neon framework establishes a datastore-agnostic way for visualizations to query data and perform operations on that data such as filtering, aggregation, and transforms. Neon Geotemporal Dashboard (GTD) is a front-end application that allows creation of composable dashboards from visualization widgets. The project provides over a dozen widgets, including maps, bar and line charts, data and summary tables and more. Neon GTD allows the user to add and remove widgets, select and filter data, and store and retrieve the dashboard state. (JavaScript)",
+        "Internal Code Repo":"tools\\visualizations\\next-century",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Groovy",
+            "JavaScript"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Visualization"
+        ],
+        "New Date":"20150119",
         "Update Date":""
     },
     {
