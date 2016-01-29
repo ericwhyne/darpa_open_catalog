@@ -2709,58 +2709,6 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"ApertureJS",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
-        "External Link":"http://aperturejs.com/",
-        "Public Code Repo":"https://github.com/unchartedsoftware/aperturejs.git",
-        "Instructional Material":"",
-        "Stats":"aperturejs",
-        "Description":"ApertureJS is an open, adaptable and extensible JavaScript visualization framework with supporting REST services, designed to produce visualizations for analysts and decision makers in any common web browser. Aperture utilizes a novel layer based approach to visualization assembly, and a data mapping API that simplifies the process of adaptable transformation of data and analytic results into visual forms and properties.  Aperture vizlets can be easily embedded with full interoperability in frameworks such as the Ozone Widget Framework (OWF). (JavaScript/Java)",
-        "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\aperture",
-        "License":[
-            "MIT"
-        ],
-        "Languages":[
-            ""
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Uncharted Software (formerly Oculus Info Inc.)"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
         "Software":"Influent",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
         "External Link":"http://uncharted.software/influent",
@@ -2814,19 +2762,18 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Aperture Tile-Based Visual Analytics",
+        "Software":"Salt - Tile-Based Visual Analytics",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
-        "External Link":"http://uncharted.software/tiles",
-        "Public Code Repo":"https://github.com/unchartedsoftware/aperture-tiles.git",
-        "Stats":"aperture-tiles",
-        "Description":"New tools for raw data characterization of 'big data' are required to suggest initial hypotheses for testing. The widespread use and adoption of web-based maps has provided a familiar set of interactions for exploring abstract large data spaces. Building on these techniques, we developed tile based visual analytics that provide browser-based interactive visualization of billions of data points. (JavaScript/Java)",
+        "External Link":"http://saltlib.com/",
+        "Public Code Repo":"https://github.com/unchartedsoftware/salt.git",
+        "Stats":"salt",
+        "Description": "Salt (Scalable Analytic Layered Tiles) is a library for creating interactive visualizations of massive datasets. Salt is the next generation implemention of the visual analytics kernel developed under Aperture Tiles, redesigned for widespread integration and use. Salt's highly performant approach builds on Apache Spark to enables high-fidelity analysis of data at massive scales, revealing phenomena that would otherwise be lost through sampling or coarse aggregation. Using techniques similar to online maps, tailored analytic results are then served at each zoom level in data form for graphic rendering. Salt generates scalable representations of billions of data points, enabling visualizations including geographic heatmaps, cross-plots or time series, and the layering of multiple data sources and dimensions for contextual overlay. (Scala)",
         "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\demos\\xdata\\SC2013",
         "License":[
-            "MIT"
+            "ALv2"
         ],
         "Languages":[
-            "JavaScript",
-            "Java"
+            "Scala"
         ],
         "Platform Requirements":[
             ""
@@ -2866,19 +2813,20 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Uncharted Ensemble Clustering",
+        "Software":"SparkPipe - Modular Data Pipeline Framework for Spark",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
-        "External Link":"https://github.com/unchartedsoftware/ensemble-clustering",
-        "Public Code Repo":"https://github.com/unchartedsoftware/ensemble-clustering.git",
+        "External Link":"http://unchartedsoftware.github.io/sparkpipe-core",
+        "Public Code Repo":"https://github.com/unchartedsoftware/sparkpipe-core.git",
         "Instructional Material":"",
-        "Stats":"ensemble-clustering",
-        "Description":"Uncharted Ensemble Clustering is a flexible multi-threaded clustering library for rapidly constructing tailored clustering solutions that leverage the different semantic aspects of heterogeneous data.  The library can be used on a single machine using multi-threading or distributed computing using Spark. (Java)",
+        "Stats":"sparkpipe-core",
+        "Description":"SparkPipe is a modular, non-linear data processing pipeline for Apache Spark. The library facilitates expressing individual components of Spark scripts in a modular standardized way so that they can be reused and connected together into data processing workflow pipelines.SparkPipe comes bundled with core operations which perform a variety of useful tasks, and are intended to serve as aids in implementing more domain-specific operations. (Scala)",
         "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\oculus-common",
         "License":[
-            "MIT"
+            "ALv2"
         ],
         "Languages":[
-            "Java"
+            "Java",
+            "Scala"
         ],
         "Platform Requirements":[
             ""
