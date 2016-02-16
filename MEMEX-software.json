@@ -2175,6 +2175,58 @@
         ], 
         "New Date": "20150706", 
         "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "CommonCrawlJob", 
+        "Internal Link": "", 
+        "External Link": "https://pypi.python.org/pypi/CommonCrawlJob", 
+        "Public Code Repo": "https://github.com/qadium-memex/CommonCrawlJob", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Extract regular expressions from Common Crawl. This is a useful library for collecting unique identfifiers at Internet scale without any crawling and using only Python and AWS (Python, AWS)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python, AWS"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Analysis"
+        ], 
+        "New Date": "20150216", 
+        "Update Date": ""
     }, 
     {
         "DARPA Program": "MEMEX", 
