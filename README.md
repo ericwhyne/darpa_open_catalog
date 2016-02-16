@@ -9,7 +9,7 @@ https://github.com/ericwhyne/open-catalog-generator
 
 The web page:
 
-http://www.darpa.mil/opencatalog/
+http://opencatalog.darpa.mil/
 
 License:
 
