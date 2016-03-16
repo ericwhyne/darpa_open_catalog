@@ -297,5 +297,88 @@
         ], 
         "New Date": "20150410", 
         "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+            "Georgetown University"
+        ], 
+        "Title": "Multimedia Metadata-based Forensics in Human Trafficking Web Data", 
+        "Authors": [
+            "Chris A. Mattmann",
+            "Grace Hui Yang", 
+            "Harshavardhan Manjunatha", 
+            "Thamme Gowda N",
+            "Andrew Jie Zhou",
+            "Jiyun Luo",
+            "Lewis John McGibbney"
+        ], 
+        "Link": "http://media1.sexi2016.org/2016/02/sexi16proceedings.pdf", 
+        "Categories": [
+            "Information Systems and Applications"
+        ], 
+        "Subcategories": [
+            "Information retrieval", 
+            "Content analysis and feature selection",
+            "Similarity measures",
+            "Information extraction"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20160316", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+        ], 
+        "Title": "Clustering Web Pages Based on Structure and Style Similarity", 
+        "Authors": [
+            "Chris A. Mattmann",
+            "Thamme Gowda N"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            "Information Systems and Applications"
+        ], 
+        "Subcategories": [
+            "Similarity measures",
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20160316", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+        ], 
+        "Title": "A New Application of the Cosine Similarity Metric for Scalable Domain Discovery", 
+        "Authors": [
+             "Chris A. Mattmann",
+             "Lewis John McGibbney",
+             "Kim Whitehall",
+             "Sujen Shah"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval", 
+            "Content analysis and feature selection",
+            "Similarity measures",
+            "Information extraction"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20160316", 
+        "Update Date": ""
     }
 ]
