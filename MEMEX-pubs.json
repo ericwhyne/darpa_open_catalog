@@ -333,7 +333,7 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "Jet Propulsion Laboratory",
+            "Jet Propulsion Laboratory"
         ], 
         "Title": "Clustering Web Pages Based on Structure and Style Similarity", 
         "Authors": [
@@ -345,7 +345,7 @@
             "Information Systems and Applications"
         ], 
         "Subcategories": [
-            "Similarity measures",
+            "Similarity measures"
         ],  
         "ACM 1998 classification code": [
             "H.3.3"
@@ -356,7 +356,7 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
-            "Jet Propulsion Laboratory",
+            "Jet Propulsion Laboratory"
         ], 
         "Title": "A New Application of the Cosine Similarity Metric for Scalable Domain Discovery", 
         "Authors": [
