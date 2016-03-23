@@ -1,0 +1,1393 @@
+[
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "University of Colorado"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Hopper", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/cuplv/hopper", 
+        "Public Code Repo": "https://github.com/cuplv/hopper", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "The core functionality of Hopper is an engine for refuting queries written in separation logic; that is, showing that no concrete execution can satisfy the query. Hopper performs a form of proof by contradiction: it starts from a query representing a bad program state (such as a null dereference or out-of-bounds array access) and works backward in an attempt to derive false.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Scala", 
+            "Java"
+        ], 
+        "Platform Requirements": [
+            "Java 7", 
+            "sbt 0.1"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Java", 
+            "Android"
+        ], 
+        "Categories": [
+            "Software Analysis"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Georgia Institute of Technology"
+        ], 
+        "Contributors": [
+            "Georgia Institute of Technology"
+        ], 
+        "Sub-contractors": [
+            "LogicBlox, Inc", 
+            "University of California-Los Angeles"
+        ], 
+        "Software": "Petablox", 
+        "Internal Link": "", 
+        "External Link": "http://petablox.gatech.edu", 
+        "Public Code Repo": "https://bitbucket.org/pag-lab/petablox.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "A system that integrates foundational program analyses of large Java and C/C++ programs with a Datalog-centric database for storing and querying the results of those analyses.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            "Java", 
+            "C", 
+            "C++"
+        ], 
+        "Platform Requirements": [
+            "Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Software Analysis Tool", 
+            "Big Code Database and Query Engine", 
+            "Constraint Solver"
+        ], 
+        "Categories": [
+            "Software Analysis"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Kestrel Institute"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "UT Austin", 
+            "Kookamara, LLC"
+        ], 
+        "Software": "Program Synthesis Tools in ACL2", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Public Code Repo:2016-02", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Provides facilities for carrying out automated program refinement in ACL2 via proof-generating transformations. (ACL2)", 
+        "Internal Code Repo": "Kestrel Institute's 'kestrel-acl2' SVN repository", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            "ACL2"
+        ], 
+        "Platform Requirements": [
+            "Linux or Mac OS X", 
+            "Clozure Common Lisp"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Program Specification and Refinement"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Kestrel Institute"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "SOFT (Second-Order Functions and Theorems)", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "https://github.com/acl2/acl2/blob/master/books/tools/soft.lisp (part of the ACL2 GitHub repository)", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "SOFT provides facilities for mimicking second-order functions and theorems in the first-order logic of the ACL2 theorem prover. (ACL2)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            "ACL2"
+        ], 
+        "Platform Requirements": [
+            "Linux or Mac OS X", 
+            "Clozure Common Lisp"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Formal Modeling", 
+            "Theorem Proving", 
+            "Program Specification and Refinement"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Kestrel Institute"
+        ], 
+        "Contributors": [
+            "(See http://www.cs.utexas.edu/users/moore/acl2/manuals/current/manual/index.html?topic=ACL2____ACKNOWLEDGMENTS)"
+        ], 
+        "Sub-contractors": [
+            "UT Austin", 
+            "Kookamara, LLC"
+        ], 
+        "Software": "ACL2", 
+        "Internal Link": "", 
+        "External Link": "http://www.cs.utexas.edu/users/moore/acl2/", 
+        "Public Code Repo": "https://github.com/acl2/acl2", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "ACL2 is a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models. 'ACL2' denotes 'A Computational Logic for Applicative Common Lisp'.  ACL2 is part of the Boyer-Moore family of provers, for which its authors have received the 2005 ACM Software System Award.  (ACL2, Common Lisp)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            "ACL2", 
+            "Common Lisp"
+        ], 
+        "Platform Requirements": [
+            "Linux, Mac, or Windows on top of any of six Common Lisp implementations:  Allegro Common Lisp (ACL), Clozure Common Lisp (CCL), CMU Common\nLisp (CMUCL), GNU Common Lisp (GCL), LispWorks, or Steel Bank Common\nLisp (SBCL)"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Theorem Prover", 
+            "Proof Assistant", 
+            "Formal Methods", 
+            "Formal Verification", 
+            "Software Verification", 
+            "Hardware Verification", 
+            "Static Analysis"
+        ], 
+        "Categories": [
+            "Software Analysis"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Kestrel Institute"
+        ], 
+        "Contributors": [
+            "Stanford University", 
+            "UT Austin", 
+            "Eric Smith"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Formal Model of the Java Virtual Machine (JVM)", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Public Code Repo:2016-02", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "A formal, executable model of the Java Virtual Machine (JVM) in the logic of the ACL2 theorem prover, suitable for proof, testing, symbolic execution, etc. (ACL2)", 
+        "Internal Code Repo": "Kestrel Institute's 'kestrel-acl2' SVN repository", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            "ACL2"
+        ], 
+        "Platform Requirements": [
+            "Linux or Mac OS X", 
+            "Clozure Common Lisp"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Formal Modeling", 
+            "Theorem Proving", 
+            "Java Modeling"
+        ], 
+        "Categories": [
+            "Software Analysis"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Kestrel Institute"
+        ], 
+        "Contributors": [
+            "Stanford University", 
+            "Eric Smith"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Axe tool", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Public Code Repo:2016-02", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Axe is an automated formal verification tool for proving equivalence of Java bytecode programs. Axe has been used to verify real-world Java implementations of cryptographic operations, including block ciphers, stream ciphers, and cryptographic hash functions. Axe proves the bit-for-bit equivalence of the outputs of two programs, one of which may be a formal, mathematical specification. (ACL2)", 
+        "Internal Code Repo": "Kestrel Institute's 'kestrel-acl2' SVN repository", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            "ACL2"
+        ], 
+        "Platform Requirements": [
+            "Linux or Mac OS X", 
+            "Clozure Common Lisp"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Theorem Prover", 
+            "Formal Methods", 
+            "Formal Verification", 
+            "Software Verification", 
+            "Hardware Verification", 
+            "Equivalence Checking", 
+            "Cryptography"
+        ], 
+        "Categories": [
+            "Software Analysis"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Kestrel Institute"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Qadium, Inc"
+        ], 
+        "Software": "CVXPY", 
+        "Internal Link": "", 
+        "External Link": "http://www.cvxpy.org/", 
+        "Public Code Repo": "https://github.com/cvxgrp/cvxpy", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "CVXPY is a Python-embedded modeling language for convex optimzation problems.  It allows you to express your problem in a natural way that follows the math, rather than in the restrictive standard form required by solvers. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "GPLv3"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Not Applicable"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Convex Optimization"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Leidos"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "LODE", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "LODE provides the ability to download publicly available open source software(OSS) along with any associated metadata related to the OSS such as commit history, languages, and bug reports. It also extracts and stores further metadata from the software. (Node.js, JavaScript, CoffeScript", 
+        "Internal Code Repo": "http://muse-stash/scm/cor/github-crawler.git", 
+        "License": [
+            "GPR"
+        ], 
+        "Languages": [
+            "Node.js", 
+            "JavaScript", 
+            "CoffeScript"
+        ], 
+        "Platform Requirements": [
+            "64-bit Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Crawler", 
+            "Open Source", 
+            "Github"
+        ], 
+        "Categories": [
+            "Software Corpus"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Leidos"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "LODEsearch", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "LODEsearch is a flexible web application framework that allows the user to search and filter projects in a software corpus at very granular level.  It leverages ElasticSearch on the backend to make searching associated metadata and code fast and efficient.  It allows provides top level metrics of all the projects in the associated software corpus. (Angular.js, Express.js, JavaScript, HTML, CSS)", 
+        "Internal Code Repo": "http://muse-stash/scm/cor/musesite.git", 
+        "License": [
+            "GPR"
+        ], 
+        "Languages": [
+            "Angular.js", 
+            "Express.js", 
+            "JavaScript", 
+            "HTML", 
+            "CSS"
+        ], 
+        "Platform Requirements": [
+            "64-bit Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Not Applicable"
+        ], 
+        "Functionality": [
+            "Web Application", 
+            "HTML", 
+            "Open Source", 
+            "ElasticSearch"
+        ], 
+        "Categories": [
+            "Software Corpus"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "MIT CSAIL"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Prophet", 
+        "Internal Link": "", 
+        "External Link": "https://github.mit.edu/fanl/prophet", 
+        "Public Code Repo": "https://github.mit.edu/fanl/prophet", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "A novel patch generation system that works with a set of successful human patches obtained from open-source software repositories to learn a probabilistic, application-independent model of correct code. (C++, Python)", 
+        "Internal Code Repo": "Not Applicable", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "C++", 
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux Ubuntu 14.04"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Program Repair"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "MIT CSAIL"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "DemoMatch", 
+        "Internal Link": "ssh://kuat@chai.csail.mit.edu/~/Documents/semeru", 
+        "External Link": "", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Automatic code synthesis from program demonstrations. (Java)", 
+        "Internal Code Repo": "ssh://kuat@chai.csail.mit.edu/~/Documents/semeru   password = Pyctinceb3  (This is the machine we set up for the evaluation)", 
+        "License": [
+            "GPL"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            "Linux Ubuntu 14.04"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Program synthesis"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "MIT CSAIL"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Sketch", 
+        "Internal Link": "", 
+        "External Link": "https://bitbucket.org/gatoatigrado/sketch-frontend/wiki/Home", 
+        "Public Code Repo": "https://bitbucket.org/gatoatigrado/sketch-frontend/overview", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "A synthesis-enabled language that allows programmers to write programs with holes and then rely on constraint-based synthesis to discover the missing code. (Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT", 
+            "BSD"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            "Java 1.6.0 or later installed"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Program synthesis"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "SRI International", 
+            "MIT", 
+            "University of Washington", 
+            "University of Waterloo"
+        ], 
+        "Contributors": [
+            "SRI International", 
+            "MIT", 
+            "University of Washington", 
+            "University of Waterloo"
+        ], 
+        "Sub-contractors": [
+            "MIT", 
+            "University of Washington", 
+            "University of Waterloo"
+        ], 
+        "Software": "PASCALI", 
+        "Internal Link": "https://github.com/SRI-CSL/PASCALI (private repo)", 
+        "External Link": "https://github.com/SRI-CSL/pascali-public", 
+        "Public Code Repo": "https://github.com/SRI-CSL/pascali-public", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "PASCALI is a programmer assistant for Java programmers. (Java, Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "TBD"
+        ], 
+        "Languages": [
+            "Java", 
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux Ubuntu"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software"
+        ], 
+        "Functionality": [
+            "Java Programming"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Rice University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "PDB v0.1.1", 
+        "Internal Link": "https://wiki.rice.edu/confluence/pages/viewpage.action?pageId=17736840", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "PDB is a distributed database and compute platform. This is the first, single-threaded version of the system. (C++)", 
+        "Internal Code Repo": "https://svn.rice.edu/r/software_0/PDB/v0.1.1", 
+        "License": [
+            "Not Applicable"
+        ], 
+        "Languages": [
+            "C++"
+        ], 
+        "Platform Requirements": [
+            "C++ compiler with C++14 support"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software Engineering"
+        ], 
+        "Functionality": [
+            "Distributed Object Store"
+        ], 
+        "Categories": [
+            "Database"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Rice University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "PDB v0.1.2", 
+        "Internal Link": "https://wiki.rice.edu/confluence/pages/viewpage.action?pageId=17738255", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "PDB is a distributed database and compute platform. This is the first, multi-threaded version of the system. (C++)", 
+        "Internal Code Repo": "https://svn.rice.edu/r/software_0/PDB/v0.1.2/", 
+        "License": [
+            "Not Applicable"
+        ], 
+        "Languages": [
+            "C++"
+        ], 
+        "Platform Requirements": [
+            "C++ compiler with C++14 support"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software Engineering"
+        ], 
+        "Functionality": [
+            "Distributed Object Store"
+        ], 
+        "Categories": [
+            "Database"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Rice University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "PDB v0.1.3", 
+        "Internal Link": "https://wiki.rice.edu/confluence/display/PLINY/PDB+Version+0.1.3", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "PDB is a distributed database and compute platform. This is the first client-server version of the system.  Open source release of this software is planned for May 2016", 
+        "Internal Code Repo": "https://svn.rice.edu/r/software_0/PDB/v0.1.2/", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "C++"
+        ], 
+        "Platform Requirements": [
+            "C++ compiler with C++14 support"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software Engineering"
+        ], 
+        "Functionality": [
+            "Distributed Object Store"
+        ], 
+        "Categories": [
+            "Database"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Rice University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Salento", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Salento is a system for statistical learning of API specifications from Big Code.  The system uses static analysis of Big Code to generate a large number of sequences that capture orderings and constraints over API calls in program executions. A new class of statistical learning algorithms are then used to find patterns in these sequences. These learned models can be used to guide programmers who are in the process of using an API, and to repair and synthesize API-intensive code.  Open source release of this software is planned for May 2016. (Java, C++)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "EPL"
+        ], 
+        "Languages": [
+            "Java", 
+            "C++"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software"
+        ], 
+        "Functionality": [
+            "Big Code", 
+            "Specification Learning", 
+            "Program synthesis", 
+            "Program repair"
+        ], 
+        "Categories": [
+            "Specification Mining", 
+            "API call prediction", 
+            "API usage repair"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Rice University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Splicer", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Splicer is a system for data-driven synthesis of programs. The target user of the system is a programmer who wants to customize a preexisting piece of code for a new setting. While using Splicer, the user only writes their customizations, leaving placeholders and natural language comments describing the code that is to be customized. The system searches a corpus of Big Code, identifies code that matches the comments, and automatically fits this code into the user's unfinished program  Open source release of this software is planned for May 2016. (Java, Scala, C)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "EPL"
+        ], 
+        "Languages": [
+            "Java", 
+            "Scala", 
+            "C"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software"
+        ], 
+        "Functionality": [
+            "Big Code", 
+            "Program synthesis", 
+            "Code search"
+        ], 
+        "Categories": [
+            "Code search", 
+            "Program synthesis"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Rice University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Lambda2", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Lambda2 is a system for automatic synthesis of functional programs from formal specifications. The system's input is a constraint that describes the input-output behavior of a function that the user wants to implement. Given this input, the system selects a set of code components from the corpus, and composes these components appropriately so that the result matches the input specification.  Open source release of this software is planned for May 2016. (Ocaml)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "EPL"
+        ], 
+        "Languages": [
+            "Ocaml"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software"
+        ], 
+        "Functionality": [
+            "Program synthesis", 
+            "Code search", 
+            "Theorem proving"
+        ], 
+        "Categories": [
+            "Program synthesis", 
+            "Automated reasoning", 
+            "Code search"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "University of Texas at Austin"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Hunter", 
+        "Internal Link": "", 
+        "External Link": "https://marketplace.eclipse.org/content/hunter", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Hunter is an Eclipse plugin that automatically synthesizes the body of an empty method. The programmer provides a set of test cases that show the specification of the target method and Hunter synthesizes the body of that method guaranteeing that it passes all test cases. Hunter is a next generation code search and synthesis tool that takes advantage of large corpus and avoids the time wasted by programmers on reimplementing known functionalities. (Java, C++)", 
+        "Internal Code Repo": "Not Yet Available", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Java", 
+            "C++"
+        ], 
+        "Platform Requirements": [
+            "Ubuntu 14.04 LTS 64 bits", 
+            "Java and JDK 1.7 or higher", 
+            "Eclipse Mars IDE for Java Developers"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Code Search", 
+            "Interface Alignment", 
+            "Synthesis", 
+            "Database", 
+            "Natural Language Processing"
+        ], 
+        "Categories": [
+            "Synthesis"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "University of Texas at Austin"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "CodeHunter", 
+        "Internal Link": "", 
+        "External Link": "http://utopia2.csres.utexas.edu:9090/HunterService/huntersearch.html", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "CodeHunter performs code search on a large source code database. CodeHunter uses a novel combination of method names, signatures, and implementations to find relevant programs that most closely match the user's query. CodeHunter improves programmers efficiency by quickly finding relevant code to their needs. (Java, C++, JavaScript, HTML)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Java", 
+            "C++", 
+            "JavaScript", 
+            "HTML"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Code Search", 
+            "Database", 
+            "Natural Language Processing"
+        ], 
+        "Categories": [
+            "Code Search"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "University of Texas at Austin"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "APIHunter", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "APIHunter finds a sequence of method calls from a Java library that can be used to implement a given functionality. Programmers can save time and effort in learning how to use existing libraries by just using APIHunter to automatically synthesize the code they need. (Java, C++)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Java", 
+            "C++"
+        ], 
+        "Platform Requirements": [
+            "Ubuntu 14.04 LTS 64 bits", 
+            "Java and JDK 1.7 or higher", 
+            "Eclipse Mars IDE for Java Developers"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "API Completion", 
+            "Synthesis"
+        ], 
+        "Categories": [
+            "API Completion"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "University of Wisconsin-Madison"
+        ], 
+        "Contributors": [
+            "Antoine Min Universite‚ Pierre et Marie Curie"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "CPSolver", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "CPSolver is a prototype implementation of a new loop-invariant synthesis algorithm for single-loop numeric programs that manipulate rational variables.  CPSolver works by iteratively refining a set of interval ('box') constraints, or octagons, until the set of boxes (or octagons) is an inductive invariant.  The advantage of CPSolver is that, because it uses standard abstract domains, it sidesteps the need to develop complex, non-standard domains specialized for solving a particular problem. (Ocaml)", 
+        "Internal Code Repo": "/p/wpis/misc/Solvers/CPSolver/svn-repository/trunk", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "OCaml"
+        ], 
+        "Platform Requirements": [
+            "Linux (tested with Ubuntu 14.04)", 
+            "CPSolver may work on Windows also but this has not been tested recently"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software Engineering"
+        ], 
+        "Functionality": [
+            "Program Analysis", 
+            "Loop-Invariant Synthesis"
+        ], 
+        "Categories": [
+            "Software Analysis"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "University of Wisconsin-Madison"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "RES", 
+        "Internal Link": "", 
+        "External Link": "", 
+        "Public Code Repo": "Not Yet Available", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "RES (relevant example search) is an example implementation of a code classification/similarity algorithm.  The program and tools analyze a labeled corpus, and then provide both classification of given code into categories (labeled in the corpus) and similarity comparisons between the given and corpus code examples. (C++, Bash)", 
+        "Internal Code Repo": "/u/b/i/bingham/proj/res", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "C++", 
+            "Bash"
+        ], 
+        "Platform Requirements": [
+            "C++ compiler with C++11 support", 
+            "Bash"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software Engineering"
+        ], 
+        "Functionality": [
+            "Code Search"
+        ], 
+        "Categories": [
+            "Software Analysis"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }
+]

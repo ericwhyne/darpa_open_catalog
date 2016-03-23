@@ -1,0 +1,326 @@
+[
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "University of Colorado Boulder", 
+            "University of Pennsylvania"
+        ], 
+        "Title": "Synthesis through Unification", 
+        "Authors": [
+            "Rajeev Alur", 
+            "Pavol Cerny", 
+            "Arjun Radhakrishna"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-319-21668-3_10", 
+        "Categories": [
+            "Software Notations and Tools"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.4"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "University of Colorado Boulder", 
+            "Samsung Research America"
+        ], 
+        "Title": "Selective Control-Flow Abstraction via Jumping", 
+        "Authors": [
+            "Sam Blackshear", 
+            "Bor-Yuh Evan Chang", 
+            "Manu Sridharan"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?doid=2814270.2814293", 
+        "Categories": [
+            "Software Notations and Tools"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.4"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Draper Laboratory"
+        ], 
+        "Title": "Learning Program Attributes from a Variety of Sources", 
+        "Authors": [
+            "Peter Chin", 
+            "Jacob Harer", 
+            "Allan McKay", 
+            "Aksahy Rangamani", 
+            "Trac Tran", 
+            "Felipe Vilas-Boas"
+        ], 
+        "Link": "Not Applicable", 
+        "Categories": [
+            "Software Architectures", 
+            "Methodology and Techniques"
+        ], 
+        "Subcategories": [
+            "Data Abstraction"
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.11"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Georgia Institute of Technology"
+        ], 
+        "Title": "A User-Guided Approach to Program Analysis", 
+        "Authors": [
+            "Ravi Mangal", 
+            "Xin Zhang", 
+            "Aditya V. Nori", 
+            "Mayur Naik"
+        ], 
+        "Link": "http://www.cc.gatech.edu/~naik/pubs/fse15a.pdf", 
+        "Categories": [
+            "Software Verification"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.4"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Georgia Institute of Technology"
+        ], 
+        "Title": "Volt: A Lazy Grounding Framework for Solving Very Large MaxSAT Instances", 
+        "Authors": [
+            "Ravi Mangal", 
+            "Xin Zhang", 
+            "Aditya V. Nori", 
+            "Mayur Naik"
+        ], 
+        "Link": "http://www.cc.gatech.edu/~naik/pubs/sat15.pdf", 
+        "Categories": [
+            "Optimization"
+        ], 
+        "Subcategories": [
+            "Constrained optimization"
+        ], 
+        "ACM 1998 classification code": [
+            "G.1.6"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Georgia Institute of Technology"
+        ], 
+        "Title": "Query-Guided Maximum Satisfiability", 
+        "Authors": [
+            "Xin Zhang", 
+            "Ravi Mangal", 
+            "Aditya V. Nori", 
+            "Mayur Naik"
+        ], 
+        "Link": "http://www.cc.gatech.edu/~naik/pubs/popl16.pdf", 
+        "Categories": [
+            "Optimization"
+        ], 
+        "Subcategories": [
+            "Constrained optimization"
+        ], 
+        "ACM 1998 classification code": [
+            "G.1.6"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Georgia Institute of Technology"
+        ], 
+        "Title": "Scaling Relational Inference Using Proofs and Refutations", 
+        "Authors": [
+            "Ravi Mangal", 
+            "Xin Zhang", 
+            "Aditya Kamath", 
+            "Aditya V. Nori", 
+            "Mayur Naik"
+        ], 
+        "Link": "http://www.cc.gatech.edu/~naik/pubs/aaai16.pdf", 
+        "Categories": [
+            "Optimization", 
+            "Probability and statistics", 
+            "Knowledge Representation Formalisms and Methods", 
+            "Learning"
+        ], 
+        "Subcategories": [
+            "Constrained optimization", 
+            "Relation systems"
+        ], 
+        "ACM 1998 classification code": [
+            "G.1.6", 
+            "G.3", 
+            "I.2.4", 
+            "I.2.6"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Kestrel Institute"
+        ], 
+        "Title": "Second-Order Functions and Theorems in ACL2", 
+        "Authors": [
+            "Alessandro Coglio"
+        ], 
+        "Link": "http://eptcs.web.cse.unsw.edu.au/paper.cgi?ACL22015.3.pdf", 
+        "Categories": [
+            "Software Notations and Tools"
+        ], 
+        "Subcategories": [
+            "Formal Methods", 
+            "Formal Software Verification"
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.4", 
+            "I.2.3"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "MIT CSAIL"
+        ], 
+        "Title": "Automatic Patch Generation by Learning Correct Code", 
+        "Authors": [
+            "Fan Long", 
+            "Martin Rinard"
+        ], 
+        "Link": "http://people.csail.mit.edu/fanl/papers/prophet-popl16.pdf", 
+        "Categories": [
+            "Semantics of Programming Languages", 
+            "SOFTWARE ENGINEERING"
+        ], 
+        "Subcategories": [
+            "Program Analysis", 
+            "Testing and Debugging"
+        ], 
+        "ACM 1998 classification code": [
+            "F.3.2", 
+            "D.2.5"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "MIT CSAIL"
+        ], 
+        "Title": "Staged Program Repair with Condition Synthesis", 
+        "Authors": [
+            "Fan Long", 
+            "Martin Rinard"
+        ], 
+        "Link": "http://people.csail.mit.edu/fanl/papers/spr-fse15.pdf", 
+        "Categories": [
+            "Semantics of Programming Languages", 
+            "SOFTWARE ENGINEERING"
+        ], 
+        "Subcategories": [
+            "Program Analysis", 
+            "Testing and Debugging"
+        ], 
+        "ACM 1998 classification code": [
+            "F.3.2", 
+            "D.2.5"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "University of Wisconsin-Madison"
+        ], 
+        "Title": "Newtonian Program Analysis Via Tensor Product", 
+        "Authors": [
+            "Thomas Reps", 
+            "Emma Turetsky", 
+            "Prathmesh Prabhu", 
+        ], 
+        "Link": "http://www.cs.wisc.edu/wpis/papers/popl16.pdf", 
+        "Categories": [
+            "Program Analysis", 
+            "Abstract Interpretation"
+        ], 
+        "Subcategories": [
+            "Newton's method", 
+            "polynomial fixed-point equation", 
+            "interprocedural program analysis", 
+            "semiring", 
+            "regular expression", 
+            "tensor product"
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.4", 
+            "F.3.1", 
+            "F.3.2", 
+            "F.4.2", 
+            "F.4.3"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MUSE", 
+        "Program Teams": [
+            "Rice University"
+        ], 
+        "Title": "Learning to Grade Student Programs in a Massive Open Online Course", 
+        "Authors": [
+            "Anna Drummond", 
+            "Yanxin Lu", 
+            "Swarat Chaudhuri", 
+            "Chris Jermaine", 
+            "Joe Warren", 
+            "Scott Rixner"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7023401&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7023401", 
+        "Categories": [
+            "Databases", 
+            "Online Education"
+        ], 
+        "Subcategories": [
+            "Data Mining"
+        ], 
+        "ACM 1998 classification code": [
+            "H.2.8"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }
+]

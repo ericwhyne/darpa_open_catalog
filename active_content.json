@@ -164,7 +164,7 @@
         "Program Name":"GRAPHS",
         "Program File":"GRAPHS-program.json",
         "Pubs File":"GRAPHS-pubs.json",
-        "Software File":"",
+        "Software File":"GRAPHS-software.json",
         "Data File":"",
         "Examples File":"",
         "Banner":""
@@ -178,6 +178,16 @@
         "Data File":"",
         "Examples File":"",
         "Banner":""
+    },
+    {
+        "DARPA Office":"I2O",
+        "Program Name":"ICAS",
+        "Program File":"ICAS-program.json",
+        "Pubs File":"",
+        "Software File":"",
+        "Data File":"",
+        "Examples File":"",
+        "Banner":"NEW"
     },
     {
         "DARPA Office":"I2O",
@@ -208,6 +218,16 @@
         "Data File":"",
         "Examples File":"",
         "Banner":""
+    },
+    {
+        "DARPA Office":"I2O",
+        "Program Name":"MUSE",
+        "Program File":"MUSE-program.json",
+        "Pubs File":"MUSE-pubs.json",
+        "Software File":"MUSE-software.json",
+        "Data File":"MUSE-data.json",
+        "Examples File":"",
+        "Banner":"NEW"
     },
     {
         "DARPA Office":"I2O",
