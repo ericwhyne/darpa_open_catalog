@@ -358,57 +358,6 @@
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "Charles River Analytics"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "PRM++ ", 
-        "Internal Link": "", 
-        "External Link": "", 
-        "Public Code Repo": "Not Ready for Release", 
-        "Instructional Material": "", 
-        "Description": "PRM PPS", 
-        "License": [
-            "BSDv3"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Probabilistic Programming", 
-            "Inference Engine"
-        ], 
-        "New Date": "20140818", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
             "Galois, Inc."
         ], 
         "Contributors": [

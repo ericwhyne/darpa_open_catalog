@@ -19,10 +19,11 @@
     ],
     "Display Data Columns":[
         "Data Set Name",
-		"Description"
+		"Description",
+		"Industry"
     ],
     "Display Examples Columns":"",
-    "Description":"DARPA has created the Mining and Understanding Software Enclaves (MUSE) program. MUSE seeks to make significant advances in the way software is built, debugged, verified, maintained and understood. Central to its approach is the creation of a community infrastructure built around a large, diverse and evolving corpus of software drawn from the hundreds of billions of lines of open source code available today.",
+    "Description":"MUSE seeks to make significant advances in the way software is built, debugged, verified, maintained, and understood. The goal is to apply the principles of big data analytics to identify and understand deep commonalities among the constantly evolving corpus of software drawn from the hundreds of billions of lines of open source code available today. The program aims to treat programs--more precisely, facts about programs--as data, discovering new relationships (enclaves) among this 'big code' to build better, more robust software. Central to MUSE's approach is the creation of a community infrastructure that would incorporate a continuously operational specification-mining engine. This engine would leverage deep program analyses and foundational ideas underlying big data analytics to populate and refine a database containing inferences about salient properties, behaviors and vulnerabilities of the program components in the corpus.",
     "Program Manager Link":"http://www.darpa.mil/staff/dr-suresh-jagannathan",
     "Program Manager":"Dr. Suresh Jagannathan",
     "Program Manager Email":"suresh.jagannathan@darpa.mil",
