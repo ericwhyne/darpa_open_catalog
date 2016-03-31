@@ -20,6 +20,8 @@
     "Display Data Columns":[
         "Data Set Name",
 		"Description",
+		"Number of Rows",
+        "Number of Columns",
 		"Industry"
     ],
     "Display Examples Columns":"",
