@@ -2764,5 +2764,68 @@
         ], 
         "New Date": "20151006", 
         "Update Date": ""
+    },
+	{
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Contributors": [
+            "Suejn Shah",
+            "Giuseppe Totaro",
+            "Wayne Burke"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Sparkler Crawl Environment (SCE)", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/User+Guide", 
+        "External Link": "https://github.com/memex-explorer/sce", 
+        "Public Code Repo": "https://github.com/memex-explorer/sce.git", 
+        "Instructional Material": "https://github.com/memex-explorer/sce/wiki", 
+        "Stats": "SCE", 
+        "Description": "The Sparkler Crawl Environment (SCE) provides the tools to collect webpages from the Internet and make them available for Memex search tools. It includes the ability to: 1) build a domain discovery model which will guide the data collection, 2) crawl data from the Web, and 3) output it in a format that is usable by Memex search tools.", 
+        "Internal Code Repo": "https://github.com/memex-explorer/sce.git", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python",
+            "Scala",
+            "Java",
+            "Bash",
+            "HTML",
+            "CSS",
+            "Javascript"
+        ], 
+        "Platform Requirements": [
+            "Docker"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Deep Crawling",
+            "Classification",
+            "Searching"
+        ], 
+        "Categories": [
+            "Data Collection",
+            "Information Retrieval"
+        ], 
+        "New Date": "20171101", 
+        "Update Date": ""
     }
 ]
