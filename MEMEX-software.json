@@ -784,13 +784,13 @@
         "Sub-contractors": [
             ""
         ], 
-        "Software": "SourcePin", 
+        "Software": "SiteHound", 
         "Internal Link": "", 
-        "External Link": "https://github.com/TeamHG-Memex/memex-pinterest", 
-        "Public Code Repo": "https://github.com/TeamHG-Memex/memex-pinterest.git", 
+        "External Link": "https://github.com/TeamHG-Memex/sitehound", 
+        "Public Code Repo": "https://github.com/TeamHG-Memex/sitehound", 
         "Instructional Material": "", 
-        "Stats": "memex-pinterest", 
-        "Description": "SourcePin is a tool to assist users in discovering websites that contain content they are interested in for a particular topic, or domain. Unlike a search engine, SourcePin allows a non-technical user to leverage the power of an advanced automated smart web crawling system to generate significantly more results than the manual process typically does, in significantly less time. The User Interface of SourcePin allows users to quickly across through hundreds or thousands of representative images to quickly find the websites they are most interested in. SourcePin also has a scoring system which takes feedback from the user on which websites are interesting and, using machine learning, assigns a score to the other crawl results based on how interesting they are likely to be for the user.  The roadmap for SourcePin includes integration with other tools and a capability for users to actually extract relevant information from the crawl results. (Python, JavaScript)", 
+        "Stats": "SiteHound", 
+        "Description": "SiteHound is a tool to assist users in discovering websites that contain content they are interested in for a particular topic, or domain. SiteHound allows a non-technical user to quickly train a domain relevance model that is used by the smart web crawling system to discover content related to the domain, on behalf of the user. SiteHound can also be used to deep crawl single websites, on which all content is relevant to the domain. (Python, JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -827,7 +827,7 @@
             "Data Collection"
         ], 
         "New Date": "20150410", 
-        "Update Date": ""
+        "Update Date": "20171102"
     }, 
     {
         "DARPA Program": "MEMEX", 
