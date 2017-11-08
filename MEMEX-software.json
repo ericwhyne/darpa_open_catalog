@@ -2827,5 +2827,115 @@
         ], 
         "New Date": "20171101", 
         "Update Date": ""
+    },
+	{
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Contributors": [
+            "Maziyar Boustani",
+	    "Madhav Sharan"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "GeoParser", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MPM/GeoParser", 
+        "External Link": "https://github.com/memex-explorer/GeoParser", 
+        "Public Code Repo": "https://github.com/memex-explorer/GeoParser.git", 
+        "Instructional Material": "https://github.com/memex-explorer/GeoParser/wiki", 
+        "Stats": "GeoParser", 
+        "Description": "The Geoparser is an open source tool that can process information from any file, extract geographic coordinates, and visualize locations on a map.", 
+        "Internal Code Repo": "https://github.com/memex-explorer/GeoParser.git", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python",
+            "Javascript"
+        ], 
+        "Platform Requirements": [
+            "Docker"
+        ], 
+        "Dependent modules": [
+            "Lucene Geo-Gazetteer"
+        ], 
+        "Dependent module URLs": [
+            "https://github.com/chrismattmann/lucene-geo-gazetteer.git"
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Parsing",
+            "Text Extraction",
+            "Visualization"
+        ], 
+        "Categories": [
+            "Analysis",
+            "Visualization"
+        ], 
+        "New Date": "20171108", 
+        "Update Date": ""
+    },
+	{
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Contributors": [
+            "Maziyar Boustani",
+	    "Madhav Sharan"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Route Clustering", 
+        "Internal Link": "https://github.com/memex-explorer/GeoPath-Clustering", 
+        "External Link": "https://github.com/memex-explorer/GeoPath-Clustering", 
+        "Public Code Repo": "https://github.com/memex-explorer/GeoPath-Clustering.git", 
+        "Instructional Material": "https://github.com/memex-explorer/GeoPath-Clustering", 
+        "Stats": "GeoPath-Clustering", 
+        "Description": "Memex Route Clustering project is trying to provide tools and technologies to be able explore some Memex data as route format.", 
+        "Internal Code Repo": "https://github.com/memex-explorer/GeoPath-Clustering.git", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Clustering"
+        ], 
+        "Categories": [
+            "Analysis"
+        ], 
+        "New Date": "20171108", 
+        "Update Date": ""
     }
 ]
