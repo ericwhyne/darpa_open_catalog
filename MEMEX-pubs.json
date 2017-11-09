@@ -380,5 +380,235 @@
         ], 
         "New Date": "20160316", 
         "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Measurement Context Extraction from Text: Discovering Opportunities and Gaps in Earth Science", 
+        "Authors": [
+	     "Kyle Hundman",
+             "Chris A. Mattmann"
+        ], 
+        "Link": "https://arxiv.org/pdf/1710.04312.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval", 
+            "Content analysis and feature selection",
+            "Information extraction"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Ensemble Maximum Entropy Classification and Linear Regression for Author Age Prediction", 
+        "Authors": [
+	     "Joey Hong",
+             "Chris A. Mattmann",
+	     "Paul Ramirez"
+        ], 
+        "Link": "https://arxiv.org/pdf/1610.00852.pdf", 
+        "Categories": [
+            "Learning"
+        ], 
+        "Subcategories": [
+            "Regression", 
+            "Natural language processing"
+        ],  
+        "ACM 1998 classification code": [
+            "I.2.6"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "An Approach for Automatic and Large Scale Image Forensics", 
+        "Authors": [
+	     "Thamme Gowda",
+	     "Kyle Hundman",
+             "Chris A. Mattmann"
+        ], 
+        "Link": "https://memex.jpl.nasa.gov/MFSEC17.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Image search",
+            "Computer forensics"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Scalable Hadoop-Based Pooled Time Series of Big Video Data from the Deep Web", 
+        "Authors": [
+             "Chris A. Mattmann",
+	     "Madhav Sharan"
+        ], 
+        "Link": "https://dl.acm.org/citation.cfm?id=3079019", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Improving accuracy of Tesseract in extraction of serial numbers from images of Counterfeit Electronics", 
+        "Authors": [
+	     "Zarana Parekh",
+             "Chris A. Mattmann",
+	     "Karanjeet Singh"
+        ], 
+        "Link": "https://memex.jpl.nasa.gov/GHCI16.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Image search"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Tattoo Detection and Localization using Region-based Deep Learning", 
+        "Authors": [
+	     "Zhaohui H. Sun",
+             "Jeff Baumes",
+	     "Paul Tunison",
+	     "Matt Turek",
+	     "Anthony Hoogs"
+        ], 
+        "Link": "http://vision.unipv.it/CV/materiale2016-17/5th%20%20Choice/0279.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Image search"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "An Automatic Approach for Discovering and Geocoding Locations in Domain-Specific Web Data", 
+        "Authors": [
+	     "Chris A. Mattmann",
+             "Madhav Sharan"
+        ], 
+        "Link": "https://memex.jpl.nasa.gov/IRI16-Gazetteer.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Data mining"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Creating a Mars Target Encyclopedia by Extracting Information from the Planetary Science Literature", 
+        "Authors": [
+	     "Kiri L. Wagstaff",
+	     "Ellen Riloff",
+	     "Nina L. Lanza",
+	     "Chris A. Mattmann",
+	     "Paul M. Ramirez"
+        ], 
+        "Link": "http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/download/12608/12420", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Data mining"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "TREC Dynamic Domain: Polar Science", 
+        "Authors": [
+	     "Annie B. Burgess",
+	     "Chris A. Mattmann",
+	     "Giuseppe Totaro",
+	     "Lewis J. McGibbney",
+	     "Paul M. Ramirez"
+        ], 
+        "Link": "http://www.dtic.mil/docs/citations/AD1004770", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval"
+	    "Web Crawling",
+	    "Information extraction"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
     }
 ]
