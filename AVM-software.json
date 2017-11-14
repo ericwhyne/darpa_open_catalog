@@ -1,0 +1,221 @@
+[
+    {
+        "DARPA Program": "AVM", 
+        "Program Teams": [
+            "Pennsylvania State University Applied Research Laboratory"
+        ], 
+        "Contributors": [
+            "MLI"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "iFAB Mfg Tools", 
+        "Internal Link": "", 
+        "External Link": "http://dmdii.uilabs.org/the-institute/resources/avm-materials/", 
+        "Public Code Repo": "http://cps-vo.org/node/5834/browser", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "iFAB Foundry is a collection of open-source software tools developed by the Pennsylvania State University's Applied Research Laboratory.  These tools include: <br>Analysis Server - The manufacturability analysis engine for rapidly assessing whether a given design is manufacturable and estimating a cost and lead time. <br>Web Portal - Website for managing and viewing the status of jobs submitted to the analysis server.  Also contains the API for receiving and processing submissions from MAAT. <br>Hull Design Assist Tool (HuDAT) - A CREO plugin for building the armor and internal structure for a ground vehicle. <br>Manufacturing Analysis Augmentation Tool (MAAT) - A CREO plugin or standalone Java executable for augmenting a CAD model with manufacturing information, such as material, coatings, and tolerances. <br>NC Code Generation - A MasterCAM plugin for automatically generating NC code for a given CAD model.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "Open Source"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            "See ReadMe or Installation Notes for specific software"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            ""
+        ], 
+        "New Date": "20150604", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "AVM", 
+        "Program Teams": [
+            "Vanderbilt University"
+        ], 
+        "Contributors": [
+            "CyDesign", 
+            "Dassault", 
+            "Palo Alto Research Center"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "META/CyPhy Tools", 
+        "Internal Link": "", 
+        "External Link": "http://dmdii.uilabs.org/the-institute/resources/avm-materials/", 
+        "Public Code Repo": "http://cps-vo.org/node/5834/browser", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Model-based System Design, Analysis, and Verification Technologies:  The CyPhy tool suite (developed under the META program) made numerous advances in model-based system design with a focus on compressing the development lifecycle for complex defense systems. At the core of the tool suite is a generic modeling environment (GME) that can represent, transform, and integrate the numerous types of models and analysis used in the design and development of complex defense systems. This modeling environment enables the CyPhy tool suite to accomplish compositional design, trade space analysis and virtual performance testing in an extendable framework that can integrate tools ranging from robust commercial and open-source numerical simulations to cutting-edge research prototypes. CyPhy has been under evaluation since January 2013 through multiple design exercises. During these design events, teams worked to design drivetrain, suspension, propulsion, chassis, and structural elements and associated subsystems for an amphibious IFV. DARPA has built a Mobility and Chassis Automotive Test Rig (ATR), designed with the tools) in the iFAB Foundry to complete the 'end-to-end' design/develop/build/test process flow. Insights gleaned from this effort are being used to inform further CyPhy development efforts to integrate new design methodologies, consider more difficult physics domains, and validate virtual design, modeling, and simulation tools.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "Open Source"
+        ], 
+        "Languages": [
+            "C/C++", 
+            "C#", 
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "See ReadMe or Installation Notes for specific software"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            ""
+        ], 
+        "New Date": "20150604", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "AVM", 
+        "Program Teams": [
+            "Ricardo"
+        ], 
+        "Contributors": [
+            "SouthWest Research Institute", 
+            "Palo Alto Research Center"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Model Libraries", 
+        "Internal Link": "", 
+        "External Link": "http://dmdii.uilabs.org/the-institute/resources/avm-materials/", 
+        "Public Code Repo": "http://cps-vo.org/node/5834/browser", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "AVM Component Models are the fundamental building blocks for systems designed using the AVM tools suite.  AVM Component Set 2.5 contains 1,018 models based on Component Specification version 2.5. The components represent a variety of a physical components, or parts, used in large vehicles, such as the infantry fighting vehicles that were the subject of the AVM program.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "Open Source"
+        ], 
+        "Languages": [
+            "C/C++", 
+            "Fortran", 
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "See ReadMe or Installation Notes for specific software"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            ""
+        ], 
+        "New Date": "20150604", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "AVM", 
+        "Program Teams": [
+            "Vanderbilt University"
+        ], 
+        "Contributors": [
+            "Electrotank", 
+            "GE Global Research", 
+            "Georgia Tech Research Institute", 
+            "University of Pennsylvania"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "VehicleFORGE Tools", 
+        "Internal Link": "", 
+        "External Link": "http://dmdii.uilabs.org/the-institute/resources/avm-materials/", 
+        "Public Code Repo": "http://cps-vo.org/node/5834/browser", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "VehicleFORGE is a collaboration platform that supports cyber-physical system design projects in communities that collectively create and share design components. It adapts and extends the software forge concept as a means of bundling and provisioning tools that support distributed synchronous and asynchronous collaborative work via the web.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "Open Source"
+        ], 
+        "Languages": [
+            "Javascript",
+			"Python"
+        ], 
+        "Platform Requirements": [
+            "See ReadMe or Installation Notes for specific software"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            ""
+        ], 
+        "New Date": "20150604", 
+        "Update Date": ""
+    }
+]

@@ -1,8 +1,9 @@
 {
+    "DARPA Office":"I2O",
     "DARPA Program Name":"SAFER",
     "Long Name":"Safer Warfighter Communications (SAFER)",
     "Program Teams":"",
-    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/SAFER_Warfighter_Communications_%28SAFER%29.aspx",
+    "Link":"http://www.darpa.mil/program/safer-warfighter-communications",
     "Display Software Columns":[
         "Team",
         "Project",
@@ -16,8 +17,12 @@
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"The SAFER program seeks to develop technology to enable safe, resilient communications over the Internet, particularly in situations in which third parties attempt to discover the identity or location of the end users, or block communications. The program also seeks to provide the technological quality of service required to support applications such as electronic mail, instant messaging, voice over IP, and other media that promote effective communication.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Mr_Michael_Walker.aspx",
+    "Program Manager Link":"http://www.darpa.mil/staff/mr-michael-walker",
     "Program Manager":"Mr. Michael Walker",
     "Program Manager Email":"michael.walker@darpa.mil",
     "Image":""

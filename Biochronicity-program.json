@@ -1,0 +1,29 @@
+{
+    "DARPA Office":"BTO",
+    "DARPA Program Name":"Biochronicity",
+    "Long Name":"Biochronicity",
+    "Program Teams":"",
+    "Link":"http://www.darpa.mil/program/biochronicity",
+    "Display Software Columns":[
+        "Team",
+        "Project",
+        "Category",
+        "Code",
+        "Description",
+        "License"
+    ],
+    "Display Pubs Columns":[
+        "Team",
+        "Title",
+        "Link"
+    ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
+    "Description":"Time is important to multiple biological processes, including circadian-regulated gene expression related to metabolic, cell cycle, and immune system functions. The overarching goals of BioChronicity are the integration of math, physics, and biology to: (1) understand time-dependent gene expression, (2) generate predictive models of complex biological systems, and (3) regulate molecular clocks to modulate clinical outcomes.",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-jim-gimlett",
+    "Program Manager":"Dr. Jim Gimlett",
+    "Program Manager Email":"james.gimlett@darpa.mil",
+    "Image":"Biochronicity-image.jpg"
+}

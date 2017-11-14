@@ -2,7 +2,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(Wisc Team) Indiana University"
+            "(WiscTeam) Indiana University"
         ],
         "Title":"Knowledge Intensive Learning: Combining Qualitative Constraints with Causal Independence for Parameter Learning in Probabilistic Models",
         "Authors":[
@@ -25,7 +25,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(Wisc Team) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Indiana University"
         ],
         "Title":"Guiding Autonomous Agents to Better Behaviors through Human Advice",
@@ -51,9 +51,9 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(Wisc Team) Wake Forest University",
+            "(WiscTeam) Wake Forest University",
             "Indiana University",
-            "University of Wisconsin-Madison",
+            "University of Wisconsin - Madison",
             "University of Alberta, Canada"
         ],
         "Title":"AR-Boost: Reducing Overfitting by a Robust Data-Driven Regularization Strategy",
@@ -132,10 +132,10 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WIscTeam) Indiana University",
+            "(WiscTeam) Indiana University",
             "Cycorp",
-            "University of Wisconsin-Madison",
-            "TU Dormund",
+            "University of Wisconsin - Madison",
+            "TU Dortmund",
             "Oregon State University"
         ],
         "Title":"Accelerating Imitation Learning in Relational Domains via Transfer by Initialization",
@@ -165,7 +165,7 @@
         "Program Teams":[
             "(WiscTeam) Indiana University",
             "Wake Forest University",
-            "University of Wisconsin-Madison",
+            "University of Wisconsin - Madison",
             "Stanford University",
             "TU Dortmund"
         ],
@@ -194,9 +194,9 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Indiana University",
-            "TU Dormund"
+            "TU Dortmund"
         ],
         "Title":"Learning Relational Probabilistic Models from Partially Observed Data - Opening the Closed-World Assumption",
         "Authors":[
@@ -221,7 +221,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Indiana University",
             "TU Dortmund"
         ],
@@ -248,7 +248,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Understanding Tables in Context Using Standard NLP Toolkits",
@@ -273,7 +273,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Towards High-Throughput Gibbs Sampling at Scale: A Study across Storage Managers",
@@ -297,7 +297,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Scaling Inference for Markov Logic via Dual Decomposition",
@@ -323,7 +323,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Parallel Stochastic Gradient Algorithms for Large-Scale Matrix Completion",
@@ -347,7 +347,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Hazy: Making it Easier to Build and Maintain Big-data Analytics",
@@ -372,7 +372,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Big Data versus the Crowd: Looking for Relationships in All the Right Places",
@@ -398,7 +398,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Elementary: Large-scale Knowledge-base Construction via Machine Learning and Statistical Inference",
@@ -424,7 +424,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"DeepDive: Web-scale Knowledge-base Construction using Statistical Learning and Inference",
@@ -450,7 +450,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Optimizing Statistical Information Extraction Programs Over Evolving Text",
@@ -476,7 +476,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Toward a Noncommutative Arithmetic-Geometric Mean Inequality: Conjectures, Case-studies, and Consequences",
@@ -500,7 +500,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University"
         ],
         "Title":"Factoring Nonnegative Matrices with Linear Programs",
@@ -526,7 +526,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University",
             "Others"
         ],
@@ -556,7 +556,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
+            "(WiscTeam) University of Wisconsin - Madison",
             "Stanford University",
             "University of Washington"
         ],
@@ -581,8 +581,8 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "(WiscTeam) University of Wisconsin-Madison",
-            "UC Berkeley",
+            "(WiscTeam) University of Wisconsin - Madison",
+            "University of California - Berkeley",
             "Indiana University"
         ],
         "Title":"Learning Relational Structure for Temporal Relation Extraction",
@@ -609,7 +609,7 @@
         "DARPA Program":"DEFT",
         "Program Teams":[
             "(WiscTeam) Wake Forest University",
-            "SRI International",
+            "SRI",
             "Indiana University"
         ],
         "Title":"Initial Empirical Evaluation of Anytime Lifted Belief Propagation",
@@ -635,7 +635,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "Bar Elan",
+            "Bar Ilan University",
             "CUNY"
         ],
         "Title":"Efficient Implementation of Beam-Search Incremental Parsers",
@@ -664,8 +664,7 @@
         ],
         "Title":"A Structured Distributional Semantic Model for Event Co-reference",
         "Authors":[
-            "Goyal",
-            "K.",
+            "K. Goyal",
             "S.K. Jauhar",
             "H. Li",
             "M. Sachan",
@@ -692,8 +691,7 @@
         ],
         "Title":"A Structured Distributional Semantic Model: Integrating Structure with Semantics",
         "Authors":[
-            "Goyal",
-            "K.",
+            "K. Goyal",
             "S.K. Jauhar",
             "H. Li",
             "M. Sachan",
@@ -1192,9 +1190,9 @@
         ],
         "Title":"Output Space Search for Structured Prediction",
         "Authors":[
-            "Doppa, J.",
-            "Fern, A.",
-            "Tadepalli, P."
+            "J. Doppa",
+            "A. Fern",
+            "P. Tadepalli"
         ],
         "Link":"http://icml.cc/discuss/2012/587.html",
         "Categories":[
@@ -1216,9 +1214,9 @@
         ],
         "Title":"HC-Search: Learning Heuristics and Cost Functions for Structured Prediction",
         "Authors":[
-            "Doppa, J.",
-            "Fern, A.",
-            "Tadepalli, P."
+            "J. Doppa",
+            "A. Fern",
+            "P. Tadepalli"
         ],
         "Link":"http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6429",
         "Categories":[
@@ -2425,7 +2423,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT-Dallas",
+            "University of Texas - Dallas",
             "University of Washington"
         ],
         "Title":"Structured Message Passing",
@@ -3238,7 +3236,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Fast Joint Compression and Summarization via Graph Cuts",
         "Authors":[
@@ -3261,7 +3259,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Document Summarization via Guided Sentence Compression",
         "Authors":[
@@ -3286,7 +3284,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Using Denoising Autoencoder for Emotion Recognition",
         "Authors":[
@@ -3309,7 +3307,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"A Preliminary Study of Cross-lingual Emotion Recognition from Speech: Automatic Classification versus Human Perception",
         "Authors":[
@@ -3334,7 +3332,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Using Supervised Bigram-based ILP for Extractive Summarization",
         "Authors":[
@@ -3358,7 +3356,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "University of Texas at Dallas"
+            "University of Texas - Dallas"
         ],
         "Title":"Disfluency Detection Using Multi-step Stacked Learning",
         "Authors":[
@@ -3837,7 +3835,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "USC/ISI",
+            "USC/Information Sciences Institute",
             "LDC",
             "Colorado",
             "CMUCS"
@@ -3871,7 +3869,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Learning to 'Read Between the Lines' Using Baysian Logic",
         "Authors":[
@@ -3895,7 +3893,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Towards a semantics for distributional representations",
         "Authors":[
@@ -3917,7 +3915,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Intentionality was only alleged: On adjective-noun composition in distributional semantics",
         "Authors":[
@@ -3942,7 +3940,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Montague Meets Markov: Deep Semantics with Probabilistic Logical Form",
         "Authors":[
@@ -3969,7 +3967,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Online Inference-Rule Learning from Natural-Language Extractions",
         "Authors":[
@@ -3992,7 +3990,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "UT Austin"
+            "University of Texas - Austin"
         ],
         "Title":"A Formal Approach to Linking Logical Form and Vector-Space Lexical Semantics",
         "Authors":[
@@ -4217,7 +4215,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "JHU",
+            "Johns Hopkins University",
             "University of Pennsylvania"
         ],
         "Title":"PARMA: A Predicate Argument Aligner",
@@ -4250,7 +4248,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "JHU",
+            "Johns Hopkins University",
             "University of Pennsylvania"
         ],
         "Title":"PPDB: The Paraphrase Database",
@@ -4275,7 +4273,7 @@
     {
         "DARPA Program":"DEFT",
         "Program Teams":[
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Title":"Evaluating Progress in Probabilistic Programming through Topic Models",
         "Authors":[

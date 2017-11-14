@@ -1,0 +1,38 @@
+{
+    "DARPA Office":"BTO",
+    "DARPA Program Name":"Revolutionizing Prosthetics",
+    "Long Name":"Revolutionizing Prosthetics",
+    "Program Teams":[
+        "DEKA Integrated Solutions, Inc.",
+        "The Johns Hopkins University Applied Physics Lab",
+        "University of Chicago",
+        "Purdue University",
+        "University of Pittsburgh Medical Center",
+        "California Institute of Technology"
+    ],
+    "Link":"http://www.darpa.mil/program/revolutionizing-prosthetics",
+    "Display Software Columns":[
+        "Team",
+        "Project",
+        "Description",
+        "Instructional Material",
+        "Category",
+        "Code",
+        "Stats",
+        "License"
+    ],
+    "Display Pubs Columns":[
+        "Team",
+        "Title",
+        "Link"
+    ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
+    "Description":"DARPA launched the Revolutionizing Prosthetics program with a radical goal: Create an advanced electromechanical prosthetic upper limb with near-natural control that enhances independence and improves quality of life for amputees, and gain U.S. Food and Drug Administration (FDA) approval for its use. In May 2014, less than eight years after the effort was launched, that dream is a reality; the FDA approved the DEKA Arm System.",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-justin-sanchez",
+    "Program Manager":"Dr. Justin Sanchez",
+    "Program Manager Email":"justin.sanchez@darpa.mil",
+    "Image":"Revolutionizing-Prosthetics-image.jpg"
+}

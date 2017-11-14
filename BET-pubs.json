@@ -332,7 +332,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Hot-Patching a Web Server: a Case Study of ASAP Code Repair",
         "Authors":[
@@ -355,7 +355,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"DynSec: On-the-fly Code Rewriting and Repair",
         "Authors":[
@@ -379,7 +379,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"BLITZ: Compositional Bounded Model Checking for Real-World Programs",
         "Authors":[
@@ -401,7 +401,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Transformation-aware Exploit Generation using a HI-CFG",
         "Authors":[
@@ -428,7 +428,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Path-Exploration Lifting: Hi-Fi Tests for Lo-Fi Emulators",
         "Authors":[
@@ -712,7 +712,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"BISTRO: Binary Component Extraction and Embedding for Software Security Applications",
         "Authors":[
@@ -736,7 +736,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"SPIDER: Stealthy Binary Program Instrumentation and Debugging via Hardware Virtualization",
         "Authors":[
@@ -760,7 +760,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"Obfuscation Resilient Binary Code Reuse through Trace-oriented Programming",
         "Authors":[
@@ -787,7 +787,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"PIEtrace: Platform Independent Executable Trace",
         "Authors":[
@@ -811,7 +811,7 @@
     {
         "DARPA Program":"BET",
         "Program Teams":[
-            "Perdue University"
+            "Purdue University"
         ],
         "Title":"LogGC: Garbage Collecting Audit Log",
         "Authors":[

@@ -863,7 +863,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Dancing with Uncertainty",
         "Authors":[
@@ -887,7 +887,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Automatic Input Rectification",
         "Authors":[
@@ -913,7 +913,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Bolt: On-Demand Infinite Loop Escape in Unmodified Binaries",
         "Authors":[
@@ -1182,7 +1182,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"Scalable Network Virtualization in Software-Defined Networks",
@@ -1207,7 +1207,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"Live Migration of an Entire Network (And Its Hosts)",
@@ -1233,7 +1233,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"DEFINED: Deterministic Execution for Interactive Control-Plane Debugging",
@@ -1259,7 +1259,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"VeriFlow: Verifying Network-Wide Invariants in Real Time",
@@ -1286,7 +1286,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"Walk the Line: Consistent Network Updates with Bandwidth Guarantees",
@@ -1310,7 +1310,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"SybilControl: Practical Sybil Defense with Computational Puzzles",
@@ -1336,7 +1336,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"Tiresias: Online Anomaly Detection for Hierarchical Operational Network Data",
@@ -1362,7 +1362,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"SMOG: A Cloud Platform for Seamless Wide area Migration of Networked Games",
@@ -1389,7 +1389,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"Programmable Host/Network Traffic Management",
@@ -1416,7 +1416,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"Transparent, Live Migration of a Software-Defined Network",
@@ -1445,7 +1445,7 @@
     {
         "DARPA Program":"MRC",
         "Program Teams":[
-            "University of Illinois at Urbana-Champaign",
+            "University of Illinois - Urbana-Champaign",
             "Princeton University"
         ],
         "Title":"HotSwap: Correct and Efficient Controller Upgrades for Software-Defined Networks",

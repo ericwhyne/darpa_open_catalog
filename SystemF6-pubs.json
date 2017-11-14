@@ -1,0 +1,282 @@
+[
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "Emergent Space Technologies"
+        ], 
+        "Title": "Simulated Annealing Maneuver Planner For Cluster Flight", 
+        "Authors": [
+            "Allen Brown", 
+            "Matthew Ruschmann", 
+            "Brent Duffy", 
+            "Lucas Ward", 
+            "Sun Hur-Diaz", 
+            "Eric Ferguson", 
+            "Shaun Stewart"
+        ], 
+        "Link": "http://www.emergentspace.com/assets/1/7/ISSFD24_Paper_S16-1_Brown.pdf", 
+        "Categories": [
+            "Applications and Expert Systems", 
+            "Methodology and Techniques", 
+            "Optimization", 
+            "Software Architectures"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "I.2.8", 
+            "G.4", 
+            "G.1.6", 
+            "F.2.1"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "Emergent Space Technologies"
+        ], 
+        "Title": "Scatter Strategies for Cluster Flight", 
+        "Authors": [
+            "Allen Brown", 
+            "Matthew Ruschmann", 
+            "Brent Duffy", 
+            "Lucas Ward"
+        ], 
+        "Link": "http://www.emergentspace.com/assets/1/7/ISSFD24_Paper_S9-2_duffy.pdf", 
+        "Categories": [
+            "Applications and Expert Systems", 
+            "Methodology and Techniques", 
+            "Optimization"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "I.2.8", 
+            "G.4", 
+            "G.1.6", 
+            "F.2.1"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "Emergent Space Technologies"
+        ], 
+        "Title": "Cluster Flight Application on System F6", 
+        "Authors": [
+            "Sun Hur-Diaz", 
+            "Brendan O'Connor"
+        ], 
+        "Link": "http://www.emergentspace.com/assets/1/7/ISSFD24_Paper_S9-3_Hur-Diaz.pdf", 
+        "Categories": [
+            "Applications and Expert Systems", 
+            "Methodology and Techniques", 
+            "Optimization", 
+            "Probabilistic Algorithms", 
+            "Software Architectures"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "I.2.8", 
+            "G.4", 
+            "G.3", 
+            "G.1.6", 
+            "F.2.1", 
+            "D.2.11", 
+            "I.2.9"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "Emergent Space Technologies"
+        ], 
+        "Title": "Efficient Station Keeping for Cluster Flight", 
+        "Authors": [
+            "Matthew Ruschmann", 
+            "Brent Duffy", 
+            "Rafael de la Torre", 
+            "Sun Hur-Diaz"
+        ], 
+        "Link": "http://www.emergentspace.com/assets/1/7/ISSFD24_Paper_P_ruschmann.pdf", 
+        "Categories": [
+            "Applications and Expert Systems", 
+            "Methodology and Techniques", 
+            "Optimization"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "I.2.8", 
+            "G.4", 
+            "G.1.6", 
+            "F.2.1"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "Emergent Space Technologies"
+        ], 
+        "Title": "Satellite Cluster Flight Design Considerations", 
+        "Authors": [
+            "Jason Schmidt", 
+            "Mike Phillips", 
+            "Matthew Ruschmann"
+        ], 
+        "Link": "http://www.emergentspace.com/assets/1/7/ISSFD24_Paper_S16-5_Schmidt.pdf", 
+        "Categories": [
+            "Methodology and Techniques", 
+            "Optimization"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "G.4", 
+            "G.1.6", 
+            "F.2.1"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "Emergent Space Technologies"
+        ], 
+        "Title": "Distributed GN&C Flight Software Simulation for Spacecraft Cluster Flight", 
+        "Authors": [
+            "Shaun Stewart", 
+            "Lucas Ward", 
+            "Stacey Strand"
+        ], 
+        "Link": "http://www.emergentspace.com/assets/1/7/AAS_14_032_sstewart.pdf", 
+        "Categories": [
+            "Applications and Expert Systems", 
+            "Methodology and Techniques", 
+            "Software Architectures", 
+            "Model Validation and Analysis"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "G.4", 
+            "F.2.1", 
+            "D.2.4", 
+            "D.2.11"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "Emergent Space Technologies"
+        ], 
+        "Title": "Computing Collision Probability Using Linear Covariance and Unscented Transforms", 
+        "Authors": [
+            "Sun Hur-Diaz", 
+            "Matthew Ruschmann", 
+            "Martin Heyne", 
+            "Mike Phillips"
+        ], 
+        "Link": "http://www.emergentspace.com/assets/1/7/AIAA_GNC_2013_Pc_Lincov_Unscented_1665138.pdf", 
+        "Categories": [
+            "Applications and Expert Systems", 
+            "Methodology and Techniques", 
+            "Probabilistic Algorithms"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "G.4", 
+            "G.3", 
+            "F.2.1"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "Emergent Space Technologies"
+        ], 
+        "Title": "On-Board Estimation of Collision Probability for Cluster Flight", 
+        "Authors": [
+            "Mike Phillips", 
+            "Sun Hur-Diaz"
+        ], 
+        "Link": "http://www.emergentspace.com/assets/1/7/AAS_13-357.pdf", 
+        "Categories": [
+            "Applications and Expert Systems", 
+            "Methodology and Techniques", 
+            "Probabilistic Algorithms"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "G.4", 
+            "G.3", 
+            "F.2.1"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "System F6", 
+        "Program Teams": [
+            "Emergent Space Technologies"
+        ], 
+        "Title": "A Distributed, Redundant Navigation and Fault Detection System for DARPA System F6", 
+        "Authors": [
+            "Jason Schmidt", 
+            "Mike Phillips"
+        ], 
+        "Link": "http://www.emergentspace.com/assets/1/7/AIAA_13-4963.pdf", 
+        "Categories": [
+            "Applications and Expert Systems", 
+            "Methodology and Techniques", 
+            "Optimization", 
+            "Probabilistic Algorithms", 
+            "Software Architectures"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "G.4", 
+            "G.3", 
+            "F.2.1", 
+            "D.2.11", 
+            "I.2.9"
+        ], 
+        "New Date": "20150326", 
+        "Update Date": ""
+    }
+]

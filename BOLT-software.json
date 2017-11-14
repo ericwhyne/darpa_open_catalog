@@ -114,7 +114,7 @@
         "Software":"macaon",
         "Internal Link":"",
         "External Link":"http://macaon.lif.univ-mrs.fr/index.php?page=home-en",
-        "Public Code Repo":"git@gitlab.lif.univ-mrs.fr:benoit.favre/macaon.git",
+        "Public Code Repo":"benoit.favre@lif.univ-mrs.fr",
         "Instructional Material":"",
         "Description":"macaon is a tool suite for standard Natural Language Processing tasks (tagging, parsing...) that can process hypotheses. (C/C++)",
         "License":[
@@ -165,7 +165,7 @@
         "Software":"Word Sense Induction Suite",
         "Internal Link":"",
         "External Link":"",
-        "Public Code Repo":"james@cs.rochester.edu or lgalescu@ihmc.us",
+        "Public Code Repo":"james@cs.rochester.edu",
         "Instructional Material":"",
         "Description":"Word Sense Induction Suite is a suite of scripts used to induce word senses from bilingual alignments, and cluster senses for different words into semantically related sets. (Perl)",
         "License":[
@@ -216,7 +216,7 @@
         "Software":"Word Sense Tagger",
         "Internal Link":"",
         "External Link":"",
-        "Public Code Repo":"james@cs.rochester.edu or lgalescu@ihmc.us",
+        "Public Code Repo":"james@cs.rochester.edu",
         "Instructional Material":"",
         "Description":"The Word Sense Tagger is used to: 1) train statistical models for tagging text with word senses; and 2) apply those models for tagging new text with word senses. (Ruby/JRuby)",
         "License":[
@@ -1429,6 +1429,56 @@
             "Statistical Machine Translation"
         ],
         "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"BOLT",
+        "Program Teams":[
+            "Linguistic Data Consortium"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"LDC2014E112 BOLT Uzbek Language Pack and LDC2014E115 BOLT Turkish Language Pack",
+        "Internal Link":"",
+        "External Link":"ldc@ldc.upenn.edu",
+        "Public Code Repo":"ldc@ldc.upenn.edu",
+        "Instructional Material":"",
+        "Description":"Support linguistic research in leveraging language-universal resources, projecting from related-language resources, and fully exploiting a broad range of language-specific resources.",
+        "License":[
+            "NCSLA"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            "Linguistics"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Linguistics"
+        ],
+        "New Date":"20141104",
         "Update Date":""
     }
 ]

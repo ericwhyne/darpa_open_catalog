@@ -1,0 +1,150 @@
+[
+    {
+        "DARPA Program": "Revolutionizing Prosthetics", 
+        "Program Teams": [
+            "University of Chicago"
+        ], 
+        "Title": "Biological and Bionic Hands: Natural Neural Coding and Artificial Perception", 
+        "Authors": [
+            "Sliman J. Bensmaia"
+        ], 
+        "Link": "http://rstb.royalsocietypublishing.org/content/370/1677/20140209", 
+        "Categories": [
+            "Human-centered computing"
+        ], 
+        "Subcategories": [
+            "Human computer interaction", 
+            "HCI design and evaluation methods", 
+            "Interaction devices", 
+            "HCI theory", 
+            "concepts and models"
+        ], 
+        "ACM 1998 classification code": [
+            "J.3", 
+            "I.6.5"
+        ], 
+        "New Date": "20150805", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RP", 
+        "Program Teams": [
+            "The Johns Hopkins University Applied Physics Lab", 
+            "University of Chicago", 
+            "Purdue University", 
+            "University of Pittsburgh"
+        ], 
+        "Title": "The Effect of Chronic Intracortical Microstimulation on the Electrode-Tissue Interface", 
+        "Authors": [
+            "Kevin H. Chen", 
+            "John F. Fammann", 
+            "Jessica L. Boback", 
+            "Francesco V. Tenore", 
+            "Kevin J. Otto", 
+            "Robert A. Gaunt", 
+            "Sliman J. Bensmaia"
+        ], 
+        "Link": "http://dx.doi.org/10.1088/1741-2560/11/2/026004", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RP", 
+        "Program Teams": [
+            "The Johns Hopkins University Applied Physics Lab", 
+            "University of Chicago"
+        ], 
+        "Title": "Restoring the Sense of Touch with a Prosthetic Hand through a Brain Interface", 
+        "Authors": [
+            "Gregg A. Tabot", 
+            "John F. Dammann", 
+            "Joshua A. Berg", 
+            "Francesco V. Tenore", 
+            "Jessica L. Boback", 
+            "R. Jacob Vogelstein", 
+            "Sliman J. Bensmaia"
+        ], 
+        "Link": "http://dx.doi.org/10.1073/pnas.1221113110", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RP", 
+        "Program Teams": [
+            "The Johns Hopkins University Applied Physics Lab"
+        ], 
+        "Title": "Experimental Validation of Imposed Safety Regions for Neural Controlled Human Patient Self-feeding using the Modular Prosthetic Limb", 
+        "Authors": [
+            "Brock A. Wester", 
+            "Matthew P. Para", 
+            "Ashok Sivakumar", 
+            "Michael D. Kutzer", 
+            "Kapil D. Katyal", 
+            "Alan D. Ravitz", 
+            "James D. Beaty", 
+            "Michael P. McLoughlin", 
+            "Matthew S. Johannes"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6696454&tag=1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "RP", 
+        "Program Teams": [
+            "University of Pittsburgh"
+        ], 
+        "Title": "High-performance Neuroprosthetic Control by an Individual with Tetraplegia", 
+        "Authors": [
+            "Jennifer L. Collinger", 
+            "Brian Wodlinger", 
+            "John E. Downey", 
+            "Wei Wang", 
+            "Elizabeth C Tyler-Kabara", 
+            "Douglas J Weber", 
+            "Angus JC McMorland", 
+            "Meel Velliste", 
+            "Michael L Boninger", 
+            "Andrew B Schwartz"
+        ], 
+        "Link": "http://dx.doi.org/10.1016/S0140-6736(12)61816-9", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140724", 
+        "Update Date": ""
+    }
+]

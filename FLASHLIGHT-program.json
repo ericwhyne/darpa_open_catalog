@@ -1,4 +1,5 @@
 {
+    "DARPA Office":"I2O",
     "DARPA Program Name":"FLASHLIGHT",
     "Long Name":"FLASHLIGHT",
     "Program Teams":"",
@@ -16,8 +17,12 @@
         "Title",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"The FLASHLIGHT program seeks to prevent data exfiltration and information leakage through the use of a hardened audit and inspection capability that attests to the integrity and legitimacy of data leaving a network enclave.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Mr_Richard_Guidorizzi.aspx",
+    "Program Manager Link":"",
     "Program Manager":"Richard Guidorizzi",
     "Program Manager Email":"richard.guidorizzi@darpa.mil"
 }

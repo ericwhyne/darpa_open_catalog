@@ -98,7 +98,7 @@
             ""
         ],
         "Categories":[
-            "Sofware Analysis",
+            "Software",
             "Dynamic Analysis",
             "Android",
             "Malware"
@@ -204,7 +204,7 @@
         ],
         "Categories":[
             "Static analysis",
-            "Compiler"
+            "Compilers"
         ],
         "New Date":"",
         "Update Date":""

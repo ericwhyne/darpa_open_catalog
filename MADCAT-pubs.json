@@ -21,20 +21,721 @@
         "Program Teams":[
             "(Team BBN) Columbia University",
             "Safaba Translation Solutions",
-            "GWU"
+            "George Washington University"
         ],
-        "Title":"Ensemble Reranking with Linguistic and Semantic Features for Arabic Character Recognition",
+        "Title":"Reranking with Linguistic and Semantic Features for Arabic Optical Character Recognition",
         "Authors":[
             "Nadi Tomeh",
             "Nizar Habash",
             "Ryan Roth",
             "Noura Farra",
-            "Pradeep Dasigi and Mona Diab"
+            "Pradeep Dasigi",
+			"Mona Diab"
         ],
         "Link":"http://aclweb.org/anthology/P/P13/P13-2098.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140904"
     },
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Applying Discriminatively Optimized Feature Transform for HMM-based Off-Line Handwriting Recognition", 
+        "Authors": [
+            "Jin Chen", 
+            "Bing Zhang", 
+            "Huaigu Cao", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6424395", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Statistical Machine Translation as a Language Model for Handwriting Recognition", 
+        "Authors": [
+            "Jacob Devlin", 
+            "Matin Kamali", 
+            "Krishna Subramanian", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6424408", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Detecting Near-Duplicate Document Images Using Interest Point Matching", 
+        "Authors": [
+            "Shiv Naga Prasad Vitaladevuni", 
+            "Fred Choi", 
+            "Rohit Prasad", 
+            "Premkumar Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6460143", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Document Recognition and Translation System for Unconstrained Arabic Documents", 
+        "Authors": [
+            "Huaigu Cao", 
+            "Jinying Chen", 
+            "Jacob Devlin", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6460136", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    },
+	{
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Local Segmentation of Touching Characters Using Contour Based Shape Decomposition", 
+        "Authors": [
+            "Le Kang", 
+            "David S. Doermann", 
+            "Huaigu Cao", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&tp=&arnumber=6195414", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Detecting OOV Names in Arabic Handwritten Data", 
+        "Authors": [
+            "Jinying Chen", 
+            "Rohit Prasad", 
+            "Huaigu Cao", 
+            "Premkumar Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?arnumber=6628765", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Arabic Text Recognition Using a Script-Independent Methodology: A Unified HMM-Based Approach for Machine-Printed and Handwritten Text", 
+        "Authors": [
+            "Premkumar Natarajan", 
+            "Rohit Prasad", 
+            "Huaigu Cao", 
+            "Krishna Subramanian", 
+            "Shirin Saleem", 
+            "David Belanger", 
+            "Shiv Vitaladevuni", 
+            "Matin Kamali", 
+            "Ehry MacRostie"
+        ], 
+        "Link": "http://www.springer.com/computer/image+processing/book/978-1-4471-4071-9", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "James-Stein Type Center Pixel Weights for Non-Local Means Image Denoising", 
+        "Authors": [
+            "Yue Wu", 
+            "Brian Tracey", 
+            "Premkumar Natarajan", 
+            "Joseph P. Noonan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6464516", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Probabilistic Non-Local Means", 
+        "Authors": [
+            "Yue Wu", 
+            "Brian Tracey", 
+            "Premkumar Natarajan", 
+            "Joseph P. Noonan"
+        ], 
+        "Link": "http://arxiv.org/abs/1302.5762", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Preprocessing Issues in Arabic OCR", 
+        "Authors": [
+            "Z. Shi", 
+            "S. Setlur", 
+            "V. Govindaraju"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007/978-1-4471-4072-6_4", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Model Based Table Cell Detection and Content Extraction from Degraded Document Images", 
+        "Authors": [
+            "Z. Shi", 
+            "S. Setlur", 
+            "V. Govindaraju"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?doid=2432553.2432565", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Handwritten Arabic Text Recognition Using Deep Belief Networks", 
+        "Authors": [
+            "U. Porwal", 
+            "Y. Zhou", 
+            "V. Govindaraju"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6460132", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Ensemble of Biased Learners for Offline Arabic Handwriting Recognition", 
+        "Authors": [
+            "U. Porwal", 
+            "A. Shivaram", 
+            "C. Ramiah", 
+            "V. Govindaraju"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6195387", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Machine Learning in Handwritten Arabic Text Recognition", 
+        "Authors": [
+            "U. Porwal", 
+            "Z. Shi", 
+            "S. Setlur"
+        ], 
+        "Link": "http://www.sciencedirect.com/science/article/pii/B9780444538598000187", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Scene Text Detection via Integrated Discrimination of Component Appearance and Consensus", 
+        "Authors": [
+            "Qixiang Ye", 
+            "D. Doermann"
+        ], 
+        "Link": "http://link.springer.com/chapter/10.1007%2F978-3-319-05167-3_4", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Using Models for Automatic Classification and Segmentation of Tables in Noisy Offline Images", 
+        "Authors": [
+            "Wang Ke", 
+            "Huaigu Cao", 
+            "Xujun Peng", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Table Form Detection and Segmentation Using an Iterative Registration Algorithm", 
+        "Authors": [
+            "Huaigu Cao", 
+            "Xujun Peng", 
+            "Wang Ke", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Confusion Network-Based Recurrent Neural Network Language Modeling for Chinese OCR Error Detection", 
+        "Authors": [
+            "Jinying Chen", 
+            "Yue Wu", 
+            "Huaigu Cao", 
+            "Prem Natarajan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Text Classification via iVector Based Feature Representation", 
+        "Authors": [
+            "Shengxin Zha", 
+            "Xujun Peng", 
+            "Huaigu Cao", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6830988", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Boost Accuracy Using iVector Based Combination Approach", 
+        "Authors": [
+            "Xujun Peng", 
+            "Huaigu Cao", 
+            "Prem Natarajan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Applications of Recurrent Neural Network Language Model in Offline Handwriting Recognition and Word Spotting", 
+        "Authors": [
+            "Nan Li", 
+            "Jinying Chen", 
+            "Huaigu Cao", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://people.sabanciuniv.edu/berrin/cs581/Papers/icfhr2014/data/4334a134.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Sentence Boundary Detection for Arabic Image Documents and its Effects on Machine Translation", 
+        "Authors": [
+            "Jinying Chen", 
+            "Huaigu Cao", 
+            "Xujun peng", 
+            "Prem Natarajan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": "20140909"
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Progress in the Raytheon BBN Arabic Offline Handwriting Recognition System", 
+        "Authors": [
+            "Xujun Peng", 
+            "Huaigu Cao", 
+            "Krishna Subramanian", 
+            "David Belanger", 
+            "Nan Li", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://people.sabanciuniv.edu/berrin/cs581/Papers/icfhr2014/data/4334a555.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Unsupervised Classification of Structurally Similar Document Images", 
+        "Authors": [
+            "Jayant Kumar", 
+            "David Doermann"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6628809", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Document Image Quality Assessment: A Brief Survey", 
+        "Authors": [
+            "Peng Ye", 
+            "David Doermann"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6628713", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "A Robust Table Registration Method for Batch Table OCR Processing", 
+        "Authors": [
+            "Jinyu Zuo", 
+            "Esin Darici"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=2505383", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Integrating Natural Language Processing with Image Document Analysis: What We Learned from Two Real World Applications", 
+        "Authors": [
+            "Jinying Chen", 
+            "Huaigu Cao", 
+            "Prem Natarajan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Text Detection and Recognition in Natural Scenes and Consumer Videos", 
+        "Authors": [
+            "Arpit Jain", 
+            "Xujun Peng", 
+            "Xiaodan Zhuang", 
+            "Pradeep Natarajan", 
+            "Huaigu Cao"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6853796", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140904", 
+        "Update Date": ""
+    }, 
     {
         "DARPA Program":"MADCAT",
         "Program Teams":[
@@ -67,5 +768,863 @@
         "Link":"http://www.nist.gov/itl/iad/mig/upload/OpenHaRT2013_WorkshopPres_LDC.pdf",
         "New Date":"",
         "Update Date":""
+    },
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Page Rule-Line Removal Using Linear Subspaces in Monochromatic Handwritten Arabic Documents", 
+        "Authors": [
+            "Wael Abd-Almageed", 
+            "Jayant Kumar", 
+            "David S. Doermann"
+        ], 
+        "Link": "http://www.informatik.uni-trier.de/~ley/db/conf/icdar/icdar2009.html", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Voronoi++: A Dynamic Page Segmentation Approach Based on Voronoi and Docstrum Features", 
+        "Authors": [
+            "Mudit Agrawal", 
+            "David S. Doermann"
+        ], 
+        "Link": "http://www.informatik.uni-trier.de/~ley/db/conf/icdar/icdar2009.html", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Improvements in BBN's HMM-Based Offline Arabic Handwriting Recognition System", 
+        "Authors": [
+            "Shirin Saleem", 
+            "Huaigu Cao", 
+            "Krishna Subramanian", 
+            "Matin Kamali", 
+            "Rohit Prasad", 
+            "Premkumar Natarajan"
+        ], 
+        "Link": "http://www.informatik.uni-trier.de/~ley/db/conf/icdar/icdar2009.html", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Unsupervised HMM Adaptation Using Page Style Clustering", 
+        "Authors": [
+            "Huaigu Cao", 
+            "Rohit Prasad", 
+            "Shirin Saleem", 
+            "Premkumar Natarajan"
+        ], 
+        "Link": "http://www.informatik.uni-trier.de/~ley/db/conf/icdar/icdar2009.html", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Stochastic Segment Modeling for Offline Handwriting Recognition", 
+        "Authors": [
+            "Premkumar Natarajan", 
+            "Krishna Subramanian", 
+            "Anurag Bhardwaj", 
+            "Rohit Prasad"
+        ], 
+        "Link": "http://www.informatik.uni-trier.de/~ley/db/conf/icdar/icdar2009.html", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "A Steerable Directional Local Profile Technique for Extraction of Handwritten Arabic Text Lines", 
+        "Authors": [
+            "Zhixin Shi", 
+            "Srirangaraj Setlur", 
+            "Venu Govindaraju"
+        ], 
+        "Link": "http://www.informatik.uni-trier.de/~ley/db/conf/icdar/icdar2009.html", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Gabor Features for Offline Arabic Handwriting Recognition", 
+        "Authors": [
+            "Jin Chen", 
+            "Huaigu Cao", 
+            "Rohit Prasad", 
+            "Anurag Bhardwaj", 
+            "Premkumar Natarajan"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=1815337", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "The BBN Document Analysis Service: A Platform for Multilingual Document Translation", 
+        "Authors": [
+            "Ehry MacRostie", 
+            "Rohit Prasad", 
+            "Stephen Rawls", 
+            "Matin Kamali", 
+            "Huaigu Cao", 
+            "Krishna Subramanian", 
+            "Premkumar Natarajan"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=1815388", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Context-Aware and Content-Based Dynamic Voronoi Page Segmentation", 
+        "Authors": [
+            "Mudit Agrawal", 
+            "David S. Doermann"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=1815340", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Handwritten Arabic Text Line Segmentation Using Affinity Propagation", 
+        "Authors": [
+            "Jayant Kumar", 
+            "Wael Abd-Almageed", 
+            "Le Kang", 
+            "David S. Doermann"
+        ], 
+        "Link": "http://dl.acm.org/citation.cfm?id=1815348", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Improvements in HMM Adaptation for Handwriting Recognition Using Writer Identification and Duration Adaptation", 
+        "Authors": [
+            "Huaigu Cao", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5693516", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Stochastic Segment Model Adaptation for Offline Handwriting Recognition", 
+        "Authors": [
+            "Rohit Prasad", 
+            "Anurag Bhardwaj", 
+            "Krishna Subramanian", 
+            "Huaigu Cao", 
+            "Premkumar Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5597263", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Consensus Network Based Hypotheses Combination for Arabic Offline Handwriting Recognition", 
+        "Authors": [
+            "Rohit Prasad", 
+            "Matin Kamali", 
+            "David Belanger", 
+            "Antti-Veikko I. Rosti", 
+            "Spyros Matsoukas", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5597041", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Removing Rule-Lines from Binary Handwritten Arabic Document Images Using Directional Local Profile", 
+        "Authors": [
+            "Zhixin Shi", 
+            "Srirangaraj Setlur", 
+            "Venu Govindaraju"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5597214", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Shape-DNA: Effective Character Restoration and Enhancement for Arabic Text Documents", 
+        "Authors": [
+            "Gulcin Caner", 
+            "Ismail Haritaoglu"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5595910", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Shape Codebook Based Handwritten and Machine Printed Text Zone Extraction", 
+        "Authors": [
+            "Jayant Kumar", 
+            "Rohit Prasad", 
+            "Huaigu Cao", 
+            "Wael Abd-Almageed", 
+            "David S. Doermann", 
+            "Premkumar Natarajan"
+        ], 
+        "Link": "http://lampsrv02.umiacs.umd.edu/pubs/Papers/jayantkumar-11/jayantkumar-11.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Stroke-Like Pattern Noise Removal in Binary Document Images", 
+        "Authors": [
+            "Mudit Agrawal", 
+            "David S. Doermann"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6065268", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Segmentation of Handwritten Textlines in Presence of Touching Components", 
+        "Authors": [
+            "Jayant Kumar", 
+            "Le Kang", 
+            "David S. Doermann", 
+            "Wael Abd-Almageed"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6065286", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Template Based Segmentation of Touching Components in Handwritten Text Lines", 
+        "Authors": [
+            "Le Kang", 
+            "David S. Doermann"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6065375", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Fast Rule-Line Removal Using Integral Images and Support Vector Machines", 
+        "Authors": [
+            "Jayant Kumar", 
+            "David S. Doermann"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6065378", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Document Image Classification and Labeling Using Multiple Instance Learning", 
+        "Authors": [
+            "Jayant Kumar", 
+            "Jaishanker Pillai", 
+            "David S. Doermann"
+        ], 
+        "Link": "http://www.umiacs.umd.edu/~jsp/Publications/Kumar_ICDAR_2011.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Graph Clustering-Based Ensemble Method for Handwritten Text Line Segmentation", 
+        "Authors": [
+            "Vasant Manohar", 
+            "Shiv Naga Prasad Vitaladevuni", 
+            "Huaigu Cao", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6065376", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "OCR-Driven Writer Identification and Adaptation in an HMM Handwriting Recognition System", 
+        "Authors": [
+            "Huaigu Cao", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6065409", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Handwritten and Typewritten Text Identification and Recognition Using Hidden Markov Models", 
+        "Authors": [
+            "Huaigu Cao", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6065410", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Text Extraction from Video Using Conditional Random Fields", 
+        "Authors": [
+            "Xujun Peng", 
+            "Huaigu Cao", 
+            "Rohit Prasad", 
+            "Premkumar Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6065466", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Image Enhancement for Degraded Binary Document Images", 
+        "Authors": [
+            "Zhixin Shi", 
+            "Srirangaraj Setlur", 
+            "Venu Govindaraju"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6065440", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "No-Reference Image Quality Assessment Based on Visual Codebook", 
+        "Authors": [
+            "Peng Ye", 
+            "David S. Doermann"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6116318", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Automated Image Quality Assessment for Camera-Captured OCR", 
+        "Authors": [
+            "Xujun Peng", 
+            "Huaigu Cao", 
+            "Krishna Subramanian", 
+            "Rohit Prasad", 
+            "Prem Natarajan"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6116204", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Reranking with Linguistic and Semantic Features for Arabic Optical Character Recognition", 
+        "Authors": [
+            "Nadi Tomeh", 
+            "Nizar Habash", 
+            "Ryan Roth", 
+            "Noura Farra", 
+            "Pradeep Dasigi", 
+            "Mona Diab"
+        ], 
+        "Link": "http://aclweb.org/anthology/P/P13/P13-2098.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Some Recent Advances in Offline Handwriting Recognition", 
+        "Authors": [
+            "Premkumar Natarajan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Learning Features for Predicting OCR Accuracy", 
+        "Authors": [
+            "Peng Ye", 
+            "D. Doermann"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Logo Retrieval in Document Images", 
+        "Authors": [
+            "Rajiv Jain", 
+            "David Doermann"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Learning Text-line Segmentation Using Codebooks and Graph Partitioning", 
+        "Authors": [
+            "Le Kang", 
+            "Jayant Kumar", 
+            "Peng Ye", 
+            "David Doermann"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Learning Document Structure for Retrieval and Classification", 
+        "Authors": [
+            "Jayant Kumar", 
+            "Peng Ye", 
+            "David Doermann"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141104", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MADCAT", 
+        "Program Teams": [
+            "BBN"
+        ], 
+        "Title": "Combining Preference and Absolute Judgements in a Crowd-Sourced Setting", 
+        "Authors": [
+            "Peng Ye", 
+            "D. Doermann"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20141103", 
+        "Update Date": ""
     }
 ]

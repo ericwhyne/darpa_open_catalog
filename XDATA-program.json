@@ -1,13 +1,13 @@
 {
+    "DARPA Office":"I2O",
     "DARPA Program Name":"XDATA",
     "Long Name":"XDATA",
     "Program Teams":"",
-    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/XDATA.aspx",
+    "Link":"http://www.darpa.mil/program/xdata",
     "Display Software Columns":[
         "Team",
         "Project",
-		     "",
-	"Description",
+        "Description",
         "Instructional Material",
         "Category",
         "Code",
@@ -19,9 +19,19 @@
         "Title",
         "Link"
     ],
-    "Description":"XDATA is developing an open source software library for big data to help overcome the challenges of effectively scaling to modern data volume and characteristics. The program is developing the tools and techniques to process and analyze large sets of imperfect, incomplete data. Its programs and publications focus on the areas of analytics, visualization, and infrastructure to efficiently fuse, analyze and disseminate these large volumes of data.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Christopher_White.aspx",
-    "Program Manager":"Dr. Christopher White",
-    "Program Manager Email":"christopher.white@darpa.mil",
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":[
+        "Name",
+        "Team",
+        "Description",
+        "Instructional Material",
+        "Link"
+    ],
+    "Description":"XDATA is developing an open source software library for big data to help overcome the challenges of effectively scaling to modern data volume and characteristics. The program is developing the tools and techniques to process and analyze large sets of imperfect, incomplete data. Its programs and publications focus on the areas of analytics, visualization, and infrastructure to efficiently fuse, analyze, and disseminate these large volumes of data.",
+    "Program Manager Link":"http://www.darpa.mil/staff/mr-wade-shen",
+    "Program Manager":"Mr. Wade Shen",
+    "Program Manager Email":"wade.shen@darpa.mil",
     "Image":"XDATA-image.png"
 }

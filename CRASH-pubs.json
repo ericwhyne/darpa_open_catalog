@@ -195,7 +195,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"Advanced Adaptive Application (A3) Environment: Initial Experience",
@@ -222,7 +222,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"A3: An Environment for Self-Adaptive Diagnosis and Immunization of Novel Attacks",
@@ -251,7 +251,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"Moving Target Defense (MTD) in an Adaptive Execution Environment",
@@ -277,7 +277,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"Isolation of Malicious External Inputs in a Security Focused Adaptive Execution Environment",
@@ -306,7 +306,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"A Recipe for Deterministic Replay",
@@ -333,7 +333,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Raytheon BBN Technologies",
+            "Raytheon BBN",
             "University of Utah"
         ],
         "Title":"XenTT: Deterministic System Analysis in Xen",
@@ -2091,7 +2091,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Linux Kernel Vulnerabilities: State-of-the-art Defenses and Open Problems",
@@ -2119,7 +2119,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Retroactive Auditing",
@@ -2145,9 +2145,9 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University",
-            "MIT Lincoln Laboratory"
+            "MIT-LL"
         ],
         "Title":"Experiences in Cyber Security Education: the MIT Lincoln Laboratory Capture-the-Flag Exercise",
         "Authors":[
@@ -2172,7 +2172,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Software Fault Isolation with API Integrity and Multi-Principal Modules",
@@ -2200,7 +2200,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Intrusion Recovery for Database-backed Web Applications",
@@ -2227,7 +2227,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Language Support for Efficient Computation over Encrypted Data",
@@ -2253,7 +2253,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Abstractions for Usable Information Flow Control In Aeolus",
@@ -2284,7 +2284,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Recovering from Intrusions in Distributed Systems with Dare",
@@ -2309,7 +2309,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Undefined Behavior: What Happened to My Code?",
@@ -2336,7 +2336,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Improving Integer Security for Systems with Kint",
@@ -2363,7 +2363,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Efficient Patch-Based Auditing for Web Application Vulnerabilities",
@@ -2388,7 +2388,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"A Secure Processor Architecture for Encrypted Computation on Untrusted Programs",
@@ -2413,7 +2413,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Towards an Interpreter for Efficient Encrypted Computation",
@@ -2438,7 +2438,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"IFDB: Decentralized Information Flow Control for Databases",
@@ -2462,7 +2462,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "Massachusetts Institute of Technology",
+            "MIT",
             "Stanford University"
         ],
         "Title":"Reusable Garbled Circuits and Succinct Functional Encryption",
@@ -3495,7 +3495,7 @@
         "DARPA Program":"CRASH",
         "Program Teams":[
             "Stanford University",
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Toward Principled Browser Security",
         "Authors":[
@@ -3523,7 +3523,7 @@
         "DARPA Program":"CRASH",
         "Program Teams":[
             "Stanford University",
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"EyeQ: Practical Network Performance Isolation at the Edge",
         "Authors":[
@@ -3551,7 +3551,7 @@
         "DARPA Program":"CRASH",
         "Program Teams":[
             "Stanford University",
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Dune: Safe User-Level Access to Privileged CPU Features",
         "Authors":[
@@ -3579,7 +3579,7 @@
         "DARPA Program":"CRASH",
         "Program Teams":[
             "Stanford University",
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Hails: Protecting Data Privacy in Untrusted Web Applications",
         "Authors":[
@@ -3608,7 +3608,7 @@
         "DARPA Program":"CRASH",
         "Program Teams":[
             "Stanford University",
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Safe Haskell",
         "Authors":[
@@ -3634,7 +3634,7 @@
         "DARPA Program":"CRASH",
         "Program Teams":[
             "Stanford University",
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Addressing Covert Termination and Timing Channels in Concurrent Information Flow Systems",
         "Authors":[
@@ -3662,7 +3662,7 @@
         "DARPA Program":"CRASH",
         "Program Teams":[
             "Stanford University",
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Disjunction Category Labels",
         "Authors":[
@@ -3688,7 +3688,7 @@
         "DARPA Program":"CRASH",
         "Program Teams":[
             "Stanford University",
-            "Massachusetts Institute of Technology"
+            "MIT"
         ],
         "Title":"Flexible Dynamic Information Flow Control in Haskell",
         "Authors":[
@@ -3713,7 +3713,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of California, Irvine"
+            "University of California - Irvine"
         ],
         "Title":"Towards Precise and Efficient Information Flow Control in Web Browsers",
         "Authors":[
@@ -3739,7 +3739,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of California, Irvine"
+            "University of California - Irvine"
         ],
         "Title":"First-Class Labels: Using Information Flow to Debug Security Holes",
         "Authors":[
@@ -3765,7 +3765,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of California, Irvine"
+            "University of California - Irvine"
         ],
         "Title":"Profile-Guided Automatic Software Diversity",
         "Authors":[
@@ -3790,7 +3790,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of California, Irvine"
+            "University of California - Irvine"
         ],
         "Title":"Microgadgets: Size Does Matter in Turing-Complete Return-Oriented Programming",
         "Authors":[
@@ -3816,7 +3816,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of California, Irvine"
+            "University of California - Irvine"
         ],
         "Title":"Diversifying the Software Stack Using Randomized NOP Insertion",
         "Authors":[
@@ -3849,7 +3849,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of California, Irvine"
+            "University of California - Irvine"
         ],
         "Title":"Compiler-Generated Software Diversity",
         "Authors":[
@@ -4494,7 +4494,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Guided Merging of Sequence Diagrams",
         "Authors":[
@@ -4523,7 +4523,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Concurrent Cube-and-Conquer",
         "Authors":[
@@ -4547,7 +4547,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"A Formal Model of a Large Memory that Supports Efficient Execution",
         "Authors":[
@@ -4570,7 +4570,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Towards a Formal Model of the x86 ISA",
         "Authors":[
@@ -4593,7 +4593,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Automated Reencoding of Boolean Formulas",
         "Authors":[
@@ -4617,7 +4617,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Revisiting Hyper Binary Resolution",
         "Authors":[
@@ -4641,7 +4641,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Enhancements to ACL2 in Versions 5.0, 6.0, and 6.1",
         "Authors":[
@@ -4664,7 +4664,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"A Parallelized Theorem Prover for a Logic with Parallel Execution",
         "Authors":[
@@ -4688,7 +4688,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Abstract Stobjs and Their Application to ISA Modeling",
         "Authors":[
@@ -4712,7 +4712,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Automated Code Proofs on a Formal Model of the x86",
         "Authors":[
@@ -4735,7 +4735,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Verifying Refutations with Extended Resolution",
         "Authors":[
@@ -4759,7 +4759,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"Mechanical Verification of SAT Refutations with Extended Resolution",
         "Authors":[
@@ -4783,7 +4783,7 @@
     {
         "DARPA Program":"CRASH",
         "Program Teams":[
-            "University of Texas at Austin"
+            "University of Texas - Austin"
         ],
         "Title":"A SAT Approach to Clique-Width",
         "Authors":[

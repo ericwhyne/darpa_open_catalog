@@ -1,0 +1,614 @@
+[
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "Designing States, Actions, and Rewards for Using POMDP in Session Search", 
+        "Authors": [
+            "Jiyun Luo", 
+            "Sicong Zhang", 
+            "Xuchu Dong", 
+            "Hui Yang"
+        ], 
+        "Link": "http://infosense.cs.georgetown.edu/publication/ecir2015-full.pdf", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Web search engines", 
+            "Content ranking"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "Detecting the Eureka Effect in Complex Search", 
+        "Authors": [
+            "Hui Yang", 
+            "Jiyun Luo", 
+            "Xuchu Dong", 
+            "Christopher Wing"
+        ], 
+        "Link": "http://infosense.cs.georgetown.edu/publication/ecir2015-short.pdf", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Web search engines", 
+            "Content ranking"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "Is the First Query the Most Important: An Evaluation of Query Aggregation Schemes in Web Search Sessions", 
+        "Authors": [
+            "Dongyi Guan", 
+            "Hui Yang"
+        ], 
+        "Link": "http://infosense.cs.georgetown.edu/publication/sig-aggregation.pdf", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Web search engines", 
+            "Content ranking"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "A Fragment-Based Similarity Measure for Concept Hierarchies and Ontologies", 
+        "Authors": [
+            "Hui Yang"
+        ], 
+        "Link": "http://infosense.cs.georgetown.edu/publication/cikm15-esair.pdf", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Web search engines", 
+            "Content ranking"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "Query Aggregation in Session Search", 
+        "Authors": [
+            "Dongyi Guan", 
+            "Hui Yang"
+        ], 
+        "Link": "http://infosense.cs.georgetown.edu/publication/dubmod08s-yang.pdf", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Web search engines", 
+            "Content ranking"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "Modeling Rich Interactions in Session Search - Georgetown University at TREC 2014 Session Track", 
+        "Authors": [
+            "Jiyun Luo", 
+            "Xuchu Dong",
+			"Hui Yang"
+        ], 
+        "Link": "http://infosense.cs.georgetown.edu/publication/presentation.pdf", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Web search engines", 
+            "Content ranking"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "Dynamic Information Retrieval Modeling", 
+        "Authors": [
+            "Hui Yang", 
+            "Marc Sloan", 
+            "Jun Wang"
+        ], 
+        "Link": "http://infosense.cs.georgetown.edu/publication/tut09e-yang.pdf", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Web search engines", 
+            "Content ranking"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "Browsing Hierarchy Construction by Minimum Evolution", 
+        "Authors": [
+            "Hui Yang"
+        ], 
+        "Link": "http://infosense.cs.georgetown.edu/publication/tois2013.pdf", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Group and Organization Interfaces"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "The Query-Change Model: Modeling Session Search as a Markov Decision Process", 
+        "Authors": [
+            "Hui Yang", 
+            "Dongyi Guan", 
+            "Sicong Zhang"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Web search engines", 
+            "Content ranking"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Title": "A Term-Based Methodology for Query Reformulation Understanding", 
+        "Authors": [
+            "Marc Sloan", 
+            "Hui Yang", 
+            "Jun Wang"
+        ], 
+        "Link": "http://infosense.cs.georgetown.edu/publication/IRJ2015.pdf", 
+        "Categories": [
+            "Web searching and information discovery"
+        ], 
+        "Subcategories": [
+            "Web search engines", 
+            "Content ranking"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "U.S. Naval Research Laboratory"
+        ], 
+        "Title": "Genuine Onion: Simple, Fast, Flexible, and Cheap Website Authentication", 
+        "Authors": [
+            "Paul Syverson", 
+            "Griffin Boyce"
+        ], 
+        "Link": "http://www.nrl.navy.mil/itd/chacs/syverson-genuine-onion-simple-fast-flexible-and-cheap-website-authentication", 
+        "Categories": [
+            "Security and privacy"
+        ], 
+        "Subcategories": [
+            "Network Security", 
+            "Web protocol security", 
+            "Security Services", 
+            "Authentication"
+        ], 
+        "ACM 1998 classification code": [
+            "D.4.6", 
+            "K.6.5"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "NYU"
+        ], 
+        "Title": "Bootstrapping Focused Crawlers in Sparse Topics", 
+        "Authors": [
+            "Karane Vieira", 
+            "Altigran Silva", 
+            "Luciano Barbosa", 
+            "Edleno Moura", 
+            "Juliana Freire"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            "Information Systems and Applications"
+        ], 
+        "Subcategories": [
+            "World Wide Web", 
+            "Web Crawling"
+        ], 
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+            "Georgetown University"
+        ], 
+        "Title": "Multimedia Metadata-based Forensics in Human Trafficking Web Data", 
+        "Authors": [
+            "Chris A. Mattmann",
+            "Grace Hui Yang", 
+            "Harshavardhan Manjunatha", 
+            "Thamme Gowda N",
+            "Andrew Jie Zhou",
+            "Jiyun Luo",
+            "Lewis John McGibbney"
+        ], 
+        "Link": "http://media1.sexi2016.org/2016/02/sexi16proceedings.pdf", 
+        "Categories": [
+            "Information Systems and Applications"
+        ], 
+        "Subcategories": [
+            "Information retrieval", 
+            "Content analysis and feature selection",
+            "Similarity measures",
+            "Information extraction"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20160316", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Clustering Web Pages Based on Structure and Style Similarity", 
+        "Authors": [
+            "Chris A. Mattmann",
+            "Thamme Gowda N"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            "Information Systems and Applications"
+        ], 
+        "Subcategories": [
+            "Similarity measures"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20160316", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "A New Application of the Cosine Similarity Metric for Scalable Domain Discovery", 
+        "Authors": [
+             "Chris A. Mattmann",
+             "Lewis John McGibbney",
+             "Kim Whitehall",
+             "Sujen Shah"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval", 
+            "Content analysis and feature selection",
+            "Similarity measures",
+            "Information extraction"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20160316", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Measurement Context Extraction from Text: Discovering Opportunities and Gaps in Earth Science", 
+        "Authors": [
+	     "Kyle Hundman",
+             "Chris A. Mattmann"
+        ], 
+        "Link": "https://arxiv.org/pdf/1710.04312.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval", 
+            "Content analysis and feature selection",
+            "Information extraction"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Ensemble Maximum Entropy Classification and Linear Regression for Author Age Prediction", 
+        "Authors": [
+	     "Joey Hong",
+             "Chris A. Mattmann",
+	     "Paul Ramirez"
+        ], 
+        "Link": "https://arxiv.org/pdf/1610.00852.pdf", 
+        "Categories": [
+            "Learning"
+        ], 
+        "Subcategories": [
+            "Regression", 
+            "Natural language processing"
+        ],  
+        "ACM 1998 classification code": [
+            "I.2.6"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "An Approach for Automatic and Large Scale Image Forensics", 
+        "Authors": [
+	     "Thamme Gowda",
+	     "Kyle Hundman",
+             "Chris A. Mattmann"
+        ], 
+        "Link": "https://memex.jpl.nasa.gov/MFSEC17.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Image search",
+            "Computer forensics"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Scalable Hadoop-Based Pooled Time Series of Big Video Data from the Deep Web", 
+        "Authors": [
+             "Chris A. Mattmann",
+	     "Madhav Sharan"
+        ], 
+        "Link": "https://dl.acm.org/citation.cfm?id=3079019", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Improving accuracy of Tesseract in extraction of serial numbers from images of Counterfeit Electronics", 
+        "Authors": [
+	     "Zarana Parekh",
+             "Chris A. Mattmann",
+	     "Karanjeet Singh"
+        ], 
+        "Link": "https://memex.jpl.nasa.gov/GHCI16.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Image search"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Tattoo Detection and Localization using Region-based Deep Learning", 
+        "Authors": [
+	     "Zhaohui H. Sun",
+             "Jeff Baumes",
+	     "Paul Tunison",
+	     "Matt Turek",
+	     "Anthony Hoogs"
+        ], 
+        "Link": "http://vision.unipv.it/CV/materiale2016-17/5th%20%20Choice/0279.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Image search"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "An Automatic Approach for Discovering and Geocoding Locations in Domain-Specific Web Data", 
+        "Authors": [
+	     "Chris A. Mattmann",
+             "Madhav Sharan"
+        ], 
+        "Link": "https://memex.jpl.nasa.gov/IRI16-Gazetteer.pdf", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Data mining"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "Creating a Mars Target Encyclopedia by Extracting Information from the Planetary Science Literature", 
+        "Authors": [
+	     "Kiri L. Wagstaff",
+	     "Ellen Riloff",
+	     "Nina L. Lanza",
+	     "Chris A. Mattmann",
+	     "Paul M. Ramirez"
+        ], 
+        "Link": "http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/download/12608/12420", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval",
+	    "Data mining"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Title": "TREC Dynamic Domain: Polar Science", 
+        "Authors": [
+	     "Annie B. Burgess",
+	     "Chris A. Mattmann",
+	     "Giuseppe Totaro",
+	     "Lewis J. McGibbney",
+	     "Paul M. Ramirez"
+        ], 
+        "Link": "http://www.dtic.mil/docs/citations/AD1004770", 
+        "Categories": [
+            "Information Systems"
+        ], 
+        "Subcategories": [
+            "Information retrieval"
+	    "Web Crawling",
+	    "Information extraction"
+        ],  
+        "ACM 1998 classification code": [
+            "H.3.3"
+        ], 
+        "New Date": "20171109", 
+        "Update Date": ""
+    }
+]

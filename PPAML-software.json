@@ -46,7 +46,7 @@
         "Categories": [
             "Machine Learning"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -97,7 +97,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -148,7 +148,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -199,7 +199,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -250,7 +250,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -301,7 +301,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -352,64 +352,13 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "Charles River Analytics"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "PRM++ ", 
-        "Internal Link": "", 
-        "External Link": "", 
-        "Public Code Repo": "Not Ready for Release", 
-        "Instructional Material": "", 
-        "Description": "PRM PPS", 
-        "License": [
-            "BSDv3"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Probabilistic Programming", 
-            "Inference Engine"
-        ], 
-        "New Date": "2014-06-20", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
-            "Galois"
+            "Galois, Inc."
         ], 
         "Contributors": [
             ""
@@ -453,13 +402,13 @@
         "Categories": [
             "Domain Experts"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "Galois"
+            "Galois, Inc."
         ], 
         "Contributors": [
             ""
@@ -503,13 +452,13 @@
         "Categories": [
             "Domain Experts"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "Galois"
+            "Galois, Inc."
         ], 
         "Contributors": [
             ""
@@ -553,7 +502,7 @@
         "Categories": [
             "Domain Experts"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -604,7 +553,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -655,58 +604,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
-            "Gamelan"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "Demos of Chimple", 
-        "Internal Link": "", 
-        "External Link": "https://github.com/AnalogDevicesLyricLabs/chimple/tree/master/demo", 
-        "Public Code Repo": "", 
-        "Instructional Material": "", 
-        "Description": "Chimple Demos.", 
-        "License": [
-            "ALv2"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Probabilistic Programming", 
-            "Inference Engine"
-        ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -757,7 +655,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -808,7 +706,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -859,7 +757,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -910,7 +808,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -961,58 +859,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
-            "Gamelan"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "User Manual for Chimple", 
-        "Internal Link": "", 
-        "External Link": "https://github.com/AnalogDevicesLyricLabs/chimple/tree/master/doc", 
-        "Public Code Repo": "", 
-        "Instructional Material": "", 
-        "Description": "Chimple user documentation.", 
-        "License": [
-            "ALv2"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Probabilistic Programming", 
-            "Inference Engine"
-        ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1063,7 +910,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1114,7 +961,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1165,7 +1012,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1216,7 +1063,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1267,7 +1114,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1318,7 +1165,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1369,7 +1216,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1420,7 +1267,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1471,7 +1318,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1522,7 +1369,7 @@
             "Probabilistic Programming", 
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1536,112 +1383,12 @@
         "Sub-contractors": [
             ""
         ], 
-        "Software": "aic-expresso", 
-        "Internal Link": "", 
-        "External Link": "https://code.google.com/p/aic-expresso/", 
-        "Public Code Repo": "https://code.google.com/p/aic-expresso/source/checkout", 
-        "Instructional Material": "", 
-        "Description": "Symbolic evaluation library.", 
-        "License": [
-            "BSDv3"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Machine Learning"
-        ], 
-        "New Date": "2014-06-20", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
-            "SRI"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "aic-util", 
-        "Internal Link": "", 
-        "External Link": "https://code.google.com/p/aic-util/", 
-        "Public Code Repo": "https://code.google.com/p/aic-util/source/checkout", 
-        "Instructional Material": "", 
-        "Description": "Miscellaneous Java library.", 
-        "License": [
-            "BSDv3"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Machine Learning"
-        ], 
-        "New Date": "2014-06-20", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
-            "SRI"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "aic-praise", 
+        "Software": "Lifted Inference Library", 
         "Internal Link": "", 
         "External Link": "https://code.google.com/p/aic-praise/", 
         "Public Code Repo": "https://code.google.com/p/aic-praise/source/checkout", 
         "Instructional Material": "", 
-        "Description": "Probabilistic Reasoning as Symbolic Evaluation.", 
+        "Description": "A Probabilistic Reasoning As Symbolic Evaluation (PRAiSE) library that provides capabilities in lifted first-order probabilistic belief propagation and support for defining first-order probabilistic models.", 
         "License": [
             "BSDv3"
         ], 
@@ -1672,7 +1419,7 @@
         "Categories": [
             "Machine Learning"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1722,7 +1469,7 @@
         "Categories": [
             "Machine Learning"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1772,57 +1519,7 @@
         "Categories": [
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
-        "Update Date": ""
-    }, 
-    {
-        "DARPA Program": "PPAML", 
-        "Program Teams": [
-            "Stanford University"
-        ], 
-        "Contributors": [
-            ""
-        ], 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Software": "Forest", 
-        "Internal Link": "", 
-        "External Link": "http://forestdb.org/", 
-        "Public Code Repo": "", 
-        "Instructional Material": "", 
-        "Description": "Collaborative repository for generative models.", 
-        "License": [
-            "TBD"
-        ], 
-        "Languages": [
-            ""
-        ], 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Dependent modules": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component modules": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Categories": [
-            "Inference Engine"
-        ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1872,7 +1569,7 @@
         "Categories": [
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1922,7 +1619,7 @@
         "Categories": [
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
@@ -1972,13 +1669,13 @@
         "Categories": [
             "Inference Engine"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }, 
     {
         "DARPA Program": "PPAML", 
         "Program Teams": [
-            "University of CA Riverside"
+            "University of California - Riverside"
         ], 
         "Contributors": [
             ""
@@ -1989,14 +1686,14 @@
         "Software": "CTBN-RLE", 
         "Internal Link": "", 
         "External Link": "http://mloss.org/software/", 
-        "Public Code Repo": "", 
+        "Public Code Repo": "http://rlair.cs.ucr.edu/ctbnrle/", 
         "Instructional Material": "", 
         "Description": "Continuous-time reasoning and learning library.", 
         "License": [
             "GPLv3"
         ], 
         "Languages": [
-            ""
+            "C++"
         ], 
         "Platform Requirements": [
             ""
@@ -2022,7 +1719,7 @@
         "Categories": [
             "Machine Learning"
         ], 
-        "New Date": "2014-06-20", 
+        "New Date": "20140818", 
         "Update Date": ""
     }
 ]

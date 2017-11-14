@@ -1,12 +1,12 @@
 {
+    "DARPA Office":"I2O",
     "DARPA Program Name":"DEFT",
     "Long Name":"Deep Exploration and Filtering of Text (DEFT)",
     "Program Teams":"",
-    "Link":"http://www.darpa.mil/Our_Work/I2O/Programs/Deep_Exploration_and_Filtering_of_Text_%28DEFT%29.aspx",
+    "Link":"http://www.darpa.mil/program/deep-exploration-and-filtering-of-text",
     "Display Software Columns":[
         "Team",
         "Project",
-		"",
         "Category",
         "Code",
         "Description",
@@ -15,11 +15,14 @@
     "Display Pubs Columns":[
         "Team",
         "Title",
-		"",
         "Link"
     ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
     "Description":"Automated, deep natural-language processing (NLP) technology may hold a solution for more efficiently processing text information and enabling understanding connections in text that might not be readily apparent to humans. DARPA created the Deep Exploration and Filtering of Text (DEFT) program to harness the power of NLP. Sophisticated artificial intelligence of this nature has the potential to enable defense analysts to efficiently investigate orders of magnitude more documents, which would enable discovery of implicitly expressed, actionable information within those documents.",
-    "Program Manager Link":"http://www.darpa.mil/Our_Work/I2O/Personnel/Dr_Boyan_Onyshkevych.aspx",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-boyan-onyshkevych",
     "Program Manager":"Mr. Boyan Onyshkevych",
     "Program Manager Email":"boyan.onyshkevych@darpa.mil",
     "Image":"DEFT-image.jpg"

@@ -48,7 +48,7 @@
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
-            "Galois"
+            "Galois, Inc."
         ],
         "Software":"SMACCMPilot",
         "Internal Link":"",
@@ -71,7 +71,7 @@
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
-            "Galois"
+            "Galois, Inc."
         ],
         "Software":"cbmc-reporter",
         "Internal Link":"",
@@ -94,7 +94,7 @@
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
-            "Galois"
+            "Galois, Inc."
         ],
         "Software":"Ivory",
         "Internal Link":"",
@@ -117,7 +117,7 @@
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
-            "Galois"
+            "Galois, Inc."
         ],
         "Software":"Tower",
         "Internal Link":"",
@@ -302,7 +302,7 @@
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
-            "The Charles Stark Draper Laboratory, Inc."
+            "Draper Laboratory"
         ],
         "Software":"Fracture Tool / LLVM decompiler",
         "Internal Link":"",
@@ -325,7 +325,7 @@
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
-            "The Charles Stark Draper Laboratory, Inc."
+            "Draper Laboratory"
         ],
         "Software":"CSPM parser/type-checker/evaluator included in FDR3",
         "Internal Link":"",
@@ -394,7 +394,7 @@
     {
         "DARPA Program":"HACMS",
         "Program Teams":[
-            "Kestrel"
+            "Kestrel Institute"
         ],
         "Software":"Specware System",
         "Internal Link":"",

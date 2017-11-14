@@ -1,0 +1,115 @@
+[
+    {
+        "DARPA Program": "Biochronicity", 
+        "Program Teams": [
+            "University of Chicago", 
+            "Northwestern University"
+        ], 
+        "Title": "Improved Statistical Methods Enable Greater Sensitivity in Rhythm Detection for Genome-Wide Data", 
+        "Authors": [
+            "Alan L. Hutchison", 
+            "Mark Maienschein-Cline", 
+            "Andrew H. Chiang", 
+            "S. M. Ali Tabei", 
+            "Herman Gudjonson", 
+            "Neil Bahroos", 
+            "Ravi Allada", 
+            "Aaron R. Dinner"
+        ], 
+        "Link": "http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1004094&representation=PDF", 
+        "Categories": [
+            "Probability and Statistics"
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            "J.2", 
+            "J.3"
+        ], 
+        "New Date": "20150406", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "Biochronicity", 
+        "Program Teams": [
+            "NorthWestern subcontractor from University of Michigan"
+        ], 
+        "Title": "Functional Organization of the Human 4D Nucleome", 
+        "Authors": [
+            "Haiming Chen", 
+            "Jie Chen", 
+            "Lindsey A. Muir", 
+            "Scott Ronquist", 
+            "Walter Meixner", 
+            "Mats Ljungman", 
+            "Thomas Ried", 
+            "Stephen Smale", 
+            "Indika Rajapakse"
+        ], 
+        "Link": "http://www.pnas.org/content/112/26/8002.full", 
+        "Categories": [
+            "Software Architectures", 
+            "Methodology and Techniques"
+        ], 
+        "Subcategories": [
+            "Data abstraction", 
+            "Graphics data structures and data types", 
+            "Ergonomics"
+        ], 
+        "ACM 1998 classification code": [
+            "D.2.11", 
+            "I.3.6"
+        ], 
+        "New Date": "20151001", 
+        "Update Date": ""
+    },
+	{
+        "DARPA Program": "Biochronicity", 
+        "Program Teams": [
+            "Duke University"
+        ], 
+        "Title": "On the Efficacy of State Space Reconstruction Methods in Determining Causality", 
+        "Authors": [
+            "Bree Cummins", 
+            "Tomas Gedeon", 
+            "Kelly Spendlove"
+        ], 
+        "Link": "http://epubs.siam.org/doi/abs/10.1137/130946344", 
+        "Categories": [
+            "Learning"
+        ], 
+        "Subcategories": [
+            "Time series analysis"
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20150429", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "Biochronicity", 
+        "Program Teams": [
+            "Duke University"
+        ], 
+        "Title": "Predicting High-Codimension Critical Transitions in Dynamical Systems Using Active Learning", 
+        "Authors": [
+            "Kelly Spendlove", 
+            "Jesse Berwald", 
+            "Tomas Gedeon"
+        ], 
+        "Link": "http://www.math.montana.edu/~gedeon/clanky/ativelearningCriticalTran.pdf", 
+        "Categories": [
+            "Learning"
+        ], 
+        "Subcategories": [
+            "Prediction of crictical transitions"
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20150429", 
+        "Update Date": ""
+    }
+]

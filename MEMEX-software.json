@@ -1,0 +1,2885 @@
+[
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "InferLink"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Landmark Extractor", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/inferlink/extraction", 
+        "Public Code Repo": "https://github.com/inferlink/extraction.git", 
+        "Instructional Material": "https://github.com/inferlink/extraction", 
+        "Stats": "extraction", 
+        "Description": "Library to extract semi-structured data from similar web pages based on rules. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Text Extraction"
+        ], 
+        "New Date": "20150729", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "TAD (Temporal Anomaly Detector)", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/Carnegie+Mellon+University", 
+        "External Link": "https://github.com/autonlab/tad", 
+        "Public Code Repo": "https://github.com/autonlab/tad.git", 
+        "Instructional Material": "https://github.com/autonlab/tad", 
+        "Stats": "TAD", 
+        "Description": "Temporal scan anomaly detection algorithm for time series. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Anomaly detection"
+        ], 
+        "Categories": [
+            "Time series statistics"
+        ], 
+        "New Date": "20150729", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "MIT-LL"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Text.jl", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/mit-nlp/Text.jl", 
+        "Public Code Repo": "https://github.com/mit-nlp/Text.jl.git", 
+        "Instructional Material": "", 
+        "Stats": "Text.jl", 
+        "Description": "Text.jl provided numerous tools for text processing optimized for the Julia language. Functionality supported include algorithms for feature extraction, text classification, and language identification. (Julia)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Julia"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            "MLBase"
+        ], 
+        "Dependent module URLs": [
+            "Dependent Modules can all be downloaded from the Julia Central Repository"
+        ], 
+        "Component modules": [
+            "(Devectorize, DataStructures, GZip, Iterators) Stage, Ollam"
+        ], 
+        "Component module URLs": [
+            "Component modules listed in parentheses are available via the Julia Central Repository. Stage and Ollam are available for manual install via https://github.com/saltpork/Stage.jl and https://github.com/mit-nlp/Ollam.jl"
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Text Processing",
+			"Metadata Extraction",
+			"Machine Learning"
+        ], 
+        "Categories": [
+            "Natural Language Processing"
+        ], 
+        "New Date": "20150414", 
+        "Update Date": ""
+    },
+    {
+      "DARPA Program": "MEMEX", 
+      "Program Teams": [
+          "SRI International"
+      ], 
+      "Contributors": [
+          ""
+      ], 
+      "Sub-contractors": [
+          ""
+      ], 
+      "Software": "Hidden Service Forum Spider", 
+      "Internal Link": "", 
+      "External Link": "http://public.mtc.sri.com/MEMEX/", 
+      "Public Code Repo": "http://public.mtc.sri.com/MEMEX/forumSpider.tar.gz", 
+      "Instructional Material": "", 
+      "Stats": "", 
+      "Description": "An interactive web forum analysis tool that operates over Tor hidden services.  This tool is capable of passive forum data capture and posting dialog at random or user-specifiable intervals. (Python)", 
+      "Internal Code Repo": "", 
+      "License": [
+          "SRI open source license"
+      ], 
+      "Languages": [
+          "Python"
+      ], 
+      "Platform Requirements": [
+          "Linux"
+      ], 
+      "Dependent modules": [
+          "scrapy",
+		  "torsocks"
+      ], 
+      "Dependent module URLs": [
+          "http://www.scrapy.org",
+		  "https://github.com/dgoulet/torsocks/"
+      ], 
+      "Component modules": [
+          ""
+      ], 
+      "Component module URLs": [
+          ""
+      ], 
+      "Industry": [
+          ""
+      ], 
+      "Functionality": [
+          "Anonymity",
+		  "privacy",
+		  "censorship circumvention"
+      ], 
+      "Categories": [
+          "Infrastructure"
+      ], 
+      "New Date": "20150414", 
+      "Update Date": "20150414"
+  },
+  {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "SRI International"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "HSProbe (The Tor Hidden Service Prober)", 
+        "Internal Link": "", 
+        "External Link": "http://public.mtc.sri.com/MEMEX/", 
+        "Public Code Repo": "http://public.mtc.sri.com/MEMEX/hsprobe-2.1.tar.gz", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "HSProbe is a python multi-threaded STEM-based application designed to interrogate the status of Tor hidden services (HSs) and extracting hidden service content. It is an HS-protocol savvy crawler, that uses protocol error codes to decide what to do when a hidden service is not reached.  HSProbe tests whether specified Tor hidden services (.onion addresses) are listening on one of a range of pre-specified ports, and optionally, whether they are speaking over other specified protocols.  As of this version, support for HTTP and HTTPS is implemented. Hsprobe takes as input a list of hidden services to be probed and generates as output a similar list of the results of each hidden service probed. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "SRI open source license"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux"
+        ], 
+        "Dependent modules": [
+            "socksipy",
+			"torstem"
+        ], 
+        "Dependent module URLs": [
+            "http://code.google.com/p/socksipy-branch/",
+			"https://stem.torproject.org/"
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Anonymity",
+			"privacy",
+			"censorship circumvention"
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20150414", 
+        "Update Date": "20150414"
+    },
+    {
+      "DARPA Program": "MEMEX",
+      "Program Teams": [
+          "The Tor Project",
+		  "SRI International"
+      ],
+      "Contributors": [
+          ""
+      ],
+      "Sub-contractors": [
+          ""
+      ],
+      "Software": "Tor",
+      "Internal Link": "",
+      "External Link": "https://www.torproject.org/",
+      "Public Code Repo": "https://gitweb.torproject.org/tor.git/",
+      "Instructional Material": "",
+      "Stats": "",
+      "Description": "The core software for using and participating in the Tor network. (C)",
+      "Internal Code Repo": "",
+      "License": [
+          "BSDv3"
+      ],
+      "Languages": [
+          "C"
+      ],
+      "Platform Requirements": [
+          ""
+      ],
+      "Dependent modules": [
+          ""
+      ],
+      "Dependent module URLs": [
+          ""
+      ],
+      "Component modules": [
+          ""
+      ],
+      "Component module URLs": [
+          ""
+      ],
+      "Industry": [
+          ""
+      ],
+      "Functionality": [
+        "Anonymity",
+		"privacy",
+		"censorship circumvention"
+      ],
+      "Categories": [
+          "Infrastructure"
+      ],
+      "New Date": "20150413",
+      "Update Date": "20150413"
+  },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Diffeo, Inc."
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Dossier Stack", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/Dossier+Stack", 
+        "External Link": "http://dossier-stack.readthedocs.org", 
+        "Public Code Repo": "https://github.com/dossier", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Dossier Stack provides a framework of library components for building active search applications that learn what users want by capturing their actions as truth data. The frameworks web services and javascript client libraries enable  applications to efficiently capture user actions such as organizing content into folders, and allows back end algorithms to train classifiers and ranking algorithms to recommend content based on those user actions. (Python, JavaScript, Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "Python", 
+            "JavaScript", 
+            "Java"
+        ], 
+        "Platform Requirements": [
+            "Available as a docker container or can install on python 2.7 via pip"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "active search and recommendations framework",
+			"machine learning tools for active ranking"
+        ], 
+        "Categories": [
+            "Machine Learning"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "TJBatchExtractor", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/Carnegie+Mellon+University", 
+        "External Link": "https://github.com/mille856/CMU_memex_kickoff", 
+        "Public Code Repo": "https://github.com/mille856/CMU_memex.git", 
+        "Instructional Material": "", 
+        "Stats": "CMU_memex_kickoff", 
+        "Description": "Regex based information extractor for online advertisements (Java).", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Escort"
+        ], 
+        "Functionality": [
+            "Information extraction"
+        ], 
+        "Categories": [
+            "Natural Language Processing"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Dumpling", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/Georgetown+University", 
+        "External Link": "http://www.dumplingproject.org", 
+        "Public Code Repo": "https://github.com/jiezhou0731/Dumpling.git", 
+        "Instructional Material": "", 
+        "Stats": "Dumpling", 
+        "Description": "Dumpling implements a novel dynamic search engine which refines search results on the fly. Dumpling utilizes the Winwin algorithm and the Query Change retrieval Model (QCM) to infer the user's state and tailor search results accordingly. Dumpling provides a friendly user interface for user to compare the static results and dynamic results. (Java, JavaScript, HTML, CSS)", 
+        "Internal Code Repo": "https://github.com/jiezhou0731/Dumpling", 
+        "License": [
+            "Public Domain"
+        ], 
+        "Languages": [
+            "Java", 
+            "JavaScript", 
+            "HTML", 
+            "CSS"
+        ], 
+        "Platform Requirements": [
+            "Ubuntu"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Dynamic Information Retrieval", 
+            "Information Retrieval Modeling", 
+            "Session Search", 
+            "Search Engine"
+        ], 
+        "Categories": [
+            "Information Retrieval", 
+            "Search Algorithms", 
+            "Machine Learning"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "TREC-DD Annotation", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/Georgetown+University", 
+        "External Link": "https://github.com/shawn67/TREC-DD-Annotation-Tool", 
+        "Public Code Repo": "https://github.com/shawn67/TREC-DD-Annotation-Tool.git", 
+        "Instructional Material": "", 
+        "Stats": "TREC-DD-Annotation-Tool", 
+        "Description": "This Annotation Tool supports the annotation task in creating ground truth data for TREC Dynamic Domain Track. It adopts drag and drop approach for assessor to annotate passage-level relevance judgement. It also supports multiple ways of browsing and search in various domains of corpora used in TREC DD. (Python, JavaScript, HTML, CSS)", 
+        "Internal Code Repo": "https://github.com/shawn67/TREC-DD-Annotation-Tool", 
+        "License": [
+            "Public Domain"
+        ], 
+        "Languages": [
+            "Python",
+			"HTML",
+			"CSS",
+			"JavaScript"
+        ], 
+        "Platform Requirements": [
+            "Chrome 4.0+",
+			"Firefox 3.5+",
+			"IE 9+",
+			"Safari 6.0+"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "TREC", 
+            "Dynamic Domain", 
+            "Human annotation", 
+            "Evaluation", 
+            "Search Result Evaluation"
+        ], 
+        "Categories": [
+            "Search Result Evaluation"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Georgetown University"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "CubeTest", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/Georgetown+University", 
+        "External Link": "https://github.com/trec-dd/trec-dd-metrics/tree/master/cube-test/cubetest", 
+        "Public Code Repo": "https://github.com/trec-dd/trec-dd-metrics.git", 
+        "Instructional Material": "", 
+        "Stats": "cubetest", 
+        "Description": "Official evaluation metric used for evaluation for TREC Dynamic Domain Track. It is a multiple-dimensional metric that measures the effectiveness of complete a complex and task-based search process. (Perl)", 
+        "Internal Code Repo": "https://github.com/trec-dd/trec-dd-metrics/tree/master/cube-test/cubetest", 
+        "License": [
+            "Public Domain"
+        ], 
+        "Languages": [
+            "Perl"
+        ], 
+        "Platform Requirements": [
+            "Unix"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "TREC Dynamic Domain", 
+            "Evaluation", 
+            "System Evaluation", 
+            "Retrieval Algorithm Evaluation"
+        ], 
+        "Categories": [
+            "Search Result Evaluation"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Autologin", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/TeamHG-Memex/autologin", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "autologin", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) AutoLogin is a utility that allows a web crawler to start from any given page of a website (for example the home page) and attempt to find the login page, where the spider can then log in with a set of valid, user-provided credentials to conduct a deep crawl of a site to which the user already has legitimate access. AutoLogin can be used as a library or as a service. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling", 
+            "Login", 
+            "Autologin"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Formasaurus", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/TeamHG-Memex/Formasaurus", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "Formasaurus", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) Formasaurus is a Python package that tells users the type of an HTML form: is it a login, search, registration, password recovery, join mailing list, contact form or something else. Under the hood it uses machine learning. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling", 
+            "Form Identification"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "HG Profiler", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/TeamHG-Memex/hgprofiler", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "hgprofiler", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) HG Profiler is a tool that allows users to take a list of entities from a particular source and look for those same entities across a pre-defined list of other sources. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling", 
+            "Personas", 
+            "Entity Research"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "SourcePin", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/TeamHG-Memex/memex-pinterest", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "memex-pinterest", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) SourcePin is a tool to assist users in discovering websites that contain content they are interested in for a particular topic, or domain. Unlike a search engine, SourcePin allows a non-technical user to leverage the power of an advanced automated smart web crawling system to generate significantly more results than the manual process typically does, in significantly less time. The User Interface of SourcePin allows users to quickly across through hundreds or thousands of representative images to quickly find the websites they are most interested in. SourcePin also has a scoring system which takes feedback from the user on which websites are interesting and, using machine learning, assigns a score to the other crawl results based on how interesting they are likely to be for the user.  The roadmap for SourcePin includes integration with other tools and a capability for users to actually extract relevant information from the crawl results. (Python, JavaScript)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python", 
+            "JavaScript"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling", 
+            "Information Retrieval", 
+            "Search", 
+            "Machine Learning"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            "Diffeo"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Frontera", 
+        "Internal Link": "", 
+        "External Link": "http://frontera.readthedocs.org/en/latest/", 
+        "Public Code Repo": "https://github.com/scrapinghub/frontera.git", 
+        "Instructional Material": "", 
+        "Stats": "frontera", 
+        "Description": "Frontera (formerly Crawl Frontier) is used as part of a web crawler, it can store URLs and prioritize what to visit next. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling",
+            "Machine Learning"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Distributed Frontera", 
+        "Internal Link": "", 
+        "External Link": "http://distributed-frontera.readthedocs.org/en/latest/", 
+        "Public Code Repo": "https://github.com/scrapinghub/distributed-frontera.git", 
+        "Instructional Material": "", 
+        "Stats": "distributed-frontera", 
+        "Description": "Distributed Frontera is an extension to Frontera (https://github.com/scrapinghub/frontera), providing replication, sharding, and isolation of all parts of Frontera-based crawler to scale and distribute it. Frontera (also in the DARPA Open Catalog) is a crawl frontier framework, the part of a crawling system that decides the logic and policies to follow when a crawler is visiting websites (what pages should be crawled next, priorities and ordering, how often pages are revisited, etc.). (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling", 
+            "Distribruted",
+            "Broad Crawl"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150807", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Arachnado", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/TeamHG-Memex/arachnado", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "arachnado", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) Arachnado is a simple management interface for launching a deep crawl of a specific website. It provides a Tornado-based HTTP API and a web UI for a Scrapy-based crawler. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling", 
+            "Deep Crawl"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150807", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Splash", 
+        "Internal Link": "", 
+        "External Link": "http://splash.readthedocs.org/en/latest/", 
+        "Public Code Repo": "https://github.com/scrapinghub/splash.git", 
+        "Instructional Material": "", 
+        "Stats": "Splash", 
+        "Description": "Lightweight, scriptable browser as a service with an HTTP API. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    },
+    
+     {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Hyperion Gray, LLC", 
+            "Scrapinghub"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Scrapy-Dockerhub", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/TeamHG-Memex/scrapy-dockerhub", 
+        "Public Code Repo": "", 
+        "Instructional Material": "", 
+        "Stats": "scrapy-dockerhub", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) Scrapy-Dockerhub is a deployment setup for Scrapy spiders that packages the spider and all dependencies into a Docker container, which is then managed by a Fabric command line utility. With this setup, users can run spiders seamlessly on any server, without the need for Scrapyd which typically handles the spider management. With Scrapy-Dockerhub, users issue one command to deploy spider with all dependencies to the server and second command to run it. There are also commands for viewing jobs, logs, etc. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "Linux 64bit"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Web Crawling"
+        ], 
+        "Categories": [
+            "Data Collection"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "University of Southern California Information Sciences Institute"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Next Century Corporation", 
+            "Columbia University", 
+            "NASA JPL", 
+            "Inferlink"
+        ], 
+        "Software": "Karma", 
+        "Internal Link": "https://memexproxy.com/wiki/pages/viewpage.action?pageId=1902213", 
+        "External Link": "http://www.isi.edu/integration/karma/", 
+        "Public Code Repo": "https://github.com/usc-isi-i2/Web-Karma.git", 
+        "Instructional Material": "", 
+        "Stats": "Web-Karma", 
+        "Description": "Karma is an information integration tool that enables users to quickly and easily integrate data from a variety of data sources including databases, spreadsheets, delimited text files, XML, JSON, KML and Web APIs. Users integrate information by modelling it according to an ontology of their choice using a graphical user interface that automates much of the process. (Java, JavaScript)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Java", 
+            "JavaScript"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Information Integration"
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "University of Southern California Information Sciences Institute", 
+            "Next Century Corporation"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Next Century Corporation", 
+            "Columbia University", 
+            "NASA JPL", 
+            "Inferlink"
+        ], 
+        "Software": "DIG", 
+        "Internal Link": "https://memexproxy.com/wiki/pages/viewpage.action?pageId=1902213", 
+        "External Link": "https://github.com/NextCenturyCorporation/dig", 
+        "Public Code Repo": "https://github.com/NextCenturyCorporation/dig.git", 
+        "Instructional Material": "", 
+        "Stats": "dig", 
+        "Description": "DIG is a visual analysis tool based on a faceted search engine that enables rapid, interactive exploration of large data sets.  Users refine their  queries by entering search terms or selecting values from lists of aggregated attributes.  DIG can be quickly configured for a new domain through simple configuration.  (JavaScript)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "JavaScript"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Faceted Search", 
+            "Web Applications", 
+            "HTML5"
+        ], 
+        "Categories": [
+            "Visualization"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "IST Research",
+            "Parse.ly"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "streamparse", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/Parsely/streamparse", 
+        "Public Code Repo": "https://github.com/Parsely/streamparse.git", 
+        "Instructional Material": "", 
+        "Stats": "streamparse", 
+        "Description": "streamparse runs Python code against real-time streams of data. It allows users to spin up small clusters of stream processing machines locally during development. It also allows remote management of stream processing clusters that are running Apache Storm. It includes a Python module implementing the Storm multi-lang protocol; a command-line tool for managing local development, projects, and clusters; and an API for writing data processing topologies easily. (Python, Clojure)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python",
+            "Clojure"
+        ], 
+        "Platform Requirements": [
+            "UNIX-like System (Mac OS X, Linux)"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Distributed Workflows",
+            "Stream Processing",
+            "Storm + Python Language Support"
+        ], 
+        "Categories": [
+            "Analytics",
+            "Distributed Programming",
+            "Infrastructure",
+            "Systems Integration"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "IST Research",
+            "Parse.ly"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "pykafka", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/Parsely/pykafka", 
+        "Public Code Repo": "https://github.com/Parsely/pykafka.git", 
+        "Instructional Material": "", 
+        "Stats": "pykafka", 
+        "Description": "pykafka is a Python driver for the Apache Kafka messaging system. It enables Python programmers to publish data to Kafka topics and subscribe to existing Kafka topics. It includes a pure-Python implementation as well as an optional C driver for increased performance. It is the only Python driver to have feature parity with the official Scala driver, supporting both high-level and low-level APIs, including balanced consumer groups for high-scale uses. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "UNIX-like System (Mac OS X, Linux)"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Distributed Messaging",
+            "Kafka + Python Driver"
+        ], 
+        "Categories": [
+            "Analytics",
+            "Distributed Programming",
+            "Infrastructure",
+            "Systems Integration"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+            "Continuum", 
+            "Kitware"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Continuum", 
+            "Kitware"
+        ], 
+        "Software": "ImageSpace", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/memex-explorer/image_space", 
+        "Public Code Repo": "https://github.com/memex-explorer/image_space.git", 
+        "Instructional Material": "", 
+        "Stats": "image_space", 
+        "Description": "ImageSpace provides the ability to analyze and search through large numbers of images. These images may be text searched based on associated metadata and OCR text or a new image may be uploaded as a foundation for a search. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Image Processing", 
+            "Image Search"
+        ], 
+        "Categories": [
+            "Analysis", 
+            "Visualization"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+            "Continuum"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Continuum", 
+            "Kitware"
+        ], 
+        "Software": "FacetView", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/darth-pr/facetview", 
+        "Public Code Repo": "https://github.com/darth-pr/facetview.git", 
+        "Instructional Material": "", 
+        "Stats": "facetview-memex", 
+        "Description": "FacetView allows the investigation of large data sets based on the extraction and manipulation of relevant facets. These facets may be almost any consistent piece of information that can be extracted from the dataset: names, locations, prices, etc. (JavaScript)", 
+        "Internal Code Repo": "", 
+        "License": [
+            ""
+        ], 
+        "Languages": [
+            ""
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Analysis"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Continuum", 
+            "Kitware"
+        ], 
+        "Software": "ImageCat", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/chrismattmann/imagecat", 
+        "Public Code Repo": "https://github.com/chrismattmann/imagecat.git", 
+        "Instructional Material": "", 
+        "Stats": "imagecat", 
+        "Description": "ImageCat analyses images and extracts their EXIF metadata and any text contained in the image via OCR. It can handle millions of images. (Python, Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python",
+            "Java"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+            "Continuum"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Continuum", 
+            "Kitware"
+        ], 
+        "Software": "MemexGATE", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/memex-explorer/memex-gate", 
+        "Public Code Repo": "https://github.com/memex-explorer/memex-gate.git", 
+        "Instructional Material": "", 
+        "Stats": "memex-gate", 
+        "Description": "Server side framework, command line tool and environment for running large scale General Architecture Text Engineering tasks over document resources such as online ads, debarment information, federal and district court appeals, press releases, news articles, social media streams, etc. (Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            "JVM"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Text Analysis",
+            "Text Engineering",
+            "Indexing"
+        ], 
+        "New Date": "20150729", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+            "Kitware"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Continuum", 
+            "Kitware"
+        ], 
+        "Software": "SMQTK", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/kitware/smqtk", 
+        "Public Code Repo": "https://github.com/Kitware/SMQTK.git", 
+        "Instructional Material": "", 
+        "Stats": "smqtk", 
+        "Description": "Kitware's Social Multimedia Query Toolkit (SMQTK) is an open-source service for ingesting images and video from social media (e.g. YouTube, Twitter), computing content-based features, indexing the media based on the content descriptors, querying for similar content, and building user-defined searches via an interactive query refinement (IQR) process. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Analysis"
+        ], 
+        "New Date": "20150415", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX",
+        "Program Teams": [
+            "U.S. Naval Research Laboratory"
+        ],
+        "Contributors": [
+            ""
+        ],
+        "Sub-contractors": [
+            ""
+        ],
+        "Software": "The Tor Path Simulator (TorPS)",
+        "Internal Link": "",
+        "External Link": "https://torps.github.io/",
+        "Public Code Repo": "https://github.com/torps/torps.git", 
+        "Instructional Material": "",
+        "Stats": "torps",
+        "Description": "TorPS quickly simulates path selection in the Tor traffic-secure communications network. It is useful for experimental analysis of alternative route selection algorithms or changes to route selection parameters. (C++, Python, Bash)",
+        "Internal Code Repo": "",
+        "License": [
+            "BSD"
+        ],
+        "Languages": [
+            "Python",
+            "C++",
+            "Bash"
+        ],
+        "Platform Requirements": [
+            ""
+        ],
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Stem"
+        ],
+        "Component module URLs": [
+            "https://stem.torproject.org/"
+        ],
+        "Industry": [
+            "Computer Science Research"
+        ],
+        "Functionality": [
+            "Tor",
+            "Network Simulation"
+        ],
+        "Categories": [
+            "Experimentation Support",
+            "Security"
+        ],
+        "New Date": "20150413",
+        "Update Date": "20150413"
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "U.S. Naval Research Laboratory"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Shadow", 
+        "Internal Link": "", 
+        "External Link": "https://shadow.github.io/", 
+        "Public Code Repo": "https://github.com/shadow/shadow.git", 
+        "Instructional Material": "", 
+        "Stats": "shadow", 
+        "Description": "Shadow is an open-source network simulator/emulator hybrid that runs real applications like Tor and Bitcoin over a simulated Internet topology. It is light-weight, efficient, scalable, parallelized, controllable, deterministic, accurate, and modular. (C)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "C"
+        ], 
+        "Platform Requirements": [
+            "Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Computer Science Research"
+        ], 
+        "Functionality": [
+            "Network Simulation"
+        ], 
+        "Categories": [
+            "Experimentation Support", 
+            "Security"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "NYU"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Continuum Analytics"
+        ], 
+        "Software": "ACHE", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/ViDA-NYU/ache", 
+        "Public Code Repo": "https://github.com/ViDA-NYU/ache.git", 
+        "Instructional Material": "", 
+        "Stats": "ache", 
+        "Description": "ACHE is a focused crawler. Users can customize the crawler to search for different topics or objects on the Web. (Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "GPL"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            "Linux", 
+            "MacOS"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Crawler", 
+            "focused crawler", 
+            "vertical search"
+        ], 
+        "Categories": [
+            "Data Collection", 
+            "Information Retrieval"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "NYU"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Continuum Analytics"
+        ], 
+        "Software": "ACHE - DDT", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/ViDA-NYU/domain_discovery_tool.git", 
+        "Public Code Repo": "https://github.com/ViDA-NYU/domain_discovery_tool.git", 
+        "Instructional Material": "https://s3.amazonaws.com/vida-nyu/DDT/domain_discovery_tool.pdf", 
+        "Stats": "domain_discovery_tool", 
+        "Description": "DDT is an interactive system that helps users explore and better understand a domain (or topic) as it is represented on the Web. It achieves this by integrating human insights with machine computation (data mining and machine learning) through visualization. DDT allows a domain expert to visualize and analyze pages returned by a search engine or a crawler, and easily provide feedback about relevance. This feedback, in turn, can be used to address two challenges: (1) Guide users in the process of domain understanding and help them construct effective queries to be issued to a search engine; and (2) Configure focused crawlers that efficiently search the Web for additional pages on the topic. DDT allows users to quickly select crawling seeds as well as positive and negatives required to create a page classifier for the focus topic. (Python, Java, JavaScript)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python",
+            "Java",
+            "Java Script"
+        ], 
+        "Platform Requirements": [
+            "Linux", 
+            "MacOS"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "focused search",
+            "horizontal search",
+            "vertical search",
+            "meta search"
+        ], 
+        "Categories": [
+            "Data Collection", 
+            "Information Retrieval"
+        ], 
+        "New Date": "20150921", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory",
+            "NYU", 
+            "Continuum Analytics"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Continuum Analytics"
+        ], 
+        "Software": "Memex Explorer", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/ContinuumIO/memex-explorer", 
+        "Public Code Repo": "https://github.com/memex-explorer/memex-explorer.git", 
+        "Instructional Material": "", 
+        "Stats": "memex-explorer", 
+        "Description": "Memex Explorer is a pluggable framework for domain specific crawls, search, and unified interface for Memex Tools. It includes the capability to add links to other web-based apps (not just Memex) and the capability to start, stop, and analyze web crawls using 2 different crawlers - ACHE and Nutch. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "tool integration", 
+            "crawler", 
+            "analysis", 
+            "search"
+        ], 
+        "Categories": [
+            "Analytics", 
+            "Visualization", 
+            "research integration", 
+            "interface"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "NYU", 
+            "Continuum Analytics",
+            "Jet Propulsion Laboratory"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Topic Space", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/ContinuumIO/topic_space", 
+        "Public Code Repo": "https://github.com/memex-explorer/topic_space.git", 
+        "Instructional Material": "", 
+        "Stats": "topic_space", 
+        "Description": "Tool for visualization for topics in document collections. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ASL"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "topic model", 
+            "visualization"
+        ], 
+        "Categories": [
+            "Analytics", 
+            "Visualization"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Uncharted Software"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "TellFinder", 
+        "Internal Link": "https://tellfinder.istresearch.com:8443/tellfinder/", 
+        "External Link": "http://www.tellfinder.com/", 
+        "Public Code Repo": "https://github.com/unchartedsoftware/TellFinder.git", 
+        "Instructional Material": "", 
+        "Stats": "TellFinder", 
+        "Description": "TellFinder provides efficient visual analytics to automatically characterize and organize publicly available Internet data. Compared to standard web search engines, TellFinder enables users to research case-related data in significantly less time. Reviewing TellFinder's automatically characterized groups also allows users to understand temporal patterns, relationships and aggregate behavior. The techniques are applicable to various domains. (JavaScript, Java)", 
+        "Internal Code Repo": "https://github.com/unchartedsoftware/TellFinder/", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "JavaScript", 
+            "Java"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Visual Analytics", 
+            "Visualization", 
+            "Analytics", 
+            "Information Retrieval", 
+            "Human Trafficking", 
+            "Dynamic Web Applications", 
+            "HTML5"
+        ], 
+        "Categories": [
+            "Visualization", 
+            "Analytics", 
+            "Information Retrieval"
+        ], 
+        "New Date": "20150410", 
+        "Update Date": ""
+    },
+	    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "ArrayFire"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "ArrayFire", 
+        "Internal Link": "", 
+        "External Link": "http://arrayfire.com", 
+        "Public Code Repo": "https://github.com/arrayfire/arrayfire.git", 
+        "Instructional Material": "", 
+        "Stats": "arrayfire", 
+        "Description": "ArrayFire is a high performance software library for parallel computing with an easy-to-use API. Its array-based function set makes parallel programming simple. ArrayFire's multiple backends (CUDA, OpenCL, and native CPU) make it platform independent and highly portable. A few lines of code in ArrayFire can replace dozens of lines of parallel computing code, saving users valuable time and lowering development costs. (C, C++, Python, Fortran, Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSDv3"
+        ], 
+        "Languages": [
+            "C", 
+            "C++", 
+            "Python", 
+            "Fortran", 
+            "Java"
+        ], 
+        "Platform Requirements": [
+            "Linux", 
+            "Windows", 
+            "MacOSX"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "GPU and accelerated computing",
+			"parallel computing"
+        ], 
+        "Categories": [
+            "Analytics", 
+            "API", 
+            "Distributed Programming", 
+            "Image Processing", 
+            "Machine Learning", 
+            "Signal Processing", 
+            "Visualization"
+        ], 
+        "New Date": "20150413", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program":"MEMEX",
+        "Program Teams":[
+            "Stanford University"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"DeepDive",
+        "Internal Link":"",
+        "External Link":"http://deepdive.stanford.edu/",
+        "Public Code Repo":"https://github.com/HazyResearch/deepdive.git",
+        "Instructional Material":"",
+        "Stats":"deepdive",
+        "Description":"DeepDive is a new type of knowledge base construction system that enables developers to analyze data on a deeper level than ever before. Many applications have been built using DeepDive to extract data from millions of documents, Web pages, PDFs, tables, and figures. DeepDive is a trained system, which means that it uses machine-learning techniques to incorporate domain-specific knowledge and user feedback to improve the quality of its analysis. DeepDive can deal with noisy and imprecise data by producing calibrated probabilities for every assertion it makes. DeepDive offers a scalable, high-performance learning engine. (SQL, Python, C++)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "SQL",
+            "Python",
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"20150415",
+        "Update Date":"20150415"
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Plumber", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/qadium/plumber", 
+        "Public Code Repo": "https://github.com/qadium/plumber.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Plumber is designed to facilitate distributed data exploration. With the \"plumb\" command line tool, developers and data scientists can deploy and manage data enhancers on a Kubernetes cluster. Plumber provides a system to write python scripts to perform data enhancement e.g. perform a regex, make a call to a database, link data together, etc. and automatically distribute python scripts to optimize performance. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20150706", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "CommonCrawlJob", 
+        "Internal Link": "", 
+        "External Link": "https://pypi.python.org/pypi/CommonCrawlJob", 
+        "Public Code Repo": "https://github.com/qadium-memex/CommonCrawlJob", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Extract regular expressions from Common Crawl. This is a useful library for collecting unique identfifiers at Internet scale without any crawling and using only Python and AWS (Python, AWS)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python, AWS"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Analysis"
+        ], 
+        "New Date": "20150216", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Link", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/qadium/link-ht", 
+        "Public Code Repo": "https://github.com/qadium/link-ht.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "Link is a domain-specific, entity-centric search tool designed for analysts. Link is a front-end web app that sits on top of data enhanced by Plumber and provides a framework that must be tailored on a per domain basis. (javascript)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Javascript"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            ""
+        ], 
+        "Categories": [
+            "Visualization", 
+            "Analytics", 
+            "Information Retrieval"
+        ], 
+        "New Date": "20150706", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Omakase", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/qadium/omakase", 
+        "Public Code Repo": "https://github.com/qadium/omakase.git", 
+        "Instructional Material": "", 
+        "Stats": "omakase", 
+        "Description": "Omakase provides a simple and flexible interface to share data, computations, and visualizations between a variety of user roles in both local and cloud environments. (Python, Clojure)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "EPL"
+        ], 
+        "Languages": [
+            "Python", 
+            "Clojure"
+        ], 
+        "Platform Requirements": [
+            "OSX/Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Cloud Orchestration"
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20150413", 
+        "Update Date": ""
+    },
+        {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "credstmpl", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/qadium/credstmpl", 
+        "Public Code Repo": "https://github.com/qadium/credstmpl.git", 
+        "Instructional Material": "", 
+        "Stats": "credstmpl", 
+        "Description": "Command-line tool to instantiate templates from credentials stored in CredStash. credstmpl makes it easy to share secret credentials across a large team. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "OSX/Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Password Sharing"
+        ], 
+        "Categories": [
+            "Infrastructure"
+        ], 
+        "New Date": "20151013", 
+        "Update Date": ""
+    },
+          {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Qadium"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "linkalytics", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/qadium-memex/linkalytics", 
+        "Public Code Repo": "https://github.com/qadium-memex/linkalytics.git", 
+        "Instructional Material": "", 
+        "Stats": "linkalytics", 
+        "Description": "Linkalytics is a suite of back-end analytics to link together disparate data. Linkalytics is intended to be hosted as an API that users can use to enhance, group, and cluster data. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "OSX/Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Search and analytics"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20151013", 
+        "Update Date": ""
+    },  
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Sotera Defense Solutions"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "DataWake", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/Sotera/DatawakeDepot", 
+        "Public Code Repo": "https://github.com/Sotera/DatawakeDepot.git", 
+        "Instructional Material": "", 
+        "Stats": "Datawake", 
+        "Description": "The Datawake project aggregates user browsing data via a plug-in using domain-specific searches. This captured, or extracted, data is organized into browse paths and elements of interest. This information can be shared or expanded amongst teams of individuals. Elements of interest which are extracted either automatically, or manually by the user, are given weighted values. The exported data can be used to specify a new domain and seed crawlers.(Python, Java, Scala, Clojure, JavaScript)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "JavaScript"
+        ], 
+        "Platform Requirements": [
+            "Full requirements given on: http://sotera.github.io/DatawakeDepot/"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+        ], 
+        "Categories": [
+            "Analytics",
+			"Distributed Programming",
+			"Data Collection"
+        ], 
+        "New Date": "20150413", 
+        "Update Date": "20150803"
+    },
+    {
+        "DARPA Program":"MEMEX",
+        "Program Teams":[
+            "Uncharted Software"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Aperture Tile-Based Visual Analytics",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Aperture+-+Oculus+Home+Page",
+        "External Link":"http://www.oculusinfo.com/tiles",
+        "Public Code Repo":"https://github.com/oculusinfo/aperture-tiles.git",
+        "Stats":"aperture-tiles",
+        "Description":"New tools for raw data characterization of 'big data' are required to suggest initial hypotheses for testing. The widespread use and adoption of web-based maps has provided a familiar set of interactions for exploring abstract large data spaces. Building on these techniques, we developed tile based visual analytics that provide browser-based interactive visualization of billions of data points. (JavaScript/Java)",
+        "Internal Code Repo":"tools\\visualizations\\oculus\\aperture\\demos\\xdata\\SC2013",
+        "License":[
+            "MIT"
+        ],
+        "Languages":[
+            "JavaScript",
+            "Java"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Visualization"
+        ],
+        "New Date":"20150414",
+        "Update Date":""
+    },
+    
+    {
+        "DARPA Program":"MEMEX",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"MITIE",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
+        "External Link":"https://github.com/mit-nlp/MITIE",
+        "Public Code Repo":"https://github.com/mit-nlp/MITIE.git",
+        "Instructional Material":"",
+        "Stats":"MITIE",
+        "Description":"Trainable named entity extractor (NER) and relation extractor. (C)",
+        "Internal Code Repo":"tools\\analytics\\mit-LL\\",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "C"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"2015414",
+        "Update Date":""
+    },
+     {
+        "DARPA Program":"MEMEX",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Topic",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
+        "External Link":"https://github.com/mitll/topic-clustering",
+        "Public Code Repo":"https://github.com/mitll/topic-clustering.git",
+        "Instructional Material":"",
+        "Stats":"topic-clustering",
+        "Description":"This tool takes a set of text documents, filters by a given language, and then produces documents clustered by topic. The method used is Probabilistic Latent Semantic Analysis (PLSA). (Python)",
+        "Internal Code Repo":"tools\\analytics\\mit-LL",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"",
+        "Update Date":"20140809"
+    },
+	    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "IST Research"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            "Parsely, Inc."
+        ], 
+        "Software": "Scrapy Cluster", 
+        "Internal Link": "https://github.com/istresearch/memex/tree/master/scrapy/distributed_crawling", 
+        "External Link": "https://github.com/istresearch/scrapy-cluster", 
+        "Public Code Repo": "https://github.com/istresearch/scrapy-cluster.git", 
+        "Instructional Material": "", 
+        "Stats": "scrapy-cluster", 
+        "Description": "Scrapy Cluster is a scalable, distributed web crawling cluster based on Scrapy and coordinated via Kafka and Redis. It provides a framework for intelligent distributed throttling as well as the ability to conduct time-limited web crawls. (Python)", 
+        "Internal Code Repo": "https://github.com/istresearch/memex/tree/master/scrapy/distributed_crawling", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            "UNIX-like System (Mac OS X, Linux)"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Distributed Computing", 
+            "Web Crawling", 
+            "Data Scraping"
+        ], 
+        "Categories": [
+            "Information Collection", 
+            "Distributed Environments"
+        ], 
+        "New Date": "20150414", 
+        "Update Date": ""
+    },
+        {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Columbia Univeristy"
+        ], 
+        "Contributors": [
+            "Tao Chen",
+            "Svebor Karaman"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "ColumbiaImageSearch", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MPM/Columbia+Image+Similairty+Service+One+Pager", 
+        "External Link": "https://github.com/ColumbiaDVMM/ColumbiaImageSearch", 
+        "Public Code Repo": "https://github.com/ColumbiaDVMM/ColumbiaImageSearch.git", 
+        "Instructional Material": "", 
+        "Stats": "ColumbiaImageSearch", 
+        "Description": "ColumbiaImageSearch provides highly efficient solutions for finding images of similar content from large collections in real time. It combines a unique image representation, call DeepSentiBank, and novel hashing techniques to encode each image with a very compact hash code, which can reduce the computational and storage costs by orders of magnitude and allows searching over millions of images in real time. The search tool API is exposed as a php file, and input/output processing is performed inside a python script, while the actual image search is done in C++ for efficiency. (Python, C++, PHP, CSS, Javascript)", 
+        "Internal Code Repo": "https://github.com/ColumbiaDVMM/ColumbiaImageSearch.git", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python",
+			"C++",
+			"PHP",
+			"CSS",
+			"Javascript"
+        ], 
+        "Platform Requirements": [
+            "Linux"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Image search", 
+            "Classification"
+        ], 
+        "Categories": [
+            "Analytics",
+            "Classification",
+            "Hashing",
+            "Image search"
+        ], 
+        "New Date": "20151006", 
+        "Update Date": ""
+    },
+	{
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Contributors": [
+            "Suejn Shah",
+            "Giuseppe Totaro",
+            "Wayne Burke"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Sparkler Crawl Environment (SCE)", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/User+Guide", 
+        "External Link": "https://github.com/memex-explorer/sce", 
+        "Public Code Repo": "https://github.com/memex-explorer/sce.git", 
+        "Instructional Material": "https://github.com/memex-explorer/sce/wiki", 
+        "Stats": "SCE", 
+        "Description": "The Sparkler Crawl Environment (SCE) provides the tools to collect webpages from the Internet and make them available for Memex search tools. It includes the ability to: 1) build a domain discovery model which will guide the data collection, 2) crawl data from the Web, and 3) output it in a format that is usable by Memex search tools.", 
+        "Internal Code Repo": "https://github.com/memex-explorer/sce.git", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python",
+            "Scala",
+            "Java",
+            "Bash",
+            "HTML",
+            "CSS",
+            "Javascript"
+        ], 
+        "Platform Requirements": [
+            "Docker"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Deep Crawling",
+            "Classification",
+            "Searching"
+        ], 
+        "Categories": [
+            "Data Collection",
+            "Information Retrieval"
+        ], 
+        "New Date": "20171101", 
+        "Update Date": ""
+    },
+	{
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Contributors": [
+            "Madhav Sharan",
+            "Chris A. Mattmann"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "VideoSpace Server", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/User+Guide", 
+        "External Link": "https://github.com/memex-explorer/image_space/tree/master/videospace", 
+        "Public Code Repo": "https://github.com/memex-explorer/image_space/tree/master/videospace", 
+        "Instructional Material": "https://github.com/memex-explorer/image_space/tree/master/videospace", 
+        "Stats": "VideoSpace", 
+        "Description": "The Sparkler Crawl Environment (SCE) provides the tools to collect webpages from the Internet and make them available for Memex search tools. It includes the ability to: 1) build a domain discovery model which will guide the data collection, 2) crawl data from the Web, and 3) output it in a format that is usable by Memex search tools.", 
+        "Internal Code Repo": "https://github.com/memex-explorer/sce.git", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python",
+            "Javascript"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Searching"
+        ], 
+        "Categories": [
+            "Information Retrieval"
+        ], 
+        "New Date": "20171113", 
+        "Update Date": ""
+    }
+]

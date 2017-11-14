@@ -6,18 +6,19 @@
         ],
         "Title":"Trait-Based Hypothesis Selection For Machine Translation",
         "Authors":[
-            "Jacob Devlin and Spyros Matsoukas"
+            "Jacob Devlin",
+			"Spyros Matsoukas"
         ],
         "Link":"http://aclweb.org/anthology//N/N12/N12-1059.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "BBN",
             "Microsoft Research",
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Title":"Machine Translation of Arabic Dialects",
         "Authors":[
@@ -30,11 +31,11 @@
             "Richard Schwartz",
             "John Makhoul",
             "Omar F. Zaidan",
-            "and Chris Callison-Burch"
+            "Chris Callison-Burch"
         ],
         "Link":"http://aclweb.org/anthology//N/N12/N12-1006.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -46,11 +47,12 @@
             "Rabih Zbib",
             "Gretchen Markiewicz",
             "Spyros Matsoukas",
-            "Richard Schwartz and John Makhoul"
+            "Richard Schwartz",
+			"John Makhoul"
         ],
         "Link":"http://aclweb.org/anthology/N/N13/N13-1069.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -60,11 +62,12 @@
         "Title":"Factored Soft Source Syntactic Constraints for Hierarchical Machine Translation",
         "Authors":[
             "Zhongqiang Huang",
-            "Jacob Devlin and Rabih Zbib"
+            "Jacob Devlin",
+			"Rabih Zbib"
         ],
         "Link":"http://www.aclweb.org/anthology/D/D13/D13-1053.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -78,11 +81,11 @@
             "R. Kumar",
             "E. Kan",
             "R. Prasad",
-            "and P. Natarajan"
+            "P. Natarajan"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -94,11 +97,11 @@
             "W. Chen",
             "S. Ananthakrishnan",
             "R. Prasad",
-            "and P. Natarajan"
+            "P. Natarajan"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -111,11 +114,11 @@
             "M. Roy",
             "S. Ananthakrishnan",
             "S. Hewavitharana",
-            "and F. Choi"
+            "F. Choi"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -127,11 +130,11 @@
             "S. Hewavitharana",
             "D. Mehay",
             "S. Ananthakrishnan",
-            "and P. Natarajan"
+            "P. Natarajan"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -144,11 +147,11 @@
             "S. Ananthakrishnan",
             "R. Kumar",
             "R. Prasad",
-            "and P. Natarajan"
+            "P. Natarajan"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -160,11 +163,11 @@
             "S. Ananthakrishnan",
             "R. Prasad",
             "D. Stallard",
-            "and P. Natarajan"
+            "P. Natarajan"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -183,11 +186,11 @@
             "A. Challenner",
             "E. Kan",
             "A. Neelakantan",
-            "and P. Natarajan"
+            "P. Natarajan"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -215,40 +218,42 @@
             "A. N. Vembu",
             "S. Tsakalidis",
             "R. Prasad",
-            "and P. Natarajan"
+            "P. Natarajan"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "BBN"
         ],
-        "Title":"Speech paralinguistic event detection using probabilistic time-series smoothing and masking",
+        "Title":"Speech Paralinguistic Event Detection Using Probabilistic Time-Series Smoothing and Masking",
         "Authors":[
             "R. Gupta",
             "K. Audhkhasi",
-            "S. Lee and S. Narayanan"
+            "S. Lee",
+			"S. Narayanan"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "BBN"
         ],
-        "Title":"A study on the effect of prosodic emphasis on overall speech translation quality",
+        "Title":"A Study on the Effect of Prosodic Emphasis on Overall Speech Translation Quality",
         "Authors":[
             "A. Tsiartas",
-            "P. Georgiou and S. Narayanan"
+            "P. Georgiou",
+			"S. Narayanan"
         ],
         "Link":"Not Yet Published",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -267,7 +272,7 @@
             "J. Andreas",
             "D. Bauer",
             "K-M. Hermann",
-            "and K. Knight"
+            "K. Knight"
         ],
         "Link":"http://www.isi.edu/~chiang/papers/hrg-parsing.pdf",
         "New Date":"",
@@ -282,11 +287,12 @@
         "Title":"Dependency Parsing of Modern Standard Arabic with Lexical and Inflectional Features",
         "Authors":[
             "Yuval Marton",
-            "Nizar Habash and Owen Rambow"
+            "Nizar Habash",
+		    "Owen Rambow"
         ],
         "Link":"http://www.aclweb.org/anthology/J/J13/J13-1008.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -296,28 +302,30 @@
         "Title":"Automatic Extraction of Morphological Lexicons from Morphologically Annotated Corpora",
         "Authors":[
             "Ramy Eskander",
-            "Nizar Habash and Owen Rambow"
+            "Nizar Habash",
+			"Owen Rambow"
         ],
         "Link":"http://www.aclweb.org/anthology/D/D13/D13-1105.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Aix-Marseille University",
-            "Information Systems and Advanced Computing Laboratory",
+			"Multimedia, InfoRmation Systems and Advanced Computing Laboratory",
             "Columbia University"
         ],
         "Title":"The Effects of Factorizing Root and Pattern Mapping in Translating between Tunisian Arabic and Standard Arabic",
         "Authors":[
             "Ahmed Hamdi",
             "Rahma Boujelbane",
-            "Nizar Habash and Alexis Nasr"
+            "Nizar Habash",
+			"Alexis Nasr"
         ],
         "Link":"http://www.mtsummit2013.info/files/proceedings/main/mt-summit-2013-hamdi-et-al.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -329,11 +337,12 @@
             "Nizar Habash",
             "Ryan Roth",
             "Owen Rambow",
-            "Ramy Eskander and Nadi Tomeh"
+            "Ramy Eskander",
+			"Nadi Tomeh"
         ],
         "Link":"http://www.newdesign.aclweb.org/anthology-new/N/N13/N13-1044.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -343,11 +352,12 @@
         "Title":"Automatic Morphological Enrichment of a Morphologically Underspecified Treebank",
         "Authors":[
             "Sarah Alkuhlani",
-            "Nizar Habash and Ryan Roth"
+            "Nizar Habash",
+			"Ryan Roth"
         ],
         "Link":"http://www.newdesign.aclweb.org/anthology-new/N/N13/N13-1049.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -356,11 +366,12 @@
         ],
         "Title":"Dialectal Arabic to English Machine Translation: Pivoting through Modern Standard Arabic",
         "Authors":[
-            "Wael Salloum and Nizar Habash"
+            "Wael Salloum",
+			"Nizar Habash"
         ],
         "Link":"https://www.aclweb.org/anthology/N/N13/N13-1036.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -371,11 +382,12 @@
         "Authors":[
             "Ramy Eskander",
             "Nizar Habash",
-            "Owen Rambow and Nadi Tomeh"
+            "Owen Rambow",
+			"Nadi Tomeh"
         ],
         "Link":"http://www.newdesign.aclweb.org/anthology-new/N/N13/N13-1066.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -384,11 +396,12 @@
         ],
         "Title":"Automatic Correction and Extension of Morphological Annotations",
         "Authors":[
-            "Ramy Eskander and Nizar Habash"
+            "Ramy Eskander",
+			"Nizar Habash"
         ],
         "Link":"https://www.aclweb.org/anthology/W/W13/W13-23.pdf#page=17",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -397,11 +410,12 @@
         ],
         "Title":"Elissa: A Dialectal to Standard Arabic Machine Translation System",
         "Authors":[
-            "Wael Salloum and Nizar Habash"
+            "Wael Salloum",
+			"Nizar Habash"
         ],
         "Link":"http://www.aclweb.org/anthology-new/C/C12/C12-3048.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -412,11 +426,11 @@
         "Authors":[
             "Kristen Parton",
             "Nizar Habash",
-            "and Kathleen McKeown"
+            "Kathleen McKeown"
         ],
         "Link":"http://www.mt-archive.info/AMTA-2012-Parton.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -442,11 +456,12 @@
         ],
         "Title":"Identifying Broken Plurals, Irregular Gender, and Rationality in Arabic Text",
         "Authors":[
-            "Sarah Alkuhlani and Nizar Habash"
+            "Sarah Alkuhlani",
+			"Nizar Habash"
         ],
         "Link":"http://www.newdesign.aclweb.org/anthology/E/E12/E12-1069.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -468,17 +483,16 @@
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Columbia University",
-            "The George Washington University"
+            "George Washington University"
         ],
-        "Title":"Sentence-Level Dialect Identification in Arabic.",
+        "Title":"Sentence-Level Dialect Identification in Arabic",
         "Authors":[
-            "Elfardy",
-            "Heba",
-            "and Mona Diab"
+            "Heba Elfardy",
+            "Mona Diab"
         ],
         "Link":"http://www.aclweb.org/anthology/P/P13/P13-2081.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -487,224 +501,229 @@
         ],
         "Title":"Code-Switch Point Detection in Arabic",
         "Authors":[
-            "Elfardy",
-            "Heba",
+            "Heba Elfardy",
             "Mohamed Al-Badrashiny",
             "Mona Diab"
         ],
         "Link":"http://link.springer.com/chapter/10.1007/978-3-642-38824-8_51",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Columbia University"
         ],
-        "Title":"Multiword Expressions in the context of Statistical Machine Translation.",
+        "Title":"Multiword Expressions in the Context of Statistical Machine Translation",
         "Authors":[
-            "Ghoneim",
-            "Mahmoud and Mona Diab."
+            "Mahmoud Ghoneim",
+            "Mona Diab"
         ],
         "Link":"https://www.aclweb.org/anthology/I/I13/I13-1168.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Columbia University"
         ],
-        "Title":"ANEAR: Automatic Named Entity Aliasing Resolution.",
+        "Title":"ANEAR: Automatic Named Entity Aliasing Resolution",
         "Authors":[
-            "Zirikly",
-            "Ayah and Mona Diab."
+            "Ayah Zirikly",
+            "Mona Diab"
         ],
         "Link":"http://link.springer.com/chapter/10.1007/978-3-642-38824-8_18",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Columbia University"
         ],
-        "Title":"Building a Lexical Semantic Resource for Arabic Morphological Patterns.",
+        "Title":"Building a Lexical Semantic Resource for Arabic Morphological Patterns",
         "Authors":[
             "Hawwari",
             "Abdelati",
             "Wajdi Zaghouani",
             "Tim O'Gorman",
             "Mona Diab",
-            "and Ahmed Badran."
+            "Ahmed Badran"
         ],
         "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6487254&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6487254",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Columbia University"
         ],
-        "Title":"Token Level Identification of Linguistic Code Switching.",
+        "Title":"Token Level Identification of Linguistic Code Switching",
         "Authors":[
-            "Elfardy",
-            "Heba",
-            "and Mona Diab"
+            "Heba Elfardy",
+            "Mona Diab"
         ],
         "Link":"http://www1.ccls.columbia.edu/~heba/files/LCS.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Columbia University"
         ],
-        "Title":"Simplified guidelines for the creation of Large Scale Dialectal Arabic Annotations.",
+        "Title":"Simplified Guidelines for the Creation of Large Scale Dialectal Arabic Annotations",
         "Authors":[
-            "Elfardy",
-            "Heba and Mona Diab"
+            "Heba Elfardy",
+            "Mona Diab"
         ],
         "Link":"http://www.lrec-conf.org/proceedings/lrec2012/pdf/815_Paper.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Columbia University"
         ],
-        "Title":"Building an Arabic Multiword Expressions Repository.",
+        "Title":"Building an Arabic Multiword Expressions Repository",
         "Authors":[
-            "Hawwari",
-            "Abdelati",
+            "Abdelati Hawwari",
             "Kfir Bar",
             "Mona Diab"
         ],
         "Link":"http://aclweb.org/anthology/W/W12/W12-3403.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Columbia University"
         ],
-        "Title":"A Pilot PropBank Annotation for Quranic Arabic.",
+        "Title":"A Pilot PropBank Annotation for Quranic Arabic",
         "Authors":[
-            "Zaghouani",
-            "Wajdi",
-            "Abdelati Hawwari and Mona Diab."
+            "Wajdi Zaghouani",
+            "Abdelati Hawwari",
+            "Mona Diab"
         ],
         "Link":"http://aclweb.org/anthology//W/W12/W12-2511.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team BBN) University of California, Berkeley"
+            "(Team BBN) University of California - Berkeley"
         ],
         "Title":"Easy Victories and Uphill Battles in Coreference Resolution",
         "Authors":[
-            "Greg Durrett and Dan Klein"
+            "Greg Durrett",
+			"Dan Klein"
         ],
         "Link":"http://www.eecs.berkeley.edu/~gdurrett/papers/durrett-klein-emnlp2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team BBN) University of California, Berkeley"
+            "(Team BBN) University of California - Berkeley"
         ],
         "Title":"Error-Driven Analysis of Challenges in Coreference Resolution",
         "Authors":[
-            "Jonathan Kummerfeld and Dan Klein"
+            "Jonathan Kummerfeld",
+			"Dan Klein"
         ],
         "Link":"http://nlp.cs.berkeley.edu/pubs/Kummerfeld-Klein_2013_Analysis_paper.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team BBN) University of California, Berkeley"
+            "(Team BBN) University of California - Berkeley"
         ],
         "Title":"Decentralized Entity-Level Modeling for Coreference Resolution",
         "Authors":[
-            "Greg Durrett and Dan Klein"
+            "Greg Durrett",
+			"Dan Klein"
         ],
         "Link":"http://aclweb.org/anthology//P/P13/P13-1012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team BBN) University of California, Berkeley"
+            "(Team BBN) University of California - Berkeley"
         ],
         "Title":"Training Factored PCFGs with Expectation Propagation",
         "Authors":[
-            "David Hall and Dan Klein"
+            "David Hall",
+			"Dan Klein"
         ],
         "Link":"http://www.cs.berkeley.edu/~dlwh/papers/hall12epic.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team BBN) University of California, Berkeley"
+            "(Team BBN) University of California - Berkeley"
         ],
         "Title":"Fast Inference in Phrase Extraction Models with Belief Propagation",
         "Authors":[
-            "David Burkett and Dan Klein"
+            "David Burkett",
+			"Dan Klein"
         ],
         "Link":"http://nlp.cs.berkeley.edu/pubs/Burkett-Klein_2012_BPAlignment_paper.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team BBN) University of California, Berkeley"
+            "(Team BBN) University of California - Berkeley"
         ],
         "Title":"Large-Scale Syntactic Language Modeling with Treelets",
         "Authors":[
-            "Adam Pauls and Dan Klein"
+            "Adam Pauls",
+			"Dan Klein"
         ],
         "Link":"http://nlp.cs.berkeley.edu/pubs/Pauls-Klein_2012_LM_paper.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team BBN) University of California, Berkeley"
+            "(Team BBN) University of California - Berkeley"
         ],
         "Title":"Coreference Semantics from Web Features",
         "Authors":[
-            "Mohit Bansal and Dan Klein"
+            "Mohit Bansal",
+			"Dan Klein"
         ],
         "Link":"http://ttic.uchicago.edu/~mbansal/papers/acl12_corefWeb.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team BBN) University of California, Berkeley"
+            "(Team BBN) University of California - Berkeley"
         ],
         "Title":"Transforming Trees to Improve Syntactic Convergence",
         "Authors":[
-            "David Burkett and Dan Klein"
+            "David Burkett",
+			"Dan Klein"
         ],
         "Link":"http://www.eecs.berkeley.edu/~dburkett/papers/burkett12-tree_transform.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -714,11 +733,12 @@
         "Title":"Simulating Discriminative Training for Linear Mixture Adaptation in Statistical Machine Translation",
         "Authors":[
             "George Foster",
-            "Boxing Chen and Roland Kuhn"
+            "Boxing Chen",
+			"Roland Kuhn"
         ],
         "Link":"http://www.mtsummit2013.info/files/proceedings/main/mt-summit-2013-foster-et-al.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -728,11 +748,12 @@
         "Title":"Vector Space Model for Adaptation in Statistical Machine Translation",
         "Authors":[
             "Boxing Chen",
-            "Roland Kuhn and George Foster"
+            "Roland Kuhn",
+			"George Foster"
         ],
         "Link":"http://aclweb.org/anthology//P/P13/P13-1126.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -740,28 +761,28 @@
             "(Team BBN) National Research Council",
             "University of Maryland",
             "University of Chicago",
-            "JHU",
+            "Johns Hopkins University",
             "IBM"
         ],
-        "Title":"SenseSpotting: Never let your parallel data tie you to an old domain",
+        "Title":"SenseSpotting: Never Let your Parallel Data Tie You to an Old Domain",
         "Authors":[
             "Marine Carpuat",
             "Hal Daume III",
             "Katie Henry",
             "Ann Irvine",
             "Jagadeesh Jagarlamudi",
-            "and Rachel Rudinger"
+            "Rachel Rudinger"
         ],
         "Link":"http://www.aclweb.org/anthology/P/P13/P13-1141.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) National Research Council"
         ],
-        "Title":"Improved Reordering for Phrase-Based Translation using Sparse Features",
+        "Title":"Improved Reordering for Phrase-Based Translation Using Sparse Features",
         "Authors":[
             "Colin Cherry"
         ],
@@ -777,11 +798,12 @@
         "Title":"Adaptation of Reordering Models for Statistical Machine Translation",
         "Authors":[
             "Boxing Chen",
-            "George Foster and Roland Kuhn"
+            "George Foster",
+			"Roland Kuhn"
         ],
         "Link":"http://aclweb.org/anthology//N/N13/N13-1114.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -819,7 +841,7 @@
             "Karteek ADDANKI",
             "Chi-kiu LO",
             "Markus SAERS",
-            "and Dekai WU"
+            "Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/AddankiLoSaersWu_Eamt2012.pdf",
         "New Date":"",
@@ -833,11 +855,12 @@
         "Title":"Fully Automatic Semantic MT Evaluation",
         "Authors":[
             "Chi-kiu LO",
-            "Anand Karthik TUMULURU and Dekai WU"
+            "Anand Karthik TUMULURU",
+			"Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/LoTumuluruWu_Wmt2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -846,38 +869,41 @@
         ],
         "Title":"Towards a Predicate-Argument Evaluation for MT",
         "Authors":[
-            "Ondej BOJAR and Dekai WU"
+            "Ondej BOJAR",
+			"Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/BojarWu_Ssst2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Hong Kong University of Science and Technology"
         ],
-        "Title":"Unsupervised vs. supervised weight estimation for semantic MT evaluation metrics",
+        "Title":"Unsupervised vs. Supervised Weight Estimation for Semantic MT Evaluation Metrics",
         "Authors":[
-            "Chi-kiu LO and Dekai WU"
+            "Chi-kiu LO",
+			"Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/LoWu_Ssst2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Hong Kong University of Science and Technology"
         ],
-        "Title":"Accuracy and robustness in measuring the lexical similarity of semantic role fillers for automatic semantic MT evaluation",
+        "Title":"Accuracy and Robustness in Measuring the Lexical Similarity of Semantic Role Fillers for Automatic Semantic MT Evaluation",
         "Authors":[
             "Anand Karthik TUMULURU",
-            "Chi-kiu LO and Dekai WU"
+            "Chi-kiu LO",
+			"Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/TumuluruLoWu_Paclic2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -888,11 +914,11 @@
         "Authors":[
             "Markus SAERS",
             "Karteek ADDANKI",
-            "and Dekai WU."
+            "Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/SaersAddankiWu_Coling2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -903,11 +929,11 @@
         "Authors":[
             "Markus SAERS",
             "Karteek ADDANKI",
-            "and Dekai WU"
+            "Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/SaersAddankiWu_Ssst2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -918,11 +944,11 @@
         "Authors":[
             "Markus SAERS",
             "Karteek ADDANKI",
-            "and Dekai WU"
+            "Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/SaersAddankiWu_Slsp2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -931,11 +957,12 @@
         ],
         "Title":"MEANT at WMT 2013: A Tunable, Accurate yet Inexpensive Semantic Frame Based MT Evaluation Metric",
         "Authors":[
-            "Chi-kiu LO and Dekai WU"
+            "Chi-kiu LO",
+			"Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/LoWu_Wmt2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -946,20 +973,23 @@
         "Authors":[
             "Markus SAERS",
             "Karteek ADDANKI",
-            "and Dekai WU"
+            "Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/SaersAddankiWu_Hytra2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team BBN) Hong Kong University of Science and Technology"
         ],
-        "Title":"Improving machine translation by training against an automatic semantic frame based evaluation metric",
+        "Title":"Improving Machine Translation by Training Against an Automatic Semantic Frame Based Evaluation Metric",
         "Authors":[
-            "Chi-kiu LO and Karteek ADDANKI and Markus SAERS and Dekai WU"
+            "Chi-kiu LO",
+			"Karteek ADDANKI",
+			"Markus SAERS",
+			"Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/LoAddankiSaersWu_Acl2013.pdf",
         "New Date":"",
@@ -974,7 +1004,7 @@
         "Authors":[
             "Dekai WU",
             "Karteek ADDANKI",
-            "and Markus SAERS"
+            "Markus SAERS"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/WuAddankiSaers_Interspeech2013.pdf",
         "New Date":"",
@@ -985,13 +1015,14 @@
         "Program Teams":[
             "(Team BBN) Hong Kong University of Science and Technology"
         ],
-        "Title":"Can informal genres be better translated by tuning on automatic semantic metrics?",
+        "Title":"Can Informal Genres be Better Translated by Tuning on Automatic Semantic Metrics?",
         "Authors":[
-            "Chi-kiu LO and Dekai WU"
+            "Chi-kiu LO",
+			"Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/LoWu_Mtsummit2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1002,11 +1033,11 @@
         "Authors":[
             "Dekai WU",
             "Karteek ADDANKI",
-            "and Markus SAERS"
+            "Markus SAERS"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/WuAddankiSaers_Mtsummit2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1017,11 +1048,11 @@
         "Authors":[
             "Markus SAERS",
             "Karteek ADDANKI",
-            "and Dekai WU"
+            "Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/SaersAddankiWu_Ranlp2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1030,11 +1061,12 @@
         ],
         "Title":"Bayesian Induction of Bracketing Inversion Transduction Grammars",
         "Authors":[
-            "Markus SAERS and Dekai WU"
+            "Markus SAERS",
+			"Dekai WU"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/SaersWu_Ijcnlp2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1046,11 +1078,11 @@
             "Dekai WU",
             "Karteek ADDANKI",
             "Markus SAERS",
-            "and Meriem BELOUCIF"
+            "Meriem BELOUCIF"
         ],
         "Link":"http://www.cs.ust.hk/~dekai/library/WU_Dekai/WuAddankiSaersBeloucif_Emnlp2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1059,11 +1091,12 @@
         ],
         "Title":"Why Not Grab a Free Lunch? Mining Large Corpora for Parallel Sentences to Improve Translation Modeling",
         "Authors":[
-            "Ferhan Ture and Jimmy Lin"
+            "Ferhan Ture",
+			"Jimmy Lin"
         ],
         "Link":"http://aclweb.org/anthology/N/N12/N12-1079.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1074,11 +1107,11 @@
         "Authors":[
             "Ferhan Ture",
             "Douglas W. Oard",
-            "and Philip Resnik"
+            "Philip Resnik"
         ],
         "Link":"http://www.aclweb.org/anthology-new/N/N12/N12-1046.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1087,11 +1120,12 @@
         ],
         "Title":"Meaning Matching for Cross-Language Information Retrieval",
         "Authors":[
-            "Jianqiang Wang and Douglas W. Oard"
+            "Jianqiang Wang",
+			"Douglas W. Oard"
         ],
         "Link":"http://www.sciencedirect.com/science/article/pii/S0306457311000999",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1102,11 +1136,11 @@
         "Authors":[
             "V. Eidelman",
             "J. Boyd-Graber",
-            "and P. Resnik"
+            "P. Resnik"
         ],
         "Link":"http://aclweb.org/anthology/P/P12/P12-2023.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1117,11 +1151,11 @@
         "Authors":[
             "Ferhan Ture",
             "Jimmy Lin",
-            "and Douglas W. Oard"
+            "Douglas W. Oard"
         ],
         "Link":"http://dl.acm.org/citation.cfm?id=2348491",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1132,11 +1166,11 @@
         "Authors":[
             "Ferhan Ture",
             "Jimmy Lin",
-            "and Douglas W. Oard"
+            "Douglas W. Oard"
         ],
         "Link":"http://www.umiacs.umd.edu/~jimmylin/publications/Ture_etal_COLING2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1147,11 +1181,12 @@
         "Authors":[
             "Utpal Garain",
             "Arjun Das",
-            "David Doermann and Douglas Oard"
+            "David Doermann",
+			"Douglas Oard"
         ],
         "Link":"http://aclweb.org/anthology//C/C12/C12-2034.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1160,27 +1195,28 @@
         ],
         "Title":"Two Algorithms for Finding k Shortest Paths of a Weighted Pushdown Automaton",
         "Authors":[
-            "Ke Wu and Philip Resnik"
+            "Ke Wu",
+			"Philip Resnik"
         ],
         "Link":"http://arxiv.org/pdf/1212.0927.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team IBM) University of Maryland",
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Title":"Massively Parallel Suffix Array Queries and On-Demand Phrase Extraction for Statistical Machine Translation Using GPUs",
         "Authors":[
             "Hua He",
             "Jimmy Lin",
-            "and Adam Lopez"
+            "Adam Lopez"
         ],
         "Link":"http://aclweb.org/anthology/N/N13/N13-1033.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1204,11 +1240,12 @@
         ],
         "Title":"Flat vs. Hierarchical Phrase-Based Translation Models for Cross-Language Information Retrieval",
         "Authors":[
-            "Ferhan Ture and Jimmy Lin"
+            "Ferhan Ture",
+			"Jimmy Lin"
         ],
         "Link":"http://dl.acm.org/citation.cfm?id=2484137",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1219,11 +1256,12 @@
         "Authors":[
             "William Webber",
             "Mossaab Bagdouri",
-            "David D. Lewis and Douglas W. Oard"
+            "David D. Lewis",
+			"Douglas W. Oard"
         ],
         "Link":"http://dl.acm.org/citation.cfm?doid=2484028.2484159",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1236,11 +1274,11 @@
             "Ke Wu",
             "Ferhan Ture",
             "Philip Resnik",
-            "and Jimmy Lin"
+            "Jimmy Lin"
         ],
         "Link":"http://aclweb.org/anthology/P/P13/P13-4034.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1251,11 +1289,11 @@
         "Authors":[
             "Vladimir Eidelman",
             "Yuval Marton",
-            "and Philip Resnik"
+            "Philip Resnik"
         ],
         "Link":"http://aclweb.org/anthology/P/P13/P13-1110.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1281,11 +1319,12 @@
         "Authors":[
             "Jerome White",
             "Douglas W. Oard",
-            "Nitendra Rajput and Marion Zalk"
+            "Nitendra Rajput",
+			"Marion Zalk"
         ],
         "Link":"http://aclweb.org/anthology//D/D13/D13-1126.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1299,11 +1338,12 @@
             "Ann Irvine",
             "John Morgan",
             "Marine Carpuat",
-            "Hal Daum III and Dragos Munteanu"
+            "Hal Daum III",
+			"Dragos Munteanu"
         ],
         "Link":"http://aclweb.org/anthology//Q/Q13/Q13-1035.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1315,11 +1355,11 @@
             "M. Huck",
             "J. Wuebker",
             "F. Rietig",
-            "and H. Ney."
+            "H. Ney"
         ],
         "Link":"http://www-i6.informatik.rwth-aachen.de/publications/download/870/HuckMatthiasWuebkerJoernRietigFelixNeyHermann--APhraseOrientationModelforHierarchicalMachineTranslation--2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1329,11 +1369,11 @@
         "Title":"Length-incremental Phrase Training for SMT",
         "Authors":[
             "J. Wuebker",
-            "and H. Ney."
+            "H. Ney"
         ],
         "Link":"http://www-i6.informatik.rwth-aachen.de/publications/download/871/WuebkerJoernNeyHermann--Length-incrementalPhraseTrainingforSMT--2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1343,11 +1383,11 @@
         "Title":"Phrase Training Based Adaptation for Statistical Machine Translation",
         "Authors":[
             "S. Mansour",
-            "and H. Ney."
+            "H. Ney"
         ],
         "Link":"http://www-i6.informatik.rwth-aachen.de/publications/download/842/MansourSaabNeyHermann--PhraseTrainingBasedAdaptationforStatisticalMachineTranslation--2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1357,11 +1397,11 @@
         "Title":"A Simple and Effective Weighted Phrase Extraction for Machine Translation Adaptation",
         "Authors":[
             "S. Mansour",
-            "and H. Ney"
+            "H. Ney"
         ],
         "Link":"http://www-i6.informatik.rwth-aachen.de/publications/download/832/MansourSaabNeyHermann--ASimpleEffectiveWeightedPhraseExtractionforMachineTranslationAdaptation--2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1373,11 +1413,11 @@
             "M. Huck",
             "D. Vilar",
             "M. Freitag",
-            "and H. Ney"
+            "H. Ney"
         ],
         "Link":"http://www-i6.informatik.rwth-aachen.de/publications/download/853/HuckMatthiasVilarDavidFreitagMarkusNeyHermann--APerformanceStudyofCubePruningforLarge-ScaleHierarchicalMachineTranslation--2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1388,11 +1428,11 @@
         "Authors":[
             "M. Feng",
             "J. Peter",
-            "and H. Ney"
+            "H. Ney"
         ],
         "Link":"http://www-i6.informatik.rwth-aachen.de/publications/download/834/FengMinweiPeterJan-ThorstenNeyHermann--SequenceLabeling-basedReorderingModelforPhrase-basedSMT--2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1403,11 +1443,11 @@
         "Authors":[
             "M. Feng",
             "W. Sun",
-            "and H. Ney"
+            "H. Ney"
         ],
         "Link":"http://www-i6.informatik.rwth-aachen.de/publications/download/836/FengMinweiSunWeiweiHermannNey--SemanticCohesionModelforPhrase-BasedSMT--2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1417,11 +1457,11 @@
         "Title":"A Tagging-style Reordering Model for Phrase-based SMT",
         "Authors":[
             "M. Feng",
-            "and H. Ney"
+            "H. Ney"
         ],
         "Link":"http://www-i6.informatik.rwth-aachen.de/publications/download/837/FengMinweiNeyHermann--ATagging-styleReorderingModelforPhrase-basedSMT--2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1431,27 +1471,29 @@
         "Title":"Flexible and Efficient Hypergraph Interactions for Joint Hierarchical and Forest-to-String Decoding",
         "Authors":[
             "Martin Cmejrek",
-            "Haitao Mi and Bowen Zhou"
+            "Haitao Mi",
+			"Bowen Zhou"
         ],
         "Link":"http://aclweb.org/anthology//D/D13/D13-1052.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "IBM",
             "Chinese Academy of Sciences",
-            "Queens College & Grad. Center City University of New York"
+            "QCCUNY"
         ],
         "Title":"Violation-Fixing Perceptron and Forced Decoding for Scalable MT Training",
         "Authors":[
             "Heng Yu",
-            "Liang Huang and Haitao Mi"
+            "Liang Huang",
+			"Haitao Mi"
         ],
         "Link":"http://aclweb.org/anthology//D/D13/D13-1112.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1461,13 +1503,12 @@
         ],
         "Title":"Incorporating Social Anchors for Ad Hoc Retrieval",
         "Authors":[
-            "Lee",
-            "C. and Croft",
-            "W. B."
+            "C. Lee",
+            "W. B. Croft"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/IR-875",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1476,13 +1517,12 @@
         ],
         "Title":"Bi-directional Linkability From Wikipedia to Documents and Back Again: UMass at TREC 2012 Knowledge Base Acceleration Track",
         "Authors":[
-            "Dalton",
-            "J. and Dietz",
-            "L."
+            "J. Dalton",
+            "L. Dietz"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/IR-916",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1491,28 +1531,26 @@
         ],
         "Title":"A Neighborhood Relevance Model for Entity Linking",
         "Authors":[
-            "Dalton",
-            "J. and Dietz",
-            "L."
+            "J. Dalton",
+            "L. Dietz"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/IR-922",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team IBM) University of Massachusetts"
         ],
-        "Title":"Sentiment Diversification With Different Biases",
+        "Title":"Sentiment Diversification with Different Biases",
         "Authors":[
-            "Aktolga",
-            "E. and Allan",
-            "J."
+            "E. Aktolga",
+            "J. Allan"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/IR-925",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1521,13 +1559,12 @@
         ],
         "Title":"Term Level Search Result Diversification",
         "Authors":[
-            "Croft",
-            "W. B. and Dang",
-            "V."
+            "W. B. Croft",
+            "V. Dang"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/IR-929",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1536,13 +1573,12 @@
         ],
         "Title":"Extracting Query Facets from Search Results",
         "Authors":[
-            "Kong",
-            "W. and Allan",
-            "J."
+            "W. Kong",
+            "J. Allan"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/IR-930",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1551,17 +1587,14 @@
         ],
         "Title":"Retrieving Opinions from Discussion Forums",
         "Authors":[
-            "Dietz",
-            "L.",
-            "Wang",
-            "Z.",
-            "Huston",
-            "S. and Croft",
-            "W. B."
+            "L. Dietz",
+            "Z. Wang",
+            "S. Huston",
+            "W. B. Croft"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/IR-937",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1570,13 +1603,12 @@
         ],
         "Title":"Constructing Query-Specific Knowledge Bases",
         "Authors":[
-            "Dalton",
-            "J. and Dietz",
-            "L."
+            "J. Dalton",
+            "L. Dietz"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/IR-960",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1587,11 +1619,12 @@
         "Authors":[
             "Will Zou",
             "Richard Socher",
-            "Daniel Cer and Christopher Manning"
+            "Daniel Cer",
+			"Christopher Manning"
         ],
         "Link":"http://ai.stanford.edu/~wzou/emnlp2013_ZouSocherCerManning.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1602,11 +1635,11 @@
         "Authors":[
             "Spence Green",
             "Marie-Catherine de Marneffe",
-            "and Christopher D. Manning"
+            "Christopher D. Manning"
         ],
         "Link":"http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00139",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1616,11 +1649,12 @@
         "Title":"Positive Diversity Tuning for Machine Translation System Combination",
         "Authors":[
             "Daniel Cer",
-            "Christopher D. Manning and Dan Jurafsky"
+            "Christopher D. Manning",
+			"Dan Jurafsky"
         ],
         "Link":"http://statmt.org/wmt13/pdf/WMT39.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1636,11 +1670,12 @@
             "John Bauer",
             "Sida Wang",
             "Natalia Silveira",
-            "Julia Neidert and Christopher D. Manning"
+            "Julia Neidert",
+			"Christopher D. Manning"
         ],
         "Link":"http://statmt.org/wmt13/pdf/WMT17.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1651,11 +1686,12 @@
         "Authors":[
             "Spence Green",
             "Sida Wang",
-            "Daniel Cer and Christopher D. Manning"
+            "Daniel Cer",
+			"Christopher D. Manning"
         ],
         "Link":"http://www.spencegreen.com/pubs/green+wang+cer+manning.acl13.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1666,7 +1702,7 @@
         "Authors":[
             "Spence Green",
             "Jeffrey Heer",
-            "and Christopher D. Manning"
+            "Christopher D. Manning"
         ],
         "Link":"http://www.spencegreen.com/pubs/green+heer+manning.amta12.pdf",
         "New Date":"",
@@ -1679,17 +1715,18 @@
         ],
         "Title":"A Class-Based Agreement Model for Generating Accurately Inflected Translations",
         "Authors":[
-            "Spence Green and John DeNero"
+            "Spence Green",
+			"John DeNero"
         ],
         "Link":"http://www.spencegreen.com/pubs/green+denero.acl12.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team IBM) Stanford University",
-            "JHU"
+            "Johns Hopkins University"
         ],
         "Title":"Entity Clustering Across Languages",
         "Authors":[
@@ -1697,7 +1734,7 @@
             "Nicholas Andrews",
             "Matthew R. Gormley",
             "Mark Dredze",
-            "and Christopher D. Manning"
+            "Christopher D. Manning"
         ],
         "Link":"http://www.spencegreen.com/pubs/green+andrews+gormley+dredze+manning.naacl12.pdf",
         "New Date":"",
@@ -1712,7 +1749,7 @@
         "Authors":[
             "Walid Aransa",
             "Holger Schwenk",
-            "and Loc Barrault"
+            "Loc Barrault"
         ],
         "Link":"http://hltc.cs.ust.hk/iwslt/proceedings/paper_7.pdf",
         "New Date":"",
@@ -1725,11 +1762,12 @@
         ],
         "Title":"Phrase Probabilities Calculation for Statistical Machine Translation by using Belief Functions",
         "Authors":[
-            "Christophe Servan and Simon Petitrenaud"
+            "Christophe Servan",
+			"Simon Petitrenaud"
         ],
         "Link":"http://aclweb.org/anthology//C/C12/C12-2107.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1780,11 +1818,12 @@
         "Title":"Conventional Orthography for Dialectal Arabic",
         "Authors":[
             "Nizar Habash",
-            "Mona Diab and Owen Rambow"
+            "Mona Diab",
+			"Owen Rambow"
         ],
         "Link":"http://www.lrec-conf.org/proceedings/lrec2012/pdf/579_Paper.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1794,11 +1833,12 @@
         "Title":"A Morphological Analyzer for Egyptian Arabic",
         "Authors":[
             "Nizar Habash",
-            "Ramy Eskander and Abdelati Hawwari"
+            "Ramy Eskander",
+			"Abdelati Hawwari"
         ],
         "Link":"http://aclweb.org/anthology//W/W12/W12-2301.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1807,11 +1847,12 @@
         ],
         "Title":"Extending and Scaling up the Chinese Treebank Annotation",
         "Authors":[
-            "Xiuhong Zhang and Nianwen Xue"
+            "Xiuhong Zhang",
+			"Nianwen Xue"
         ],
         "Link":"http://aclweb.org/anthology/W/W12/W12-6306.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1820,25 +1861,27 @@
         ],
         "Title":"Building a Chinese Lexical Taxonomy",
         "Authors":[
-            "Xiaopeng Bai and Nianwen Xue"
+            "Xiaopeng Bai",
+			"Nianwen Xue"
         ],
         "Link":"http://aclweb.org/anthology/W/W12/W12-6305.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "(Team LDC) Brandeis University"
         ],
-        "Title":"A lattice-based framework for joint Chinese word segmentation, POS-tagging and parsing",
+        "Title":"A Lattice-Based Framework for Joint Chinese Word Segmentation, POS-Tagging and Parsing",
         "Authors":[
             "Zhiguo Wang",
-            "Chengqing Zong and Nianwen Xue"
+            "Chengqing Zong",
+			"Nianwen Xue"
         ],
         "Link":"http://aclweb.org/anthology/P/P13/P13-2110.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1848,11 +1891,12 @@
         "Title":"Renewing and Revising SemLink",
         "Authors":[
             "Claire Bonial",
-            "Kevin Stowe & Martha Palmer"
+            "Kevin Stowe",
+			"Martha Palmer"
         ],
         "Link":"http://aclweb.org/anthology/W/W13/W13-5503.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1861,11 +1905,12 @@
         ],
         "Title":"HyTER: Meaning-Equivalent Semantics for Translation Evaluation",
         "Authors":[
-            "Markus Dreyer and Daniel Marcu"
+            "Markus Dreyer",
+			"Daniel Marcu"
         ],
         "Link":"http://www.aclweb.org/anthology/N12-1017",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1874,11 +1919,12 @@
         ],
         "Title":"AIDA: Automatic Identification & Glossing of Dialectal Arabic",
         "Authors":[
-            "Heba Elfardy & Mona Diab"
+            "Heba Elfardy",
+			"Mona Diab"
         ],
         "Link":"http://hltshare.fbk.eu/EAMT2012/html/Papers/17.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1888,11 +1934,12 @@
         "Title":"Learning to Automatically Post-Edit Dropped Words in MT",
         "Authors":[
             "Jacob Mundt",
-            "Kristen Parton and Kathleen McKeown"
+            "Kristen Parton",
+			"Kathleen McKeown"
         ],
         "Link":"http://amta2012.amtaweb.org/AMTA2012Files/html/14/14_paper.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1903,28 +1950,29 @@
         "Authors":[
             "Hongzhao Huang",
             "Heng Ji",
-            "Hieu Khac Le and Tarek Abdelzaher"
+            "Hieu Khac Le",
+			"Tarek Abdelzaher"
         ],
         "Link":"http://dl.acm.org/citation.cfm?id=2185718&dl=ACM&coll=DL&CFID=375735782&CFTOKEN=22073682",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team LDC) Queens College and Graduate Center",
-            "City University of New York"
+            "(Team LDC) QCCUNY"
         ],
         "Title":"Linguistic Resources for Entity Linking Evaluation: from Mono-lingual to Cross-lingual",
         "Authors":[
             "Xuansong Li",
             "Stephanie M. Strassel",
             "Heng Ji",
-            "Kira Griffitt and Joe Ellis"
+            "Kira Griffitt",
+			"Joe Ellis"
         ],
         "Link":"http://www.lrec-conf.org/proceedings/lrec2012/pdf/278_Paper.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1935,29 +1983,30 @@
         "Authors":[
             "Qi Li",
             "Javier Artiles",
-            "Taylor Cassidy and Heng Ji"
+            "Taylor Cassidy",
+			"Heng Ji"
         ],
         "Link":"http://link.springer.com/chapter/10.1007%2F978-3-642-28601-8_17#page-1",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) Queens College and Graduate Center",
-            "City University of New York",
-            "University of Illinois at Urbana-Champaign"
+            "(Team SRI) QCCUNY",
+            "University of Illinois - Urbana-Champaign"
         ],
         "Title":"Analysis and Refinement of Cross-lingual Entity Linking",
         "Authors":[
             "Taylor Cassidy",
             "Heng Ji",
             "Hongbo Deng",
-            "Jing Zheng and Jiawei Han"
+            "Jing Zheng",
+			"Jiawei Han"
         ],
         "Link":"http://nlp.cs.rpi.edu/paper/clef2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1967,11 +2016,12 @@
         "Title":"Uncertainty Reduction for Knowledge Discovery and Information Extraction on WWW",
         "Authors":[
             "Heng Ji",
-            "Hongbo Deng and Jiawei Han"
+            "Hongbo Deng",
+			"Jiawei Han"
         ],
         "Link":"http://nlp.cs.rpi.edu/paper/kdie.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1980,11 +2030,12 @@
         ],
         "Title":"Relabeling Distantly Supervised Training Data for Temporal Knowledge Base Population",
         "Authors":[
-            "Suzanne Tamang and Heng Ji"
+            "Suzanne Tamang",
+			"Heng Ji"
         ],
         "Link":"http://aclweb.org/anthology//W/W12/W12-3005.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -1994,11 +2045,12 @@
         "Title":"CUNY_BLENDER TAC-KBP2012 Entity Linking System and Slot Filling Validation System",
         "Authors":[
             "Suzanne Tamang",
-            "Zheng Chen and Heng Ji"
+            "Zheng Chen",
+			"Heng Ji"
         ],
         "Link":"http://www.nist.gov/tac/publications/2012/participant.papers/Blender_CUNY.proceedings.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2010,11 +2062,12 @@
             "Hao Li",
             "Yu Chen",
             "Heng Ji",
-            "Smaranda Muresan and Dequan Zheng"
+            "Smaranda Muresan",
+			"Dequan Zheng"
         ],
         "Link":"http://aclweb.org/anthology/Y/Y12/Y12-1013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2056,15 +2109,16 @@
         "Program Teams":[
             "(Team BBN) OHSU"
         ],
-        "Title":"Robust kaomoji detection in Twitter",
+        "Title":"Robust Kaomoji Detection in Twitter",
         "Authors":[
             "Steven Bedrick",
             "Russell Beckley",
-            "Brian Roark and Richard Sproat"
+            "Brian Roark",
+			"Richard Sproat"
         ],
         "Link":"http://aclweb.org/anthology//W/W12/W12-2107.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2073,11 +2127,12 @@
         ],
         "Title":"Semi-supervised learning for text classification using feature affinity regularization",
         "Authors":[
-            "B. Zhang and M. Ostendorf"
+            "B. Zhang",
+			"M. Ostendorf"
         ],
         "Link":"http://www.ttic.edu/sigml/symposium2012/papers/zhang_mlslp2012.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2086,13 +2141,12 @@
         ],
         "Title":"Passage-level Evidence for Cross-Language Information Retrieval",
         "Authors":[
-            "Park",
-            "J. and Croft",
-            "B."
+            "J. Park",
+            "B. Croft"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/getpdf.php?id=1076",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2101,13 +2155,12 @@
         ],
         "Title":"Across-Document Neighborhood Expansion: UMass at TAC KBP 2012 Entity Linking",
         "Authors":[
-            "Dietz",
-            "L. and Dalton",
-            "J."
+            "L. Dietz",
+            "J. Dalton"
         ],
         "Link":"http://ciir.cs.umass.edu/~dietz/entitylinking/tac-notebook.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2116,13 +2169,12 @@
         ],
         "Title":"Incorporating Social Anchors for Ad Hoc Retrieval",
         "Authors":[
-            "Lee",
-            "C. and Croft",
-            "W. B."
+            "C. Lee",
+            "W. B. Croft"
         ],
         "Link":"http://ciir-publications.cs.umass.edu/getpdf.php?id=1040",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2131,106 +2183,111 @@
         ],
         "Title":"A Neighborhood Relevance Model for Entity Linking",
         "Authors":[
-            "Dalton",
-            "J. and Dietz",
-            "L."
+            "J. Dalton",
+            "L. Dietz"
         ],
         "Link":"http://ciir.cs.umass.edu/~dietz/entitylinking/oair2013.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) University of Texas at Dallas"
+            "(Team SRI) University of Texas - Dallas"
         ],
         "Title":"Sentence Dependency Tagging in Online Question Answering Forums",
         "Authors":[
-            "Zhonghua Qu and Yang Liu"
+            "Zhonghua Qu",
+			"Yang Liu"
         ],
         "Link":"http://aclweb.org/anthology//P/P12/P12-1058.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) University of Texas at Dallas"
+            "(Team SRI) University of Texas - Dallas"
         ],
         "Title":"Sequence Labeling with Non-Negative Weighted Higher Order Features",
         "Authors":[
-            "Xian Qian and Yang Liu"
+            "Xian Qian",
+			"Yang Liu"
         ],
         "Link":"http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4902/5527",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) University of Texas at Dallas"
+            "(Team SRI) University of Texas - Dallas"
         ],
         "Title":"A Two-step Approach to Sentence Compression of Spoken Utterances",
         "Authors":[
             "Dong Wang",
             "Xian Qian",
-            "and Yang Liu"
+            "Yang Liu"
         ],
         "Link":"http://aclweb.org/anthology//P/P12/P12-2033.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) University of Texas at Dallas"
+            "(Team SRI) University of Texas - Dallas"
         ],
         "Title":"Normalization of Text Messages for Text-to-Speech",
         "Authors":[
-            "Chen Li and Yang Liu"
+            "Chen Li",
+			"Yang Liu"
         ],
         "Link":"http://www.cslu.ogi.edu/~sproatr/Courses/TextNorm/Papers/liu.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) University of Texas at Dallas"
+            "(Team SRI) University of Texas - Dallas"
         ],
         "Title":"Joint Chinese Word Segmentation, POS Tagging and Parsing",
         "Authors":[
-            "Xian Qian and Yang Liu"
+            "Xian Qian",
+			"Yang Liu"
         ],
         "Link":"http://aclweb.org/anthology//D/D12/D12-1046.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) University of Texas at Dallas"
+            "(Team SRI) University of Texas - Dallas"
         ],
         "Title":"Evaluating the effect of normalizing informal text on TTS output",
         "Authors":[
-            "Deana Pennell and Yang Liu"
+            "Deana Pennell",
+			"Yang Liu"
         ],
         "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6424271&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F6416134%2F6424159%2F06424271.pdf%3Farnumber=6424271",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) University of Texas at Dallas"
+            "(Team SRI) University of Texas - Dallas"
         ],
         "Title":"Improving Text Normalization Using Character-blocks based Models and System Combination",
         "Authors":[
-            "Chen Li and Yang Liu"
+            "Chen Li",
+			"Yang Liu"
         ],
         "Link":"http://aclweb.org/anthology//C/C12/C12-1097.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2241,11 +2298,12 @@
         "Title":"Language Model Rest Costs and Space-Efficient Storage",
         "Authors":[
             "Kenneth Heafield",
-            "Philipp Koehn and Alon Lavie"
+            "Philipp Koehn",
+			"Alon Lavie"
         ],
         "Link":"http://kheafield.com/professional/edinburgh/rest_paper.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2254,11 +2312,12 @@
         ],
         "Title":"Extending Hiero Decoding in Moses with Cube Growing",
         "Authors":[
-            "Wenduan Xu and Philipp Koehn"
+            "Wenduan Xu",
+			"Philipp Koehn"
         ],
         "Link":"http://ufal.mff.cuni.cz/pbml/98/art-xu-koehn.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2267,32 +2326,33 @@
         ],
         "Title":"Unsupervised vs. Supervised Weight Estimation for Semantic MT Evaluation Metrics",
         "Authors":[
-            "Chi-kiu Lo and Dekai Wu"
+            "Chi-kiu Lo",
+			"Dekai Wu"
         ],
         "Link":"http://www.eu-bridge.eu/downloads/Unsupervised_vs._supervised_weight_estimation_for_semantic_MT_evaluation_metrics.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) Aix-Marseille Univ"
+            "(Team SRI) Aix-Marseille University"
         ],
-        "Title":"ASR ERROR SEGMENT LOCALIZATION FOR SPOKEN RECOVERY STRATEGY",
+        "Title":"ASR Error Segment Localization for Spoken Recovery Strategy",
         "Authors":[
             "Frederic Bechet",
             "Benoit Favre"
         ],
         "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6638986",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
             "SRI"
         ],
-        "Title":"CAN YOU GIVE ME ANOTHER WORD FOR HYPERBARIC?: IMPROVING SPEECH TRANSLATION USING TARGETED CLARIFICATION QUESTIONS",
+        "Title":"Can You Give Me Another Word for Hyperbaric?: Improving Speech Translation Using Targeted Clarification Questions",
         "Authors":[
             "Necip Fazil Ayan",
             "Arindam Mandal",
@@ -2312,7 +2372,7 @@
         ],
         "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6639302",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2321,11 +2381,12 @@
         ],
         "Title":"SALL-E: A Situated Agent for Language Learning",
         "Authors":[
-            "Ian Perera & James Allen"
+            "Ian Perera",
+			"James Allen"
         ],
         "Link":"http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6436/6869",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2338,23 +2399,23 @@
         ],
         "Link":"http://aclweb.org/anthology//W/W13/W13-0103.pdf",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
         "Program Teams":[
-            "(Team SRI) Universtiy of Washington"
+            "(Team SRI) University of Washington"
         ],
         "Title":"Using Syntactic and Confusion Network Structure for Out-of-vocabulary Word Detection",
         "Authors":[
             "A. Marin",
             "T. Kwiatkowski",
             "M. Ostendorf",
-            "and L. Zettlemoyer"
+            "L. Zettlemoyer"
         ],
         "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6424215&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber=6424215",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2366,11 +2427,11 @@
             "S.Stoyanchev",
             "P. Salletmayr",
             "J. Yang",
-            "and J. Hirschber"
+            "J. Hirschber"
         ],
         "Link":"http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6424164&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F6416134%2F6424159%2F06424164.pdf%3Farnumber=6424164",
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140626"
     },
     {
         "DARPA Program":"BOLT",
@@ -2403,5 +2464,443 @@
         "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-annotation-trees.pdf",
         "New Date":"",
         "Update Date":""
+    },
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Kneser-Ney Smoothing on Expected Counts", 
+        "Authors": [
+            "Hui Zhang", 
+            "David Chiang"
+        ], 
+        "Link": "http://www3.nd.edu/~dchiang/papers/zhang-acl14.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": "20140922"
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Decoding with Large-Scale Neural Language Models Improves Translation", 
+        "Authors": [
+            "Ashish Vaswani", 
+            "Yinggong Zhao", 
+            "Victoria Fossum", 
+            "David Chiang"
+        ], 
+        "Link": "http://www3.nd.edu/~dchiang/papers/vaswani-emnlp13.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": "20140922"
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Automatic Transliteration of Romanized Dialectal Arabic", 
+        "Authors": [
+            "Mohamed Al-Badrashiny", 
+            "Ramy Eskander", 
+            "Nizar Habash", 
+            "Owen Rambow"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Sentence Level Dialect Identification for Machine Translation System Selection", 
+        "Authors": [
+            "Wael Salloum", 
+            "Heba Elfardy", 
+            "Linda Alamir Salloum", 
+            "Nizar Habash", 
+            "Mona Diab"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "A Multidialectal Parallel Corpus of Arabic", 
+        "Authors": [
+            "Houda Bouamor", 
+            "Nizar Habash", 
+            "Kemal Oflazer"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Tharwa: A Large Scale Dialectal Arabic - Standard Arabic - English Lexicon", 
+        "Authors": [
+            "Mona Diab", 
+            "Mohamed Al-Badrashiny", 
+            "Maryam Aminian", 
+            "Mohammed Attia", 
+            "Pradeep Dasigi", 
+            "Heba Elfardy", 
+            "Ramy Eskander", 
+            "Nizar Habash", 
+            "Abdelati Hawwari", 
+            "Wael Salloum"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Developing an Egyptian Arabic Treebank: Impact of Dialectal Morphology on Annotation and Tool Development", 
+        "Authors": [
+            "Mohamed Maamouri", 
+            "Ann Bies", 
+            "Seth Kulick", 
+            "Michael Ciul", 
+            "Nizar Habash", 
+            "Ramy Eskander"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "A Conventional Orthography for Tunisian Arabic", 
+        "Authors": [
+            "Ines Zribi", 
+            "Rahma Boujelbane", 
+            "Abir Masmoudi", 
+            "Mariem Ellouze", 
+            "Lamia Belguith", 
+            "Nizar Habash"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "MADAMIRA: A Fast, Comprehensive Tool for Morphological Analysis and Disambiguation of Arabic", 
+        "Authors": [
+            "Arfath Pasha", 
+            "Mohamed Al-Badrashiny", 
+            "Mona Diab", 
+            "Ahmed El Kholy", 
+            "Ramy Eskander", 
+            "Nizar Habash", 
+            "Manoj Pooleery", 
+            "Owen Rambow", 
+            "Ryan M. Roth"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Classification of Clean and Noisy Bilingual Movie Audio for Speech-to-Speech Translation Corpora Design", 
+        "Authors": [
+            "Andreas Tsiartas", 
+            "Prasanta Kumar Ghosh", 
+            "Panayiotis Georgiou", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Fusion of Diverse Denoising Systems for Robust Automatic Speech Recognition", 
+        "Authors": [
+            "Naveen Kumar", 
+            "Maarten Van Segbroeck", 
+            "Kartik Audhkhasi", 
+            "Peter Drotar", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Training Ensemble of Diverse Classifiers on Feature Subsets", 
+        "Authors": [
+            "Rahul Gupta", 
+            "Kartik Audhkhasi", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Toward Transfer of Acoustic Cues of Emphasis Across Languages", 
+        "Authors": [
+            "Andreas Tsiartas", 
+            "Panayiotis Georgiou", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "http://sail.usc.edu/aigaion2/index.php/attachments/single/618", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Empirical Link Between Hypothesis Diversity and Fusion Performance in an Ensemble of Automatic Speech Recognition Systems", 
+        "Authors": [
+            "Kartik Audhkhasi", 
+            "Andreas Zavou", 
+            "Panayiotis Georgiou", 
+            "Shrikanth Narayanan"
+        ], 
+        "Link": "http://sail.usc.edu/aigaion2/index.php/attachments/single/637", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Fast and Robust Neural Network Joint Models for Statistical Machine Translation", 
+        "Authors": [
+            "Jacob Devlin", 
+            "Rabih Zbib", 
+            "Zhongqiang Huang", 
+            "Thomas Lamar", 
+            "Richard Schwartz", 
+            "John Makhoul"
+        ], 
+        "Link": "Not Yet Published", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Lightly-Supervised Word Sense Translation Error Detection for an Interactive Conversational Spoken Language Translation System", 
+        "Authors": [
+            "Dennis N. Mehay", 
+            "Sankaranarayanan Ananthakrishnan", 
+            "Sanjika Hewavitharana"
+        ], 
+        "Link": "http://aclweb.org/anthology//E/E14/E14-4011.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "BOLT", 
+        "Program Teams": [
+            ""
+        ], 
+        "Title": "Source-Error Aware Phrase-Based Decoding for Robust Conversational Spoken Language Translation", 
+        "Authors": [
+            "S. Ananthakrishnan", 
+            "W. Chen", 
+            "R. Kumar", 
+            "D. Mehay"
+        ], 
+        "Link": "http://workshop2013.iwslt.org/downloads/SourceError_Aware_PhraseBased_Decoding_for_Robust_Conversational_Spoken_Language_Translation.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "20140905", 
+        "Update Date": ""
     }
 ]

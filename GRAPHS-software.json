@@ -1,0 +1,54 @@
+[
+    {
+        "DARPA Program": "GRAPHS", 
+        "Program Teams": [
+            "SIMPLEX MINER"
+        ], 
+        "Contributors": [
+            "Stanford University"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "SnapVX", 
+        "Internal Link": "", 
+        "External Link": "http://snap.stanford.edu/snapvx/", 
+        "Public Code Repo": "https://github.com/snap-stanford/snapvx", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "SnapVX is a Python-based convex optimization solver for problems defined on graphs. It provides a fast and scalable solution with guaranteed global convergence. SnapVX combines the graph capabilities of Snap.py with the convex solver from CVXPY. (Python)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD"
+        ], 
+        "Languages": [
+            "Python"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Convex optimization"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20160323", 
+        "Update Date": ""
+    }
+]

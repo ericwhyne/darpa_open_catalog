@@ -1,0 +1,324 @@
+[
+    {
+        "DARPA Program":"PLAN X",
+        "Program Teams":[
+            "Raytheon BBN Technologies"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"avro-golang-compiler",
+        "Internal Link":"",
+        "External Link":"",
+        "Public Code Repo":"",
+        "Instructional Material":"",
+        "Stats":"",
+        "Description":"This repository contains a modification of the Avro Java compiler to generate golang code that uses the Avro C bindings to actually parse serialized Avro containers. (Java, C, Golang)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java",
+			"C",
+			"Golang"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Data Formatting"
+        ],
+        "New Date":"20150406",
+        "Update Date":""
+    },
+    {
+        "DARPA Program": "PLAN X", 
+        "Program Teams": [
+            "Raytheon BBN Technologies"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "avro-golang-compiler", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/BBN-D/avro-golang-compiler", 
+        "Public Code Repo": "https://github.com/BBN-D/avro-golang-compiler.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "avro-golang-compiler is a fork of the Avro Java object compiler. It generates Golang code from Avro AVDL files that can be used to serialize/deserialize Avro objects. (Golang, Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Golang", 
+            "Java"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Avro", 
+            "Data Serialization"
+        ], 
+        "Categories": [
+            "Data Serialization"
+        ], 
+        "New Date": "20150708", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PLAN X", 
+        "Program Teams": [
+            "Raytheon BBN Technologies"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "poi-visio", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/BBN-D/poi-visio", 
+        "Public Code Repo": "https://github.com/BBN-D/poi-visio.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "poi-visio is a Java library that loads Visio OOXML (vsdx) files and creates an in memory data structure that allows full access to the contents of the document. There is built-in support for easily traversing the content of the document in a structured way, and can render pages to simplified PNG files, or other backends supported by Java AWT. It is built using the Apache POI library which operates on other Microsoft OOXML documents (docx, pptx, xlsx). Currently the library only operates in read-only mode, but its design does not exclude being able to modify existing documents or creating new documents. (Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Office Document Parser"
+        ], 
+        "Categories": [
+            "Microsoft Office", 
+            "Text Extraction"
+        ], 
+        "New Date": "20150708", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PLAN X", 
+        "Program Teams": [
+            "Raytheon BBN Technologies"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "poi-visio-graph", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/BBN-D/poi-visio-graph", 
+        "Public Code Repo": "https://github.com/BBN-D/poi-visio-graph.git", 
+        "Instructional Material": "", 
+        "Stats": "", 
+        "Description": "poi-visio-graph is a Java library that loads Visio OOXML (vsdx) files using the poi-visio library and creates an in-memory graph structure from the objects present on the page. Not only does it utilize user-specified connection points, but it performs analysis to infer logical visual connection points between the objects on each page. One possible use of this library is to create a Network diagram from a Visio document. (Java)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Java"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Semantic Analysis"
+        ], 
+        "Categories": [
+            "Microsoft Office", 
+            "Graph", 
+            "Semantic Analysis"
+        ], 
+        "New Date": "20150708", 
+        "Update Date": ""
+    }, 
+    {
+        "DARPA Program": "PLAN X", 
+        "Program Teams": [
+            "Domain-specific languages team"
+        ], 
+        "Contributors": [
+            "Galois, Inc.",
+			"Kestrel Institute"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Mistral Compiler", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/GaloisInc/mistral", 
+        "Public Code Repo": "https://github.com/GaloisInc/mistral", 
+        "Instructional Material": "", 
+        "Stats": "mistral", 
+        "Description": "Mistral is an experimental language and compiler for highly concurrent, distributed programming, with an emphasis on\nthe specification and maintenance of a virtual overlay network and communication over that network. The current Mistral compiler supports the first generation of Mistral, so not all features we architected for the language are supported at present. This open source package includes our compiler and an interpreter. Use of Mistral for running programs on distributed systems requires a run-time system not included in this package. Thus this Mistral package allows only for experimentation with the language.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "BSD3"
+        ], 
+        "Languages": [
+            "Haskell"
+        ], 
+        "Platform Requirements": [
+            "Linux", 
+            "Mac OS X"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software Development"
+        ], 
+        "Functionality": [
+            "Compiler"
+        ], 
+        "Categories": [
+            "Compiler"
+        ], 
+        "New Date": "20150406", 
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "PLAN X", 
+        "Program Teams": [
+            "Galois, Inc."
+        ], 
+        "Contributors": [
+            "Galois, Inc."
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Lua Native Big Number Library", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/GaloisInc/polarbn", 
+        "Public Code Repo": "https://github.com/GaloisInc/polarbn", 
+        "Instructional Material": "", 
+        "Stats": "polarbn", 
+        "Description": "The PolarBN library is a big number library for use in cryptographic applications. PolarBN is a Lua wrapper for the bignum library in PolarSSL. The wrapper is written in C, using the standard Lua headers. Compared to the two standard Lua big number libraries, PolarBN is substantially faster than lbc, and does not require openssl-dev, as does lbn.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "Lua",
+			"C"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            "Software Development"
+        ], 
+        "Functionality": [
+            "Cryptographic big number library"
+        ], 
+        "Categories": [
+            "Library"
+        ], 
+        "New Date": "20150406", 
+        "Update Date": ""
+    }
+]

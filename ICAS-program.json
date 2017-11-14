@@ -1,0 +1,29 @@
+{
+    "DARPA Office":"I2O",
+    "DARPA Program Name":"ICAS",
+    "Long Name":"Integrated Cyber Analysis System (ICAS)",
+    "Program Teams":"",
+    "Link":"http://www.darpa.mil/program/integrated-cyber-analysis-system",
+    "Display Software Columns":[
+        "Team",
+        "Project",
+        "Category",
+        "Code",
+        "Description",
+        "License"
+    ],
+    "Display Pubs Columns":[
+        "Team",
+        "Title",
+        "Link"
+    ],
+    "Display Data Columns":[
+        ""
+    ],
+    "Display Examples Columns":"",
+    "Description":"Systems developed on the Integrated Cyber Analysis System (ICAS) program will make host and network forensic information available to enterprise IT security. ICAS automatically integrates structured and unstructured sources of network data into a federated database to enable reasoning about cyber threats, and provides cyber defenders with a current picture of their IT environment, to reduce the time required to discover targeted attacks. At the heart of this capability is a cyber security ontology which enables the automated federation of multiple heterogeneous sources of data by providing uniform semantic relationships for IT network defense. This ontology is available for download at http://invincealabs.github.io/icas-ontology/.  (ICAS Ontology - DISTAR case 24569 (5/15/2015).",
+    "Program Manager Link":"http://www.darpa.mil/staff/dr-john-everett",
+    "Program Manager":"Dr. John Everett",
+    "Program Manager Email":"john.everett@darpa.mil",
+    "Image":""
+}
