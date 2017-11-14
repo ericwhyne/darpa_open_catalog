@@ -2827,5 +2827,59 @@
         ], 
         "New Date": "20171101", 
         "Update Date": ""
+    },
+	{
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
+            "Jet Propulsion Laboratory"
+        ], 
+        "Contributors": [
+            "Madhav Sharan",
+            "Chris A. Mattmann"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "VideoSpace Server", 
+        "Internal Link": "https://memexproxy.com/wiki/display/MEM/User+Guide", 
+        "External Link": "https://github.com/memex-explorer/image_space/tree/master/videospace", 
+        "Public Code Repo": "https://github.com/memex-explorer/image_space/tree/master/videospace", 
+        "Instructional Material": "https://github.com/memex-explorer/image_space/tree/master/videospace", 
+        "Stats": "VideoSpace", 
+        "Description": "The Sparkler Crawl Environment (SCE) provides the tools to collect webpages from the Internet and make them available for Memex search tools. It includes the ability to: 1) build a domain discovery model which will guide the data collection, 2) crawl data from the Web, and 3) output it in a format that is usable by Memex search tools.", 
+        "Internal Code Repo": "https://github.com/memex-explorer/sce.git", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python",
+            "Javascript"
+        ], 
+        "Platform Requirements": [
+            ""
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Searching"
+        ], 
+        "Categories": [
+            "Information Retrieval"
+        ], 
+        "New Date": "20171113", 
+        "Update Date": ""
     }
 ]
