@@ -1399,13 +1399,13 @@
             "Continuum", 
             "Kitware"
         ], 
-        "Software": "FacetSpace", 
+        "Software": "FacetView", 
         "Internal Link": "", 
-        "External Link": "https://github.com/pymonger/facetview-memex", 
-        "Public Code Repo": "https://github.com/pymonger/facetview-memex.git", 
+        "External Link": "https://github.com/darth-pr/facetview", 
+        "Public Code Repo": "https://github.com/darth-pr/facetview.git", 
         "Instructional Material": "", 
         "Stats": "facetview-memex", 
-        "Description": "FacetSpace allows the investigation of large data sets based on the extraction and manipulation of relevant facets. These facets may be almost any consistent piece of information that can be extracted from the dataset: names, locations, prices, etc. (JavaScript)", 
+        "Description": "FacetView allows the investigation of large data sets based on the extraction and manipulation of relevant facets. These facets may be almost any consistent piece of information that can be extracted from the dataset: names, locations, prices, etc. (JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
             ""
