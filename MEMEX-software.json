@@ -623,10 +623,10 @@
         "Software": "Autologin", 
         "Internal Link": "", 
         "External Link": "https://github.com/TeamHG-Memex/autologin", 
-        "Public Code Repo": "https://github.com/TeamHG-Memex/autologin.git", 
+        "Public Code Repo": "", 
         "Instructional Material": "", 
         "Stats": "autologin", 
-        "Description": "AutoLogin is a utility that allows a web crawler to start from any given page of a website (for example the home page) and attempt to find the login page, where the spider can then log in with a set of valid, user-provided credentials to conduct a deep crawl of a site to which the user already has legitimate access. AutoLogin can be used as a library or as a service. (Python)", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) AutoLogin is a utility that allows a web crawler to start from any given page of a website (for example the home page) and attempt to find the login page, where the spider can then log in with a set of valid, user-provided credentials to conduct a deep crawl of a site to which the user already has legitimate access. AutoLogin can be used as a library or as a service. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -678,10 +678,10 @@
         "Software": "Formasaurus", 
         "Internal Link": "", 
         "External Link": "https://github.com/TeamHG-Memex/Formasaurus", 
-        "Public Code Repo": "https://github.com/TeamHG-Memex/Formasaurus.git", 
+        "Public Code Repo": "", 
         "Instructional Material": "", 
         "Stats": "Formasaurus", 
-        "Description": "Formasaurus is a Python package that tells users the type of an HTML form: is it a login, search, registration, password recovery, join mailing list, contact form or something else. Under the hood it uses machine learning. (Python)", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) Formasaurus is a Python package that tells users the type of an HTML form: is it a login, search, registration, password recovery, join mailing list, contact form or something else. Under the hood it uses machine learning. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -732,10 +732,10 @@
         "Software": "HG Profiler", 
         "Internal Link": "", 
         "External Link": "https://github.com/TeamHG-Memex/hgprofiler", 
-        "Public Code Repo": "https://github.com/TeamHG-Memex/hgprofiler.git", 
+        "Public Code Repo": "", 
         "Instructional Material": "", 
         "Stats": "hgprofiler", 
-        "Description": "HG Profiler is a tool that allows users to take a list of entities from a particular source and look for those same entities across a pre-defined list of other sources. (Python)", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) HG Profiler is a tool that allows users to take a list of entities from a particular source and look for those same entities across a pre-defined list of other sources. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -787,10 +787,10 @@
         "Software": "SourcePin", 
         "Internal Link": "", 
         "External Link": "https://github.com/TeamHG-Memex/memex-pinterest", 
-        "Public Code Repo": "https://github.com/TeamHG-Memex/memex-pinterest.git", 
+        "Public Code Repo": "", 
         "Instructional Material": "", 
         "Stats": "memex-pinterest", 
-        "Description": "SourcePin is a tool to assist users in discovering websites that contain content they are interested in for a particular topic, or domain. Unlike a search engine, SourcePin allows a non-technical user to leverage the power of an advanced automated smart web crawling system to generate significantly more results than the manual process typically does, in significantly less time. The User Interface of SourcePin allows users to quickly across through hundreds or thousands of representative images to quickly find the websites they are most interested in. SourcePin also has a scoring system which takes feedback from the user on which websites are interesting and, using machine learning, assigns a score to the other crawl results based on how interesting they are likely to be for the user.  The roadmap for SourcePin includes integration with other tools and a capability for users to actually extract relevant information from the crawl results. (Python, JavaScript)", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) SourcePin is a tool to assist users in discovering websites that contain content they are interested in for a particular topic, or domain. Unlike a search engine, SourcePin allows a non-technical user to leverage the power of an advanced automated smart web crawling system to generate significantly more results than the manual process typically does, in significantly less time. The User Interface of SourcePin allows users to quickly across through hundreds or thousands of representative images to quickly find the websites they are most interested in. SourcePin also has a scoring system which takes feedback from the user on which websites are interesting and, using machine learning, assigns a score to the other crawl results based on how interesting they are likely to be for the user.  The roadmap for SourcePin includes integration with other tools and a capability for users to actually extract relevant information from the crawl results. (Python, JavaScript)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
@@ -953,10 +953,10 @@
         "Software": "Arachnado", 
         "Internal Link": "", 
         "External Link": "https://github.com/TeamHG-Memex/arachnado", 
-        "Public Code Repo": "https://github.com/TeamHG-Memex/arachnado.git", 
+        "Public Code Repo": "", 
         "Instructional Material": "", 
         "Stats": "arachnado", 
-        "Description": "Arachnado is a simple management interface for launching a deep crawl of a specific website. It provides a Tornado-based HTTP API and a web UI for a Scrapy-based crawler. (Python)", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) Arachnado is a simple management interface for launching a deep crawl of a specific website. It provides a Tornado-based HTTP API and a web UI for a Scrapy-based crawler. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "MIT"
@@ -1061,10 +1061,10 @@
         "Software": "Scrapy-Dockerhub", 
         "Internal Link": "", 
         "External Link": "https://github.com/TeamHG-Memex/scrapy-dockerhub", 
-        "Public Code Repo": "https://github.com/TeamHG-Memex/scrapy-dockerhub.git", 
+        "Public Code Repo": "", 
         "Instructional Material": "", 
         "Stats": "scrapy-dockerhub", 
-        "Description": "Scrapy-Dockerhub is a deployment setup for Scrapy spiders that packages the spider and all dependencies into a Docker container, which is then managed by a Fabric command line utility. With this setup, users can run spiders seamlessly on any server, without the need for Scrapyd which typically handles the spider management. With Scrapy-Dockerhub, users issue one command to deploy spider with all dependencies to the server and second command to run it. There are also commands for viewing jobs, logs, etc. (Python)", 
+        "Description": "(please send an email to contact@hyperiongray.com to request access to the repository) Scrapy-Dockerhub is a deployment setup for Scrapy spiders that packages the spider and all dependencies into a Docker container, which is then managed by a Fabric command line utility. With this setup, users can run spiders seamlessly on any server, without the need for Scrapyd which typically handles the spider management. With Scrapy-Dockerhub, users issue one command to deploy spider with all dependencies to the server and second command to run it. There are also commands for viewing jobs, logs, etc. (Python)", 
         "Internal Code Repo": "", 
         "License": [
             "ALv2"
