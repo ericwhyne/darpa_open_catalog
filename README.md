@@ -1,7 +1,10 @@
 darpa_open_catalog
 ==================
 
-Data collaboration repository for the DARPA open catalog project.
+# This site is no longer in use, please contact your DARPA program manager to post content to the DARPA Open Catalog.
+
+  
+The former data collaboration repository for the DARPA open catalog project.
 
 Here is the code that turns this into a web page and generates code statistics:
 
