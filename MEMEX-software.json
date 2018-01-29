@@ -1332,6 +1332,59 @@
     {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
+            "Jataware, LLC"
+        ], 
+        "Contributors": [
+            ""
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Butler", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/jgawrilo/butler_install", 
+        "Public Code Repo": "https://github.com/jgawrilo/butler_install", 
+        "Instructional Material": "https://github.com/jgawrilo/butler_install", 
+        "Stats": "Butler", 
+        "Description": "Butler is a web-based Know Your Customer (KYC) application meant to assist in slot-filling an entity profile via human-in-the-loop feedback and a simple search query capable of hitting the open and dark web as well as enterprise search repositories.  It's capable of leveraging SRI's Lighthouse Search backend for free text search and information correlation.", 
+        "Internal Code Repo": "", 
+        "License": [
+            "ALv2"
+        ], 
+        "Languages": [
+            "Python","Javascript"
+        ], 
+        "Platform Requirements": [
+            "Full requirements given on: https://github.com/jgawrilo/butler_install"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+        ], 
+        "Categories": [
+            "Analytics",
+            "Visualization",
+            "Data Collection"
+        ], 
+        "New Date": "20171030", 
+        "Update Date": "20171030"
+    },
+    {
+        "DARPA Program": "MEMEX", 
+        "Program Teams": [
             "Jet Propulsion Laboratory",
             "Continuum", 
             "Kitware"
