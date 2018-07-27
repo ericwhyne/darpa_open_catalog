@@ -1955,16 +1955,16 @@
         "Sub-contractors": [
             ""
         ], 
-        "Software": "TellFinder", 
-        "Internal Link": "https://tellfinder.istresearch.com:8443/tellfinder/", 
-        "External Link": "http://www.tellfinder.com/", 
-        "Public Code Repo": "https://github.com/unchartedsoftware/TellFinder.git", 
+        "Software": "TellFinder Universal",
+        "Internal Link": "",
+        "External Link": "https://www.tellfinder.com/",
+        "Public Code Repo": "https://github.com/unchartedsoftware/tellfinder-universal.git",
         "Instructional Material": "", 
-        "Stats": "TellFinder", 
-        "Description": "TellFinder provides efficient visual analytics to automatically characterize and organize publicly available Internet data. Compared to standard web search engines, TellFinder enables users to research case-related data in significantly less time. Reviewing TellFinder's automatically characterized groups also allows users to understand temporal patterns, relationships and aggregate behavior. The techniques are applicable to various domains. (JavaScript, Java)", 
-        "Internal Code Repo": "https://github.com/unchartedsoftware/TellFinder/", 
+        "Stats": "TellFinder Universal",
+        "Description": "TellFinder provides efficient visual analytics to automatically characterize and organize publicly available Internet data. Compared to standard web search engines, TellFinder enables users to research case-related data in significantly less time. Reviewing TellFinder's automatically characterized groups also allows users to understand temporal patterns, relationships and aggregate behavior. The techniques are applicable to various domains. Includes sample data. (JavaScript, Java)",
+        "Internal Code Repo": "https://github.com/unchartedsoftware/tellfinder-universal.git",
         "License": [
-            "MIT"
+            "ALv2"
         ], 
         "Languages": [
             "JavaScript", 
@@ -2003,9 +2003,284 @@
             "Information Retrieval"
         ], 
         "New Date": "20150410", 
+        "Update Date": "20171106"
+    },
+    {
+        "DARPA Program": "MEMEX",
+        "Program Teams": [
+          "Uncharted Software"
+        ],
+        "Contributors": [
+          ""
+        ],
+        "Sub-contractors": [
+          ""
+        ],
+        "Software": "TellFinder Data",
+        "Internal Link": "",
+        "External Link": "https://www.tellfinder.com/",
+        "Public Code Repo": "https://github.com/unchartedsoftware/tellfinder-data.git",
+        "Instructional Material": "",
+        "Stats": "TellFinder Data",
+        "Description": "RESTful server for accessing all of TellFinder data models, analytics and search strategies.",
+        "Internal Code Repo": "https://github.com/unchartedsoftware/tellfinder-data.git",
+        "License": [
+          "ALv2"
+        ],
+        "Languages": [
+          "Java"
+        ],
+        "Platform Requirements": [
+          ""
+        ],
+        "Dependent modules": [
+          ""
+        ],
+        "Dependent module URLs": [
+          ""
+        ],
+        "Component modules": [
+          ""
+        ],
+        "Component module URLs": [
+          ""
+        ],
+        "Industry": [
+          ""
+        ],
+        "Functionality": [
+          "API",
+          "Information Retrieval",
+          "Human Trafficking",
+          "Dynamic Web Applications"
+        ],
+        "Categories": [
+          "Analytics",
+          "Information Retrieval"
+        ],
+        "New Date": "20171106",
         "Update Date": ""
     },
-	    {
+    {
+        "DARPA Program": "MEMEX",
+        "Program Teams": [
+          "Uncharted Software"
+        ],
+        "Contributors": [
+          ""
+        ],
+        "Sub-contractors": [
+          ""
+        ],
+        "Software": "TellFinder Pipeline Core",
+        "Internal Link": "",
+        "External Link": "https://www.tellfinder.com/",
+        "Public Code Repo": "https://github.com/unchartedsoftware/tellfinder-pipeline-core.git",
+        "Instructional Material": "",
+        "Stats": "TellFinder Pipeline Core",
+        "Description": "General purpose distributed processes pipeline for ingesting web data into the TellFinder data model. Includes general purpose data cleaning, extraction, normalization and analytics.",
+        "Internal Code Repo": "https://github.com/unchartedsoftware/tellfinder-pipeline-core.git",
+        "License": [
+          "ALv2"
+        ],
+        "Languages": [
+          "Java",
+          "Scala"
+        ],
+        "Platform Requirements": [
+          ""
+        ],
+        "Dependent modules": [
+          ""
+        ],
+        "Dependent module URLs": [
+          ""
+        ],
+        "Component modules": [
+          ""
+        ],
+        "Component module URLs": [
+          ""
+        ],
+        "Industry": [
+          ""
+        ],
+        "Functionality": [
+          "Information Retrieval",
+          "Human Trafficking",
+          "Dynamic Web Applications",
+          "Distributed Programming"
+        ],
+        "Categories": [
+          "Analytics",
+          "Information Retrieval"
+        ],
+        "New Date": "20171106",
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX",
+        "Program Teams": [
+          "Uncharted Software"
+        ],
+        "Contributors": [
+          ""
+        ],
+        "Sub-contractors": [
+          ""
+        ],
+        "Software": "TellFinder UI Core",
+        "Internal Link": "",
+        "External Link": "https://www.tellfinder.com/",
+        "Public Code Repo": "https://github.com/unchartedsoftware/tellfinder-ui-core.git",
+        "Instructional Material": "",
+        "Stats": "TellFinder UI Core",
+        "Description": "UI Component library for building TellFinder applications.",
+        "Internal Code Repo": "https://github.com/unchartedsoftware/tellfinder-ui-core.git",
+        "License": [
+          "ALv2"
+        ],
+        "Languages": [
+          "Javascript"
+        ],
+        "Platform Requirements": [
+          ""
+        ],
+        "Dependent modules": [
+          ""
+        ],
+        "Dependent module URLs": [
+          ""
+        ],
+        "Component modules": [
+          ""
+        ],
+        "Component module URLs": [
+          ""
+        ],
+        "Industry": [
+          ""
+        ],
+        "Functionality": [
+          "Information Retrieval",
+          "Human Trafficking",
+          "Dynamic Web Applications",
+          "Visual Analytics"
+        ],
+        "Categories": [
+          "Analytics",
+          "Information Retrieval"
+        ],
+        "New Date": "20171106",
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX",
+        "Program Teams": [
+          "Uncharted Software"
+        ],
+        "Contributors": [
+          ""
+        ],
+        "Sub-contractors": [
+          ""
+        ],
+        "Software": "Stories Personas",
+        "Internal Link": "",
+        "External Link": "https://www.tellfinder.com/",
+        "Public Code Repo": "https://github.com/unchartedsoftware/stories-personas.git",
+        "Instructional Material": "",
+        "Stats": "Stories Personas",
+        "Description": "A Javascript UI component for visualizing clusters and groups.",
+        "Internal Code Repo": "https://github.com/unchartedsoftware/stories-personas.git",
+        "License": [
+          "ALv2"
+        ],
+        "Languages": [
+          "Javascript"
+        ],
+        "Platform Requirements": [
+          ""
+        ],
+        "Dependent modules": [
+          ""
+        ],
+        "Dependent module URLs": [
+          ""
+        ],
+        "Component modules": [
+          ""
+        ],
+        "Component module URLs": [
+          ""
+        ],
+        "Industry": [
+          ""
+        ],
+        "Functionality": [
+          "Dynamic Web Applications",
+          "Visual Analytics"
+        ],
+        "Categories": [
+          "Analytics"
+        ],
+        "New Date": "20171106",
+        "Update Date": ""
+    },
+    {
+        "DARPA Program": "MEMEX",
+        "Program Teams": [
+          "Uncharted Software"
+        ],
+        "Contributors": [
+          ""
+        ],
+        "Sub-contractors": [
+          ""
+        ],
+        "Software": "Stories Facets",
+        "Internal Link": "",
+        "External Link": "https://www.tellfinder.com/",
+        "Public Code Repo": "https://github.com/unchartedsoftware/stories-facets.git",
+        "Instructional Material": "",
+        "Stats": "Stories Facets",
+        "Description": "A Javascript UI component for interactive histograms (Facets).",
+        "Internal Code Repo": "https://github.com/unchartedsoftware/stories-facets.git",
+        "License": [
+          "ALv2"
+        ],
+        "Languages": [
+          "Javascript"
+        ],
+        "Platform Requirements": [
+          ""
+        ],
+        "Dependent modules": [
+          ""
+        ],
+        "Dependent module URLs": [
+          ""
+        ],
+        "Component modules": [
+          ""
+        ],
+        "Component module URLs": [
+          ""
+        ],
+        "Industry": [
+          ""
+        ],
+        "Functionality": [
+          "Dynamic Web Applications",
+          "Visual Analytics"
+        ],
+        "Categories": [
+          "Analytics"
+        ],
+        "New Date": "20171106",
+        "Update Date": ""
+    },
+    {
         "DARPA Program": "MEMEX", 
         "Program Teams": [
             "ArrayFire"
