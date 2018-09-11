@@ -1628,9 +1628,9 @@
             "Jet Propulsion Laboratory"
         ],
         "Contributors":[
-            "Dr. Chris A. Mattmann", 
+            "Dr. Chris A. Mattmann",
             "Mr. Paul Ramirez",
-            "Mr. Maziyar Boustani", 
+            "Mr. Maziyar Boustani",
             "Ms. Shakeh Khudikyan",
             "Mr. Mike Joyce",
             "Mr. Rishi Verma",
@@ -3802,10 +3802,10 @@
         ],
         "Software":"Tessera",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
-        "External Link":"http://www.tesseradata.org/",
-        "Public Code Repo":"https://github.com/tesseradata/tesseradata.github.io.git",
-        "Instructional Material":"",
-        "Stats":"tesseradata.github.io",
+        "External Link":"http://tessera.io/",
+        "Public Code Repo":"https://github.com/tesseradata",
+        "Instructional Material":"2014-07",
+        "Stats":"Tessera",
         "Description":"Tessera is an open source environment for deep analysis of big data. At the front end, the analyst programs in R, and has access to the thousands of methods of statistics, machine learning, and visualization implemented in R. At the back end is a distributed parallel computational environment such as Hadoop, that enables scaling to big data. In between are three Tessera packages: datadr, Trelliscope, and RHIPE (R and Hadoop Integrated Programming Environment). These packages enable the data analyst to communicate with the back end by simple R commands, and not have to worry about the details of distributed parallel computation. Tessera is powered by a statistical approach to large complex data, Divide and Recombine (D&R). The data are parallelized, not the thousands of methods, which makes back end computation typically very nearly embarrassingly parallel, and therefore very fast. But at the same time, D&R statistical division and recombination methods ensure good statistical performance.",
         "Internal Code Repo":"tools\\analytics\\stanford-h",
         "License":[
